@@ -3,13 +3,15 @@
 const TOTAL_CLUES = 10;
 const START_POINTS = 1000;
 const CLUE_COST = 100;
+const WRONG_COST = 250;
+const MAX_STRIKES = 3;
 const TIER_NAMES = { easy: 'Easy', medium: 'Medium', hard: 'Hard' };
 
 const $ = (id) => document.getElementById(id);
 
 let puzzle = null;
 let tier = null;
-let game = null; // { status, revealed, guesses: [{ text, clue }], score }
+let game = null; // { status, revealed, guesses: [{ text, clue, correct }], score }
 
 // ---------- storage (best effort; the game still works without it) ----------
 
@@ -29,6 +31,16 @@ function save(key, value) {
 }
 
 const gameKey = (t) => `qbd:game:${puzzle.date}:${t}`;
+
+// ---------- theme ----------
+
+function toggleTheme() {
+  const next = document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark';
+  document.documentElement.dataset.theme = next;
+  try {
+    localStorage.setItem('qbd:theme', next);
+  } catch {}
+}
 
 // ---------- dates ----------
 
@@ -115,6 +127,14 @@ async function checkAnswer(given) {
   return sawPrompt ? 'prompt' : 'reject';
 }
 
+// ---------- scoring ----------
+
+const strikes = (g) => g.guesses.filter((x) => !x.correct).length;
+
+function pointsFor(g) {
+  return Math.max(0, START_POINTS - CLUE_COST * (g.revealed - 1) - WRONG_COST * strikes(g));
+}
+
 // ---------- rendering ----------
 
 function show(screen) {
@@ -143,30 +163,47 @@ function clueItem(clue, n, { latest = false, meta = false, unseen = false } = {}
   return li;
 }
 
+function finishedGames() {
+  return Object.keys(TIER_NAMES)
+    .map((t) => [t, load(gameKey(t), null)])
+    .filter(([, g]) => g && g.status !== 'playing');
+}
+
 function renderHome() {
   $('today-date').textContent = prettyDate(puzzle.date);
   $('category').textContent = puzzle.category;
-  for (const btn of document.querySelectorAll('.diff')) {
-    const g = load(gameKey(btn.dataset.tier), null);
-    const status = btn.querySelector('.diff-status');
-    if (g?.status === 'won') status.textContent = `✅ ${g.score}`;
-    else if (g?.status === 'lost') status.textContent = '❌ 0';
-    else if (g?.status === 'playing') status.textContent = 'In progress';
-    else status.textContent = '';
+  $('home-feedback').textContent = '';
+  for (const row of document.querySelectorAll('.diff')) {
+    const g = load(gameKey(row.dataset.tier), null);
+    const status = row.querySelector('.diff-status');
+    status.className = 'diff-status';
+    if (g?.status === 'won') {
+      status.textContent = `${g.score} pts`;
+      status.classList.add('won');
+    } else if (g?.status === 'lost') {
+      status.textContent = 'Missed';
+      status.classList.add('lost');
+    } else if (g?.status === 'playing') {
+      status.textContent = 'In progress';
+      status.classList.add('playing');
+    } else {
+      status.textContent = '';
+    }
+    row.querySelector('.diff-share').hidden = !g || g.status === 'playing';
   }
+  $('share-all-btn').hidden = finishedGames().length < 2;
   show('home');
-}
-
-function currentPoints() {
-  return START_POINTS - CLUE_COST * (game.revealed - 1);
 }
 
 function renderGame() {
   const clues = puzzle.tiers[tier].clues;
+  const points = pointsFor(game);
   $('game-tier').textContent = TIER_NAMES[tier];
-  $('clue-count').textContent = `Clue ${game.revealed} of ${TOTAL_CLUES}`;
-  $('points').textContent = currentPoints();
-  $('meter-fill').style.width = `${(currentPoints() / START_POINTS) * 100}%`;
+  $('clue-count').textContent = `${game.revealed}/${TOTAL_CLUES}`;
+  $('points').textContent = points;
+  $('meter-fill').style.width = `${(points / START_POINTS) * 100}%`;
+  const s = strikes(game);
+  $('strikes').querySelectorAll('i').forEach((dot, i) => dot.classList.toggle('on', i < s));
 
   const list = $('clues');
   list.replaceChildren(
@@ -175,9 +212,9 @@ function renderGame() {
 
   $('guess-log').replaceChildren(
     ...game.guesses.filter((g) => !g.correct).map((g) => {
-      const s = document.createElement('span');
-      s.textContent = g.text;
-      return s;
+      const span = document.createElement('span');
+      span.textContent = g.text;
+      return span;
     }),
   );
 
@@ -196,26 +233,40 @@ function setFeedback(text, kind = '') {
   f.className = `feedback ${kind}`;
 }
 
-function shareGrid() {
+function shareGrid(g) {
   const cells = [];
   for (let i = 1; i <= TOTAL_CLUES; i++) {
-    const g = game.guesses.find((x) => x.clue === i);
-    if (g?.correct) cells.push('🟩');
-    else if (g) cells.push('🟥');
-    else if (i <= game.revealed) cells.push('⬛');
+    const at = g.guesses.filter((x) => x.clue === i);
+    if (at.some((x) => x.correct)) cells.push('🟩');
+    else if (at.length) cells.push('🟥');
+    else if (i <= g.revealed) cells.push('⬛');
     else cells.push('⬜');
   }
   return cells.join('');
 }
 
+function resultLine(t, g) {
+  const s = strikes(g);
+  const outcome = g.status === 'won' ? `🔔 ${g.score}/1000` : '❌ 0/1000';
+  return `${TIER_NAMES[t]}: ${outcome}${s ? ` · ${s} strike${s > 1 ? 's' : ''}` : ''}\n${shareGrid(g)}`;
+}
+
+function siteUrl() {
+  return `${location.origin}${location.pathname}`;
+}
+
 function renderResult() {
   const won = game.status === 'won';
-  $('result-title').textContent = won
-    ? game.revealed === 1 ? 'First-clue buzz! 🔔' : `Got it on clue ${game.revealed}!`
-    : 'Not this time';
+  const badge = $('result-badge');
+  badge.textContent = `${TIER_NAMES[tier]} · ${won ? 'Solved' : 'Missed'}`;
+  badge.className = `result-badge ${won ? 'won' : 'lost'}`;
+  let title;
+  if (won) title = game.revealed === 1 ? 'First-clue buzz!' : `Got it on clue ${game.revealed}`;
+  else title = strikes(game) >= MAX_STRIKES ? 'Out of strikes' : 'Missed the final clue';
+  $('result-title').textContent = title;
   $('result-score').textContent = game.score;
   $('result-answer').textContent = puzzle.answer;
-  $('result-grid').textContent = shareGrid();
+  $('result-grid').textContent = shareGrid(game);
   $('share-feedback').textContent = '';
   $('all-clues').replaceChildren(
     ...puzzle.tiers[tier].clues.map((c, i) => clueItem(c, i + 1, { meta: true, unseen: i >= game.revealed })),
@@ -236,7 +287,7 @@ function startTier(t) {
 
 function finish(won) {
   game.status = won ? 'won' : 'lost';
-  game.score = won ? currentPoints() : 0;
+  game.score = won ? pointsFor(game) : 0;
   save(gameKey(tier), game);
   recordStats();
   renderResult();
@@ -247,6 +298,17 @@ function nextClue() {
   game.revealed++;
   save(gameKey(tier), game);
   renderGame();
+}
+
+function signalWrong() {
+  const form = $('answer-form');
+  form.classList.remove('shake');
+  void form.offsetWidth; // restart the animation
+  form.classList.add('shake');
+  const points = $('points');
+  points.classList.remove('bump');
+  void points.offsetWidth;
+  points.classList.add('bump');
 }
 
 let checking = false;
@@ -280,14 +342,15 @@ async function submitGuess(e) {
   }
 
   game.guesses.push({ text: given, clue: game.revealed, correct: false });
-  if (game.revealed >= TOTAL_CLUES) {
+  if (strikes(game) >= MAX_STRIKES || game.revealed >= TOTAL_CLUES) {
     finish(false);
     return;
   }
-  game.revealed++;
   save(gameKey(tier), game);
-  setFeedback(`"${given}" is incorrect. −100`, 'bad');
+  const left = MAX_STRIKES - strikes(game);
+  setFeedback(`"${given}" is incorrect. −${WRONG_COST} · ${left} strike${left > 1 ? 's' : ''} left`, 'bad');
   renderGame();
+  signalWrong();
 }
 
 // ---------- stats ----------
@@ -335,19 +398,32 @@ function renderStats() {
 
 // ---------- share & countdown ----------
 
-async function share() {
-  const text = `Quizbowldle ${puzzle.date} · ${puzzle.category} (${TIER_NAMES[tier]})\n`
-    + `${game.status === 'won' ? `🔔 ${game.score}/1000` : '❌ 0/1000'}\n${shareGrid()}\n${location.origin}${location.pathname}`;
+async function shareText(text, feedbackEl) {
   try {
     if (navigator.share && matchMedia('(pointer: coarse)').matches) {
       await navigator.share({ text });
       return;
     }
     await navigator.clipboard.writeText(text);
-    $('share-feedback').textContent = 'Copied to clipboard!';
-  } catch {
-    $('share-feedback').textContent = 'Could not copy.';
+    feedbackEl.textContent = 'Copied to clipboard!';
+  } catch (err) {
+    if (err?.name !== 'AbortError') feedbackEl.textContent = 'Could not copy.';
   }
+}
+
+function header() {
+  return `Quizbowldle ${puzzle.date} · ${puzzle.category}`;
+}
+
+function shareTier(t, feedbackEl) {
+  const g = load(gameKey(t), null);
+  if (!g) return;
+  shareText(`${header()}\n${resultLine(t, g)}\n${siteUrl()}`, feedbackEl);
+}
+
+function shareAll() {
+  const lines = finishedGames().map(([t, g]) => resultLine(t, g));
+  shareText(`${header()}\n\n${lines.join('\n\n')}\n\n${siteUrl()}`, $('home-feedback'));
 }
 
 function tickCountdown() {
@@ -361,19 +437,24 @@ function tickCountdown() {
 
 // ---------- wiring ----------
 
-document.querySelectorAll('.diff').forEach((btn) => btn.addEventListener('click', () => startTier(btn.dataset.tier)));
+document.querySelectorAll('.diff').forEach((row) => {
+  row.querySelector('.diff-main').addEventListener('click', () => startTier(row.dataset.tier));
+  row.querySelector('.diff-share').addEventListener('click', () => shareTier(row.dataset.tier, $('home-feedback')));
+});
+$('share-all-btn').addEventListener('click', shareAll);
 $('answer-form').addEventListener('submit', submitGuess);
 $('next-btn').addEventListener('click', () => {
   setFeedback('');
   nextClue();
 });
-$('share-btn').addEventListener('click', share);
+$('share-btn').addEventListener('click', () => shareTier(tier, $('share-feedback')));
 $('back-btn').addEventListener('click', renderHome);
 $('home-link').addEventListener('click', (e) => {
   if (!puzzle) return;
   e.preventDefault();
   renderHome();
 });
+$('theme-btn').addEventListener('click', toggleTheme);
 $('help-btn').addEventListener('click', () => $('help-dialog').showModal());
 $('stats-btn').addEventListener('click', () => {
   renderStats();
@@ -398,5 +479,5 @@ loadPuzzle()
     const err = $('load-error');
     err.hidden = false;
     err.textContent = "Couldn't load today's puzzle. Try again later.";
-    document.querySelectorAll('.diff').forEach((b) => (b.disabled = true));
+    document.querySelectorAll('.diff-main').forEach((b) => (b.disabled = true));
   });

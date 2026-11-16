@@ -11,7 +11,7 @@ A daily, Wordle-style quizbowl game built from [QB Reader](https://www.qbreader.
   - **Easy**: middle school and easy high school (QB Reader levels 1–2)
   - **Medium**: regular high school (level 3)
   - **Hard**: hard high school and HS nationals (levels 4–5)
-- You start with 1000 points. Each new clue (or wrong buzz) costs 100. There are 10 clues going from hardest to easiest, and the last clue gets one attempt.
+- You start with 1000 points. Each new clue costs 100 and each wrong answer costs 250. Three wrong answers and you lose. There are 10 clues going from hardest to easiest, and the last clue gets one attempt.
 - Answers are checked with QB Reader's answer checker, which handles prompts and alternate answers.
 
 ## Generating puzzles
