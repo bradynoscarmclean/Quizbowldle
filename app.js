@@ -279,6 +279,7 @@ function renderResult() {
 function startTier(t) {
   tier = t;
   game = load(gameKey(t), null) ?? { status: 'playing', revealed: 1, guesses: [], score: 0 };
+  hideSuggestion();
   setFeedback('');
   $('answer-input').value = '';
   if (game.status === 'playing') renderGame();
@@ -311,14 +312,83 @@ function signalWrong() {
   points.classList.add('bump');
 }
 
+// ---------- "did you mean" spelling suggestions ----------
+
+let vocab = null; // { entries: [{ display, norm, words }], known: Set }
+
+async function loadVocab() {
+  try {
+    const res = await fetch('answers.json');
+    if (!res.ok) return;
+    const answers = await res.json();
+    const entries = [];
+    const known = new Set();
+    for (const display of answers) {
+      const norm = normalize(display);
+      if (!norm) continue;
+      const words = norm.split(' ');
+      entries.push({ display, norm, words, displayWords: display.split(/\s+/) });
+      known.add(norm);
+      for (const w of words) if (w.length >= 4) known.add(w);
+    }
+    vocab = { entries, known };
+  } catch {}
+}
+
+// Suggests a known quizbowl answer that the guess looks like a misspelling of.
+// Suggestions come from the whole answer list, so they don't reveal whether
+// you're close to today's answer.
+function suggestSpelling(given) {
+  const g = normalize(given);
+  if (!vocab || g.length < 4 || vocab.known.has(g)) return null;
+  const maxDist = Math.min(3, Math.max(1, Math.floor(g.length * 0.3)));
+  let best = null;
+  const consider = (candidate, display) => {
+    if (Math.abs(candidate.length - g.length) > maxDist) return;
+    const d = levenshtein(g, candidate);
+    if (d > 0 && d <= maxDist && (!best || d < best.d)) best = { d, display };
+  };
+  for (const e of vocab.entries) {
+    consider(e.norm, e.display);
+    // A single-word guess can be a misspelled surname: "kirkegard" -> "Kierkegaard".
+    if (!g.includes(' ') && e.words.length > 1 && e.words.length === e.displayWords.length) {
+      e.words.forEach((w, i) => w.length >= 4 && consider(w, e.displayWords[i].replace(/[^\p{L}\p{N}'-]/gu, '')));
+    }
+    if (best?.d === 1) break;
+  }
+  return best?.display ?? null;
+}
+
+let suggestion = null; // { original, word } while asking "did you mean"
+
+function showSuggestion(original, word) {
+  suggestion = { original, word };
+  $('suggest-word').textContent = word;
+  $('suggest').hidden = false;
+  $('answer-actions').hidden = true;
+  $('answer-input').disabled = true;
+  setFeedback('');
+  $('suggest-yes').focus();
+}
+
+function hideSuggestion() {
+  suggestion = null;
+  $('suggest').hidden = true;
+  $('answer-actions').hidden = false;
+  $('answer-input').disabled = false;
+}
+
 let checking = false;
 
 async function submitGuess(e) {
   e.preventDefault();
-  const input = $('answer-input');
-  const given = input.value.trim();
-  if (!given || checking) return;
+  const given = $('answer-input').value.trim();
+  if (!given || checking || suggestion) return;
+  await attempt(given, true);
+}
 
+async function attempt(given, allowSuggestion) {
+  const input = $('answer-input');
   checking = true;
   $('buzz-btn').disabled = true;
   $('next-btn').disabled = true;
@@ -330,6 +400,7 @@ async function submitGuess(e) {
 
   if (directive === 'prompt') {
     setFeedback(`Prompt on "${given}" — be more specific.`, 'warn');
+    input.value = given;
     input.select();
     return;
   }
@@ -341,6 +412,16 @@ async function submitGuess(e) {
     return;
   }
 
+  const fix = allowSuggestion && suggestSpelling(given);
+  if (fix) {
+    input.value = given;
+    showSuggestion(given, fix);
+    return;
+  }
+  markWrong(given);
+}
+
+function markWrong(given) {
   game.guesses.push({ text: given, clue: game.revealed, correct: false });
   if (strikes(game) >= MAX_STRIKES || game.revealed >= TOTAL_CLUES) {
     finish(false);
@@ -443,6 +524,17 @@ document.querySelectorAll('.diff').forEach((row) => {
 });
 $('share-all-btn').addEventListener('click', shareAll);
 $('answer-form').addEventListener('submit', submitGuess);
+$('suggest-yes').addEventListener('click', () => {
+  const { word } = suggestion;
+  hideSuggestion();
+  attempt(word, false);
+});
+$('suggest-no').addEventListener('click', () => {
+  const { original } = suggestion;
+  hideSuggestion();
+  $('answer-input').value = '';
+  markWrong(original);
+});
 $('next-btn').addEventListener('click', () => {
   setFeedback('');
   nextClue();
@@ -464,6 +556,7 @@ document.querySelectorAll('[data-close]').forEach((b) => b.addEventListener('cli
 
 setInterval(tickCountdown, 1000);
 tickCountdown();
+loadVocab();
 
 loadPuzzle()
   .then((p) => {

@@ -123,11 +123,18 @@
 
       <form class="answer-form" id="answer-form" autocomplete="off">
         <div class="input-wrap">
-          <input id="answer-input" type="text" placeholder="Type your answer…" aria-label="Your answer" spellcheck="true" autocorrect="on">
+          <input id="answer-input" type="text" placeholder="Type your answer…" aria-label="Your answer" spellcheck="false" autocorrect="off">
         </div>
-        <div class="actions">
+        <div class="actions" id="answer-actions">
           <button type="submit" class="btn primary" id="buzz-btn">Buzz</button>
           <button type="button" class="btn" id="next-btn">Next clue <span class="cost">−100</span></button>
+        </div>
+        <div class="suggest" id="suggest" hidden>
+          <p class="suggest-q">Did you mean <strong id="suggest-word"></strong>?</p>
+          <div class="actions">
+            <button type="button" class="btn primary" id="suggest-yes">Yes, use that</button>
+            <button type="button" class="btn" id="suggest-no">No, keep mine</button>
+          </div>
         </div>
         <p class="feedback" id="feedback" aria-live="polite"></p>
       </form>

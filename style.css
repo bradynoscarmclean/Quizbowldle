@@ -389,6 +389,18 @@ main {
 }
 
 .actions { display: flex; gap: 10px; margin-top: 10px; }
+
+.suggest {
+  margin-top: 10px;
+  padding: 14px;
+  border-radius: 12px;
+  background: var(--accent-soft);
+  border: 1px solid color-mix(in srgb, var(--accent) 35%, var(--border));
+  animation: fade-in 0.2s ease-out;
+}
+.suggest-q { margin: 0; text-align: center; font-weight: 500; }
+.suggest-q strong { color: var(--accent); }
+.answer-form input:disabled { opacity: 0.7; }
 .actions .btn { flex: 1; }
 
 .btn {

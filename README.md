@@ -13,6 +13,7 @@ A daily, Wordle-style quizbowl game built from [QB Reader](https://www.qbreader.
   - **Hard**: hard high school and HS nationals (levels 4–5)
 - You start with 1000 points. Each new clue costs 100 and each wrong answer costs 250. Three wrong answers and you lose. There are 10 clues going from hardest to easiest, and the last clue gets one attempt.
 - Answers are checked with QB Reader's answer checker, which handles prompts and alternate answers.
+- If a rejected answer looks like a misspelling of a known quizbowl answer, the game asks "Did you mean …?" before counting it as a strike. The answer list (`answers.json`) comes from QB Reader's most-asked answers in every category and is rebuilt daily by `scripts/build-vocab.mjs`.
 
 ## Generating puzzles
 
