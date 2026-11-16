@@ -138,8 +138,22 @@ function pointsFor(g) {
 // ---------- rendering ----------
 
 function show(screen) {
+  if (!$(screen).hidden) return;
   for (const id of ['home', 'game', 'result']) $(id).hidden = id !== screen;
   window.scrollTo(0, 0);
+}
+
+// Bring the newest clue into view just above the answer box pinned to the bottom.
+function scrollToLatestClue() {
+  const latest = $('clues').lastElementChild;
+  if (!latest) return;
+  const clueBottom = latest.getBoundingClientRect().bottom;
+  const formTop = $('answer-form').getBoundingClientRect().top;
+  const headerHeight = document.querySelector('.topbar').offsetHeight;
+  let delta = clueBottom - formTop + 16;
+  // Never push the top of the clue under the header.
+  delta = Math.min(delta, latest.getBoundingClientRect().top - headerHeight - 12);
+  if (delta > 0) window.scrollBy({ top: delta, behavior: 'smooth' });
 }
 
 function clueItem(clue, n, { latest = false, meta = false, unseen = false } = {}) {
@@ -224,8 +238,8 @@ function renderGame() {
   $('buzz-btn').textContent = last ? 'Final answer' : 'Buzz';
   if (last && !$('feedback').textContent) setFeedback('Last clue — you get one attempt.', 'warn');
   show('game');
-  list.lastElementChild?.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
-  $('answer-input').focus();
+  $('answer-input').focus({ preventScroll: true });
+  requestAnimationFrame(scrollToLatestClue);
 }
 
 // A new clue costs 100, so you can't take one once you're below 100 points.
