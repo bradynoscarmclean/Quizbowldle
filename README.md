@@ -1,5 +1,7 @@
 # Quizbowldle
 
+Here's the link to the website -> https://bradynoscarmclean.github.io/Quizbowldle/
+
 A daily, Wordle-style quizbowl game built from [QB Reader](https://www.qbreader.org) tossups.
 
 ## How it works
