@@ -1,278 +1,280 @@
 {
   "date": "2026-11-17",
   "category": "Science",
-  "answer": "gravity",
   "tiers": {
     "easy": {
+      "answer": "friction",
       "answerlines": [
-        "<b><u>gravity</u></b> (accept <b><u>gravitation</u></b>al waves)",
-        "<b><u>gravity</u></b>",
-        "<b><u>gravity</u></b> [or <b><u>gravitation</u></b>al force]",
-        "gravity (accept gravitational force)",
-        "<u>gravity</u> (accept loop quantum <u>gravity</u>)"
+        "<b><u>friction</u></b>",
+        "<b><u>friction</u></b> [accept static or kinetic <b><u>friction</u></b>; prompt on <u>drag</u> or <u>resistive</u> force]",
+        "<b><u>friction</u></b> [or <b><u>static friction</u></b>; or <b><u>kinetic friction</u></b>]",
+        "friction",
+        "<b><u>friction</u></b> [accept <b><u>friction</u></b>al force; or rolling <b><u>friction</u></b>; or sliding <b><u>friction</u></b>; or kinetic <b><u>friction</u></b>; or static <b><u>friction</u></b>]"
       ],
       "clues": [
         {
-          "text": "A theoretical particle representing this force would be a boson with a spin of two.",
+          "text": "At atomic levels, this force is explained by the Tomlinson model, used by nano-tribologists.",
           "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2021 SCOP B, Packet 1"
+          "source": "2021 SCOP B, Packet 5"
         },
         {
-          "text": "The currently unsolved hierarchy problem describes the discrepancies in aspects of this force and the weak force.",
+          "text": "Surfaces known as asperities help to explain the presence of this force at microscopic levels.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 1,
-          "source": "2022 SANDS, Packet 02"
+          "source": "2022 SANDS, Packet 01"
         },
         {
-          "text": "When air resistance exactly counteracts this force, an object has reached terminal velocity.",
-          "hardness": 1,
+          "text": "This phenomenon is governed by Amontons’ laws and has a “dry” variety modeled by an equation named for Coulomb.",
+          "hardness": 1.1,
           "inPower": false,
           "giveaway": false,
-          "difficulty": 1,
-          "source": "2010 Collaborative Middle School Tournament, Packet 03"
+          "difficulty": 2,
+          "source": "2010 Fall Novice Tournament, Packet 03"
         },
         {
-          "text": "Spacecraft can speed up by using this force as a \"slingshot.\"",
-          "hardness": 0.9,
+          "text": "Magnetic levitation avoids the “rolling” type of this force typically experienced by cars.",
+          "hardness": 0.962,
           "inPower": true,
           "giveaway": false,
-          "difficulty": 1,
-          "source": "2017 SCOP MS 7, Packet 1"
+          "difficulty": 2,
+          "source": "2014 SCOP Novice 5, Packet 08"
         },
         {
-          "text": "This force's magnitude is inversely proportional to the square of the distance between two objects.",
-          "hardness": 0.749,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 1,
-          "source": "2012 Collaborative Middle School Tournament #3, Packet 08"
-        },
-        {
-          "text": "The theory of General Relativity states that this force, the source of the three-body problem, is caused by the curvature of space-time.",
-          "hardness": 0.727,
+          "text": "According to Amonton’s laws, this force is independent of the total area of contact between objects and, unless the objects are not moving, is independent of the velocity of motion.",
+          "hardness": 0.896,
           "inPower": false,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2017 Darien DEFT, Packet 04"
+          "source": "2021 SCOP B, Packet 5"
         },
         {
-          "text": "All objects that have mass exert this force on each other.",
-          "hardness": 0.464,
+          "text": "Drag is sometimes known as the air type of this phenomenon, and Coulomb names its simplified dry type.",
+          "hardness": 0.615,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2012 Fall Kickoff Tournament (FKT), Packet 04"
+        },
+        {
+          "text": "This force’s coefficient, mu, can be reduced by applying a lubricant.",
+          "hardness": 0.487,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2021 SCOP B, Packet 5"
+        },
+        {
+          "text": "For a given object, the kinetic variety is less than the static type.",
+          "hardness": 0.374,
           "inPower": false,
           "giveaway": false,
           "difficulty": 1,
-          "source": "2015 SAGES, Packet 08"
+          "source": "2011 Collaborative Middle School Tournament #2, Packet 05"
         },
         {
-          "text": "Big G times the product of the masses divided by the square of the distance is the strength of what weakest fundamental force, which causes an acceleration of 9.8 meters per second on Earth?",
-          "hardness": 0.073,
+          "text": "Name this force that resists motion, as seen when trying to slide a box on sandpaper.",
+          "hardness": -0.08,
           "inPower": false,
           "giveaway": true,
           "difficulty": 2,
-          "source": "2017 Darien DEFT, Packet 04"
+          "source": "2021 SCOP B, Packet 5"
         },
         {
-          "text": "Name this weakest of the four fundamental forces which attracts objects to each other.",
-          "hardness": -0.161,
+          "text": "Name this force that resists the motion of an object.",
+          "hardness": -0.235,
           "inPower": false,
           "giveaway": true,
           "difficulty": 1,
-          "source": "2018 MVS RAMS, Packet 06"
-        },
-        {
-          "text": "Name this attractive force discovered by Isaac Newton.",
-          "hardness": -0.245,
-          "inPower": false,
-          "giveaway": true,
-          "difficulty": 1,
-          "source": "2023 Sentinel CYBER 1A, Packet 01"
+          "source": "2022 SANDS, Packet 01"
         }
       ]
     },
     "medium": {
+      "answer": "Diffraction",
       "answerlines": [
-        "<b><u>gravity</u></b> [or <b><u>gravitation</u></b>al force; accept <b><u>gravitation</u></b>al waves or <b><u>gravitation</u></b>al wave background; accept <b><u>gravitation</u></b>al time dilation; accept <b><u>gravitation</u></b>al lensing]",
-        "<b><u>gravity</u></b> [Metzger invented a gravity gradiometer]",
-        "<b><u>gravity</u></b> [accept <b><u>gravitational</u></b> waves or <b><u>gravitational</u></b> force or <b><u>gravitational</u></b> lensing; prompt on <u>general relativity</u> before “pair” with “what phenomenon does that describe?”]",
-        "<b><u>gravity</u></b>",
-        "<b><u>Gravity</u></b> (accept equivalents)"
+        "<b><u>diffraction</u></b> [or far-field <b><u>diffraction</u></b>; or near-field <b><u>diffraction</u></b>; prompt on <u>interference</u>; do NOT accept “refraction” or “rarefaction”]",
+        "<b><u>diffraction</u></b>",
+        "<b><u>Diffraction</u></b>",
+        "<b><u>diffraction</u></b> [accept near-field <b><u>diffraction</u></b> or far-field <b><u>diffraction</u></b>]",
+        "<b><u>diffraction</u></b> [prompt on <u>interference</u>]"
       ],
       "clues": [
         {
-          "text": "In 2023, a background rate of radiation of this phenomenon in the universe was discovered with data from pulsar timing arrays collected over 15 years.",
+          "text": "A common demonstration of this phenomenon uses it to measure the width of a strand of hair.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2024 CALISTO, Packet 08"
+          "source": "2022 KICKOFF, Packet 04"
         },
         {
-          "text": "Kaluza–Klein theory creates a fifth dimension to unify this force with electromagnetism.",
+          "text": "A pattern produced by this phenomenon is proportional to the square of the sinc function.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2024 CARD, Packet 09"
+          "source": "2015 BASK, Packet 08"
         },
         {
-          "text": "Unlike MOND, some modern theories claim that it is carried by a massless, spin 2 particle.",
-          "hardness": 1.02,
+          "text": "Fraunhofer and Fresnel (“fruh-NELL”) name the far-field and near-field types of this phenomenon, respectively.",
+          "hardness": 1.014,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2011 OLEFIN, Packet 11"
+          "source": "2022 KICKOFF, Packet 04"
         },
         {
-          "text": "Benard cells form because this force dominates at lower temperatures in natural convection.",
-          "hardness": 0.89,
+          "text": "The opacity of an object will only affect the intensity of this process according to Babinet's principle, which holds that it behaves identically for an object and an equivalent hole.",
+          "hardness": 0.963,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2014 BISB, Packet 14--Finals"
+          "source": "2019 ATHENA II, Packet 02"
         },
         {
-          "text": "Einstein visualized this force by imagining curved space-time, and the universal law of this force states that F equals G M1 M2 divided by r squared.",
-          "hardness": 0.761,
+          "text": "A law governing this phenomenon states that “n times lambda equals 2d sine theta.\"",
+          "hardness": 0.798,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2024 FARSI, Packet 07"
+        },
+        {
+          "text": "Rosalind Franklin employed this phenomenon with X-rays to obtain images of DNA.",
+          "hardness": 0.604,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2011 LIST, Packet 04"
+          "source": "2012 GSAC, Packet 03"
         },
         {
-          "text": "A research team in China controversially discovered that the speed of this force exceeds the speed of light.",
-          "hardness": 0.628,
+          "text": "Crystals can create this phenomenon in X-rays, as described by Bragg's law, and crystal structure can be determined from the resulting pattern.",
+          "hardness": 0.472,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2014 Prison Bowl, Packet 02"
+          "source": "2023 IQBT Regular Season Set #2, Packet 10"
         },
         {
-          "text": "This interaction first appeared during the Planck epoch, and this force is the weakest of the four fundamental forces.",
-          "hardness": 0.479,
+          "text": "Interference caused by this phenomenon creates alternating light and dark bands, which was observed in Young’s double-slit experiment.",
+          "hardness": 0.338,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2018 Glasgow Scottie, Packet 12"
+          "source": "2014 LIST, Packet 03"
         },
         {
-          "text": "It is the only net force that acts on an Atwood machine.",
-          "hardness": 0.357,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2014 BISB, Packet 14--Finals"
-        },
-        {
-          "text": "Drag balances it at terminal velocity.",
-          "hardness": 0.148,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2014 BISB, Packet 14--Finals"
-        },
-        {
-          "text": "Name this force that attracts masses to each other.",
-          "hardness": -0.286,
+          "text": "Name this phenomenon that explains the interference fringes in Young’s double slit experiment, the process by which light bends when passing through an aperture.",
+          "hardness": -0.122,
           "inPower": false,
           "giveaway": true,
           "difficulty": 3,
-          "source": "2020 LONE STAR, Packet 02"
+          "source": "2017 Maryland Fall, Packet 13"
+        },
+        {
+          "text": "Name this term for the bending of light around an obstacle.",
+          "hardness": -0.288,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2012 GSAC, Packet 03"
         }
       ]
     },
     "hard": {
+      "answer": "titration",
       "answerlines": [
-        "<b><u>gravity</u></b> [or <b><u>gravitation</u></b>; or <b><u>gravitational force</u></b>; or <b><u>gravitational</u></b> radiation; or <b><u>gravity</u></b> waves; or <b><u>gravitational wave</u></b>s]",
-        "<b><u>gravity</u></b> [accept <b><u>gravitational wave</u></b>s or <b><u>gravity wave</u></b>s; accept <b><u>quantum gravity</u></b> until “outward radiation”]",
-        "<b><u>gravity</u></b> [accept word forms like <b><u>gravitation</u></b>; accept loop quantum <b><u>gravity</u></b> prompt on <u>spacetime</u> or <u>curvature</u>]",
-        "<b><u>gravity</u></b> [accept word forms such as <b><u>gravitational</u></b> force]",
-        "<b><u>gravity</u></b>"
+        "<b><u>titration</u></b>",
+        "<b><u>titration</u></b> [accept various types]",
+        "<b><u>titration</u></b> [accept specific types]",
+        "<b><u>titration</u></b> [or <b><u>titrating</u></b>]",
+        "<b><u>titration</u></b> [or <b><u>titrimetry</u></b> or <b><u>volumetric analysis</u></b>; accept <b><u>titrating</u></b> or Fischer <b><u>titration</u></b> or acid-base <b><u>titration</u></b> or redox <b><u>titration</u></b> or volumetric <b><u>titration</u></b> or coulometric <b><u>titration</u></b>]"
       ],
       "clues": [
         {
-          "text": "A classic textbook titled for this phenomenon is abbreviated MTW for its three authors.",
+          "text": "A “checkerboard” form of this procedure is used before ELISA.",
           "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2017 PACE NSC, Packet 17"
+          "source": "2011 PACE NSC, Packet 10 - Playoffs 5"
         },
         {
-          "text": "This phenomenon is quantized by spin networks in its namesake loop theory.",
+          "text": "One form of this technique uses an alcohol and base solution to facilitate the oxidation of sulfur dioxide with iodine to determine trace water in a sample.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2019 BLAST, Packet Packet 4"
+          "source": "2023 CREEK, Packet 11"
         },
         {
-          "text": "This phenomenon can be modeled as propagating over a spin network or \"spin foam,\" which is made up of finite loops.",
-          "hardness": 1.065,
+          "text": "This method is sometimes performed in a non-aqueous solution to avoid the leveling effect.",
+          "hardness": 1.149,
           "inPower": true,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2019 PACE NSC, Packet 17"
+          "source": "2024 Maryland Spring, Packet 01"
         },
         {
-          "text": "The law of the prolonged sine measures the strength of response to this phenomenon.",
-          "hardness": 0.986,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 5,
-          "source": "2021 SKUFFED, Packet 5"
-        },
-        {
-          "text": "This interaction is thought to be mediated by a spin-2 massless boson, and experiments such as LISA intend to search for waves produced by this interaction, which deflects light in a process known as its namesake lensing effect.",
-          "hardness": 0.805,
+          "text": "An anode containing a base, an alcohol, iodine, and sulfur dioxide is employed in a form of this procedure developed by Karl Fischer, and the distinctive colors displayed when EDTA chelates metal ions contrast with those of organic dyes in the complexometric form.",
+          "hardness": 0.999,
           "inPower": false,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2010 PACE NSC, Packet 1"
+          "source": "2011 PACE NSC, Packet 10 - Playoffs 5"
         },
         {
-          "text": "A theoretical particle that mediates this force would have plus 2 spin.",
-          "hardness": 0.652,
+          "text": "Sodium thiosulfate is used as a reducing agent in a version of this technique that uses a solution of iodine and starch.",
+          "hardness": 0.715,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2024 Maryland Spring, Packet 01"
+        },
+        {
+          "text": "Plots corresponding to this procedure display at least one inflection point.",
+          "hardness": 0.562,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2011 PACE NSC, Packet 10 - Playoffs 5"
+        },
+        {
+          "text": "Plotting a graph of the progress of this technique versus potential or pH creates a curve with a notable inflection point.",
+          "hardness": 0.516,
           "inPower": false,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2011 BDAT, Packet 09"
+          "source": "2015 Prison Bowl, Packet 03"
         },
         {
-          "text": "This phenomenon, which is not described by GUTs, is treated as a consequence of the curvature of spacetime in general relativity.",
-          "hardness": 0.504,
+          "text": "Completion of this technique is determined through the color change of an indicator like phenolphthalein at the endpoint.",
+          "hardness": 0.425,
           "inPower": false,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2014 BHSAT, Packet 03"
+          "source": "2023 CREEK, Packet 11"
         },
         {
-          "text": "Statoliths detect this phenomenon in plants by releasing growth factors when tilted.",
-          "hardness": 0.417,
+          "text": "Phenolphthalein (“fee-nol-thay-leen”) is commonly used as an indicator in the acid-base form of this technique.",
+          "hardness": 0.307,
           "inPower": false,
           "giveaway": false,
-          "difficulty": 5,
-          "source": "2021 SKUFFED, Packet 5"
+          "difficulty": 4,
+          "source": "2023 SCURVY, Packet 07"
         },
         {
-          "text": "Name this phenomenon that causes plants and animals to fall down to the earth.",
-          "hardness": -0.134,
+          "text": "Name this analytical chemistry technique that measures the concentration of an unknown solution.",
+          "hardness": -0.248,
           "inPower": false,
           "giveaway": true,
-          "difficulty": 5,
-          "source": "2021 SKUFFED, Packet 5"
-        },
-        {
-          "text": "Name this fundamental force that is described classically by an inverse square law.",
-          "hardness": -0.246,
-          "inPower": false,
-          "giveaway": true,
           "difficulty": 4,
-          "source": "2017 Prison Bowl, Packet 01"
+          "source": "2015 Prison Bowl, Packet 03"
         }
       ]
     }

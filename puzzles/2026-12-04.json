@@ -1,277 +1,273 @@
 {
   "date": "2026-12-04",
   "category": "History",
-  "answer": "New York City",
   "tiers": {
     "easy": {
+      "answer": "Thomas Jefferson",
       "answerlines": [
-        "<b><u>New York</u></b> City",
-        "<b><u>New York</u></b> City (accept <b><u>NYC</u></b>) SCOP A · Round 7 Page 2 of 4",
-        "<b><u> New York</u></b> City (or <b><u> NYC</u></b> )",
-        "<b><u>New York</u></b> City (or <b><u>NYC</u></b>)",
-        "<b><u>New</u></b> <b><u>York</u></b> City (or <b><u>NYC</u></b>)"
+        "Thomas <b><u>Jefferson</u></b>"
       ],
       "clues": [
         {
-          "text": "The death of two Guyanese immigrants in this city sparked the Crown Heights riots between its black and Jewish populations.",
+          "text": "During this man’s administration, America paid Tripoli $60,000 after the capture of the USS Philadelphia.",
           "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2016 Pennsylvania Novice, Packet 05"
+          "source": "2015 SCOP Novice 6, Packet 08"
         },
         {
-          "text": "In 1984, Bernard Goetz shot four black teenagers on this city's subway, claiming self-defense.",
+          "text": "This man passed a set of laws satirically represented by a turtle called \"Ograbme\" which were modified by the Nonintercourse act and which banned exports to foreign countries.",
           "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2014 SCOP Novice 5, Packet 06"
+          "source": "2010 SCOP Novice, Packet 03"
         },
         {
-          "text": "One landmark within this city was damaged in the Black Tom Explosion.",
+          "text": "This man ordered the construction of the West Point military academy, and one of this president’s foreign policy actions was mocked in the “O-grab-me” political cartoon featuring a snapping turtle biting at a man.",
           "hardness": 1.1,
           "inPower": false,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2013 Fall Kickoff Tournament (FKT), Packet 02"
+          "source": "2013 Fall Kickoff Tournament (FKT), Packet 05"
         },
         {
-          "text": "In 1911, Isaac Harris and Max Blanck were fined after a fire at the Asch Building killed one hundred forty-six garment workers in this city.",
-          "hardness": 0.965,
+          "text": "This man founded the University of Virginia and designed the mansion of Monticello..",
+          "hardness": 0.92,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2013 Collaborative Middle School Tournament #4, Packet 09"
+        },
+        {
+          "text": "Along with James Madison, this man authored the Kentucky and Virginia Resolutions, and this man banned exports from the United States with the Embargo Act.",
+          "hardness": 0.866,
           "inPower": false,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2013 Fall Kickoff Tournament (FKT), Packet 02"
+          "source": "2015 SCOP Novice 6, Packet 08"
         },
         {
-          "text": "A photo taken in this city shows Marcy Borders covered in a thick yellow dust after United Flight 175 and American Airlines Flight 11 crashed into this city’s Twin Towers.",
-          "hardness": 0.817,
+          "text": "This creator of the Embargo Act repealed the Alien and Sedition Acts of his predecessor, and this man donated his library to the Library of Congress from his Monticello estate.",
+          "hardness": 0.714,
           "inPower": false,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2020 SCOP A, Packet 07"
+          "source": "2010 SCOP Novice, Packet 03"
         },
         {
-          "text": "Boss Tweed once led Tammany Hall from this city, which was home to the largest draft riot during the American Civil War.",
-          "hardness": 0.693,
+          "text": "This president called for the Lewis & Clark expedition and wrote the Declaration of Independence.",
+          "hardness": 0.668,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2015 SAGES, Packet 03"
+        },
+        {
+          "text": "Slaves like Sally Hemmings lived at this man’s estate, Monticello.",
+          "hardness": 0.454,
           "inPower": false,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2013 Fall Kickoff Tournament (FKT), Packet 02"
+          "source": "2022 KICKOFF Novice, Packet 11N"
         },
         {
-          "text": "Mayor Fiorello La Guardia took down this city’s Tammany Hall political machine.",
-          "hardness": 0.491,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 2,
-          "source": "2016 Pennsylvania Novice, Packet 05"
-        },
-        {
-          "text": "In 2001, the two tallest buildings in this city were destroyed in the 9/11 attacks.",
-          "hardness": 0.364,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 2,
-          "source": "2013 Fall Kickoff Tournament (FKT), Packet 02"
-        },
-        {
-          "text": "The World Trade Center was targeted during a a terrorist action in what largest American city, which was attacked on September 11th, 2001?",
-          "hardness": 0.035,
-          "inPower": false,
-          "giveaway": true,
-          "difficulty": 2,
-          "source": "2020 SCOP A, Packet 07"
-        },
-        {
-          "text": "Name this city whose boroughs include Queens, Staten Island, and Manhattan.",
-          "hardness": -0.189,
+          "text": "What man completed the Louisiana Purchase and was America’s third president?",
+          "hardness": -0.078,
           "inPower": false,
           "giveaway": true,
           "difficulty": 1,
-          "source": "2013 Collaborative Middle School Tournament #4, Packet 06"
+          "source": "2015 SAGES, Packet 03"
+        },
+        {
+          "text": "Name the third President of the United States.",
+          "hardness": -0.165,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 2,
+          "source": "2015 SCOP Novice 6, Packet 08"
         }
       ]
     },
     "medium": {
+      "answer": "Battle of Hastings",
       "answerlines": [
-        "<b><u>New York</u></b> City (prompt on New Amsterdam)",
-        "<b><u>New York</u></b> City [or <b><u>NY</u></b>C]",
-        "<b><u>New York</u></b> City [or <b><u>NYC</u></b>]",
-        "<b><u>New York</u></b> City [or <b><u>NYC</u></b>; anti-prompt [ask for less specific] on <u>Manhattan</u> or <u>Greenwich Village</u> before mentioned]",
-        "<b><u>New York</u></b> City"
+        "Battle of <u>Hastings</u>",
+        "Battle of <b><u>Hastings</u></b>"
       ],
       "clues": [
         {
-          "text": "The Orange Riots took place at this city where one longtime politician died at the Ludlow Street Jail.",
+          "text": "This battle opened when the jester Taillefer attacked a soldier while reciting the Song of Roland.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2020 HC History, Packet Finals"
+          "source": "2013 JAMES, Packet 14"
         },
         {
-          "text": "Prominent political figures in the history of this polity include Charles Murphy and Jimmy Walker, and Robert Moses directed two World’s Fairs and a number of public works projects in it.",
+          "text": "Alan Rufus’s early arrival to this battle allowed him to lead the vanguard Breton forces to victory.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2010 Ben Cooper, Packet 09"
+          "source": "2020 RAFT, Packet 06"
         },
         {
-          "text": "Four hundred members of the AFL-CIO attacked student protesters in this city during the Hard Hat Riot.",
-          "hardness": 0.995,
+          "text": "One side in this battle had contingents commanded by Count Eustace of Boulogne and Count Alan.",
+          "hardness": 1,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2010 GSAC, Packet 05"
+        },
+        {
+          "text": "After this battle, victorious troops were ambushed in the Malfosse.",
+          "hardness": 0.989,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2023 IQBT Regular Season Set #2, Packet 03"
+          "source": "2013 JAMES, Packet 14"
         },
         {
-          "text": "So-called “zaps” were led in this city against Mayor John Lindsay, who refused to take a stance on LGBTQ issues.",
-          "hardness": 0.882,
+          "text": "One side in this battle employed housecarls and effectively used a shield wall to defend against archer attacks.",
+          "hardness": 0.878,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2024 IQBT Regular Season Set #4, Packet 04"
+          "source": "2013 JAMES, Packet 14"
         },
         {
-          "text": "Folk singer Dave Van Ronk was arrested on assault charges after a raid on a business in this city owned by the Genovese crime family.",
-          "hardness": 0.681,
+          "text": "One side in this battle utilized Housecarls and Fyrds on their position of Senlac Hill.",
+          "hardness": 0.686,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2020 RAFT, Packet 07"
+          "source": "2020 RAFT, Packet 06"
         },
         {
-          "text": "Marsha P. Johnson was present at an event in this city that took place on Christopher Street.",
-          "hardness": 0.519,
+          "text": "The leader of the losing side in this battle succeeded Edward the Confessor and had earlier won the Battle of Stamford Bridge, but was later killed by an arrow in the eye as depicted in the Bayeux Tapestry.",
+          "hardness": 0.55,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2024 IQBT Regular Season Set #4, Packet 04"
+          "source": "2014 LIST, Packet 08"
         },
         {
-          "text": "Lucky Luciano was the first boss of this city’s Genovese crime family, one of Five Families of mobsters here.",
-          "hardness": 0.407,
+          "text": "Bishop Odo, the half-brother of the victor of this battle, may have commissioned the Bayeux Tapestry, which depicts this battle.",
+          "hardness": 0.53,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2024 CALISTO, Packet 10"
+          "source": "2019 WAIT, Packet 14"
         },
         {
-          "text": "This city, which contained the Shirtwaist Triangle Accident and it used to be the colony of New Amsterdam.",
-          "hardness": 0.32,
+          "text": "This event was depicted in the Bayeux Tapestry, where Harold Godwinson is shown being shot in the eye with an arrow.",
+          "hardness": 0.371,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2020 HC History, Packet Finals"
+          "source": "2017 BASQT, Packet 04"
         },
         {
-          "text": "Much of what city's LGBTQ+ experience is centered around neighborhoods in Manhattan?",
-          "hardness": -0.238,
+          "text": "Name this 1066 battle depicted in the Bayeux Tapestry that saw the defeat of Harold Godwinson by William the Conqueror, resulting in the Norman rule of England.",
+          "hardness": -0.133,
           "inPower": false,
           "giveaway": true,
           "difficulty": 3,
-          "source": "2020 RAFT, Packet 07"
-        },
-        {
-          "text": "Name this most populous U.S. city.",
-          "hardness": -0.312,
-          "inPower": false,
-          "giveaway": true,
-          "difficulty": 3,
-          "source": "2023 IQBT Regular Season Set #2, Packet 03"
+          "source": "2015 VTACO, Packet 13"
         }
       ]
     },
     "hard": {
+      "answer": "Mali Empire",
       "answerlines": [
-        "<b><u>New York</u></b> City [or <b><u>NYC</u></b>]",
-        "<b><u>New York</u></b> City [accept <b><u>NYC</u></b>; grudgingly prompt on <b><u>New Amsterdam</u></b>]",
-        "<b><u>New York City</u></b> [or <b><u>NYC</u></b>; accept <b><u>New York, New York</u></b>]",
-        "<b><u>New York</u></b> City [or <b><u>NY</u></b>C]"
+        "<b><u>Mali</u></b> Empire [or <b><u>Nyeni</u></b>; or <b><u>Niani</u></b>; accept <b><u>Manden</u></b> Kurufaba]",
+        "<b><u>Mali</u></b> Empire [accept <b><u>Manden</u></b> Kurufaba; accept <b><u>Nyeni</u></b> or <b><u>Niani</u></b>]",
+        "<b><u>Mali</u></b> Empire",
+        "<b><u>Mali</u></b> Empire [or <b><u>Manden</u></b> Kurufa or <b><u>Mandinka</u></b>] &lt;MJ&gt;",
+        "<b><u>Mali</u></b> Empire [or <b><u>Manden</u></b> Kurufaba]"
       ],
       "clues": [
         {
-          "text": "In the leadup to the Civil War, this city's mayor briefly proposed that it secede from the Union as the \"Free City of Tri-Insula.\"",
+          "text": "The leading sixteen noble clans of this empire, responsible for raising its military forces, were called \"quiver carriers.\"",
           "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2016 PACE NSC, Packet 05"
+          "source": "2020 STASH, Packet 08"
         },
         {
-          "text": "The Stamp Act Congress met in this city in 1765, and two decades earlier it had been the site of a panic regarding a plot by slaves and poor whites to burn this city down.",
+          "text": "The lands possessed by this empire were referred to as the “Twelve Doors,” and it established a uniform law code of forty-four edicts called the Kouroukan Fouga.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2017 Prison Bowl, Packet 05"
+          "source": "2020 Glasgow Scottie, Packet 09"
         },
         {
-          "text": "Events in this city were criticized by a political cartoon depicting crocodiles dressed as bishops emerging from the \"American River Ganges\".",
-          "hardness": 1.046,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 5,
-          "source": "2020 STASH, Packet 15"
-        },
-        {
-          "text": "This city was the site of an offshoot of a 1689 revolt in which Francis Nicholson was overthrown.",
-          "hardness": 0.883,
+          "text": "The founder of this empire established an assembly whose military body was divided into groups called “quiver carriers.”",
+          "hardness": 1.019,
           "inPower": true,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2017 Prison Bowl, Packet 05"
+          "source": "2023 CREEK, Packet 04"
         },
         {
-          "text": "Daisy Khan and her husband, Imam Feisal Abdul Rauf, defended the construction of Park 51 in this city.",
-          "hardness": 0.636,
+          "text": "Its prominent generals included Sagmandia, and it traced its founding to a mytho-historical victory at Kirina over the Soso people.",
+          "hardness": 0.899,
           "inPower": false,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2012 RAVE, Packet 11"
+          "source": "2012 BHSAT, Packet 04"
         },
         {
-          "text": "This city's powerful Customs House, which once employed Chester A. Arthur as a port collector, was controlled by the Stalwart Republican leader Roscoe Conkling.",
-          "hardness": 0.581,
+          "text": "A ruler of this empire commissioned the Andalusian architect al-Sahili to complete construction of an audience chamber that was called an “admirable monument” by Ibn Khaldun.",
+          "hardness": 0.814,
           "inPower": false,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2016 PACE NSC, Packet 05"
+          "source": "2020 STASH, Packet 08"
         },
         {
-          "text": "A former councilman for this city was embroiled in a sexting scandal; that man was Anthony Weiner.",
-          "hardness": 0.468,
+          "text": "Its founder allegedly used an arrow tipped with a white rooster’s nail to win the battle of Kirina against Sumanguru; that founder was Sundiata Keita.",
+          "hardness": 0.696,
           "inPower": false,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2012 RAVE, Packet 11"
+          "source": "2011 BHSAT, Packet 03 REVISED"
         },
         {
-          "text": "Thomas Nast depicted a political machine in this city as a tiger, and its leader with a bag of money for a head.",
-          "hardness": 0.321,
+          "text": "Legends of the founder of this empire are passed down through the Mandinka people through storytellers called griots, and that founder was Sundiata Keita.",
+          "hardness": 0.617,
           "inPower": false,
           "giveaway": false,
-          "difficulty": 5,
-          "source": "2020 STASH, Packet 15"
+          "difficulty": 4,
+          "source": "2015 Prison Bowl, Packet 03"
         },
         {
-          "text": "Name this city whose government was long controlled by Tammany Hall.",
-          "hardness": -0.192,
+          "text": "One ruler of this empire is depicted holding agold nugget in the Catalan Atlas.",
+          "hardness": 0.505,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2020 Prison Bowl, Packet 06"
+        },
+        {
+          "text": "The story of this empire’s founding is told in the Epic of Sundiata.",
+          "hardness": 0.239,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2020 Prison Bowl, Packet 06"
+        },
+        {
+          "text": "Sundiata Keita founded what thirteenth century West African empire ruled by Mansa Musa?",
+          "hardness": -0.212,
           "inPower": false,
           "giveaway": true,
-          "difficulty": 5,
-          "source": "2016 PACE NSC, Packet 05"
-        },
-        {
-          "text": "Name this city where immigrants arrived at Ellis Island.",
-          "hardness": -0.281,
-          "inPower": false,
-          "giveaway": true,
           "difficulty": 4,
-          "source": "2023 DART, Packet 05"
+          "source": "2022 DART, Packet 03"
         }
       ]
     }

@@ -1,272 +1,272 @@
 {
   "date": "2026-12-06",
   "category": "Geography",
-  "answer": "Colorado River",
   "tiers": {
     "easy": {
+      "answer": "Boston",
       "answerlines": [
-        "<b><u>Colorado</u></b> River",
-        "<b><u>Colorado</u></b> River (accept <b><u>Green</u></b> River before it is read)",
-        "<b><u> Colorado</u></b> River"
+        "<b><u>Boston</u></b>",
+        "<b><u>Boston</u></b> [accept <b><u>Boston</u></b> Common; or the <b><u>Boston</u></b> Red Sox]"
       ],
       "clues": [
         {
-          "text": "John Wesley Powell explored this river’s rapids on an 1869 expedition that began on the Green River.",
+          "text": "In this city, a large Citgo sign overlooks Commonwealth Avenue.",
           "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2017 SCOP Novice 8, Packet 02"
+          "source": "2023 MOQBA Novice, Packet 09"
         },
         {
-          "text": "In 1934, the controversial construction of the Parker Dam on this river required the National Guard to muster the Arizona Navy.",
-          "hardness": 1.25,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 2,
-          "source": "2019 SCOP Novice 10, Packet 01"
-        },
-        {
-          "text": "This river receives the Green River in Canyonlands National Park before flowing downstream into Lake Powell.",
+          "text": "This city’s Muddy River runs through Olmsted Park, a part of this city’s Emerald Necklace.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 1,
-          "source": "2022 MAKEMAKE, Packet 01"
+          "source": "2022 SCOP MS 11, Packet Round 4"
         },
         {
-          "text": "The Gila River flows into this river near Yuma, shortly before this river flows into the Gulf of California.",
-          "hardness": 1.018,
+          "text": "The southern border of this city is formed by the Neponset River, whose mouth lies between Quincy and Dorchester, the largest neighborhood of it.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2017 HIGS, Packet 02"
+        },
+        {
+          "text": "The USS Constitution is docked near Logan International Airport in this city.",
+          "hardness": 0.927,
           "inPower": true,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2017 SCOP Novice 8, Packet 02"
+          "source": "2023 MOQBA Novice, Packet 09"
         },
         {
-          "text": "The Glen Canyon Dam on this river forms Lake Powell, the second largest man-made reservoir in the US; the largest reservoir, Lake Mead, is also on this river, behind the Hoover Dam.",
-          "hardness": 0.821,
+          "text": "Frederick Law Olmstead designed this city’s Emerald Necklace, which includes a Common near this city’s Financial District.",
+          "hardness": 0.797,
           "inPower": false,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2019 SCOP Novice 10, Packet 01"
+          "source": "2021 SCOP B, Packet 4"
         },
         {
-          "text": "Low water levels in Lake Mead, which this river flows through, have raised concern of a \"dead pool\" when this river will not be able to flow through Hoover Dam.",
-          "hardness": 0.744,
+          "text": "This city’s Back Bay area is on the Charles River, across from its sister city, Cambridge.",
+          "hardness": 0.783,
           "inPower": false,
           "giveaway": false,
           "difficulty": 1,
-          "source": "2022 MAKEMAKE, Packet 01"
+          "source": "2022 SCOP MS 11, Packet Round 4"
         },
         {
-          "text": "This river’s water forms Lake Mead behind the Hoover Dam, which powers much of Arizona.",
-          "hardness": 0.597,
+          "text": "Kenmore Square is connected by this city’s “T” system to Northeastern University and its namesake “Common.”",
+          "hardness": 0.634,
           "inPower": false,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2017 SCOP Novice 8, Packet 02"
+          "source": "2023 MOQBA Novice, Packet 09"
         },
         {
-          "text": "Name this river of the American West that flows through the Grand Canyon and starts in the Rocky Mountains of its namesake state.",
-          "hardness": 0.014,
+          "text": "This city’s Back Bay contains the poorly-designed John Hancock Tower.",
+          "hardness": 0.535,
           "inPower": false,
-          "giveaway": true,
+          "giveaway": false,
           "difficulty": 2,
-          "source": "2019 SCOP Novice 10, Packet 01"
+          "source": "2021 SCOP B, Packet 4"
         },
         {
-          "text": "The Grand Canyon was carved by what river named for a Rocky Mountain state?",
-          "hardness": -0.186,
+          "text": "The Old State House and the Paul Revere House are sites on this city’s Freedom Trail.",
+          "hardness": 0.446,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2017 HIGS, Packet 02"
+        },
+        {
+          "text": "Name this most populous city in New England, the capital of Massachusetts.",
+          "hardness": -0.178,
           "inPower": false,
           "giveaway": true,
           "difficulty": 1,
-          "source": "2022 MAKEMAKE, Packet 01"
-        },
-        {
-          "text": "Name this river regulated by the Hoover Dam that carves out the Grand Canyon.",
-          "hardness": -0.197,
-          "inPower": false,
-          "giveaway": true,
-          "difficulty": 1,
-          "source": "2023 Sentinel CYBER 1A, Packet 01"
+          "source": "2017 HIGS, Packet 02"
         }
       ]
     },
     "medium": {
+      "answer": "Louisiana",
       "answerlines": [
-        "<b><u>Colorado</u></b> River",
-        "<u>Colorado</u> River"
+        "<b><u>Louisiana</u></b>"
       ],
       "clues": [
         {
-          "text": "The Grand Ditch diverts water from the headwaters of this river in the Never Summer Mountains to the Front Range Urban Corridor.",
+          "text": "A chef from this state, Paul Prudhomme, popularized the turducken.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2014 LIST, Packet 11"
+          "source": "2019 CAST, Packet 05"
         },
         {
-          "text": "A desalination plant on the southern end of this body of water opened 14 years late and at five times the planned cost in 1992.",
+          "text": "The salt dome and peppers grown in this state’s Avery Island were used to produce the first Tabasco sauce.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2017 WHAQ, Packet 01"
+          "source": "2022 KICKOFF, Packet 03"
         },
         {
-          "text": "At Glenwood Canyon, the Hanging Lake flows into this river, and the canal joining this river and Lake Havasu is spanned by the 1831 London Bridge.",
-          "hardness": 1.061,
+          "text": "An estuary in the southeast of this state is crossed by the longest continuous bridge in the world.",
+          "hardness": 1.036,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2013 JAMES, Packet 12"
+          "source": "2021 AQBL February Set, Packet 05"
         },
         {
-          "text": "The All-American Canal, which replaced the original Alamo Canal, provides irrigated water from this river to the Imperial Valley.",
-          "hardness": 0.941,
+          "text": "A sandwich popularized by Sicilian immigrants in this state contains olive salad and is called the muffuletta.",
+          "hardness": 0.907,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2014 LIST, Packet 11"
+          "source": "2019 CAST, Packet 05"
         },
         {
-          "text": "Cities along this river include Moab and Yuma, where the Gila River flows into this river.",
-          "hardness": 0.826,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2013 JAMES, Packet 12"
-        },
-        {
-          "text": "An irrigation canal connected to this body of water overflowed for two years into a brackish sinkhole and created a now-abandoned tourist trap called the Salton Sea.",
-          "hardness": 0.788,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2017 WHAQ, Packet 01"
-        },
-        {
-          "text": "The Gila River is a major tributary of this river, which is also joined by the Green River.",
-          "hardness": 0.608,
+          "text": "Refugees of one ethnic group, deported in an event known as Le Grand Dérangement, eventually settled in this state’s Atchafalaya Basin. Acadiana is a French-speaking region in this state’s southern parishes.",
+          "hardness": 0.827,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2012 GSAC, Packet 03"
+          "source": "2023 CARD, Packet 02"
         },
         {
-          "text": "This river, which serves as the source of water for irrigation of the Imperial Valley, contains the Hoover Dam, which creates Lake Mead.",
-          "hardness": 0.442,
+          "text": "Beignets and a type of coffee are sold at the Café du Monde in this state’s Decatur Street.",
+          "hardness": 0.583,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2012 GSAC, Packet 03"
+          "source": "2022 KICKOFF, Packet 03"
         },
         {
-          "text": "This river’s Lake Mead was formed by the Glen Canyon Dam and its Lake Powell formed by the Hoover Dam.",
-          "hardness": 0.349,
+          "text": "This state’s Avery Island is the traditional growing site of the peppers that make up Tabasco sauce.",
+          "hardness": 0.436,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2021 CALISTO 2, Packet 09"
+          "source": "2019 CAST, Packet 05"
         },
         {
-          "text": "Name this river which empties into the Gulf of California and flows through the Grand Canyon.",
-          "hardness": -0.205,
+          "text": "Bourbon Street, which holds a big Mardi Gras celebration, can be found in the French Quarter of this state’s largest city.",
+          "hardness": 0.33,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2022 KICKOFF, Packet 03"
+        },
+        {
+          "text": "Cajun influence is prominent in what state home to New Orleans?",
+          "hardness": -0.233,
           "inPower": false,
           "giveaway": true,
           "difficulty": 3,
-          "source": "2012 GSAC, Packet 03"
+          "source": "2023 CARD, Packet 02"
+        },
+        {
+          "text": "Name this state which prominently features Creole and Cajun cuisine.",
+          "hardness": -0.274,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2019 CAST, Packet 05"
         }
       ]
     },
     "hard": {
+      "answer": "Canary Islands",
       "answerlines": [
-        "<u>Colorado</u> River",
-        "<b><u>Colorado</u></b> River [or Río <b><u>Colorado</u></b>]",
-        "<b><u>Colorado</u></b> River",
-        "<b><u>Colorado</u></b> River (the unnamed tributary is the Gunnison River)"
+        "<b><u>Canary</u></b> Islands [or Islas <b><u>Canarias</u></b>; accept <b><u>Canaries</u></b>; prompt on <u>Spain</u> or the <u>Atlantic</u> before “Madeira Islands” is read]",
+        "<b><u>Canary Islands</u></b> [accept the <b><u>Canaries</u></b>; accept <b><u>Islas Canarias</u></b>, accept Santa Cruz de <b><u>Tenerife</u></b> until “archipelago”]",
+        "<b><u>Canary</u></b> Islands [or the <b><u>Canaries</u></b>; accept Islas <b><u>Canarias</u></b> (eeh-lah kah-nah-ryah)]",
+        "<b><u>Canary</u></b> Islands"
       ],
       "clues": [
         {
-          "text": "A project that moves water from this river to the Front Range Urban Corridor is known as the Grand Ditch.",
+          "text": "Black specks characterize the PGI bananas grown on Fyffes plantations in this archipelago, whose port city of Arguineguin (“ar-GEEN-ee-GEEN”) has become an ad hoc camp for migrants.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2024 PACE NSC, Packet 05"
+        },
+        {
+          "text": "Silbo is a whistled language spoken on this polity’s island of Gomera.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2022 COAST, Packet 1"
+          "source": "2014 HFT, Packet 13"
         },
         {
-          "text": "A desalination plant on the southern end of this body of water opened 14 years late and at five times the planned cost in 1992.",
-          "hardness": 1.05,
+          "text": "A Combre Vieja ridge here might cause a megatsunami if it collapses catastrophically.",
+          "hardness": 1.039,
           "inPower": true,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2017 WHAQ, Packet 01"
+          "difficulty": 4,
+          "source": "2014 HFT, Packet 13"
         },
         {
-          "text": "At Glenwood Canyon, the Hanging Lake flows into this river, and the canal joining this river and Lake Havasu is spanned by the 1831 London Bridge.",
-          "hardness": 0.961,
-          "inPower": true,
+          "text": "Once called the Fortunate Islands by the Romans, they were created from the group of volcanoes which can still be seen at Pico de Teide on Tenerife.",
+          "hardness": 0.953,
+          "inPower": false,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2013 JAMES, Packet 12"
+          "difficulty": 5,
+          "source": "2004 PACE NSC, Packet 11"
         },
         {
-          "text": "The All-American Canal, which replaced the original Alamo Canal, provides irrigated water from this river to the Imperial Valley.",
-          "hardness": 0.841,
-          "inPower": true,
+          "text": "In 1977, the worst accident in aviation history occurred when two Boeing 747s collided on a runway on its island of Tenerife.",
+          "hardness": 0.688,
+          "inPower": false,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2014 LIST, Packet 11"
+          "difficulty": 5,
+          "source": "2016 PACE NSC, Packet 09"
         },
         {
-          "text": "Cities along this river include Moab and Yuma, where the Gila River flows into this river.",
-          "hardness": 0.726,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2013 JAMES, Packet 12"
-        },
-        {
-          "text": "This river flows through Yuma, where it makes its only international border crossing.",
-          "hardness": 0.534,
+          "text": "The largest island in this group is home to Los Rodeos airport, the location of the deadliest aviation disaster in history; that island is Tenerife.",
+          "hardness": 0.579,
           "inPower": false,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2022 COAST, Packet 1"
+          "source": "2014 HFT, Packet 13"
         },
         {
-          "text": "The Salton Sea was originally created by floodwaters from this river. John Wesley Powell explored this river’s most visited feature.",
-          "hardness": 0.481,
+          "text": "Half of this archipelago is governed by the province of Las Palmas.",
+          "hardness": 0.451,
           "inPower": false,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2014 LIST, Packet 11"
+          "difficulty": 5,
+          "source": "2024 PACE NSC, Packet 05"
         },
         {
-          "text": "In 1905, overflows from this river formed the now heavily-polluted Salton Sea.",
-          "hardness": 0.373,
+          "text": "Contrary to expectations, this island group derived its name from the local dog population and not from any kind of bird.",
+          "hardness": 0.341,
           "inPower": false,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2021 CALISTO 2, Packet 09"
+          "difficulty": 4,
+          "source": "2014 HFT, Packet 13"
         },
         {
-          "text": "This river’s Lake Mead was formed by the Glen Canyon Dam and its Lake Powell formed by the Hoover Dam.",
-          "hardness": 0.249,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2021 CALISTO 2, Packet 09"
-        },
-        {
-          "text": "Name this river of the Southwest which empties into the Gulf of California and traverses the Grand Canyon.",
-          "hardness": -0.311,
+          "text": "Name these Spanish islands in the Atlantic that are actually named for their dogs, not a type of bird.",
+          "hardness": -0.146,
           "inPower": false,
           "giveaway": true,
-          "difficulty": 3,
-          "source": "2021 CALISTO 2, Packet 09"
+          "difficulty": 5,
+          "source": "2016 PACE NSC, Packet 09"
+        },
+        {
+          "text": "Name this Spanish-held island group located just off the western coast of Morocco.",
+          "hardness": -0.249,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 4,
+          "source": "2014 HFT, Packet 13"
         }
       ]
     }

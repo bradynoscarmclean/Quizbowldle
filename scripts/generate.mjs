@@ -79,11 +79,11 @@ async function api(path, params) {
   throw new Error(`QB Reader request failed: ${url}`);
 }
 
-async function topAnswers(category) {
+async function topAnswers(category, difficulties) {
   const data = await api('frequency-list', {
     category,
     questionType: 'tossup',
-    difficulties: '1,2,3,4,5',
+    difficulties: difficulties.join(','),
     limit: TOP_N,
   });
   return data.frequencyList;
@@ -300,11 +300,34 @@ function recentHistory(date) {
     const file = join(OUT_DIR, `${addDays(date, -i)}.json`);
     if (!existsSync(file)) continue;
     const p = JSON.parse(readFileSync(file, 'utf8'));
-    answers.add(normalize(p.answer));
+    for (const t of Object.values(p.tiers)) answers.add(normalize(t.answer ?? p.answer));
     if (i <= CATEGORIES.length) categoryUses[p.category] = (categoryUses[p.category] ?? 0) + 1;
     if (i === 1) yesterdayCategory = p.category;
   }
   return { answers, categoryUses, yesterdayCategory };
+}
+
+// Each difficulty gets its own answer, drawn from the category's 50 most-asked
+// answers at that difficulty.
+async function buildTiers(category, used, rand) {
+  const taken = new Set(used);
+  const tiers = {};
+  for (const [name, tier] of Object.entries(TIERS)) {
+    const answers = shuffle(await topAnswers(category, tier.difficulties), rand)
+      .filter((a) => !taken.has(normalize(a.answer)));
+    for (const entry of answers.slice(0, 8)) {
+      const target = normalize(entry.answer);
+      const result = await buildTier(entry.answer, target, category, tier, rand);
+      if (result) {
+        tiers[name] = { answer: entry.answer, ...result };
+        taken.add(target);
+        break;
+      }
+      console.log(`  skipped "${entry.answer}" for ${name} (not enough clues)`);
+    }
+    if (!tiers[name]) return null;
+  }
+  return tiers;
 }
 
 async function generate(date) {
@@ -316,22 +339,9 @@ async function generate(date) {
     .sort((a, b) => (categoryUses[a] ?? 0) - (categoryUses[b] ?? 0));
 
   for (const category of categories) {
-    const answers = shuffle(await topAnswers(category), rand).filter((a) => !used.has(normalize(a.answer)));
-    for (const entry of answers.slice(0, 8)) {
-      const target = normalize(entry.answer);
-      const tiers = {};
-      let ok = true;
-      for (const [name, tier] of Object.entries(TIERS)) {
-        const result = await buildTier(entry.answer, target, category, tier, rand);
-        if (!result) {
-          ok = false;
-          break;
-        }
-        tiers[name] = result;
-      }
-      if (ok) return { date, category, answer: entry.answer, tiers };
-      console.log(`  skipped "${entry.answer}" (not enough clues)`);
-    }
+    const tiers = await buildTiers(category, used, rand);
+    if (tiers) return { date, category, tiers };
+    console.log(`  skipped ${category} (a difficulty had no usable answer)`);
   }
   throw new Error(`Could not build a puzzle for ${date}`);
 }
@@ -359,5 +369,6 @@ for (let i = 0; i < count; i++) {
   console.log(`${date}: generating...`);
   const puzzle = await generate(date);
   writeFileSync(file, `${JSON.stringify(puzzle, null, 2)}\n`);
-  console.log(`${date}: ${puzzle.category} -> ${puzzle.answer}`);
+  const summary = Object.entries(puzzle.tiers).map(([t, v]) => `${t}: ${v.answer}`).join(', ');
+  console.log(`${date}: ${puzzle.category} -> ${summary}`);
 }

@@ -1,9 +1,9 @@
 {
   "date": "2026-11-30",
   "category": "Social Science",
-  "answer": "Abraham Maslow",
   "tiers": {
     "easy": {
+      "answer": "Abraham Maslow",
       "answerlines": [
         "Abraham <b><u>Maslow</u></b>",
         "Abraham <b><u>Maslow</u></b> [or Abraham Harold <b><u>Maslow</u></b>]"
@@ -92,178 +92,186 @@
       ]
     },
     "medium": {
+      "answer": "intelligence",
       "answerlines": [
-        "Abraham <b><u>Maslow</u></b>",
-        "Abraham <b><u>Maslow</u></b> [or Abraham Harold <b><u>Maslow</u></b>]"
+        "<b><u>Intelligence</u></b> [accept <b><u>IQ</u></b> until mentioned]",
+        "<b><u>Intelligence</u></b> [or <b><u>IQ</u></b> before “quotient” is read; or musical <b><u>intelligence</u></b>; or spatial <b><u>intelligence</u></b>; or artificial <b><u>intelligence</u></b>]",
+        "<b><u>intelligence</u></b> [accept <b><u>IQ</u></b> or <b><u>Intelligence Quotient</u></b> before mention; accept <b><u>g</u></b> before mention]",
+        "<b><u>intelligence</u></b> [accept <b><u>IQ</u></b> or <b><u>intelligence quotient</u></b> before mention]",
+        "<b><u>intelligence</u></b> [prompt on “IQ” before “quotient” is read, I guess]"
       ],
       "clues": [
         {
-          "text": "Research by Basset-Jones and Lloyd says this thinker’s most famous idea is not applicable to the workplace.",
+          "text": "Alex Wissner-Gross described this concept using the equation F equals T times the gradient of S tau.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2017 POMMSS, Packet 04"
+          "source": "2017 WHAQ, Packet 01"
         },
         {
-          "text": "This psychologist examined the relationship between mechanistic science and human behavior in his work The Psychology of Science: A Reconnaissance.",
-          "hardness": 1,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2013 GSAC, Packet 08"
-        },
-        {
-          "text": "Heavily influenced in his theories by the book The Organism, this psychologist who described one aspect of his theory as “instinctoid” characterized his work as the “third force” in psychology.",
-          "hardness": 1,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2009 GSAC, Packet 09"
-        },
-        {
-          "text": "This thinker’s ideas were used by Douglas McGregor to contrast authoritarian Theory X and relaxed Theory Y management.",
-          "hardness": 0.978,
+          "text": "The Cattell-Horn-Carroll theory combines two models for this property, identifying its “fluid” and “crystallized” types.",
+          "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2023 Planetfall, Packet 11"
+          "source": "2017 GSAC, Packet 04"
         },
         {
-          "text": "This psychologist argued in favor of emphasizing positive qualities in a patient instead of treating them like “a bag of symptoms.”",
-          "hardness": 0.813,
+          "text": "The g-factor construct is key to the three stratum model of this thing, which was created by John B. Carroll.",
+          "hardness": 1.033,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2025 GSAC, Packet 12 _Ken Burn_s Civil War_"
+        },
+        {
+          "text": "Charles Spearman developed a two-factor theory of this concept.",
+          "hardness": 0.955,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 WHAQ, Packet 01"
+        },
+        {
+          "text": "Robert Sternberg’s triarchic theory of it describes its “componential”, “experiential”, and “practical” types.",
+          "hardness": 0.819,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 GSAC, Packet 04"
+        },
+        {
+          "text": "Howard Gardner proposed eight \"multiple\" forms of this ability which included naturalist, bodily-kinesthetic, and spatial.",
+          "hardness": 0.638,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2023 CARD, Packet 11"
+          "source": "2013 JAMES, Packet 04"
         },
         {
-          "text": "This man described his psychological theory as the “third force” in the field to contrast it with behaviorism and psychoanalysis.",
-          "hardness": 0.632,
+          "text": "Stanford University improved upon an earlier test of this quality, leading to the current Stanford-Binet scale for measuring it in children.",
+          "hardness": 0.517,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2025 GSAC, Packet 07 _Oliver Rotchwell_"
+          "source": "2017 LIST, Packet 12"
         },
         {
-          "text": "This psychologist described “peak experiences” and stated that humans needed to fulfill physiological needs before reaching self-actualization.",
-          "hardness": 0.508,
+          "text": "The Stanford-Binet test measures this ability, while another measure of it compares two types of ages and is averaged at 100.",
+          "hardness": 0.428,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2023 CARD, Packet 11"
+          "source": "2013 JAMES, Packet 04"
         },
         {
-          "text": "This thinker studied the healthiest 1% of college students, Spinoza, and Einstein to develop a theory of motivation, which puts safety and physiology near the bottom.",
-          "hardness": 0.441,
+          "text": "Social success is usually based on the measurement of the “emotional” form of this concept.",
+          "hardness": 0.254,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2023 Planetfall, Packet 11"
+          "source": "2020 RAFT, Packet 12"
         },
         {
-          "text": "In this man’s most famous idea, security of body, resources and health describe the safety stage.",
-          "hardness": 0.259,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2017 POMMSS, Packet 04"
-        },
-        {
-          "text": "Name this American psychologist who developed a namesake hierarchy of needs.",
-          "hardness": -0.256,
+          "text": "Name this quality supposedly measured by an IQ test.",
+          "hardness": -0.299,
           "inPower": false,
           "giveaway": true,
           "difficulty": 3,
-          "source": "2013 GSAC, Packet 08"
+          "source": "2020 CALISTO, Packet 12"
         }
       ]
     },
     "hard": {
+      "answer": "memory",
       "answerlines": [
-        "Abraham <b><u>Maslow</u></b>",
-        "Abraham <b><u>Maslow</u></b> [accept <b><u>Maslow</u></b>’s hierarchy of needs or <b><u>Maslow</u></b>’s Hammer]"
+        "<b><u>memory</u></b> [or <b><u>memories</u></b>; accept working <b><u>memory</u></b>]",
+        "<b><u>memory</u></b> [accept <b><u>photographic memory</u></b> in the first sentence]",
+        "<b><u>memory</u></b> [accept flashbulb <b><u>memories</u></b> or false <b><u>memories</u></b>; accept short term <b><u>memory</u></b>, long term <b><u>memory</u></b>, or working <b><u>memory</u></b>]",
+        "<b><u>memory</u></b> [accept word forms and equivalents]",
+        "<b><u>memory</u></b> [accept word forms of <b><u>remembrance</u></b> and <b><u>recall</u></b>]"
       ],
       "clues": [
         {
-          "text": "Richard Katz believed that this psychologist failed to cite time studying the Giving Ceremony of the Blackfoot.",
+          "text": "One important psychological study of this phenomenon involved spiral-shaped colored disks in kindergarten classrooms.",
           "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2024 PACE NSC, Packet 01"
+          "source": "2010 PACE NSC, Packet 22 Tie Breaker I"
         },
         {
-          "text": "This man's ideas influenced George Leonard's Human Potential Movement.",
-          "hardness": 1.25,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 5,
-          "source": "2013 PACE NSC, Packet 12"
-        },
-        {
-          "text": "Douglas McGregor expanded on the ideas in this man’s Eupsychian(\"yoo-SIKE-ee-un\") Management to create the Theory X and Theory Y management styles.",
+          "text": "A “sensory register” serves as a minimal reservoir for this phenomenon, according to the Atkinson-Shiffrin model for it.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2024 VAULT, Packet 08"
+          "source": "2021 DUOS, Packet Packet 8"
         },
         {
-          "text": "This psychologist imagined a culturally healthy utopia called Eupsychia (“yew-sike-ee-uh”) in a “Theory Z” outlining the ideal organization of companies.",
-          "hardness": 1.099,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 5,
-          "source": "2024 PACE NSC, Packet 01"
-        },
-        {
-          "text": "This man’s most famous concept was adapted by Clayton Alderfer’s ERG theory.",
-          "hardness": 0.906,
+          "text": "This faculty takes place chemically via LTP.",
+          "hardness": 1.043,
           "inPower": true,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2024 VAULT, Packet 08"
+          "source": "2016 BHSAT, Packet 13"
         },
         {
-          "text": "A cognitive bias of repeatedly using the same tool for different problems is called this psychologist’s “Hammer.”",
-          "hardness": 0.892,
+          "text": "A key paper on one form of it, “Lost in the Shopping Mall,” was written by Elizabeth Loftus, who has served as an expert witness concerning this phenomenon.",
+          "hardness": 0.961,
           "inPower": true,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2024 PACE NSC, Packet 01"
+          "source": "2010 PACE NSC, Packet 22 Tie Breaker I"
         },
         {
-          "text": "This man contrasted the difference between D and B-values, stating that the latter drives metamotivation in people.",
-          "hardness": 0.629,
+          "text": "The description of car crashes with stronger verbs like “smash” altered this phenomenon in an experiment run by John Palmer and Elizabeth Loftus.",
+          "hardness": 0.698,
           "inPower": false,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2024 VAULT, Packet 08"
+          "source": "2021 DUOS, Packet Packet 8"
         },
         {
-          "text": "A group of people studied by this psychologist have Being-values that define their metamotivations and may have “peak experiences.”",
-          "hardness": 0.588,
+          "text": "One form of it is affected by the “magic number” of seven plus or minus two, which can be expanded by “chunking.”",
+          "hardness": 0.587,
           "inPower": false,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2024 PACE NSC, Packet 01"
+          "source": "2010 PACE NSC, Packet 22 Tie Breaker I"
         },
         {
-          "text": "In his work “A Theory of Human Motivation,” this man created a model that can be visualized as a pyramid with self-actualization at the top and physiological needs at the bottom.",
-          "hardness": 0.431,
+          "text": "The reversal of this faculty was modelled by Hermann Ebbinghaus.",
+          "hardness": 0.505,
           "inPower": false,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2024 VAULT, Packet 08"
+          "source": "2016 BHSAT, Packet 13"
         },
         {
-          "text": "Name this psychologist who ranked human desires into a \"hierarchy of needs.\"",
-          "hardness": -0.18,
+          "text": "As in the case of Patient H.M., lesions of the hippocampus can damage this capacity by causing both antero- and retrograde amnesia.",
+          "hardness": 0.31,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2020 BHSAT, Packet 08"
+        },
+        {
+          "text": "Identify this mental phenomenon that exists in sensory, short-term, and long-term types.",
+          "hardness": -0.153,
           "inPower": false,
           "giveaway": true,
           "difficulty": 5,
-          "source": "2013 PACE NSC, Packet 12"
+          "source": "2010 PACE NSC, Packet 22 Tie Breaker I"
+        },
+        {
+          "text": "Name this capacity which has “long-term” and “short-term” varieties.",
+          "hardness": -0.28,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 4,
+          "source": "2020 BHSAT, Packet 08"
         }
       ]
     }

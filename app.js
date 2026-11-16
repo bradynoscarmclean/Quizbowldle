@@ -220,11 +220,21 @@ function renderGame() {
 
   const last = game.revealed >= TOTAL_CLUES;
   $('next-btn').hidden = last;
+  updateNextButton();
   $('buzz-btn').textContent = last ? 'Final answer' : 'Buzz';
   if (last && !$('feedback').textContent) setFeedback('Last clue — you get one attempt.', 'warn');
   show('game');
   list.lastElementChild?.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
   $('answer-input').focus();
+}
+
+// A new clue costs 100, so you can't take one once you're below 100 points.
+const canAffordClue = () => pointsFor(game) >= CLUE_COST;
+
+function updateNextButton() {
+  const btn = $('next-btn');
+  btn.disabled = !canAffordClue();
+  btn.innerHTML = canAffordClue() ? 'Next clue <span class="cost">−100</span>' : 'No points left';
 }
 
 function setFeedback(text, kind = '') {
@@ -265,7 +275,7 @@ function renderResult() {
   else title = strikes(game) >= MAX_STRIKES ? 'Out of strikes' : 'Missed the final clue';
   $('result-title').textContent = title;
   $('result-score').textContent = game.score;
-  $('result-answer').textContent = puzzle.answer;
+  $('result-answer').textContent = puzzle.tiers[tier].answer ?? puzzle.answer;
   $('result-grid').textContent = shareGrid(game);
   $('share-feedback').textContent = '';
   $('all-clues').replaceChildren(
@@ -295,7 +305,7 @@ function finish(won) {
 }
 
 function nextClue() {
-  if (game.revealed >= TOTAL_CLUES) return;
+  if (game.revealed >= TOTAL_CLUES || !canAffordClue()) return;
   game.revealed++;
   save(gameKey(tier), game);
   renderGame();
@@ -396,7 +406,7 @@ async function attempt(given, allowSuggestion) {
   const directive = await checkAnswer(given);
   checking = false;
   $('buzz-btn').disabled = false;
-  $('next-btn').disabled = false;
+  updateNextButton();
 
   if (directive === 'prompt') {
     setFeedback(`Prompt on "${given}" — be more specific.`, 'warn');

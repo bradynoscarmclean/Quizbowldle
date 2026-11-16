@@ -1,276 +1,277 @@
 {
   "date": "2026-12-03",
   "category": "Literature",
-  "answer": "Leo Tolstoy",
   "tiers": {
     "easy": {
+      "answer": "haiku",
       "answerlines": [
-        "Leo <b><u>Tolstoy</u></b>",
-        "Leo <b><u>Tolstoy</u></b> [or Lev (Nikolayvich) <b><u>Tolstoy</u></b>]",
-        "Leo <b><u>Tolstoy</u></b> (accept Lev Nikoleyevich <b><u>Tolstoi</u></b>)",
-        "Leo <b><u> Tolstoy</u></b> (or Lev Nikolayevich <b><u> Tolstoy</u></b> )",
-        "Leo <b><u>Tolstoy</u></b> [accept Lev Nikolayevich <b><u>Tolstoy</u></b>]"
+        "<b><u>haiku</u></b>",
+        "<b><u>haiku</u></b> (accept <b><u>hokku</u></b>; prompt on “poem” before it is read)",
+        "<b><u>haiku</u></b> [or <b><u>hokku</u></b>]",
+        "<b><u>haiku</u></b> [accept <b><u>hokku</u></b>]"
       ],
       "clues": [
         {
-          "text": "This author promotes non-violence while citing the commandment \"Thou shalt not murder\" in \"The Kingdom of God is Within You.\"",
+          "text": "An unpublished collection of these works by Allen Ginsberg begins by describing him drinking sugarless tea.",
           "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2010 SCOP Novice, Packet 03"
+          "source": "2015 SCOP Novice 6, Packet 03"
         },
         {
-          "text": "In a novel by this author, two lovers first meet as a railway worker is killed by a train, and one of them commits suicide when she suspects the other, Count Vronsky (VRON-skee), of having an affair.",
-          "hardness": 1.25,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 2,
-          "source": "2020 TAILS, Packet TAILS Packet 9"
-        },
-        {
-          "text": "In a short story by this author, an accident while climbing a step-ladder leads to “The Death of Ivan Ilych”.",
+          "text": "Poems of this type were published in the collections “Shriveled Chestnuts” and “The Seashell Game”.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 1,
-          "source": "2017 HIGS, Packet 05"
+          "source": "2017 HIGS, Packet 02"
         },
         {
-          "text": "This author wrote a novel in which Stiva witnesses the death of a railway worker and Kitty becomes ill after the protagonist begins an affair.",
-          "hardness": 1.15,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 1,
-          "source": "2020 SCOP MS 10, Packet 04"
-        },
-        {
-          "text": "In a novel by this man, Andrei Bolkonsky is killed at the Battle of Borodino in 1812.",
-          "hardness": 0.952,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 2,
-          "source": "2020 SCOP A, Packet 06"
-        },
-        {
-          "text": "This author of The Death of Ivan Ilyich wrote about a woman who witnesses an “evil omen” of a man falling in front of a train.",
-          "hardness": 0.792,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 1,
-          "source": "2023 Sentinel CYBER 1A, Packet 04"
-        },
-        {
-          "text": "A novel by this man follows Stiva, Dolly, and a woman who has an affair with Count Vronsky.",
-          "hardness": 0.683,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 1,
-          "source": "2022 SCOP MS 11, Packet Round 5"
-        },
-        {
-          "text": "A more famous novel by this author of The Death of Ivan Ilych ends with the marriage between Natasha Rostov and Pierre Bezuhkov after Napoleon’s failed invasion of Russia.",
-          "hardness": 0.584,
+          "text": "The first Westerner known to have engaged in this literary genre is the Dutchman Hendrik Doeff, and R. H. Blyth later popularized it in the English-speaking world.",
+          "hardness": 1.1,
           "inPower": false,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2010 Fall Kickoff Tournament (FKT), Packet Steven"
+          "source": "2010 Fall Kickoff Tournament (FKT), Packet Ben and Colin"
         },
         {
-          "text": "In this man’s most famous novel, which takes place during Napoleon’s invasion of Russia, Natasha Rostova marries Pierre Bezukhov.",
-          "hardness": 0.435,
-          "inPower": false,
+          "text": "This poetic form includes a “cutting word,” which is often translated as a pause.",
+          "hardness": 1.004,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2023 MOQBA Novice, Packet 03"
+        },
+        {
+          "text": "Many of these works are collected in the travelogue The Narrow Road to the Deep North, and they were derived from renga.",
+          "hardness": 0.983,
+          "inPower": true,
           "giveaway": false,
           "difficulty": 1,
-          "source": "2023 Sentinel CYBER 1A, Packet 04"
+          "source": "2022 SANDS, Packet 07"
         },
         {
-          "text": "Identify this author who wrote the lengthy but brilliant novel War and Peace.",
-          "hardness": -0.131,
+          "text": "In poems in this form, the term \"kigo\" is used to describe seasonal references.",
+          "hardness": 0.854,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2023 MOQBA Novice, Packet 03"
+        },
+        {
+          "text": "Examples of these types of poems often focus on ( *) nature and the seasons, and an often-cited one describes a frog jumping into a pond.",
+          "hardness": 0.605,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2016 Pennsylvania Novice, Packet 03"
+        },
+        {
+          "text": "The sound of water as a frog jumped into a pond inspired Matsuo Basho to write what style of Japanese poetry, which in English consists of three lines of five, seven, and five syllables.",
+          "hardness": 0.202,
           "inPower": false,
           "giveaway": true,
           "difficulty": 2,
-          "source": "2010 Fall Kickoff Tournament (FKT), Packet Steven"
+          "source": "2011 SCOP Novice 2, Packet 05"
+        },
+        {
+          "text": "Matsuo Basho authored many of what type of seventeen-syllable poems, common in Japan?",
+          "hardness": -0.088,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 2,
+          "source": "2016 Pennsylvania Novice, Packet 03"
+        },
+        {
+          "text": "Name this Japanese form of poetry that follows a 5-7-5 syllable scheme.",
+          "hardness": -0.191,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 1,
+          "source": "2022 SANDS, Packet 07"
         }
       ]
     },
     "medium": {
+      "answer": "Heart of Darkness",
       "answerlines": [
-        "Leo <b><u>Tolstoy</u></b> [or Lev Nikolayevich <b><u>Tolstoy</u></b>]",
-        "Leo <b><u>Tolstoy</u></b> [or Count Lev Nikolayevich <b><u>Tolstoy</u></b>]",
-        "Leo <b><u>Tolstoy</u> </b>",
-        "Leo <b><u>Tolstoy</u></b>",
-        "Leo <b><u>Tolstoy</u></b> [accept Lev Nikolayevich <b><u>Tolstoy</u></b>]"
+        "<b><u>Heart of Darkness</u></b>",
+        "<i><b><u>Heart of Darkness</u></b></i>",
+        "<i><b><u>Heart of Darkness</u></b></i> (Conrad is called “a thoroughgoing racist” in Chinua Achebe’s essay “An Image of Africa.”)"
       ],
       "clues": [
         {
-          "text": "A work by this author concludes “the hero of my tale is the truth.”",
+          "text": "The narrator of this novel is amazed when one group does not attack their employers despite having only rotten hippo meat to eat.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2023 SWAMP, Packet 10"
+          "source": "2020 CALISTO, Packet 01"
         },
         {
-          "text": "In one novel by this author, the protagonist listens to a story about a man wrongly accused of murder from a prison-mate named Platon.",
+          "text": "In this novel, a Russian assistant to the protagonist is called “Harlequin” because of his multicolored clothing.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2012 BDAT, Packet 11"
+          "source": "2018 GLRAC, Packet 6"
         },
         {
-          "text": "In a story by this author, a man tries to enclose a vast amount of land by dragging a shovel in the dirt, but collapses dead and is given a grave instead.",
-          "hardness": 1.15,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2026 SHOW-ME, Packet 03"
-        },
-        {
-          "text": "The protagonist of another of his stories drops dead after running all day to claim land from the Bashkir tribe.",
-          "hardness": 0.981,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2014 Maryland Spring, Packet 10"
-        },
-        {
-          "text": "The book The Kingdom of God is Within You illustrates this author’s belief in Christian anarchism.",
-          "hardness": 0.92,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2026 SHOW-ME, Packet 03"
-        },
-        {
-          "text": "A French clairvoyant advises a character created by this author of the Sevastopol Sketches not to divorce.",
-          "hardness": 0.843,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2023 SWAMP, Packet 10"
-        },
-        {
-          "text": "This author of The Kreutzer Sonata wrote a novella about a magistrate who falls while hanging curtains.",
-          "hardness": 0.594,
+          "text": "The narrator of this work alludes to the Book of Matthew when he describes a city as a “whited sepulchre.”",
+          "hardness": 1,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2015 GSAC, Packet 03"
+          "source": "2015 VTACO, Packet 11"
         },
         {
-          "text": "More famous characters created by this author include Anatole Kuragin, Pierre Bezukhov, and a lover of Count Vronsky who commits suicide by throwing herself on train tracks.",
-          "hardness": 0.424,
+          "text": "This book’s narrator feels nature’s “invading…vengeful rush” before talking to a character’s mistress.",
+          "hardness": 0.96,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2023 SWAMP, Packet 06"
+        },
+        {
+          "text": "The narrator of this novel is assisted by a Russian named “Harlequin” at the Inner Station.",
+          "hardness": 0.83,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2022 SHOW-ME, Packet 13"
+        },
+        {
+          "text": "Narrating from aboard the Nellie, the protagonist suffers from a lack of rivets for his ship prior to meeting a Russian traveler that admires a character who decorates the Inner Station with human heads and whose last words are “The Horror!”.",
+          "hardness": 0.651,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2010 BATE, Packet 02"
+          "source": "2010 GSAC, Packet 09"
         },
         {
-          "text": "He also wrote a novel that features Pierre Bezukhov, set during the Napoleonic invasion of Russia.",
-          "hardness": 0.25,
+          "text": "A boat anchored on the Thames River serves as the setting for this work, and that boat is named Nellie.",
+          "hardness": 0.516,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2020 RAFT, Packet 14"
+          "source": "2018 GLRAC, Packet 6"
         },
         {
-          "text": "The novella The Kreutzer Sonata is by what Russian author of Anna Karenina?",
-          "hardness": -0.267,
+          "text": "The central character of this work scrawls “exterminate all the brutes!” in a book, lives in a hut surrounded by shrunken heads, and cries “the horror, the horror!” before dying.",
+          "hardness": 0.43,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2014 Maryland Spring, Packet 07"
+        },
+        {
+          "text": "The horror!” on a steamer on the Congo river.",
+          "hardness": 0.19,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2025 SHOW-ME, Packet 13"
+        },
+        {
+          "text": "Charles Marlow is sent to meet Kurtz in what novel by Joseph Conrad?",
+          "hardness": -0.277,
           "inPower": false,
           "giveaway": true,
           "difficulty": 3,
-          "source": "2026 SHOW-ME, Packet 03"
+          "source": "2025 SHOW-ME, Packet 13"
         }
       ]
     },
     "hard": {
+      "answer": "Petrarch",
       "answerlines": [
-        "Leo <b><u>Tolstoy</u></b> [or Lev Nikolayevich <b><u>Tolstoy</u></b>]",
-        "Leo <b><u>Tolstoy</u></b>",
-        "Leo <b><u>Tolstoy</u></b> [accept Lev Nikolayevich <b><u>Tolstoy</u></b>] (The first story is “Alyosha the Pot”; the second line refers to his <i>Sevastopol Sketches</i>.)"
+        "<b><u>Petrarch</u></b> (or Francesco <b><u>Petrarca</u></b>)",
+        "<b><u>Petrarch</u></b> [or Francesco <b><u>Petrarca</u></b>]",
+        "<b><u>Petrarch</u></b> [or Francesco <b><u>Petrarca</u></b>; accept <b><u>Petrarch</u></b>an sonnet]",
+        "<b><u>Petrarch</u></b> (or <b><u>Francesco Petrarca</u></b>)",
+        "<b><u>Petrarch</u></b> [accept Francesco <b><u>Petrarca</u></b>]"
       ],
       "clues": [
         {
-          "text": "A story by this author which is interpreted in George Saunders’s essay “The Wisdom of Omission” ends with the title character dying after clearing snow from a roof.",
+          "text": "This author claimed that \"This sleep of forgetfulness will not last forever\" in the conclusion to a long work that includes the death of Magone and the suicide of Sophonisba.",
           "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2026 PACE NSC, Packet 07"
+          "source": "2014 PACE NSC, Packet 10"
         },
         {
-          "text": "One of this author’s main characters confesses to murder after a conversation in a train car turns to love.",
-          "hardness": 1.15,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 4,
-          "source": "2017 BHSAT, Packet 06"
-        },
-        {
-          "text": "Michael learns the answers to three questions and returns to angelhood after working as Simon's apprentice in this author's story \"What Men Live By.\"",
-          "hardness": 1.15,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 4,
-          "source": "2019 BLAST, Packet Packet 9"
-        },
-        {
-          "text": "The siege of a city inspired three stories by this author set in December, May and August.",
-          "hardness": 1.017,
+          "text": "This man wrote \"Virtue will take up arms against savagery\" in a poem addressed to his country, which ends \"Peace, peace, peace!\"",
+          "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2026 PACE NSC, Packet 07"
+          "source": "2012 PACE NSC, Packet 14"
         },
         {
-          "text": "One of this author's characters adopts an uncertain half-bow half-crossing himself gesture out of respect for a dead man, before arranging a game of bridge with Schwartz.",
-          "hardness": 0.96,
+          "text": "This poet portrayed Death being conquered by Fame in the collection Triumphs.",
+          "hardness": 1.143,
           "inPower": true,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2019 BLAST, Packet Packet 9"
+          "source": "2025 Planetfall, Packet 02"
         },
         {
-          "text": "In a story by this author, a character dreams of the fox fur-wearing Chief becoming the devil after making a deal with the Bashkirs.",
-          "hardness": 0.888,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 5,
-          "source": "2026 PACE NSC, Packet 07"
-        },
-        {
-          "text": "This author of \"Father Sergius\" and the Sevastopol Sketches wrote a novella whose protagonist wonders \"What if my whole life has been wrong?\" while observing his servant Gerasim, after which he spends three days screaming before \"some force\" strikes him and he succumbs to his injuries from a curtain-hanging mishap.",
-          "hardness": 0.667,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 5,
-          "source": "2014 PACE NSC, Packet 13"
-        },
-        {
-          "text": "In another work, this author of The Death of Ivan Ilyich wrote about Kitty’s marriage to Konstantin Levin and the title character’s relationship with Vronsky, ending in her suicide by throwing herself in front of a train.",
-          "hardness": 0.508,
+          "text": "This author compared an old man preparing to see the Veronica icon on pilgrimage to himself, and wrote another poem as a list of contradictory feelings such as “I burn and yet I freeze.”",
+          "hardness": 1,
           "inPower": false,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2011 Prison Bowl, Packet 09"
+          "source": "2013 BHSAT, Packet 05"
         },
         {
-          "text": "This author created a character who is cared for by his servant Gerasim after injuring himself while hanging curtains.",
-          "hardness": 0.406,
+          "text": "A “Prayer to the Virgin” ends a collection by this author in which he is “captured” by “lovely eyes” on a day when the “sun’s ray / was darkened.”",
+          "hardness": 0.891,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2023 PACE NSC, Packet 06 TB1"
+        },
+        {
+          "text": "He was crowned as the first modern poet laureate on the strength of his epic about the Punic War, Africa.",
+          "hardness": 0.713,
           "inPower": false,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2026 PACE NSC, Packet 07"
+          "source": "2012 PACE NSC, Packet 14"
         },
         {
-          "text": "Name this Russian novelist, the author of Anna Karenina and War and Peace.",
-          "hardness": -0.258,
+          "text": "Scipio Africanus’s victory was detailed in this poet’s epic Africa.",
+          "hardness": 0.615,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2025 Planetfall, Packet 02"
+        },
+        {
+          "text": "This author of the Rime Sparse (“REE-mey SPAR-sey”), also called the Canzoniere, names a poetic form devised earlier than the Spenserian and Shakespearean forms, in which an eight-line octave precedes a six-line sestet.",
+          "hardness": 0.486,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2013 BHSAT, Packet 05"
+        },
+        {
+          "text": "This poet’s collection Il Canzoniere contains many examples of the fourteen-line sonnet form named after him.",
+          "hardness": 0.318,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2017 HFT, Packet 04"
+        },
+        {
+          "text": "Name this Italian poet, who wrote about his love for Laura in his namesake sonnet form.",
+          "hardness": -0.211,
           "inPower": false,
           "giveaway": true,
           "difficulty": 4,
-          "source": "2017 HFT, Packet 11"
+          "source": "2025 Planetfall, Packet 02"
         }
       ]
     }

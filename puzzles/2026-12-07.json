@@ -1,0 +1,281 @@
+{
+  "date": "2026-12-07",
+  "category": "Fine Arts",
+  "tiers": {
+    "easy": {
+      "answer": "pianoforte",
+      "answerlines": [
+        "<b><u>piano</u></b>forte",
+        "<b><u>piano</u></b>forte [accept prepared <b><u>piano</u></b>]",
+        "<b><u>piano</u></b>forte [prompt on <u>keyboard</u>]",
+        "<b><u>Piano</u></b>forte"
+      ],
+      "clues": [
+        {
+          "text": "A bandleader who played this instrument collaborated with Juan Tizol on the Latin-flavored “Caravan.”",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2020 MOQBA Novice, Packet Packet 08"
+        },
+        {
+          "text": "This instrument was played by the composer of \"Watermelon Man\", Herbie Hancock.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2021 CERES, Packet 02"
+        },
+        {
+          "text": "This instrument was named for its ability to play both loud and soft.",
+          "hardness": 1,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2015 SAGES, Packet 07"
+        },
+        {
+          "text": "Scott Joplin's Maple Leaf Rag is played on this instrument.",
+          "hardness": 0.787,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2022 MAKEMAKE, Packet 03"
+        },
+        {
+          "text": "Dominico Scarlatti wrote 555 sonatas as one of the earliest composers for this instrument.",
+          "hardness": 0.764,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2016 PLATO, Packet 03"
+        },
+        {
+          "text": "Among its most famous players are Thelonious Monk and Franz Liszt.",
+          "hardness": 0.553,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2016 PLATO, Packet 03"
+        },
+        {
+          "text": "With Billy Strayhorn, a player of this instrument wrote “In a Sentimental Mood” and “Take The A Train.”",
+          "hardness": 0.431,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2020 MOQBA Novice, Packet Packet 08"
+        },
+        {
+          "text": "The blind Stevie Wonder notably played this instrument, whose three foot-operated pedals are oft-used in jazz.",
+          "hardness": 0.398,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2021 CERES, Packet 02"
+        },
+        {
+          "text": "Name this instrument played by Tommy Flannigan, Dave Brubeck, and Duke Ellington.",
+          "hardness": -0.141,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 2,
+          "source": "2020 MOQBA Novice, Packet Packet 08"
+        },
+        {
+          "text": "Name this keyboard instrument which has 88 black and white keys.",
+          "hardness": -0.217,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 1,
+          "source": "2016 PLATO, Packet 03"
+        }
+      ]
+    },
+    "medium": {
+      "answer": "Impressionism",
+      "answerlines": [
+        "<u>Impressionism</u> (accept word forms)",
+        "<b><u>impressionism</u></b> [accept word forms]",
+        "<b><u>Impressionism</u></b> [accept related word forms like <b><u>impressionist</u></b>]",
+        "<b><u>Impressionism</u></b> [accept word forms]",
+        "<b><u>Impressionism</u></b> [or <b><u>Impressionist</u></b>; or American <b><u>Impressionism</u></b>]"
+      ],
+      "clues": [
+        {
+          "text": "This movement emerged after an \"Anonymous Society\" organized an independent exhibition after being rejected from the Salon.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2013 JAMES, Packet 14"
+        },
+        {
+          "text": "An American art collective known as The Ten was primarily associated with this art movement.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2018 WHAQ, Packet 11"
+        },
+        {
+          "text": "An American artist from this movement depicted a puppy and a bored child in a white dress lying in blue armchairs.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2021 AQBL February Set, Packet 02"
+        },
+        {
+          "text": "Alfred Sisley was a prominent English member of this movement who pioneered the usage of en plein air landscapes among its members.",
+          "hardness": 1.008,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2020 RAFT, Packet 02"
+        },
+        {
+          "text": "The Child's Bath was a painting by an American member of this art movement, Mary Cassatt.",
+          "hardness": 0.952,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2013 JAMES, Packet 14"
+        },
+        {
+          "text": "One member of this school painted the Houses of Parliament under varying weather conditions and another painted Van Gogh leaning over a boat rail in The Luncheon of the Boating Party.",
+          "hardness": 0.658,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2013 JAMES, Packet 14"
+        },
+        {
+          "text": "One artist from this movement often painted his wife Camille Doncieux, and another member of it painted a boy poking his feet in a bowl of water in The Child's Bath.",
+          "hardness": 0.572,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2019 ATHENA II, Packet 06"
+        },
+        {
+          "text": "A pioneer of this art movement portrayed haystacks throughout the seasons as well as a series of over 250 murals of water lilies.",
+          "hardness": 0.43,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 LIST, Packet 7"
+        },
+        {
+          "text": "Name this late 19th century art movement led by Mary Cassatt, Pierre-Auguste Renoir, and Claude Monet.",
+          "hardness": -0.173,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2018 WHAQ, Packet 11"
+        },
+        {
+          "text": "Auguste Renoir and Claude Monet were of what school of art?",
+          "hardness": -0.282,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2013 JAMES, Packet 14"
+        }
+      ]
+    },
+    "hard": {
+      "answer": "Sergei Rachmaninoff",
+      "answerlines": [
+        "Sergei <b><u>Rachmaninoff</u></b>",
+        "Sergei <b><u>Rachmaninoff</u></b> [accept Sergei Vasilievich <b><u>Rachmaninoff</u></b>]",
+        "Sergei <b><u>Rachmaninoff</u></b> [or Sergei Vasilyevich <b><u>Rachmaninoff</u></b>] (The third clue refers to <i>Isle of the</i> <i>Dead</i>.)",
+        "Sergei <b><u>Rachmaninoff</u></b> [prompt on <u>Rach</u>]",
+        "Sergei <b><u>Rachmaninoff</u></b> [accept Sergei <b><u>Rachmaninov</u></b>]"
+      ],
+      "clues": [
+        {
+          "text": "In the slow third movement of this composer’s second symphony, violins introduce the yearning motif “G-sharp, A, F-sharp” over the IV (“four”) chord, D major.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2026 PACE NSC, Packet 03"
+        },
+        {
+          "text": "The fifth movement of this composer’s All-Night Vigil was sung at his funeral.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2019 RMBAT, Packet 02"
+        },
+        {
+          "text": "A long clarinet solo introduces the second theme of the Adagio from this composer’s Symphony No. 2 in E minor.",
+          "hardness": 1.035,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2026 PACE NSC, Packet 03"
+        },
+        {
+          "text": "This composer’s first symphony, which extensively quotes the Dies Irae, had a disastrous premiere conducted by Alexander Glazunov.",
+          "hardness": 0.959,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2019 BLAST, Packet Packet 11"
+        },
+        {
+          "text": "One of his orchestral works based on gypsy themes ends in a loud E major chord, and alongside Caprice Bohemien, he wrote a suite with movements marked \"Non allegro\" and \"Andante con moto\" which uses a three-note motif and features alto saxophone near the beginning.",
+          "hardness": 0.836,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2010 NAREN, Packet 02"
+        },
+        {
+          "text": "In a piece by this composer, the A minor main theme is inverted to D-flat major in its 18th variation.",
+          "hardness": 0.728,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2018 PACE NSC, Packet 20 - TB2"
+        },
+        {
+          "text": "He used a recurring motif in 5/8 time to suggest the movement of water in a symphonic poem based on a Böcklin painting, The Isle of the Dead.",
+          "hardness": 0.562,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2012 Prison Bowl, Packet 04"
+        },
+        {
+          "text": "The soloist alternates between bell-like chords and a low F to open this composer’s C minor second piano concerto, which he dedicated to his therapist Nikolai Dahl.",
+          "hardness": 0.461,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2026 PACE NSC, Packet 03"
+        },
+        {
+          "text": "While living in exile in Switzerland, he composed a series of variations on the 24th Caprice of an Italian violin virtuoso.",
+          "hardness": 0.38,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2018 PACE NSC, Packet 20 - TB2"
+        },
+        {
+          "text": "Name this large-handed Russian pianist and composer of Rhapsody on a Theme of Paganini.",
+          "hardness": -0.162,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 5,
+          "source": "2026 PACE NSC, Packet 03"
+        }
+      ]
+    }
+  }
+}

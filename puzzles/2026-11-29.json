@@ -1,278 +1,280 @@
 {
   "date": "2026-11-29",
   "category": "Science",
-  "answer": "iron",
   "tiers": {
     "easy": {
+      "answer": "photosynthesis",
       "answerlines": [
-        "<b><u>iron</u></b> [or <b><u>Fe</u></b> until mentioned]",
-        "<b><u>iron</u></b> (accept <b><u>Fe</u></b> until read)",
-        "<b><u>iron</u></b> [accept <b><u>Fe</u></b> before mention]",
-        "<b><u>iron</u></b> (accept<b><u>Fe</u></b>before it is read)",
-        "<b><u>iron</u></b> (or <b><u>Fe</u></b>)"
+        "<b><u>photosynthesis</u></b> (accept CAM <b><u>photosynthesis</u></b>; prompt on “(C4) carbon fixation;” prompt on “light-independent<u> reactions”)</u>",
+        "<b><u>photosynthesis</u></b>",
+        "<b><u>photosynthesis</u></b> [accept <b><u>C</u></b>rassulacean <b><u>a</u></b>cid <b><u>m</u></b>etabolism photosynthesis; accept <b><u>CAM</u></b> photosynthesis; accept <b><u>C4</u></b> photosynthesis]",
+        "<b><u>Photosynthesis</u></b>",
+        "<b><u>photosynthesis</u></b> (accept <b><u>light-dependent reaction</u></b> and <b><u>light-independent reaction</u></b>; accept <b><u>Calvin Cycle</u></b> before “NADPH”; prompt on <u>carbon fixation</u>)"
       ],
       "clues": [
         {
-          "text": "This element forms cubic clusters with sulfur in several important enzymes.",
+          "text": "In dry areas, this process can be aided by crassulacean acid metabolism.",
           "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2016 Pennsylvania Novice, Packet 11"
+          "source": "2019 SCOP Novice 10, Packet 06"
         },
         {
-          "text": "This element's isotope 56 has the highest binding energy per nucleon, making it the heaviest stable element that can be formed by stellar fusion.",
+          "text": "A variety of this process that occurs in arid climates is named for acid metabolism in the family Crassulaceae.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 1,
-          "source": "2023 QUAOAR, Packet 12"
+          "source": "2022 SANDS, Packet 03"
         },
         {
-          "text": "Compounds of this transition metal are characteristic of Precambrian banded rock formations.",
-          "hardness": 1.12,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 2,
-          "source": "2020 MOQBA Novice, Packet Packet 09"
-        },
-        {
-          "text": "Every radioactive element with a mass above that of this element will eventually decay primarily into it, although it is possible to fuse isotopes of elements heavier than it into metastable nucleides.",
-          "hardness": 0.935,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 2,
-          "source": "2010 Fall Kickoff Tournament (FKT), Packet Jarret"
-        },
-        {
-          "text": "Pyrite, or fool’s gold, contains two sulfur atoms and one atom of this element.",
-          "hardness": 0.866,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 2,
-          "source": "2016 Pennsylvania Novice, Packet 11"
-        },
-        {
-          "text": "In one oxide of this element, cations of this element have an oxidation number of 8/3; that ore is sometimes called lodestone.",
-          "hardness": 0.631,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 2,
-          "source": "2020 MOQBA Novice, Packet Packet 09"
-        },
-        {
-          "text": "This is the most abundant element found in the inner core of Earth, and exposing it to oxygen gas forms rust.",
-          "hardness": 0.511,
+          "text": "Modifications of this process can use PEP carboxylase (“PEP” car-BOX-ill-ase) to fix a reactant normally fixed by RuBisCO (roo-BISS-ko) in this process’s dark reactions.",
+          "hardness": 1,
           "inPower": false,
           "giveaway": false,
           "difficulty": 1,
-          "source": "2022 MAKEMAKE, Packet 12"
+          "source": "2011 Collaborative Middle School Tournament #2, Packet 01"
         },
         {
-          "text": "It names the strongest type of magnetism, which is ferromagnetism.",
-          "hardness": 0.375,
+          "text": "This process, which requires molecules such as RuBisCo, comes in both C4 and the more common C3 types.",
+          "hardness": 0.98,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2023 Sentinel CYBER 1A, Packet 08"
+        },
+        {
+          "text": "The first steps in this process involve an electron transport chain that ends with the reduction of NADP+.",
+          "hardness": 0.849,
           "inPower": false,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2016 Pennsylvania Novice, Packet 11"
+          "source": "2012 Fall Kickoff Tournament (FKT), Packet 09"
         },
         {
-          "text": "Name this most stable element in the universe, whose ions are often called ferrous or ferric.",
-          "hardness": -0.1,
+          "text": "Most organisms that perform this process are cyanobacteria, and chloroplasts are the site of this process in plants.",
+          "hardness": 0.718,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2011 SCOP Novice 2, Packet 04"
+        },
+        {
+          "text": "This process takes place inside thylakoids, a membrane-bound component of chloroplasts.",
+          "hardness": 0.523,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2019 SCOP Novice 10, Packet 06"
+        },
+        {
+          "text": "This process releases oxygen as a waste product and occurs in the chloroplast.",
+          "hardness": 0.465,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2012 Fall Kickoff Tournament (FKT), Packet 09"
+        },
+        {
+          "text": "Name this process which converts carbon dioxide and water to sugar by using light energy.",
+          "hardness": -0.014,
           "inPower": false,
           "giveaway": true,
           "difficulty": 2,
-          "source": "2010 Fall Kickoff Tournament (FKT), Packet Jarret"
+          "source": "2011 SCOP Novice 2, Packet 04"
         },
         {
-          "text": "Name this transition metal with symbol Fe, which may form rust when exposed to air.",
-          "hardness": -0.171,
+          "text": "Name this process plants use to convert sunlight energy into glucose.",
+          "hardness": -0.24,
           "inPower": false,
           "giveaway": true,
           "difficulty": 1,
-          "source": "2023 QUAOAR, Packet 12"
+          "source": "2023 Sentinel CYBER 1A, Packet 08"
         }
       ]
     },
     "medium": {
+      "answer": "Chromatography",
       "answerlines": [
-        "<b><u>iron</u></b> (accept <b><u>Fe</u></b> before mention)",
-        "<b><u>Iron</u></b>",
-        "<b><u>iron</u></b> (accept <b><u>Fe</u></b> before mention) <GA>",
-        "<b><u>iron</u></b> [accept <b><u>Fe</u></b> until mentioned]",
-        "<b><u>iron</u></b> [or <b><u>Fe</u></b> until it is mentioned]"
+        "<b><u>Chromatography</u></b>",
+        "<b><u>chromatography</u></b> [accept <b><u>gas chromatography</u></b> in the first sentence]",
+        "<b><u>chromatography</u></b> [accept affinity <b><u>chromatography</u></b>, high-performance liquid <b><u>chromatography</u></b>, gas <b><u>chromatography</u></b>, ion-exchange <b><u>chromatography</u></b>, or any other specific type of <b><u>chromatography</u></b>]",
+        "<b><u>chromatography</u></b>",
+        "<b><u>chromatography</u></b> [accept immobilized metal affinity <b><u>chromatography</u></b>, thin-layer <b><u>chromatography</u></b>, paper <b><u>chromatography</u></b>, <b><u>TLC</u></b>, <b><u>IMAC</u></b>, <b><u>GPC</u></b>, <b><u>SEC</u></b>]"
       ],
       "clues": [
         {
-          "text": "Catalysts of this element are routinely used in the Fischer-Tropsch process to convert carbon monoxide to hydrocarbons and in the Haber-Bosch process to produce ammonia.",
+          "text": "One form of this technique uses nickel-agarose beads to purify histidine-tagged proteins.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2020 AQBL October Set, Packet 09"
+          "source": "2025 SQUIRREL, Packet 04"
         },
         {
-          "text": "The sponge variety of this material is produced from a direct reduction by a reducing gas or elemental carbon and may be produced in a bloomery.",
+          "text": "In one version of this technique, a current is generated by combustion in a flame ionization detector.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2020 TAPIR, Packet 03"
+          "source": "2024 SITH, Packet 10"
         },
         {
-          "text": "This element sometimes exists in a gamma phase allotrope known as austenite.",
+          "text": "One value involved in a form of this technique is the Kovats retention index, and this technique is used twice in MudPit protein analysis.",
           "hardness": 1,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2014 BELLOCO, Packet 01"
+          "source": "2014 GSAC, Packet 06"
         },
         {
-          "text": "The pigment Prussian blue ideally contains seven ions of this element complexed with eighteen cyanide ions.",
-          "hardness": 0.884,
+          "text": "This technique can use the Purnell equation to distinguish two different peaks, while the van Deemter equation finds the height of a theoretical plate.",
+          "hardness": 0.979,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2025 SQUIRREL, Packet 04"
+        },
+        {
+          "text": "The thin-layer form of this process uses a silica plate inside a beaker.",
+          "hardness": 0.815,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2022 Saucy Invitational, Packet 02"
+        },
+        {
+          "text": "Quantities important in this technique include retention time and retardation factor, which is commonly abbreviated as the R.F. value.",
+          "hardness": 0.717,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2014 BELLOCO, Packet 01"
+          "source": "2012 GSAC, Packet 07"
         },
         {
-          "text": "The production of hydrogen sulfide by bacteria may have greatly reduced the presence of this element in early oceans.",
-          "hardness": 0.744,
+          "text": "Pumps move a highly pressurized liquid in the “high performance” type of this technique.",
+          "hardness": 0.535,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2016 Prison Bowl, Packet 07"
+          "source": "2019 WAIT, Packet 10"
         },
         {
-          "text": "In the body, it is found at the center of porphyrin molecules.",
-          "hardness": 0.651,
+          "text": "An important value to this technique is the retention factor, and it is separated into mobile and stationary phases.",
+          "hardness": 0.461,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2010 BATE, Packet 09"
+          "source": "2014 GSAC, Packet 06"
         },
         {
-          "text": "This is the heaviest element produced in stellar nucleosynthesis because it has the highest binding energy per nucleon.",
-          "hardness": 0.525,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2014 BISB, Packet 10"
-        },
-        {
-          "text": "The high luster and yellow hue of this element’s sulfide give it its nickname fool’s gold.",
-          "hardness": 0.346,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2017 Maryland Fall, Packet Tiebreakers"
-        },
-        {
-          "text": "It exists alongside oxygen in such minerals as hematite and magnetite.",
-          "hardness": 0.264,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2016 WHAQ, Packet 02"
-        },
-        {
-          "text": "Name this transition metal whose oxides are typically referred to as rust.",
-          "hardness": -0.261,
+          "text": "Name this separation laboratory technique in which a mobile phase moves past a stationary phase, with types like “high-performance liquid,” “column,” and “paper.”",
+          "hardness": -0.157,
           "inPower": false,
           "giveaway": true,
           "difficulty": 3,
-          "source": "2010 BATE, Packet 09"
+          "source": "2018 GLRAC, Packet 7"
+        },
+        {
+          "text": "Name this laboratory technique used to separate molecules by polarity.",
+          "hardness": -0.241,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2019 WAIT, Packet 10"
         }
       ]
     },
     "hard": {
+      "answer": "carbon monoxide",
       "answerlines": [
-        "<b><u>iron</u></b> (accept <b><u>Fe</u></b>)",
-        "<b><u>iron</u></b> [accept <b><u>Fe</u></b> before mention]",
-        "<b><u>iron</u></b> [or <b><u>Fe</u></b>]",
-        "<b><u>iron</u></b> [or <b><u>Fe</u></b> until read]",
-        "<b><u>Iron</u></b> [accept <b><u>Fe</u></b> early]"
+        "<b><u>carbon monoxide</u></b> [or <b><u>CO</u></b>]",
+        "<b><u>carbon monoxide</u> </b>(or <b><u>CO</u></b>; do not accept or prompt on <u>carbon dioxide</u>)",
+        "<b><u>carbon monoxide</u></b> [accept <b><u>CO</u></b> before mention]",
+        "<b><u>carbon monoxide</u></b> [accept <b><u>carbonyl ligand</u></b> before “carbonyl” or <b><u>CO</u></b> before “CO”; reject partial answers]",
+        "<b><u>carbon monoxide</u></b> [or <b><u>CO</u></b> before it is read]"
       ],
       "clues": [
         {
-          "text": "In the Goldschmidt classification, species are grouped by whether their preferred host is rock, ores, gas, or this element.",
+          "text": "This neutral covalent compound, with its large ligand-field splitting parameter, is located at the greatest end of the spectrochemical series.",
           "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2018 PACE NSC, Packet 01"
+          "source": "2014 PACE NSC, Packet 03"
         },
         {
-          "text": "A cofactor with this element at its center is found in an enzyme that can artificially catalyze alkene cyclopropanation.",
+          "text": "This compound has the highest bond-dissociation energy of any neutral molecule.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2019 HFT, Packet 09"
+          "source": "2020 Prison Bowl, Packet 04"
         },
         {
-          "text": "The gamma allotrope of this element is austenite, and it is in both ions forming Prussian Blue.",
-          "hardness": 1.115,
+          "text": "Its discoverer, Joseph de Lassone, isolated it from a heated mixture of zinc oxide and coke, but confused it with hydrogen because of its blue flame.",
+          "hardness": 1.1,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2007 PACE NSC, Packet 09 final"
+        },
+        {
+          "text": "This compound has the highest crystal-field splitting parameter out of all common ligands.",
+          "hardness": 0.986,
           "inPower": true,
           "giveaway": false,
-          "difficulty": 5,
-          "source": "2019 Prison Bowl, Packet 11"
-        },
-        {
-          "text": "A silicate of this element is fayalite, which is an endmember of the olivine group.",
-          "hardness": 0.992,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 5,
-          "source": "2015 PACE NSC, Packet 12"
-        },
-        {
-          "text": "An enzyme in the Krebs cycle named aconitase has a catalytic center with atoms of this metal and sulfur arranged in a cube.",
-          "hardness": 0.813,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 5,
-          "source": "2016 PACE NSC, Packet 01"
-        },
-        {
-          "text": "This element is in the group with the highest d occupancy to readily form a double bond to oxygen.",
-          "hardness": 0.603,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 5,
-          "source": "2010 PACE NSC, Packet 2"
-        },
-        {
-          "text": "Ores of this element include a specimen historically called lodestone and the reddish-brown hematite.",
-          "hardness": 0.473,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 5,
-          "source": "2018 PACE NSC, Packet 01"
-        },
-        {
-          "text": "This element, which is transported by transferrin and ferritin, is deficient in the most common type of anemia.",
-          "hardness": 0.351,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 5,
-          "source": "2018 PACE NSC, Packet 09"
-        },
-        {
-          "text": "Name this metal which binds oxygen to transport it through the blood, since it's at the center of hemoglobin.",
-          "hardness": -0.127,
-          "inPower": false,
-          "giveaway": true,
-          "difficulty": 5,
-          "source": "2014 PACE NSC, Packet 02"
-        },
-        {
-          "text": "The primary metal in steel is what element with symbol Fe?",
-          "hardness": -0.296,
-          "inPower": false,
-          "giveaway": true,
           "difficulty": 4,
-          "source": "2019 BLAST, Packet Packet 2"
+          "source": "2022 DART, Packet 05"
+        },
+        {
+          "text": "Four molecules of this compound combine with impure nickel in the Mond process.",
+          "hardness": 0.858,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2015 Maryland Fall, Packet 07"
+        },
+        {
+          "text": "Due to extensive backbonding, this molecule has the highest delta in the spectrochemical series.",
+          "hardness": 0.821,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2025 VAULT, Packet 05"
+        },
+        {
+          "text": "This compound binds to hemoglobin much more strongly than oxygen, explaining its toxicity.",
+          "hardness": 0.435,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2022 DART, Packet 05"
+        },
+        {
+          "text": "Along with smoke, this colorless, odorless, lethal gas is sensed by many detectors.",
+          "hardness": 0.354,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2021 LHASA, Packet 10"
+        },
+        {
+          "text": "This toxic molecule is released by automobiles inside closed garages due to incomplete combustion.",
+          "hardness": 0.258,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2025 VAULT, Packet 05"
+        },
+        {
+          "text": "Name this compound with formula CO.",
+          "hardness": -0.235,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 5,
+          "source": "2014 PACE NSC, Packet 03"
         }
       ]
     }

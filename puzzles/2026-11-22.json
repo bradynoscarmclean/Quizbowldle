@@ -1,274 +1,280 @@
 {
   "date": "2026-11-22",
   "category": "Religion",
-  "answer": "Holi",
   "tiers": {
     "easy": {
+      "answer": "Muhammad",
       "answerlines": [
-        "<b><u>Holi</u></b> (accept <b><u>Hola</u></b> Mohalla)",
-        "<b><u>Holi</u></b> [prompt on <b><u>Basanta Utsav</u></b>]",
-        "<b><u>Holi</u></b>"
+        "<b><u>Muhammad</u></b>",
+        "<b><u>Muhammad</u></b> [accept alternate versions of his name like <b><u>Mohamed</u></b>, <b><u>Muhammud</u></b>, etc.]",
+        "<b><u>Muhammad</u></b> (prompt on “The Prophet” before “prophet” is read)",
+        "<b><u>Muhammad</u></b> [or <b><u>Mohammed</u></b>]",
+        "<b><u>Muhammad</u></b> [or Abū al-Qāsim <b><u>Muhammad</u></b>]"
       ],
       "clues": [
         {
-          "text": "Ranga Panchami takes place five days after this holiday, which is known as Phagwa in Central America.",
-          "hardness": 1.35,
+          "text": "Scholars debate whether Satan occupied this figure’s tongue when they praised Lāt, Uzzá, and Manāt as “exalted cranes.”",
+          "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2024 CARD, Packet 06"
+          "difficulty": 2,
+          "source": "2023 MOQBA Novice, Packet 03"
         },
         {
-          "text": "This holiday is similar to one practiced in more rural religions, called Rangapanchami.",
-          "hardness": 1.21,
+          "text": "This man’s last action on his deathbed was to bequeath seven coins to his wife.",
+          "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2020 RAFT, Packet 14"
+          "difficulty": 2,
+          "source": "2020 MOQBA Novice, Packet Packet 02"
         },
         {
-          "text": "Due to euphoric effects, the cannabis product bhang is taken during this holiday.",
-          "hardness": 1.133,
+          "text": "The year this man was born is referred to as the Year of the Elephant.",
+          "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2024 CARD, Packet 06"
+          "difficulty": 1,
+          "source": "2021 CERES, Packet 07"
         },
         {
-          "text": "On the eve of this holiday, bonfires are lit to celebrate the survival of Prahlada, who was tricked into sitting on a funeral pyre by the sister of King Hiranyakashipu.",
-          "hardness": 1.062,
+          "text": "This figure’s first wife, Khadīja, was a Quraysh merchant who advised him after an event he experienced in the Cave of Hira.",
+          "hardness": 1.022,
           "inPower": true,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2020 RAFT, Packet 14"
+          "difficulty": 2,
+          "source": "2023 MOQBA Novice, Packet 03"
         },
         {
-          "text": "To celebrate this holiday, women use lathis to chase men out of Barsana.",
-          "hardness": 0.959,
+          "text": "He employed clever defense tactics at the Battle of the Ditch.",
+          "hardness": 0.843,
           "inPower": true,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2024 CARD, Packet 06"
+          "difficulty": 2,
+          "source": "2010 SCOP Novice, Packet 04"
         },
         {
-          "text": "One ritual performed during this day involves women drinking thangai or bhang and then hitting shielded men with lathis.",
-          "hardness": 0.807,
+          "text": "The Year of Sorrow in this man’s life included the death of his wife Khadijah; three years later, he led the Hijra, a migration from his hometown to Medina.",
+          "hardness": 0.777,
           "inPower": false,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2014 Prison Bowl, Packet 10"
+          "difficulty": 2,
+          "source": "2020 MOQBA Novice, Packet Packet 02"
         },
         {
-          "text": "Many events such as “color runs” have been accused of appropriating aspects of this holiday.",
-          "hardness": 0.63,
+          "text": "This figure’s sayings are collected in the hadiths.",
+          "hardness": 0.609,
           "inPower": false,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2020 RAFT, Packet 14"
+          "difficulty": 2,
+          "source": "2023 MOQBA Novice, Packet 03"
         },
         {
-          "text": "People pelt others with powders called gulal to celebrate this holiday.",
-          "hardness": 0.528,
+          "text": "During the Hijra, this figure fled to Medina after being persecuted for preaching monotheism.",
+          "hardness": 0.502,
           "inPower": false,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2024 CARD, Packet 06"
+          "difficulty": 2,
+          "source": "2023 MOQBA Novice, Packet 03"
         },
         {
-          "text": "This event takes place on Phalguna Purnima, the vernal equinox.",
-          "hardness": 0.456,
+          "text": "This religious figure led his followers to Medina from his home city, Mecca.",
+          "hardness": 0.39,
           "inPower": false,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2014 Prison Bowl, Packet 10"
+          "difficulty": 2,
+          "source": "2020 SCOP A, Packet 05"
         },
         {
-          "text": "The end of winter is celebrated on what Hindu Festival of Colors?",
-          "hardness": -0.026,
+          "text": "Jibril revealed the Qur'an to what figure, who is considered in Islam to be the final prophet of Allah?",
+          "hardness": -0.076,
           "inPower": false,
           "giveaway": true,
-          "difficulty": 3,
-          "source": "2024 CARD, Packet 06"
+          "difficulty": 2,
+          "source": "2023 MOQBA Novice, Packet 03"
         }
       ]
     },
     "medium": {
+      "answer": "Zoroastrianism",
       "answerlines": [
-        "<b><u>Holi</u></b> [prompt on <b><u>Basanta Utsav</u></b>]",
-        "<b><u>Holi</u></b> (accept <b><u>Hola</u></b> Mohalla)",
-        "<b><u>Holi</u></b>"
+        "<b><u>Zoroastrian</u></b>ism",
+        "<b><u>Zoroastrianism</u></b> [or <b><u>Zarathustrianism</u></b>; accept <b><u>Mazdayasna</u></b>]",
+        "<b><u>Zoroastrian</u></b>ism [or <b><u>Zarathustrian</u></b>ism; accept <b><u>Mazdayasna</u></b>; accept <b><u>Behdin</u></b>]",
+        "<b><u>Zoroastrian</u></b>ism [or <b><u>Mazdaism</u></b>; or <b><u>Magianism</u></b>]",
+        "<b><u>Zoroastrianism</u></b>"
       ],
       "clues": [
         {
-          "text": "Ranga Panchami takes place five days after this holiday, which is known as Phagwa in Central America.",
+          "text": "In this religion, the Daena appears to souls who were good in life, who are then guided to the House of Song.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2024 CARD, Packet 06"
+          "source": "2019 WAIT, Packet 08"
         },
         {
-          "text": "This holiday is similar to one practiced in more rural religions, called Rangapanchami.",
-          "hardness": 1.01,
+          "text": "A prophecy in this religion claims that a comet will turn metal into a river that purifies men.",
+          "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2020 RAFT, Packet 14"
+          "source": "2015 GSAC, Packet 06"
         },
         {
-          "text": "Due to euphoric effects, the cannabis product bhang is taken during this holiday.",
-          "hardness": 0.933,
+          "text": "Children are initiated into this religion by receiving the sudreh undershirt and kusti thread.",
+          "hardness": 1,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2014 BELLOCO, Packet 01"
+        },
+        {
+          "text": "A heresy among members of this religion was based on a personification of time named Zurvan.",
+          "hardness": 0.922,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2024 CARD, Packet 06"
+          "source": "2020 LONE STAR, Packet 03"
         },
         {
-          "text": "On the eve of this holiday, bonfires are lit to celebrate the survival of Prahlada, who was tricked into sitting on a funeral pyre by the sister of King Hiranyakashipu.",
-          "hardness": 0.862,
+          "text": "Members of this religion are judged at the Chinvat Bridge after death.",
+          "hardness": 0.819,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2020 RAFT, Packet 14"
+          "source": "2023 SWAMP, Packet 03"
         },
         {
-          "text": "To celebrate this holiday, women use lathis to chase men out of Barsana.",
-          "hardness": 0.759,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2024 CARD, Packet 06"
-        },
-        {
-          "text": "One ritual performed during this day involves women drinking thangai or bhang and then hitting shielded men with lathis.",
-          "hardness": 0.607,
+          "text": "An important concept in this religion is the contrast between asha and druj, or truth and lies.",
+          "hardness": 0.645,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2014 Prison Bowl, Packet 10"
+          "source": "2011 GSAC, Packet 10"
         },
         {
-          "text": "Many events such as “color runs” have been accused of appropriating aspects of this holiday.",
-          "hardness": 0.43,
+          "text": "Due to its belief in the sacredness of the elements, this religion exposes corpses on the Towers of Silence.",
+          "hardness": 0.544,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2020 RAFT, Packet 14"
+          "source": "2014 BELLOCO, Packet 01"
         },
         {
-          "text": "People pelt others with powders called gulal to celebrate this holiday.",
-          "hardness": 0.328,
+          "text": "Followers must choose between druj and asha, and scripture in this religion includes the Vendidad and Gathas, both contained within the Avesta.",
+          "hardness": 0.386,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2024 CARD, Packet 06"
+          "source": "2014 BELLOCO, Packet 01"
         },
         {
-          "text": "This event takes place on Phalguna Purnima, the vernal equinox.",
-          "hardness": 0.256,
+          "text": "The evil spirit Ahriman fights this religion’s creator god, Ahura Mazda.",
+          "hardness": 0.22,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2014 Prison Bowl, Packet 10"
+          "source": "2020 CALISTO, Packet 12"
         },
         {
-          "text": "The end of winter is celebrated on what Hindu Festival of Colors?",
-          "hardness": -0.226,
+          "text": "Name this ancient Persian religion founded by its namesake prophet.",
+          "hardness": -0.264,
           "inPower": false,
           "giveaway": true,
           "difficulty": 3,
-          "source": "2024 CARD, Packet 06"
+          "source": "2023 SITH, Packet 11"
         }
       ]
     },
     "hard": {
+      "answer": "Taoism",
       "answerlines": [
-        "<b><u>Holi</u></b>",
-        "<b><u>Holi</u></b> [accept <b><u>Festival of Color</u></b>s before “color”]",
-        "<b><u>Holi</u></b> [accept <b><u>Holika Dahan</u></b>; prompt on <u>Festival of Love</u> or <u>Festival of Spring</u> or <u>Festival of Colors</u> or <u>Festival of Equality</u>; reject \"Holika\" alone]",
-        "<b><u>Holi</u></b> [or <b><u>Dolyatra</u></b>; or <b><u>Basanta Utsav</u></b>; or <b><u>Dhuli Vandana</u></b>; or <b><u>Dhulhendi</u></b>]",
-        "<b><u>Holi</u></b> [accept <b><u>Phagwah</u></b>, <b><u>Dol Jatra</u></b>, <b><u>Basanta Utsav</u></b>, or <b><u>Dhuli</u><u>Vandan</u></b>a]"
+        "<b><u>Tao</u></b>ism (or <b><u>Dao</u></b>ism; or <b><u>dao</u></b>jiao)",
+        "<b><u>Tao</u></b>ism [or <b><u>Dao</u></b>ism; accept Zhengyi <b><u>Tao</u></b>ism or Tianshi <b><u>Tao</u></b>ism; accept \"What is <b><u>Tao</u></b>ism?\" or Hsien <b><u>Tao</u></b>ism or contemplative <b><u>Tao</u></b>ism or purposive <b><u>Tao</u></b>ism]",
+        "<b><u>Taoism</u></b> [accept <b><u>Daoism</u></b> before Daodejing, prompt after]",
+        "<b><u>Tao</u></b>ism [or <b><u>Dao</u></b>ism]",
+        "<b><u>Tao</u></b>ism [accept <b><u>Dao</u></b>ism, The <b><u>Way</u></b>]"
       ],
       "clues": [
         {
-          "text": "Note to moderator: read the answerline carefully.",
+          "text": "This religion is described as developing after \"contemplative\" and \"purposive\" counterparts in a paper by Herrlee Creel titled \"What is?\"; that paper references a supernatural state sought by its priests by prepending its name with hsien (\"shyen\").",
           "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2025 PACE NSC, Packet 11"
+          "source": "2025 PACE NSC, Packet 13"
         },
         {
-          "text": "Celebrations of this holiday in the city of Sirsi feature a man dressed as a sword-wielding monster clad in peacock feathers, who dances to the rhythms of the tamte drum.",
+          "text": "In traditional depictions of the “vinegar tasters”, the founder of this philosophy is depicted as having a happy expression, symbolizing this movement’s generally positive view of life.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2024 VAULT, Packet 10"
+          "source": "2017 Prison Bowl, Packet 09"
         },
         {
-          "text": "In some places, men celebrate this holiday by making human pyramids in an attempt to reach a pot of butter.",
-          "hardness": 1.15,
+          "text": "Writings in this belief system compare the naming of a concept to cutting an uncarved block of wood.",
+          "hardness": 1.008,
           "inPower": true,
           "giveaway": false,
-          "difficulty": 4,
-          "source": "2020 BHSAT, Packet 04"
+          "difficulty": 5,
+          "source": "2013 PACE NSC, Packet 14"
         },
         {
-          "text": "Among the legends associated with this holiday are the murder of a she-demon with poisonous breast milk and the love between Rati and Kama.",
-          "hardness": 0.939,
+          "text": "In an allegory, its founder blamed his mind for the sour taste of vinegar.",
+          "hardness": 0.873,
           "inPower": true,
           "giveaway": false,
-          "difficulty": 4,
-          "source": "2020 Prison Bowl, Packet 06"
+          "difficulty": 5,
+          "source": "2013 PACE NSC, Packet 14"
         },
         {
-          "text": "The main event of this holiday occurs on a full moon during the month of Phalguna.",
-          "hardness": 0.7,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 4,
-          "source": "2021 DUOS, Packet Packet 6"
-        },
-        {
-          "text": "This holiday recalls how a demon king, immune to both astra and shastra, was killed by the claws of the half-lion Narasimha. Bonfires set on the eve of this holiday commemorate the saving of the demon king’s son, Prahlad.",
-          "hardness": 0.621,
+          "text": "Ziran, or naturalness, is a concept associated with this belief system.",
+          "hardness": 0.705,
           "inPower": false,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2020 BHSAT, Packet 04"
+          "source": "2017 Prison Bowl, Packet 09"
         },
         {
-          "text": "Prahlada survived on a pyre while this holiday’s namesake demoness burned to death due to her devotion to Vishnu.",
-          "hardness": 0.529,
+          "text": "A concept from this religion in which things tend to happen by themselves is known as ziran.",
+          "hardness": 0.603,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2020 CATT, Packet 12"
+        },
+        {
+          "text": "The Eight Immortals are revered in this religion.",
+          "hardness": 0.477,
           "inPower": false,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2010 PACE NSC, Packet 12"
+          "source": "2025 PACE NSC, Packet 13"
         },
         {
-          "text": "Vishnu's avatar Krishna plays pranks on the gopis, who react by throwing abir, this holiday’s famed colored powder.",
-          "hardness": 0.353,
+          "text": "A scholar who dreamt that he was a dreaming butterfly adhered to this belief system, which stresses acting without action, or wu wei.",
+          "hardness": 0.407,
           "inPower": false,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2010 PACE NSC, Packet 12"
+          "source": "2013 PACE NSC, Packet 14"
         },
         {
-          "text": "During this holiday, one might find people filling water balloons and water guns with pigments and attempting to spray each other.",
-          "hardness": 0.291,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 4,
-          "source": "2021 DUOS, Packet Packet 6"
-        },
-        {
-          "text": "Name this spring festival of Hinduism.",
-          "hardness": -0.221,
+          "text": "Name this philosophically entrenched Chinese religion that espouses wu wei and the teachings of Laozi.",
+          "hardness": -0.145,
           "inPower": false,
           "giveaway": true,
           "difficulty": 5,
-          "source": "2010 PACE NSC, Packet 12"
+          "source": "2025 PACE NSC, Packet 13"
+        },
+        {
+          "text": "Name this religion, whose principal text, the Tao Te Ching, was written by Lao Tzu.",
+          "hardness": -0.255,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 4,
+          "source": "2010 NAREN, Packet 02"
         }
       ]
     }

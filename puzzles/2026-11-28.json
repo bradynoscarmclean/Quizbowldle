@@ -1,271 +1,279 @@
 {
   "date": "2026-11-28",
   "category": "Philosophy",
-  "answer": "Jean-Paul Sartre",
   "tiers": {
     "easy": {
+      "answer": "China",
       "answerlines": [
-        "Jean-Paul <b><u>Sartre</u></b>",
-        "Jean-Paul <b><u>Sartre</u></b> [or Jean-Paul Charles Aymard <b><u>Sartre</u></b>]",
-        "Jean-Paul<b><u> Sartre</u></b>"
+        "<b><u>China</u></b> (accept <b><u>Zhongguo</u></b>)",
+        "<b><u>China</u></b> [or <b><u>Zhongguo</u></b>; prompt on <u>Qin</u> dynasty before mention]",
+        "<b><u>China</u></b>",
+        "<b><u>China</u></b> (accept People’s Republic of <b><u>China</u></b>; accept <b><u>Zhongguo</u></b> Renmin Gongheguo)",
+        "<b><u>China</u></b> [or <b><u>Zhongguo</u></b>]"
       ],
       "clues": [
         {
-          "text": "This thinker wrote “in fashioning myself, I fashion man” to illustrate man’s impact on humanity as a whole in an essay based on a lecture given at the Club Maintenant (“MAN-tuh-NUH”).",
-          "hardness": 1.35,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2022 KICKOFF, Packet 04"
-        },
-        {
-          "text": "In one work, this man divided inanimate objects like rocks and living, feeling things like humans in terms of en-soi and pour-soi, being in itself and being for itself.",
-          "hardness": 1.35,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2011 DCCAT, Packet 10"
-        },
-        {
-          "text": "This man argued that \"existence precedes essence\" in a work that argued that his philosophy \"is a Humanism.\"",
+          "text": "In a book from this country, three men in a Peach Garden swear an oath they will die on the same day.",
           "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2013 SCOP Novice 4, Packet 11"
+          "source": "2017 SCOP Novice 8, Packet 04"
         },
         {
-          "text": "This author of the Critique of Dialectical (dai-uh-LEK-tik-ul) Reason used a mannequin to explain “the look,” which they apply to sexual desire.",
-          "hardness": 1.168,
+          "text": "A poet from what is now this country is the subject of the Eliot Weinberger workNineteen Ways of Looking athim, which describes the twenty-character-longpoem \"Deer Grove.\"",
+          "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2023 Planetfall, Packet 07"
+          "difficulty": 2,
+          "source": "2025 Rockford Quiz Bowl Novice, Packet 02"
         },
         {
-          "text": "This thinker imagines their friend never showing up to a café in another work to illustrate “nothingness” as a negative judgment.",
-          "hardness": 0.97,
+          "text": "Rulers of this country used turtle shells as prophetic \"oracle bones\" to learn of their future.",
+          "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2023 Planetfall, Packet 07"
+          "difficulty": 1,
+          "source": "2021 CERES, Packet 09"
         },
         {
-          "text": "He also stated that “man first of all exists… and defines himself afterwards.”",
-          "hardness": 0.783,
+          "text": "This country broke with the Soviet Union over ideological differences in the application of Leninism.",
+          "hardness": 0.961,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2022 SCOP MS 11, Packet Round 3"
+        },
+        {
+          "text": "This country adopted Legalism and book-burning under a ruler who was buried with the Terracotta Army.",
+          "hardness": 0.802,
           "inPower": false,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2017 RMBCT, Packet 03"
+          "difficulty": 2,
+          "source": "2022 KICKOFF Novice, Packet 04N"
         },
         {
-          "text": "Strangely enough, he defended orthodox Marxism despite his extreme individualism and in doing so, lost the goodwill of Albert Camus.",
-          "hardness": 0.638,
+          "text": "Many philosophers from this country advocated venerating one's ancestors, a practice known as \"filial piety\".",
+          "hardness": 0.59,
           "inPower": false,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2017 RMBCT, Packet 03"
+          "difficulty": 1,
+          "source": "2021 CERES, Packet 01"
         },
         {
-          "text": "This lover of Simone de Beauvoir contrasted “being-in-itself” and “being-for-itself” in his most famous philosophical work.",
-          "hardness": 0.594,
+          "text": "The possibly mythical Xia (shyah) dynasty of this country was led by Yu the Great.",
+          "hardness": 0.449,
           "inPower": false,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2022 KICKOFF, Packet 04"
+          "difficulty": 2,
+          "source": "2020 TAILS, Packet TAILS Packet 3"
         },
         {
-          "text": "They used a too-stiff, inhuman-appearing waiter to demonstrate “bad faith” in another work.",
-          "hardness": 0.434,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2023 Planetfall, Packet 07"
-        },
-        {
-          "text": "Name this existentialist philosopher who wrote Existentialism is a Humanism and Being and Nothingness.",
-          "hardness": -0.009,
+          "text": "Name this modern country whose history includes Tang Dynasty poets like Wang Wei, Du Fu, and Li Bai.",
+          "hardness": -0.051,
           "inPower": false,
           "giveaway": true,
-          "difficulty": 3,
-          "source": "2022 KICKOFF, Packet 04"
+          "difficulty": 2,
+          "source": "2025 Rockford Quiz Bowl Novice, Packet 02"
+        },
+        {
+          "text": "Name this communist power that, for much of the twentieth century, was led by Chairman Mao Zedong.",
+          "hardness": -0.12,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 1,
+          "source": "2022 SCOP MS 11, Packet Round 3"
+        },
+        {
+          "text": "Identify this country home to Confucianism and Daoism.",
+          "hardness": -0.23,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 1,
+          "source": "2012 Collaborative Middle School Tournament #3, Packet 04"
         }
       ]
     },
     "medium": {
+      "answer": "Plato",
       "answerlines": [
-        "Jean-Paul <b><u>Sartre</u></b>",
-        "Jean-Paul <b><u>Sartre</u></b> [or Jean-Paul Charles Aymard <b><u>Sartre</u></b>]",
-        "Jean-Paul<b><u> Sartre</u></b>"
+        "<b><u>Plato</u></b>",
+        "<b><u>Plato</u></b> [or <b><u>Platon</u></b>; or <b><u>Aristocles</u></b>]",
+        "<b><u>Plato</u></b> (accept <b><u>Platonic solid</u></b>s after “cube”)",
+        "<b><u>Plato</u></b> [or <b><u>Plato</u></b>n]"
       ],
       "clues": [
         {
-          "text": "In one work, this man divided inanimate objects like rocks and living, feeling things like humans in terms of en-soi and pour-soi, being in itself and being for itself.",
+          "text": "One of this thinker's works examines whether poetic recitation is based on skill using a discussion about Ion.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2011 DCCAT, Packet 10"
+          "source": "2013 JAMES, Packet 07"
         },
         {
-          "text": "This thinker used the example of deforestation in China to describe the “practico-inert”, in which praxis (PRAK-suhs) has sunk cost.",
+          "text": "This thinker claimed there are appetite, spirit, and reason components to the soul, and related those to the laborers, guardians, and leaders of a city.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2023 Planetfall, Packet 07"
+          "source": "2017 PSACA, Packet 01"
         },
         {
-          "text": "This thinker wrote “in fashioning myself, I fashion man” to illustrate man’s impact on humanity as a whole in an essay based on a lecture given at the Club Maintenant (“MAN-tuh-NUH”).",
+          "text": "This thinker compared the soul to a chariot with two horses representing the rational, spirited, and appetitive.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2022 KICKOFF, Packet 04"
+          "source": "2015 BISB, Packet 04"
         },
         {
-          "text": "This author of the Critique of Dialectical (dai-uh-LEK-tik-ul) Reason used a mannequin to explain “the look,” which they apply to sexual desire.",
-          "hardness": 0.968,
+          "text": "Porphyry and Plotinus revived this man’s ideas.",
+          "hardness": 0.923,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2023 Planetfall, Packet 07"
+          "source": "2015 BISB, Packet 04"
         },
         {
-          "text": "This author used the examples of a woman choosing to ignore the implications of her date’s compliments and a waiter whose movements are too “waiter-esque” to illustrate “bad faith.”",
-          "hardness": 0.699,
+          "text": "This philosopher considered that all observable characteristics of objects are copies of ideal abstractions in an alternate world.",
+          "hardness": 0.828,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2015 BISB, Packet 04"
+        },
+        {
+          "text": "In one of his works, several philosophers discuss the nature of love, while another explains a model of the world using the analogy of the divided line.",
+          "hardness": 0.7,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2022 KICKOFF, Packet 04"
+          "source": "2013 JAMES, Packet 07"
         },
         {
-          "text": "One of his works is the source of his quote, “Hell is other people.”",
-          "hardness": 0.516,
+          "text": "In one of this man’s texts, he states that the soul is made of three parts.",
+          "hardness": 0.51,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2011 DCCAT, Packet 10"
+          "source": "2017 WHAQ, Packet 10"
         },
         {
-          "text": "This lover of Simone de Beauvoir contrasted “being-in-itself” and “being-for-itself” in his most famous philosophical work.",
-          "hardness": 0.394,
+          "text": "He believed that objects in our world attempt to mimic ideal forms, an idea illustrated in his Allegory of the Cave.",
+          "hardness": 0.448,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2022 KICKOFF, Packet 04"
+          "source": "2018 Glasgow Scottie, Packet 14"
         },
         {
-          "text": "This man wrote a play in which a character claims, “Hell is other people.”",
+          "text": "His student Callippus briefly ruled Syracuse, and he gathered other pupils at the Academy.",
           "hardness": 0.309,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2019 WAIT, Packet 02"
+          "source": "2017 PSACA, Packet 01"
         },
         {
-          "text": "They used a too-stiff, inhuman-appearing waiter to demonstrate “bad faith” in another work.",
-          "hardness": 0.234,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2023 Planetfall, Packet 07"
-        },
-        {
-          "text": "Name this existentialist philosopher who wrote Existentialism is a Humanism and Being and Nothingness.",
-          "hardness": -0.209,
+          "text": "Name this Greek philosopher and author of The Republic, a student of Socrates and teacher of Aristotle.",
+          "hardness": -0.234,
           "inPower": false,
           "giveaway": true,
           "difficulty": 3,
-          "source": "2022 KICKOFF, Packet 04"
+          "source": "2013 LIST, Packet 07"
         }
       ]
     },
     "hard": {
+      "answer": "Confucius",
       "answerlines": [
-        "Jean-Paul <b><u>Sartre</u></b>",
-        "Jean-Paul <b><u>Sartre</u></b> (SAR-truh) [or Jean-Paul Charles Aymard <b><u>Sartre</u></b>]"
+        "<b><u>Confucius</u></b> [accept <b><u>Kǒng</u></b> Fūzǐ, <b><u>Kǒng</u></b> Qiū, or <b><u>Zhòngní</u></b>]",
+        "<b><u>Confucius</u></b> [or <b>Kong</b> <b>Qui</b>; or <b>Kongzi</b>]",
+        "<b><u>Confucius</u></b> [or <b><u>Kong fu-zi</u></b>]",
+        "<b><u>Confucius</u></b> [or <b><u>Kongfuzi</u></b> or <b><u>Kongzi</u></b>]",
+        "<b><u>Confucius</u></b> [or <b><u>K’ung</u></b>-fu-tzu; or <b><u>Kongfuzi</u></b>]"
       ],
       "clues": [
         {
-          "text": "Stoic philosophy influenced this thinker's claim that freedom is our unlimited ability to respond to the external world in Sketch for a Theory of the Emotions.",
+          "text": "A conservative disciple of this man’s ideas adapted them into the 294-part Comprehensive Mirror to Aid in Government.",
           "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2025 PACE NSC, Packet 08"
+          "source": "2013 PACE NSC, Packet 13"
         },
         {
-          "text": "This thinker characterized one group as “play with discourse” while their opponents use language responsibly.",
+          "text": "This man argued that virtue is a better guide than punishment because those who avoid punishment have no sense of shame.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2023 DART, Packet 06"
+          "source": "2017 Prison Bowl, Packet 01"
         },
         {
-          "text": "This philosopher offered an intersubjective definition of being Jewish in Anti-Semite and Jew.",
-          "hardness": 1,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 4,
-          "source": "2012 Prison Bowl, Packet 08"
-        },
-        {
-          "text": "A march of 5,000 military veterans chanted a demand to “Shoot!”",
-          "hardness": 1,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 4,
-          "source": "2015 Prison Bowl, Packet 05"
-        },
-        {
-          "text": "He refuted Gyorgy Lukacs’s philosophy in Search for a Method, before describing the “practico-inert” and “praxis” in his Marxist theory of class in its unfinished sequel, Critique of Dialectical Reason.",
-          "hardness": 0.848,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 4,
-          "source": "2012 Prison Bowl, Packet 08"
-        },
-        {
-          "text": "This author wrote the preface to The Wretched of the Earth by Frantz Fanon.",
-          "hardness": 0.787,
+          "text": "This thinker is quoted as stating that lenience, a high level of tolerance, and watchfulness are all required to attain the non-Aristotelian Doctrine of the Mean.",
+          "hardness": 1.006,
           "inPower": true,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2019 BLAST, Packet Packet 12"
+          "source": "2021 DUOS, Packet Packet 5"
         },
         {
-          "text": "This philosopher wrote that \"man is condemned to be free\" in a lecture that describes a concept that \"precedes essence\" and calls the title movement \"a humanism.\"",
-          "hardness": 0.615,
+          "text": "One of this man’s followers argued ethical intuitions come from the innate goodness of human beings; that man was Mencius (“MEN-shee-uss”).",
+          "hardness": 0.932,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2017 Prison Bowl, Packet 01"
+        },
+        {
+          "text": "A book attributed to this thinker is often divided into “upper” and “lower” sections.",
+          "hardness": 0.829,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2023 Prison Bowl, Packet 06"
+        },
+        {
+          "text": "This man compared good government to an unmoving “pole star” and argued that words must be made to fit reality by rectifying the usage of names.",
+          "hardness": 0.599,
           "inPower": false,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2025 PACE NSC, Packet 08"
+          "source": "2013 PACE NSC, Packet 13"
         },
         {
-          "text": "This thinker contrasted “being-for-itself” and “being-in-itself” and used a mechanical and too-stiff waiter to illustrate bad faith.",
-          "hardness": 0.499,
+          "text": "This man argued that everyone is born with innate responsibilities toward others because of the necessity of compassion, or ren.",
+          "hardness": 0.427,
           "inPower": false,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2023 DART, Packet 06"
+          "source": "2021 DUOS, Packet Packet 5"
         },
         {
-          "text": "This author of Anti-Semite and Jew stated in Existentialism is a Humanism that existence precedes essence.",
-          "hardness": 0.277,
+          "text": "This thinker theorized that disorder comes from the incorrect usage of names, and discussed the Five Relationships and filial piety.",
+          "hardness": 0.347,
           "inPower": false,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2023 DART, Packet 06"
+          "source": "2023 Prison Bowl, Packet 06"
         },
         {
-          "text": "Name this author of Being and Nothingness, a lover of Simone de Beauvoir and French existentialist.",
-          "hardness": -0.233,
+          "text": "Ren, the good feeling that comes with being altruistic was described by what ancient Chinese author of the Analects?",
+          "hardness": -0.163,
           "inPower": false,
           "giveaway": true,
           "difficulty": 4,
-          "source": "2014 BHSAT, Packet 03"
+          "source": "2017 Prison Bowl, Packet 01"
+        },
+        {
+          "text": "Name this ancient Chinese philosopher who wrote the Analects.",
+          "hardness": -0.278,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 4,
+          "source": "2020 BHSAT, Packet 12"
         }
       ]
     }

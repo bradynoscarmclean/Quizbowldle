@@ -1,278 +1,279 @@
 {
   "date": "2026-11-27",
   "category": "Science",
-  "answer": "enthalpy",
   "tiers": {
     "easy": {
+      "answer": "circle",
       "answerlines": [
-        "<b><u>enthalpy</u></b> [accept <b><u>H</u></b> before mention; reject “entropy”]",
-        "<b><u>enthalpy</u></b> [prompt on <u>H</u> until it is mentioned]",
-        "<b><u>enthalpy</u></b> (accept <b><u>H</u></b> before mentioned; prompt on “delta H”)",
-        "<b><u>enthalpy</u></b> [or <b><u>H</u></b> until “H” is read; prompt on <u>heat</u> of vaporization until “throttling” is read]",
-        "<b><u>enthalpy</u></b> [prompt on <u>H</u> before mention; accept <b><u>enthalpy</u></b> of vaporization or lattice <b><u>enthalpy</u></b>; prompt on <u>lattice energy</u>; do not accept or prompt on “energy” alone]"
+        "circle",
+        "<b><u>circle</u></b>",
+        "<b><u>circle</u></b> [prompt on <b><u>ellipse</u></b> or <b><u>oval</u></b>]",
+        "<b><u>circle</u></b> [accept in<b><u>circle</u></b>; accept unit <b><u>circle</u></b>; or a Feuerbach <b><u>circle</u></b>; or a nine-point <b><u>circle</u></b>; prompt on <u>oval</u>; do NOT accept or prompt on “ellipse”]"
       ],
       "clues": [
         {
-          "text": "The rate at which this quantity changes with temperature equals the constant-pressure heat capacity.",
-          "hardness": 1.35,
+          "text": "In inversion, points are inverted about one of these shapes.",
+          "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2025 SHOW-ME, Packet 05"
+          "difficulty": 2,
+          "source": "2022 KICKOFF Novice, Packet 09N"
         },
         {
-          "text": "The slope of a plot with inverse temperature on the x axis, and natural log of pressure on the y axis, yields a form of this quantity divided by the ideal gas constant.",
-          "hardness": 1.35,
+          "text": "A type of this figure, sometimes named for Feuerbach, passes through the midpoints of a triangle’s side and the feet of its altitude.",
+          "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2022 IQBT Regular Season Set #1, Packet 02"
+          "difficulty": 2,
+          "source": "2023 MOQBA Novice, Packet 01"
         },
         {
-          "text": "The van’t Hoff equation relates the equilibrium constant to temperature when this value is given.",
-          "hardness": 1.35,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2021 AQBL February Set, Packet 06"
-        },
-        {
-          "text": "One form of this quantity that describes an ionic solid can be calculated through a process that includes the ionization energy of a metal atom and the dissociation energy and electron affinity for a non-metal.",
-          "hardness": 1.2,
+          "text": "A Reuleaux triangle is formed when three of these intersect.",
+          "hardness": 1.1,
           "inPower": false,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2010 BATE, Packet 10"
+          "difficulty": 2,
+          "source": "2011 Fall Kickoff Tournament (FKT), Packet Jasper Lee Packet"
         },
         {
-          "text": "For an ideal gas, the change in this quantity is equal to the constant-pressure heat capacity times the change in temperature.",
-          "hardness": 1.082,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2021 RAFT, Packet 04"
-        },
-        {
-          "text": "Hess's law states that the change in this quantity is independent of the steps used in a chemical reaction, and Gibbs free energy is equal to this value minus the product of temperature and entropy.",
-          "hardness": 0.812,
+          "text": "This object is formed by the parametric equations x equals a-cosine-t and y equals a-sine-t.",
+          "hardness": 0.968,
           "inPower": false,
           "giveaway": false,
-          "difficulty": 1,
-          "source": "2020 ERIS, Packet 06"
+          "difficulty": 2,
+          "source": "2011 Fall Kickoff Tournament (FKT), Packet Jasper Lee Packet"
         },
         {
-          "text": "To find this property for a chemical reaction through summation, Hess’s law takes advantage of the fact that this property is a state function.",
-          "hardness": 0.647,
+          "text": "A process for constructing equilateral triangles requires drawing two of these shapes such that the center of each of them lies on the edge of the other, then connecting the centers to either intersection.",
+          "hardness": 0.909,
           "inPower": false,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2021 AQBL February Set, Packet 06"
+          "difficulty": 2,
+          "source": "2019 SCOP Novice 10, Packet 02"
         },
         {
-          "text": "Though not heat, it has a standard ‘change of formation’, and can be given as internal energy plus pressure times volume.",
-          "hardness": 0.524,
+          "text": "Euclid also proposed that a quadrilateral drawn in one of these shapes will have opposite angles that add to 180 degrees.",
+          "hardness": 0.745,
           "inPower": false,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2010 Ben Cooper, Packet 08"
+          "difficulty": 2,
+          "source": "2018 SCOP Novice 9, Packet 08"
         },
         {
-          "text": "It increases for endothermic reactions.",
-          "hardness": 0.346,
+          "text": "Trigonometric ratios such as sine can be defined using the “unit” kind of this shape, which is also used to define a unit of angle measurement called the radian.",
+          "hardness": 0.665,
           "inPower": false,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2014 BISB, Packet 05"
+          "difficulty": 2,
+          "source": "2023 MOQBA Novice, Packet 01"
         },
         {
-          "text": "Identify this thermodynamic quantity which represents heat transfer and is written H.",
+          "text": "A line linking two points on this shape is a chord, while a section of its only side is called an arc.",
+          "hardness": 0.491,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2011 Fall Kickoff Tournament (FKT), Packet Jasper Lee Packet"
+        },
+        {
+          "text": "Name this round shape, whose diameter equals its circumference divided by pi.",
+          "hardness": -0.071,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 2,
+          "source": "2022 KICKOFF Novice, Packet 09N"
+        },
+        {
+          "text": "Name this shape, which has a radius, circumference, and center.",
           "hardness": -0.132,
           "inPower": false,
           "giveaway": true,
-          "difficulty": 1,
-          "source": "2020 ERIS, Packet 06"
+          "difficulty": 2,
+          "source": "2011 Fall Kickoff Tournament (FKT), Packet Jasper Lee Packet"
         }
       ]
     },
     "medium": {
+      "answer": "distillation",
       "answerlines": [
-        "<b><u>enthalpy</u></b> [prompt on <i><u>H</u></i>]",
-        "<b><u>enthalpy</u></b> (prompt on “H” before mentioned, accept <b><u>lattice enthalpy</u></b> or <b><u>lattice</u></b> <b><u>energy</u></b> before “lattice” is mentioned, prompt on delta H, accept <b><u>change in enthalpy</u></b>)",
-        "<b><u>enthalpy</u></b> (accept <b><u>H</u></b> before mentioned; prompt on “delta H”)",
-        "<b><u>enthalpy</u></b> [prompt on <u>H</u> until it is mentioned]",
-        "<b><u>enthalpy</u></b> [or <b><u>H</u></b> before it is read; or more specific enthalpies such as <b><u>enthalpy of reaction</u></b>; don’t accept or prompt on “heat”]"
+        "<b><u>distillation</u></b> [or word forms such as <b><u>distilling</u></b>; accept fractional <b><u>distillation</u></b> or azeotropic <b><u>distillation</u></b> or pressure swing <b><u>distillation</u></b>]",
+        "<b><u>distillation</u></b> [accept fractional <b><u>distillation</u></b> or vacuum <b><u>distillation</u></b> or short-path <b><u>distillation</u></b>]",
+        "<b><u>distillation</u></b>",
+        "<b><u>distillation</u></b> [or word forms like <b><u>distill</u></b>ing; accept fractional <b><u>distillation</u></b> or binary <b><u>distillation</u></b> or destructive <b><u>distillation</u></b>]",
+        "<b><u>distillation</u></b> [or <b><u>distilling</u></b> or vacuum <b><u>distillation</u></b> or fractional <b><u>distillation</u></b>]"
       ],
       "clues": [
         {
-          "text": "The relationship between air temperature, moisture content, and this quantity in air is represented in a Mollier diagram.",
+          "text": "Multiple applications of this technique are used to “jump over” a certain state in its “pressure swing” form.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2017 Maryland Fall, Packet 06"
+          "source": "2024 SITH, Packet 05"
         },
         {
-          "text": "This quantity is on the y-axis of a Mollier diagram.",
+          "text": "The results of this technique are modelled on a McCabe–Thiele diagram.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2014 BISB, Packet 05"
+          "source": "2024 IQBT Regular Season Set #4, Packet 02"
         },
         {
-          "text": "This quantity is related to the entropy of vaporization and boiling point by Trouton’s rule, and the Born-Haber cycle can be used to calculate this quantity for the separation of an ionic solid.",
-          "hardness": 1.15,
+          "text": "When this technique is applied to multicomponent mixtures, components are designated as \"heavy key\" or \"light key,\" based on their volatility.",
+          "hardness": 1.012,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2019 RAFT, Packet RAFT Packet 10"
+          "source": "2017 WHAQ, Packet 02"
         },
         {
-          "text": "The negative of this quantity is divided by temperature-squared in the Gibbs-Helmholtz equation.",
-          "hardness": 1.031,
+          "text": "This process is often said to have “light key” and “heavy key” components.",
+          "hardness": 0.952,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2021 RAFT, Packet 04"
+          "source": "2025 SHOW-ME, Packet 01"
         },
         {
-          "text": "The sign of this quantity determines if an equilibrium constant increases or decreases as temperature changes.",
-          "hardness": 0.922,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2014 BISB, Packet 05"
-        },
-        {
-          "text": "For quasistatic processes at constant pressure, one can use standard state values of this quantity, independent of reaction pathway, to calculate change in this quantity using Hess’s law.",
-          "hardness": 0.766,
+          "text": "One variant of this process sometimes employ Raschig rings and is used in refineries to purify oil; that is its “fractional” type.",
+          "hardness": 0.687,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2010 Ben Cooper, Packet 08"
+          "source": "2019 RAFT, Packet RAFT Packet 08"
         },
         {
-          "text": "Positive values of it denote endothermic reactions while negative ones indicate exothermic reactions.",
-          "hardness": 0.477,
+          "text": "An entrainer may be added to the mixture in this technique in order to isolate components of azeotropes.",
+          "hardness": 0.601,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2010 Ben Cooper, Packet 08"
+          "source": "2014 Maryland Spring, Packet 02"
         },
         {
-          "text": "Reactions are classified as exothermic or endothermic depending on whether this quantity is positive or negative.",
-          "hardness": 0.357,
+          "text": "A type of this technique separates liquids with similar boiling points and was developed by Fritz Haber; that is the “fractional” variety.",
+          "hardness": 0.463,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2019 RAFT, Packet RAFT Packet 10"
+          "source": "2015 VTACO, Packet 10"
         },
         {
-          "text": "The change in this quantity determines if a reaction is endothermic or exothermic.",
-          "hardness": 0.238,
+          "text": "This technique’s “fractional” form involves a column attached to a condenser and is used industrially to refine oil.",
+          "hardness": 0.347,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2025 SHOW-ME, Packet 05"
+          "source": "2024 SITH, Packet 05"
         },
         {
-          "text": "Name this thermodynamic property used to calculate heat transfer, symbolized H.",
-          "hardness": -0.259,
+          "text": "Name this chemical process that separates mixtures based on differing boiling points.",
+          "hardness": -0.204,
           "inPower": false,
           "giveaway": true,
           "difficulty": 3,
-          "source": "2010 Ben Cooper, Packet 08"
+          "source": "2018 Glasgow Scottie, Packet 01"
+        },
+        {
+          "text": "Name this process in which liquids are separated by their boiling points.",
+          "hardness": -0.254,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2023 SITH, Packet 06"
         }
       ]
     },
     "hard": {
+      "answer": "boron",
       "answerlines": [
-        "<b><u>enthalpy</u></b>",
-        "<b><u>enthalpy</u></b> [accept lattice <b><u>enthalpy</u></b>; prompt on \"lattice energy\"; prompt on \"energy\"; prompt on \"heat\"; prompt on \"H\"]",
-        "<b><u>enthalpy</u></b> [accept lattice <b><u>enthalpy</u></b>; accept <b><u>H</u></b> until mention]",
-        "<b><u>enthalpy</u></b> [or <b><u>H</u></b> until it is read]",
-        "<b><u>enthalpy</u></b> [prompt on \"H"
+        "<b><u>boron</u></b>",
+        "<b><u>boron</u></b> [or <b><u>B</u></b>]",
+        "<b><u>boron</u></b> [or <b><u>B</u></b>; prompt on <u>hydroboration</u>-oxidation]",
+        "<b><u>boron</u></b> [accept <b><u>B</u></b> until mentioned]",
+        "<b><u>boron</u></b> [accept <b><u>B</u></b> before mention; accept element <b><u>number 5</u></b> or equivalents before mention]"
       ],
       "clues": [
         {
-          "text": "The second derivative of this quantity with respect to its thermal and mechanical natural variables is equal to the pressure derivative of temperature by a Maxwell relation.",
+          "text": "Eleven atoms of this element, and eleven halides, are found in the strongest known single-molecule acid.",
           "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2011 PACE NSC, Packet 7 - Playoffs 2"
+          "source": "2014 PACE NSC, Packet 24"
         },
         {
-          "text": "This quantity can be derived by taking a volume-to-pressure Legendre transform of the internal energy.",
+          "text": "Organic compounds with this element burn with a bright green flame, and they can be easily converted into alcohols by treating them with basic hydrogen peroxide.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2016 BHSAT, Packet 04"
+          "source": "2020 CATT, Packet 04"
         },
         {
-          "text": "This quantity’s change for solvation is equal to its change for dissolution plus its lattice type, which quantifies the strength of bonds in ionic compounds.",
-          "hardness": 1.15,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 4,
-          "source": "2023 Scottie, Packet 11"
-        },
-        {
-          "text": "This quantity is usually assumed constant when a gas expands through a valve.",
-          "hardness": 1.006,
+          "text": "Its hydrides add in THF solution to alkenes and are oxidized by peroxides in a reaction named for Brown.",
+          "hardness": 1.114,
           "inPower": true,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2016 PACE NSC, Packet 21 - Tiebreaker III"
+          "source": "2011 PACE NSC, Packet 4 - Prelims 4"
         },
         {
-          "text": "Throttling processes, by definition, keep this quantity constant.",
-          "hardness": 0.904,
+          "text": "An atom of this element is bonded to nitrogen and oxygen in the CBS catalyst.",
+          "hardness": 1,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2011 Prison Bowl, Packet 13"
+        },
+        {
+          "text": "Diamond has been shown to be weaker than a nanotube containing this element bound to nitrogen.",
+          "hardness": 0.818,
           "inPower": true,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2022 Prison Bowl, Packet 04"
+          "source": "2024 VAULT, Packet 08"
         },
         {
-          "text": "Pure elements have a value of zero for this quantity’s standard value “of formation,” which is converted from its value “of combustion” found through bomb calorimetry using Hess’s law.",
-          "hardness": 0.717,
+          "text": "An isotope of this element is bombarded with epithermal neutrons in neutron capture therapy, which aims to destroy cancerous tumors.",
+          "hardness": 0.696,
           "inPower": false,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2023 Scottie, Packet 11"
+          "source": "2015 Prison Bowl, Packet 01"
         },
         {
-          "text": "The change in this quantity equals the heat transferred in a reaction at constant pressure.",
-          "hardness": 0.614,
+          "text": "This element and gallium are used to dope silicon p-type.",
+          "hardness": 0.53,
           "inPower": false,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2013 PACE NSC, Packet 6"
+          "source": "2014 PACE NSC, Packet 24"
         },
         {
-          "text": "This quantity may be computed as the sum of internal energy with the product of pressure and volume.",
-          "hardness": 0.416,
+          "text": "Because this element only has three valence electrons, molecules such as its trifluoride are often electron deficient.",
+          "hardness": 0.434,
           "inPower": false,
           "giveaway": false,
-          "difficulty": 5,
-          "source": "2011 PACE NSC, Packet 7 - Playoffs 2"
+          "difficulty": 4,
+          "source": "2020 CATT, Packet 04"
         },
         {
-          "text": "Gibbs energy is defined as it minus temperature times entropy.",
-          "hardness": 0.263,
+          "text": "Glasses containing this element, like Pyrex, have low thermal expansion coefficients, making them ideal for withstanding thermal shock.",
+          "hardness": 0.275,
           "inPower": false,
           "giveaway": false,
-          "difficulty": 5,
-          "source": "2016 PACE NSC, Packet 21 - Tiebreaker III"
+          "difficulty": 4,
+          "source": "2020 CATT, Packet 04"
         },
         {
-          "text": "Name this quantity typically denoted \"H\" that measures the heat content of a system.",
-          "hardness": -0.241,
+          "text": "Identify this element with atomic number 5 and symbol B.",
+          "hardness": -0.2,
           "inPower": false,
           "giveaway": true,
-          "difficulty": 4,
-          "source": "2014 BHSAT, Packet 03"
+          "difficulty": 5,
+          "source": "2012 PACE NSC, Packet 22"
         }
       ]
     }

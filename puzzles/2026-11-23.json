@@ -1,278 +1,278 @@
 {
   "date": "2026-11-23",
   "category": "Literature",
-  "answer": "The Tale of Genji",
   "tiers": {
     "easy": {
+      "answer": "Langston Hughes",
       "answerlines": [
-        "The <b><u>Tale of Genji</u></b> (accept <b><u>Genji Monogatari</u></b>)",
-        "<i>The</i> <i><b><u>Tale of Genji</u></b></i> [or <i><b><u>Genji Monogatari</u></b></i>]",
-        "The Tale of <b><u>Genji</u></b> [or <b><u>Genji</u></b> Monogatari]",
-        "The Tale of <b><u>Genji</u></b> (accept <b><u>Genji</u></b> Monogatari [geh-n-jee moh-noh-gah-tah-ree])",
-        "The Tale of Genji (accept Genji Monogatari)"
+        "Langston <b><u>Hughes</u></b>",
+        "Langston <b><u> Hughes</u></b> (or James Mercer Langston <b><u> Hughes</u></b> )",
+        "Langston <b><u>Hughes</u></b> [or James Mercer Langston <b><u>Hughes</u></b>]"
       ],
       "clues": [
         {
-          "text": "In this novel, the Akashi Lady’s daughter gives birth to Niou, who romantically competes with Kaoru, the legal son of this novel’s title character.",
+          "text": "One poem by this author repeats the line “He did a lazy sway” before describing “ebony hands on each ivory key.”",
           "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2020 SCOP A, Packet 09"
+          "source": "2022 KICKOFF Novice, Packet 09N"
         },
         {
-          "text": "The protagonist ‟s grandson, Niou, and his wife ‟s illegitimate son, Kaoru, pursue three sisters in the last third of this novel, after the title figure ‟s death.",
-          "hardness": 1.25,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 2,
-          "source": "2012 SCOP Novice 3, Packet 02"
-        },
-        {
-          "text": "This work's protagonist falls in love with Yugao, who is killed by the spirit of one of his mistresses.",
+          "text": "This poet said \"They'll see how beautiful I am / And be ashamed\" in a poem that ends by declaring \"I, too, am America\".",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 1,
-          "source": "2017 SCOP MS 7, Packet 2"
+          "source": "2023 QUAOAR, Packet 07"
         },
         {
-          "text": "A chapter between chapters 41 and 42 in this book is missing its contents and suggests the death of the titular character.",
+          "text": "This poet wrote about his travels through Asia, as well as his observations of Haiti and the Soviet Republic in his autobiography, I Wonder as I Wander.",
           "hardness": 1.1,
           "inPower": false,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2009 Fall Kickoff Tournament (FKT), Packet Editor 3"
+          "source": "2013 Fall Kickoff Tournament (FKT), Packet 03"
         },
         {
-          "text": "This novel’s protagonist is exiled to Suma after having an affair with his half-brother’s concubine, and “ Into the Clouds” in a blank chapter that signifies his death.",
-          "hardness": 0.903,
+          "text": "One of his poems is framed as a prompt from a college instructor who said to “Go home and write a page tonight” and mentions the poet’s love for “Bessie, bop, and Bach.”This poet wrote that despite the fact that “they send me to eat in the kitchen,” “I, too, sing America.”",
+          "hardness": 1.066,
           "inPower": true,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2019 SCOP Novice 10, Packet 10"
+          "source": "2020 MOQBA Novice, Packet Packet 03"
         },
         {
-          "text": "The title character was the second son of an emperor and a low-ranking concubine named Lady Kiritsubo and first marries Princess Aoi and later another girl who shares her name with the author of this work.",
-          "hardness": 0.602,
+          "text": "This poet wrote “let it be the dream it used to be” in his poem “Let America be America Again.”",
+          "hardness": 1,
           "inPower": false,
           "giveaway": false,
-          "difficulty": 2,
-          "source": "2009 Fall Kickoff Tournament (FKT), Packet Editor 3"
-        },
-        {
-          "text": "A friend of Tō no Chūjō raises Fujitsubo’s niece to be the perfect wife for the title “shining” Japanese prince in this novel.",
-          "hardness": 0.584,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 2,
-          "source": "2012 SCOP Novice 3, Packet 02"
-        },
-        {
-          "text": "The title husband of Lady Aoi seduces his stepmother Lady Fujitsubo in this novel.",
-          "hardness": 0.395,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 2,
-          "source": "2022 KICKOFF Novice, Packet 10N"
-        },
-        {
-          "text": "Name this Heian-era novel by Murasaki Shikibu about the title “shining prince,” one of the world’s first novels.",
-          "hardness": -0.006,
-          "inPower": false,
-          "giveaway": true,
-          "difficulty": 2,
-          "source": "2020 SCOP A, Packet 09"
-        },
-        {
-          "text": "Name this novel by Lady Murasaki Shikibu written during the Heian period in Japan.",
-          "hardness": -0.226,
-          "inPower": false,
-          "giveaway": true,
           "difficulty": 1,
-          "source": "2018 MVS RAMS, Packet 08"
+          "source": "2016 PLATO, Packet 10"
+        },
+        {
+          "text": "One of his earliest works is a book of poems called The Weary Blues.",
+          "hardness": 0.755,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2016 PLATO, Packet 10"
+        },
+        {
+          "text": "Lorraine Hansberry took the title for her play, A Raisin in the Sun, from this man’s poem, “Harlem,” in which he asks, “What happens to a dream deferred?”",
+          "hardness": 0.672,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2013 Fall Kickoff Tournament (FKT), Packet 03"
+        },
+        {
+          "text": "This poet of “Theme for English B” proclaimed that it “sags like a heavy load” in a poem that asks “what happens to a dream deferred.”",
+          "hardness": 0.496,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2020 MOQBA Novice, Packet Packet 03"
+        },
+        {
+          "text": "Name this Harlem Renaissance poet of “Montage of a Dream Deferred”, who describes a dream as “a raisin in the sun” and writes that his soul has grown deep in “The Negro Speaks of Rivers.”",
+          "hardness": 0.119,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 2,
+          "source": "2010 Fall Novice Tournament, Packet 09"
+        },
+        {
+          "text": "“The Weary Blues” was written by what Harlem Renaissance poet?",
+          "hardness": -0.133,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 2,
+          "source": "2022 KICKOFF Novice, Packet 09N"
         }
       ]
     },
     "medium": {
+      "answer": "Nikolai Gogol",
       "answerlines": [
-        "The <b><u>Tale of Genji</u></b> [or <b><u>Genji</u></b> <b><u>Monogatari</u></b>]",
-        "The <b><u>Tale of Genji</u></b>",
-        "<b><u>The Tale of Genji</u></b>",
-        "<i>The</i> <i><b><u>Tale of Genji</u></b></i> (or <i><b><u>Genji Monogatari</u></b></i>)",
-        "<i>The</i> <i><b><u>Tale of Genji</u></b></i> [accept <i><b><u>Genji monogatari</u></b></i>]"
+        "Nikolai <b><u>Gogol</u></b> [Nikolai Vasilievich <b><u>Gogol</u></b>]",
+        "Nikolai <b><u>Gogol</u></b>",
+        "Nikolai <b><u>Gogol</u></b> [or Nikolai Vasilievich <b><u>Gogol</u></b>]",
+        "Nikolai <b><u>Gogol</u></b> [or Nikolai Vasilyevich <b><u>Gogol</u></b>]",
+        "Nikolai <b><u>Gogol</u></b> [Nikolai Vasileyevich <b><u>Gogol</u></b>] (The first line clues Piskarev in “Nevsky Prospekt.”)"
       ],
       "clues": [
         {
-          "text": "One character in this work is exiled to Suma after his secret affair with his brother’s concubine is revealed, and that character’s mother dies when he reaches three years of age.",
+          "text": "In a story by this author, the narrator signs his forms as Ferdinand VIII (the eighth) after claiming to be heir to the Spanish throne.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2014 LIST, Packet 10"
+          "source": "2024 IQBT Regular Season Set #3, Packet 05"
         },
         {
-          "text": "The protagonist of this novel compares the robe of one love interest to a cast-off cicada shell.",
+          "text": "One of this author’s short stories begins by describing a “certain official” who “serves in a certain department,” and another contrasts the lives of Lieutenant Pirogov and Piskaryov, who both travel along the title street.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2022 KICKOFF, Packet 04"
+          "source": "2013 LIST, Packet 04"
         },
         {
-          "text": "A character in this novel is possessed by a rival’s spirit after a conflict depicted in the “Battle of the Carriages.”",
-          "hardness": 1.15,
+          "text": "This writer created a puff pastry-eating man who encourages Piskaryov to pursue a beautiful woman he sees on Nevsky Prospekt.",
+          "hardness": 1,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2014 Prison Bowl, Packet 05"
+        },
+        {
+          "text": "The characters Pirogorov (peer-AHG-uh-rawf) and Piskarev leave each other on the title street in a story by this author.",
+          "hardness": 0.919,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2024 CALISTO, Packet 04"
+          "source": "2024 IQBT Regular Season Set #3, Packet 05"
         },
         {
-          "text": "The title character of this novel is exiled to the town of Suma due to an affair with a concubine.",
-          "hardness": 0.989,
+          "text": "A character that dresses up as a state councilor is caught leaving for Riga with a fake passport in a story by this author.",
+          "hardness": 0.799,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2022 KICKOFF, Packet 04"
+          "source": "2023 SITH, Packet 08"
         },
         {
-          "text": "This novel’s Uji chapters, which focus on the rivalry between Kaoru (“COW-roo”) and Niou (“NEE-oo”), follow a blank chapter that is titled “Vanished into the Clouds,” which implies that the title character died.",
-          "hardness": 0.825,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2016 WHAQ, Packet 06"
-        },
-        {
-          "text": "The protagonist of this work has many love affairs, including with his step-mother Fujitsubo, much to the dismay of his wife Lady Aoi.",
-          "hardness": 0.689,
+          "text": "In another, two robbers assault the protagonist on his way home from a party celebrating the purchase of the title garment by Akaky Akakievich.",
+          "hardness": 0.674,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2011 LIST, Packet 04"
+          "source": "2011 LIST, Packet 09"
         },
         {
-          "text": "The main character of this work is presumed to have died in the chapter “Vanished into the Clouds.”",
-          "hardness": 0.523,
+          "text": "In another story by this writer, the words “I am your brother\" make a young official regret making fun of the protagonist, who later confronts the “important person”.",
+          "hardness": 0.512,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2012 BDAT, Packet 07"
+          "source": "2014 Prison Bowl, Packet 05"
         },
         {
-          "text": "Both the Emperor Kiritsubo and the title character in this book are attracted to Lady Fujitsubo because of her resemblance to a concubine.",
-          "hardness": 0.381,
+          "text": "This author’s most prominent work features a character who is rumored to be Napoleon in disguise or the infamous Captain Kopeikin.",
+          "hardness": 0.439,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2019 Glasgow Scottie, Packet 08"
+          "source": "2017 BASQT, Packet 08"
         },
         {
-          "text": "After marrying Lady Aoi, this work’s title “shining prince” has an affair with Lady Fujitsubo.",
-          "hardness": 0.239,
+          "text": "The streets of St. Petersburg are haunted by Akaky Akakievich’s spirit in that story by this author.",
+          "hardness": 0.276,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2024 CALISTO, Packet 04"
+          "source": "2023 SITH, Packet 08"
         },
         {
-          "text": "Name this early novel about a Heian noble written by Lady Murasaki.",
-          "hardness": -0.267,
+          "text": "Name this Russian short-story writer, author of “The Nose” and “The Overcoat.”",
+          "hardness": -0.258,
           "inPower": false,
           "giveaway": true,
           "difficulty": 3,
-          "source": "2017 POMMSS, Packet 12"
+          "source": "2014 Prison Bowl, Packet 05"
         }
       ]
     },
     "hard": {
+      "answer": "German",
       "answerlines": [
-        "The <b><u>Tale of Genji</u></b> [or <b><u>Genji Monogatari</u></b>]",
-        "<i>The </i><i><b><u>Tale of Genji</u></b></i>",
-        "<i>The</i> <i><b><u>Tale of Genji</u></b></i>",
-        "<i>The</i> <b><i><u>Tale of Genji</u></i></b> [or <b><i><u>Genji Monogatari</u></i></b>]",
-        "<i>The</i> <i><b><u>Tale of Genji</u></b></i> [or <i><b><u>Genji monogatari</u></b></i>]"
+        "<b><u>German</u></b> [or <b><u>Deutsch</u></b>]",
+        "<b><u>German</u></b> [or <b><u>Deustch</u></b>]",
+        "<b><u>German</u></b> [or <b><u>Deutsch</u></b>] (“Patmos” is by Friedrich Hölderlin.)",
+        "<b>German</b> [or <b>Deutsch</b>; accept <b>Middle High German</b>] (The first poems mentioned are Novalis’s first and second “Hymns to the Night.” The novel is <i>Heinrich von Ofterdingen</i> by Novalis. The post-power poem is Heine’s “Die Lorelei”)",
+        "<b><u>German</u></b> [or <b><u>Prussian</u></b>; or French-<b><u>German</u></b>; or French-<b><u>Prussian</u></b>]"
       ],
       "clues": [
         {
-          "text": "In his study Seeds in the Heart, Donald Keene suggests that a chapter of this work was ordered destroyed since it told its readers to \"flee the world.\"",
+          "text": "A play written in this language opens with Daja telling the title character how a Christian knight heroically saved his lover Recha from a burning house.",
           "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2016 PACE NSC, Packet 02"
+          "source": "2015 PACE NSC, Packet 22 - Finals 1"
         },
         {
-          "text": "This book’s protagonist builds a mansion with wings for each of the seasons and directions, which house his four most important lovers.",
+          "text": "One author who wrote in this language asked “Must the morning always return?” in his poem “Longing for Death” and used a blue flower to symbolize Romanticism.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2018 BHSAT, Packet 11"
+          "source": "2021 NEWT, Packet 13"
         },
         {
-          "text": "The protagonist of this book insults a female acquaintance by comparing her to a “broom tree” before doing the “Waves of the Blue Sea” dance.",
-          "hardness": 1.1,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 5,
-          "source": "2007 PACE NSC, Packet 05 final"
-        },
-        {
-          "text": "This novel’s author appears in it as a preteen who is raped by the title character.",
-          "hardness": 0.952,
+          "text": "A famous short poem in this language begins \"Above all summits is calm\" and ends \"just wait, soon you till will rest.\"",
+          "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2018 BHSAT, Packet 11"
+          "source": "2016 BHSAT, Packet 01"
         },
         {
-          "text": "The story continues through such sections as “A Wreath of Cloud” and “The Bridge of Dreams” until the protagonist marries a girl he raised who shares her name with the author.",
-          "hardness": 0.827,
+          "text": "During a play in this language, a character based on a Jewish philosopher tells Saladin a parable about three rings.",
+          "hardness": 1,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2019 BHSAT, Packet 01"
+        },
+        {
+          "text": "This native language of Novalis was used to write one poem pondering “why am I so sad at heart” and centers on a monster who is “combing her golding hair” and “holds a golden comb.”",
+          "hardness": 0.88,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2021 NEWT, Packet 13"
+        },
+        {
+          "text": "This language of \"Wanderer's Nightsong II\" was used for a poem that compares the eyes of the title object to apples ripening and ends \"You must change your life.\"",
+          "hardness": 0.661,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2016 BHSAT, Packet 01"
+        },
+        {
+          "text": "The title character falls in love with the engaged Charlotte and becomes so miserable he commits suicide in The Sorrows of Young Werther, a work in this language.",
+          "hardness": 0.519,
           "inPower": false,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2007 PACE NSC, Packet 05 final"
+          "source": "2019 Prison Bowl, Packet 11"
         },
         {
-          "text": "The death of one character in this work is signified by the blank chapter “Vanished Into the Clouds”.",
-          "hardness": 0.637,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 4,
-          "source": "2012 RAVE, Packet 10"
-        },
-        {
-          "text": "A blank section called “Vanished into the Clouds” implies the death of this novel’s protagonist, a “shining prince” married to Lady Aoi (“ah-oh-ee”).",
-          "hardness": 0.444,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 4,
-          "source": "2025 Planetfall, Packet 12"
-        },
-        {
-          "text": "This novel's title character is called \"Shining\" and is unfaithful to his wife Lady Aoi.",
-          "hardness": 0.308,
+          "text": "The \"Anthem of Europe\" uses a poem in this language that describes a \"spark of divinity\" and \"daughter of Elysium.\"",
+          "hardness": 0.434,
           "inPower": false,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2016 PACE NSC, Packet 02"
+          "source": "2022 PACE NSC, Packet 3"
         },
         {
-          "text": "The husband of Lady Aoi courts women such as Lady Utsusemi and Lady Fujitsubo in what magnum opus of Murasaki Shikibu?",
-          "hardness": -0.198,
+          "text": "Name this nationality of military officers who have invaded France in stories like \"Ball of Fat\" by Guy de Maupassant.",
+          "hardness": -0.121,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 5,
+          "source": "2021 PACE NSC, Packet 20 - Finals 1"
+        },
+        {
+          "text": "Name this language of playwright Bertolt Brecht.",
+          "hardness": -0.308,
           "inPower": false,
           "giveaway": true,
           "difficulty": 4,
-          "source": "2019 RMBAT, Packet 05"
-        },
-        {
-          "text": "Name this Japanese work written in the Heian Period, by Lady Murasaki.",
-          "hardness": -0.256,
-          "inPower": false,
-          "giveaway": true,
-          "difficulty": 4,
-          "source": "2012 RAVE, Packet 10"
+          "source": "2021 DUOS, Packet Packet 8"
         }
       ]
     }

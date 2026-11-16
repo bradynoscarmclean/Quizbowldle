@@ -1,275 +1,279 @@
 {
   "date": "2026-12-02",
   "category": "Religion",
-  "answer": "Mecca",
   "tiers": {
     "easy": {
+      "answer": "Quran",
       "answerlines": [
-        "<b><u>Mecca</u></b> [or <b><u>Makkah</u></b> al-Mukarramah or <b><u>Bakkah</u></b>]",
-        "<b><u>Mecca</u></b> [or <b><u>Makkah</u></b>]",
-        "Mecca",
-        "<b><u>Mecca</u></b> (accept <b><u>Makkah</u></b>)",
-        "<b><u>Mecca</u></b>"
+        "<i><b><u>Quran</u></b></i>",
+        "the <b><u>Quran</u></b> [or <b><u>Qur’an</u></b> or <b><u>Koran</u></b>]",
+        "<b><u>Quran</u></b>",
+        "<b><u>Quran</u></b> [or <b><u>Koran</u></b>]"
       ],
       "clues": [
         {
-          "text": "An artifact in this city in a hexagonal gold case is a rock with two giant footprints.",
-          "hardness": 1.35,
+          "text": "Heavy and light accents are distinguished in tajwid, a set of rules for proper pronunciation while reciting this work.",
+          "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2024 Satellite, Packet 02"
+          "difficulty": 2,
+          "source": "2020 TAILS, Packet TAILS Packet 12"
         },
         {
-          "text": "A relic important to this city was stolen by the Qarmatians and held for twenty-three years until its return in 952.",
-          "hardness": 1.35,
+          "text": "A ritual based on this work uses the rules of tajweed, and can be performed without aid by a hafiz, someone who has memorized this text.",
+          "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2018 Glasgow Scottie, Packet 14"
+          "difficulty": 2,
+          "source": "2020 SCOP A, Packet 10"
         },
         {
-          "text": "In this city, a woman’s frantic search for water is commemorated by a ritual in which participants walk between two hills.",
-          "hardness": 1.18,
+          "text": "One of the most famous sections of this text is the Throne Verse, contained in its second and longest chapter.",
+          "hardness": 1.1,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2013 Fall Kickoff Tournament (FKT), Packet 04"
+        },
+        {
+          "text": "The name of the first section of this work is translated as “The Opener” and is composed of seven ayats, or verses.",
+          "hardness": 0.978,
           "inPower": true,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2017 Maryland Fall, Packet 02"
+          "difficulty": 2,
+          "source": "2020 TAILS, Packet TAILS Packet 12"
         },
         {
-          "text": "Six Miqats ￼are stations on the way to this city.",
-          "hardness": 1.15,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 1,
-          "source": "2017 SCOP MS 7, Packet 5"
-        },
-        {
-          "text": "Travelers to this supposed location of Adam’s burial ground often visit Mina, where they stone pillars representing the devil.",
-          "hardness": 0.933,
+          "text": "This work’s opening section, commonly used in salah, is nicknamed “the Key” and praises the “Sustainer of all worlds.”",
+          "hardness": 0.782,
           "inPower": false,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2013 Prison Bowl, Packet 12"
+          "difficulty": 2,
+          "source": "2020 SCOP A, Packet 10"
         },
         {
-          "text": "This city has a population of around two million but swells to over four million each year during the last month of its calendar.",
-          "hardness": 0.776,
+          "text": "This book may be divided into thirty juz' or seven manāzil, allowing it to be read in a month or a week.",
+          "hardness": 0.722,
           "inPower": false,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2018 Glasgow Scottie, Packet 14"
+          "difficulty": 2,
+          "source": "2013 Fall Kickoff Tournament (FKT), Packet 04"
         },
         {
-          "text": "Ibn Battuta initially set off only for this city but later traveled the world.",
-          "hardness": 0.626,
+          "text": "This text is made up of 114 sections called suras.",
+          "hardness": 0.563,
           "inPower": false,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2020-2021 Matt Cvijanovich Memorial Tournament, Packet 04"
+          "difficulty": 2,
+          "source": "2020 TAILS, Packet TAILS Packet 12"
         },
         {
-          "text": "A black cube called the Kaaba (“KAH-bah”) stands in this city, which marks the direction of daily prayers.",
-          "hardness": 0.565,
+          "text": "Uthman standardized this text, including its “Cow” surah, which was received after the exile to Mecca by the prophet Muhammad.",
+          "hardness": 0.497,
           "inPower": false,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2024 Satellite, Packet 02"
+          "difficulty": 2,
+          "source": "2020 SCOP A, Packet 10"
         },
         {
-          "text": "All able-bodied Muslims must at some point in their life complete the Hajj, a pilgrimage to what holy Saudi city?",
-          "hardness": -0.024,
+          "text": "This text is believed to be the word of God as passed down by the angel Gabriel to the prophet Muhammad.",
+          "hardness": 0.438,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2020 TAILS, Packet TAILS Packet 12"
+        },
+        {
+          "text": "Revealed by the angel Jibrīl over the course of twenty-three years to the prophet Muhammad, this is what central religious text of Islam?",
+          "hardness": -0.029,
           "inPower": false,
           "giveaway": true,
-          "difficulty": 1,
-          "source": "2017 SCOP MS 7, Packet 5"
-        },
-        {
-          "text": "Muhammad hailed from what holy city in Saudi Arabia?",
-          "hardness": -0.078,
-          "inPower": false,
-          "giveaway": true,
-          "difficulty": 3,
-          "source": "2020-2021 Matt Cvijanovich Memorial Tournament, Packet 04"
+          "difficulty": 2,
+          "source": "2013 Fall Kickoff Tournament (FKT), Packet 04"
         }
       ]
     },
     "medium": {
+      "answer": "Baptism",
       "answerlines": [
-        "<b><u>Mecca</u></b>",
-        "<b><u>Mecca</u></b> [or <b><u>Makkah</u></b>]",
-        "<b><u>Mecca</u></b> [accept <b><u>Makkah</u></b>; prompt on “Bakkah”]",
-        "<b><u>Mecca</u></b> [or <b><u>Makkah</u></b> al-Mukarramah or <b><u>Bakkah</u></b>]"
+        "<b><u>baptism</u></b> (prompt on ‘initiation’ until mentioned)",
+        "<b><u>baptism</u></b> [or Ana<b><u>baptist</u></b>s; accept word forms]",
+        "<b><u>Baptism</u></b> (accept infant <b><u>baptism</u></b> or paedo<b><u>baptism</u></b>)",
+        "<b><u>Baptism</u></b> [accept <b><u>Baptism</u></b> of Jesus Christ; accept John the <b><u>Baptist</u></b>]",
+        "<b><u>Baptism</u></b> [or word forms, such as <b><u>baptiz</u></b>ing; or <b><u>christen</u></b>ing]"
       ],
       "clues": [
         {
-          "text": "This city pardoned a man who had taken the Pledge of the Tree outside of it through the Treaty of Hudaibiya.",
+          "text": "The equivalent of this practice in Sikhism is called Amrit Sanchar or Khande di Pahul.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2020-2021 Matt Cvijanovich Memorial Tournament, Packet 04"
+          "source": "2018 MBAT, Packet 08"
         },
         {
-          "text": "A relic important to this city was stolen by the Qarmatians and held for twenty-three years until its return in 952.",
+          "text": "Alternate methods of undergoing this action can come “by blood” or “of desire,” according to Catholic doctrine.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2018 Glasgow Scottie, Packet 14"
+          "source": "2016 WHAQ, Packet 02"
         },
         {
-          "text": "Just outside of this city are the Safa (“SAH-fah”) and Marwa (“MAR-wah”) hills which are run between seven times in one ritual.",
-          "hardness": 0.972,
+          "text": "The theologian Huldrich Zwingli believed that this practice was symbolic, and therefore not necessary.",
+          "hardness": 1.005,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2024 Satellite, Packet 02"
+          "source": "2019 LOGIC, Packet 13"
         },
         {
-          "text": "The Ottoman Empire was sovereign over this city from 1517 until the First Saudi State captured it in 1803.",
-          "hardness": 0.928,
+          "text": "Due to the wording of chapter 15, verse 29 of First Corinthians, Mormons perform this action on the dead.",
+          "hardness": 0.968,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2018 Glasgow Scottie, Packet 14"
+          "source": "2016 WHAQ, Packet 02"
         },
         {
-          "text": "This city has a population of around two million but swells to over four million each year during the last month of its calendar.",
-          "hardness": 0.576,
+          "text": "This practice, which has alternative forms like aspersion and affusion, has controversially been performed on the dead by Mormons.",
+          "hardness": 0.689,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2018 Glasgow Scottie, Packet 14"
+          "source": "2019 LOGIC, Packet 13"
         },
         {
-          "text": "Pilgrims in this city drink water from the well of Zamzam, which miraculously appeared to provide water for Hajar and Ismail.",
-          "hardness": 0.465,
+          "text": "During one instance of this practice, the Holy Spirit descended in the form of a dove.",
+          "hardness": 0.608,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2017 Maryland Fall, Packet 02"
+          "source": "2020 LONE STAR, Packet 01"
         },
         {
-          "text": "A black cube called the Kaaba (“KAH-bah”) stands in this city, which marks the direction of daily prayers.",
-          "hardness": 0.365,
+          "text": "Many sects of Christianity developed from believing that doing this practice on infants meant nothing, because the infants don’t know if they believe in God, and are thus called “Ana-” this practice.",
+          "hardness": 0.471,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2024 Satellite, Packet 02"
+          "source": "2019 LOGIC, Packet 13"
         },
         {
-          "text": "The Hijrah was an event where a prophet and his followers fled from this city to Medina.",
-          "hardness": 0.283,
+          "text": "In certain denominations, a triple immersion is used to conduct this rite for infants, and holy water is sometimes used to remind people of this practice.",
+          "hardness": 0.376,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2020-2021 Matt Cvijanovich Memorial Tournament, Packet 04"
+          "source": "2020-2021 Matt Cvijanovich Memorial Tournament, Packet 12"
         },
         {
-          "text": "Name this birthplace of Muhammad that is the destination of the Hajj.",
-          "hardness": -0.241,
+          "text": "What Christian initiation ritual may involve sprinkling or pouring water on the subject’s head?",
+          "hardness": -0.161,
           "inPower": false,
           "giveaway": true,
           "difficulty": 3,
-          "source": "2018 Glasgow Scottie, Packet 14"
+          "source": "2023 CARD, Packet 01"
         },
         {
-          "text": "Muhammad hailed from what holy city in Saudi Arabia?",
-          "hardness": -0.278,
+          "text": "Name this admission rite of Christianity, which almost always involves water.",
+          "hardness": -0.252,
           "inPower": false,
           "giveaway": true,
           "difficulty": 3,
-          "source": "2020-2021 Matt Cvijanovich Memorial Tournament, Packet 04"
+          "source": "2019 LOGIC, Packet 13"
         }
       ]
     },
     "hard": {
+      "answer": "Zen Buddhism",
       "answerlines": [
-        "<b><u>Mecca</u></b>",
-        "<b><u>Mecca</u></b> [or <b><u>Makkah</u></b>] &lt;MPG&gt;",
-        "<b><u>Mecca</u></b> [or <b><u>Makkah</u></b>]"
+        "<b><u>Zen</u></b> Buddhism (prompt on <b><u>Buddhism</u></b>)",
+        "<b><u>Zen</u></b> Buddhism [or <b><u>Chan</u></b>; or <b><u>Thie</u></b>; or <b><u>Seon</u></b>; prompt on “Mahayana” or “Buddhism” until mentioned]",
+        "<b><u>Zen</u></b> Buddhism [or <b><u>Chan</u></b> Buddhism; prompt “Buddhism” or “Mahayana Buddhism” before it is read]",
+        "<b><u>Zen</u></b> Buddhism [prompt on “Buddhism” or “Mahayana” before mentioned]",
+        "<b><u>Zen</u></b> Buddhism [prompt on<u>Buddhism</u> or Mahayana <u>Buddhism</u> before mention; reject “Hinayana Buddhism”]"
       ],
       "clues": [
         {
-          "text": "The naming of the “Year of the Elephant” refers to a failed attempt to enter this place.",
+          "text": "One outgrowth of this religion was established by Vinitaruci and led to the founding of the Truc Lam and Lie Quán schools.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2010 PACE NSC, Packet 13"
+        },
+        {
+          "text": "A text by one leader of this tradition asks, “if a mirror has no stand, where is the dust?.”",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2017 HFT, Packet 01"
+          "source": "2024 VAULT, Packet 04"
         },
         {
-          "text": "Participants cross the Jamaraat Bridge and throw stones at three pillars in an event centering on this place.",
+          "text": "This tradition’s founder legendarily cut off his eyelids after falling asleep while staring at a wall for seven years.",
+          "hardness": 1.003,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2024 VAULT, Packet 04"
+        },
+        {
+          "text": "One practitioner of this religion wrote a poem separating the comprehension of reality into five ranks.",
           "hardness": 1,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 4,
-          "source": "2017 HFT, Packet 01"
-        },
-        {
-          "text": "The “Year of Sorrow” occurred in this place.",
-          "hardness": 0.971,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 4,
-          "source": "2015 BHSAT, Packet 05"
-        },
-        {
-          "text": "One sacred building in this city has brooms dipped in rosewater used to clean its interior twice a year.",
-          "hardness": 0.859,
           "inPower": false,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2012 BHSAT, Packet 11"
+          "source": "2015 Prison Bowl, Packet 02"
         },
         {
-          "text": "Riding the steed Buraq, Mohammad travelled from this place during the Night Journey, and the Zamzam Well is located in the area near this city.",
-          "hardness": 0.664,
+          "text": "The shakuhachi is an instrument which some adherents use to attain self-realization, and the Heart and Lotus aphorisms are recited in daily services at this religion's temples.",
+          "hardness": 0.784,
           "inPower": false,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2017 HFT, Packet 01"
+          "source": "2010 NAREN, Packet 04"
         },
         {
-          "text": "The Stoning of the Devil is done near this site of the Well of Zamdam.",
-          "hardness": 0.503,
+          "text": "This religion claims that it originated from the Flower Sermon, and it was founded by the Chinese monk Bodhidharma.",
+          "hardness": 0.635,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2010 PACE NSC, Packet 13"
+        },
+        {
+          "text": "It has its beginnings in the Flower Sermon, which started its spread throughout East Asia.",
+          "hardness": 0.53,
           "inPower": false,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2015 BHSAT, Packet 05"
+          "source": "2010 NAREN, Packet 04"
         },
         {
-          "text": "The qibla refers to the direction of this city, and a large black cuboid structure called the Kaaba is located in this city that is the destination of the hajj.",
-          "hardness": 0.415,
+          "text": "In the country in which it is most popular, it is divided into Soto and Rinzai sects that differ on how to achieve satori.",
+          "hardness": 0.464,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2010 PACE NSC, Packet 13"
+        },
+        {
+          "text": "Adherents of this religion, which was practiced by Bodhidharma, attempt to reach satori, and it uses paradoxical koans for self-inquiry.",
+          "hardness": 0.358,
           "inPower": false,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2017 HFT, Packet 01"
+          "source": "2015 Prison Bowl, Packet 02"
         },
         {
-          "text": "This city is home to a black stone which pilgrims circle seven times.",
-          "hardness": 0.284,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 4,
-          "source": "2015 BHSAT, Packet 05"
-        },
-        {
-          "text": "The Ka’aba is a boxlike shrine in what city faced five times a day during prayer, the site of the hajj pilgrimage and holiest city in Islam?",
-          "hardness": -0.128,
+          "text": "Name this tradition associated with Bodhidharma and known for its emphasis on meditation.",
+          "hardness": -0.235,
           "inPower": false,
           "giveaway": true,
           "difficulty": 4,
-          "source": "2012 BHSAT, Packet 11"
-        },
-        {
-          "text": "Name this home of the Kaaba, the holiest city of Islam.",
-          "hardness": -0.289,
-          "inPower": false,
-          "giveaway": true,
-          "difficulty": 4,
-          "source": "2015 BHSAT, Packet 05"
+          "source": "2024 VAULT, Packet 04"
         }
       ]
     }

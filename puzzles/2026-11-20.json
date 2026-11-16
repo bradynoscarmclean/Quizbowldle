@@ -1,275 +1,277 @@
 {
   "date": "2026-11-20",
   "category": "Social Science",
-  "answer": "Ruth Benedict",
   "tiers": {
     "easy": {
+      "answer": "Carl Jung",
       "answerlines": [
-        "Ruth <b><u>Benedict</u></b> [accept Ruth <b><u>Fulton</u></b>] [JaC]",
-        "Ruth <b><u>Benedict</u></b>",
-        "Ruth <b><u>Benedict</u></b> [or Ruth <b><u>Fulton</u></b>]",
-        "Ruth <b><u>Benedict</u></b> [or Ruth Fulton <b><u>Benedict</u></b>]",
-        "Ruth <u>Benedict</u>"
+        "Carl <b><u>Jung</u></b>",
+        "Carl <b><u>Jung</u></b> [or Carl Gustav <b><u>Jung</u></b>]",
+        "Carl <u>Jung</u>",
+        "Carl <b><u>Jung</u></b> [yung] (accept Carl Gustav <b><u>Jung</u></b>)"
       ],
       "clues": [
         {
-          "text": "This person’s Ph.D. dissertation, about the importance of individual religious experiences, is called The Concept of the Guardian Spirit in North America.",
+          "text": "While working under Eugen Bleuler (“OY-gen BLOY-ler”) at a schizophrenia hospital, this man developed his concept of a “feeling-toned complex” after conducting his “word association” experiment.",
           "hardness": 1.35,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2010 Ben Cooper, Packet 05"
+          "source": "2019 CAST, Packet 04"
         },
         {
-          "text": "This author discussed a quarrel between the Uretsiti and the Naotsiti in the book Tales of the Cochiti Indians.",
-          "hardness": 1.35,
+          "text": "This man posited that “people who would have never thought that a religious problem could be a serious matter … are beginning to ask themselves fundamental questions” in his book Flying Saucers: A Modern Myth of Things Seen in the Skies.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2020 MOQBA Novice, Packet Packet 11"
+        },
+        {
+          "text": "This thinker argued that an individual’s psychological change from an impure soul to a perfected soul is a parallel to transforming lead into gold in his work Psychology and Alchemy.",
+          "hardness": 1.2,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2013 GSAC, Packet 02"
+        },
+        {
+          "text": "One concept developed by this man describes events with no causal connection that seem meaningfully related.",
+          "hardness": 1.056,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2019 CAST, Packet 03"
+          "source": "2019 CAST, Packet 04"
         },
         {
-          "text": "This anthropologist used the studies by Reo Fortune of the Dobu Tribe, identifying them as \"treacherous\" in a work that also studied the Kwakiutl and Zuni.",
-          "hardness": 1.35,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2013 JAMES, Packet 13"
-        },
-        {
-          "text": "In one pamphlet, this thinker denounced the racism of \"green devils\" using examples from cartoons.",
-          "hardness": 1.22,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2019 RAFT, Packet RAFT Packet 07"
-        },
-        {
-          "text": "The examples of restraint in Pueblo cultures and abandon in the Great Plains in that work,Patterns of Culture, are examples of her definition of culture as \"personality-writ-large.\"",
-          "hardness": 0.952,
+          "text": "This man described his creative method of “active imagination” in his Red Book, and he examined the relationship between coincidences in his work Synchronicity.",
+          "hardness": 0.913,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2013 JAMES, Packet 13"
+          "source": "2013 GSAC, Packet 02"
         },
         {
-          "text": "This thinker spent 11 years studying the myths of the Pueblo for Tales of the Cochiti Indians, and co-authored “The Races of Mankind” with Gene Weltfish.",
-          "hardness": 0.933,
+          "text": "He identified the “eternal child” and “wise old man” as shadow archetypes (“AHR-ki-types”), a term he also used to describe the animus and anima in his theory of the collective unconscious.",
+          "hardness": 0.742,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2019 RAFT, Packet RAFT Packet 07"
+          "source": "2019 CAST, Packet 04"
         },
         {
-          "text": "This thinker called cultures “personality writ large” in a work which compared the Dobu, Kwakiutl, and Zuni Cultures.",
-          "hardness": 0.714,
+          "text": "This psychologist developed the idea of the “shadow,” “anima,” and “persona,” and the Myers-Briggs Type Indicator is based off of this man’s research on introversion, extroversion, and archetypes.",
+          "hardness": 0.661,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2019 RAFT, Packet RAFT Packet 07"
+          "source": "2013 GSAC, Packet 02"
         },
         {
-          "text": "In another work, this woman used “anthropology at a distance” to contrast guilt and shame cultures during World War Two.",
-          "hardness": 0.609,
+          "text": "This author of Psychological Types differentiated between “introversion” and “extraversion” and created the idea of the collective unconscious.",
+          "hardness": 0.594,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2018 MBAT, Packet 07"
+          "source": "2014 LIST, Packet 13"
         },
         {
-          "text": "In another work by this author of Patterns of Culture, she analyzes the differences between guilt and shame culture within Japanese society leading to ritual suicide.",
-          "hardness": 0.55,
+          "text": "The Myers-Briggs Type Indicator was inspired by the work of what colleague of Sigmund Freud, a Swiss psychologist who developed the ideas of the collective unconscious and archetypes?",
+          "hardness": 0.165,
           "inPower": false,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2019 RAFT, Packet RAFT Packet 07"
+          "giveaway": true,
+          "difficulty": 2,
+          "source": "2021 SCOP B, Packet 10"
         },
         {
-          "text": "Give this anthropologist and student of Franz Boas, who wrote Patterns of Culture and The Chrysanthemum and the Sword.",
-          "hardness": 0.071,
+          "text": "Name this Swiss founder of analytic psychology who once studied under Sigmund Freud.",
+          "hardness": -0.039,
           "inPower": false,
           "giveaway": true,
           "difficulty": 3,
-          "source": "2022 Saucy Invitational, Packet 02"
+          "source": "2014 LIST, Packet 13"
         }
       ]
     },
     "medium": {
+      "answer": "monopoly",
       "answerlines": [
-        "Ruth <b><u>Benedict</u></b>",
-        "Ruth <b><u>Benedict</u></b> [or Ruth Fulton <b><u>Benedict</u></b>]",
-        "Ruth <b><u>Benedict</u></b> [accept Ruth <b><u>Fulton</u></b>] [JaC]",
-        "Ruth <u>Benedict</u>",
-        "Ruth <b><u>Benedict</u></b> [or Ruth <b><u>Fulton</u></b>]"
+        "<b><u>monopoly</u></b>",
+        "<b><u>monopoly</u></b> [do not accept or prompt on “monopolistic competition” or “monopsony”]",
+        "<b><u>monopoly</u></b> [or <b><u>monopolies</u></b>; prompt on <u>one seller</u> and similar answers until “one seller” is read; do not accept “monopolistic competition” or “monopsony”]",
+        "<b><u>monopoly</u></b> [or <b><u>monopolies</u></b>; accept natural <b><u>monopoly</u></b>]"
       ],
       "clues": [
         {
-          "text": "Published in 1946, one of this anthropologist’s most famous works analyzes the seemingly contradictory aspects of Japanese cultural behaviors and popularized the distinction between guilt cultures and shame cultures.",
+          "text": "Durable goods in this type of structure have theoretically competitive prices according to the Coase conjecture.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2011 LIST, Packet 11"
+          "source": "2021 RAFT, Packet 11"
         },
         {
-          "text": "This anthropologist used the studies by Reo Fortune of the Dobu Tribe, identifying them as \"treacherous\" in a work that also studied the Kwakiutl and Zuni.",
+          "text": "Maximizing social welfare under this situation is the subject of the Ramsey problem.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2013 JAMES, Packet 13"
+          "source": "2023 SITH, Packet 03"
         },
         {
-          "text": "Alongside Gene Weltfish, this anthropologist created a pamphlet for the US Army combating Nazi ideologies.",
-          "hardness": 1.15,
+          "text": "The Pacman and Coase conjectures offer differing predictions of elements of this situation.",
+          "hardness": 0.997,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2022 Saucy Invitational, Packet 02"
+          "source": "2023 SITH, Packet 03"
         },
         {
-          "text": "In one pamphlet, this thinker denounced the racism of \"green devils\" using examples from cartoons.",
-          "hardness": 1.02,
+          "text": "Price competition may be governed by the Coase conjecture in this economic system.",
+          "hardness": 0.901,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2019 RAFT, Packet RAFT Packet 07"
+          "source": "2018 Glasgow Scottie, Packet 07"
         },
         {
-          "text": "The examples of restraint in Pueblo cultures and abandon in the Great Plains in that work,Patterns of Culture, are examples of her definition of culture as \"personality-writ-large.\"",
-          "hardness": 0.752,
+          "text": "A “natural” type of this situation may emerge due to economies of scale.",
+          "hardness": 0.794,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 Maryland Fall, Packet 11"
+        },
+        {
+          "text": "Deadweight loss is one result of this situation which occurs when prices are set higher to maximize profits, leading to a decline in production.",
+          "hardness": 0.587,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2013 JAMES, Packet 13"
+          "source": "2010 BATE, Packet 08"
         },
         {
-          "text": "This thinker spent 11 years studying the myths of the Pueblo for Tales of the Cochiti Indians, and co-authored “The Races of Mankind” with Gene Weltfish.",
-          "hardness": 0.733,
+          "text": "Increasing returns to scale create the “natural” type of this market structure.",
+          "hardness": 0.541,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2019 RAFT, Packet RAFT Packet 07"
+          "source": "2021 RAFT, Packet 11"
         },
         {
-          "text": "This thinker called cultures “personality writ large” in a work which compared the Dobu, Kwakiutl, and Zuni Cultures.",
-          "hardness": 0.514,
+          "text": "Market inefficiencies result from this economic situation because firms will produce less output than they would in a competitive market.",
+          "hardness": 0.313,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2019 RAFT, Packet RAFT Packet 07"
+          "source": "2017 Maryland Fall, Packet 11"
         },
         {
-          "text": "In another work, this woman used “anthropology at a distance” to contrast guilt and shame cultures during World War Two.",
-          "hardness": 0.409,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2018 MBAT, Packet 07"
-        },
-        {
-          "text": "In another work by this author of Patterns of Culture, she analyzes the differences between guilt and shame culture within Japanese society leading to ritual suicide.",
-          "hardness": 0.35,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2019 RAFT, Packet RAFT Packet 07"
-        },
-        {
-          "text": "Give this anthropologist and student of Franz Boas, who wrote Patterns of Culture and The Chrysanthemum and the Sword.",
-          "hardness": -0.129,
+          "text": "Name this market structure in which a single supplier controls most or all of the market for a particular commodity.",
+          "hardness": -0.111,
           "inPower": false,
           "giveaway": true,
           "difficulty": 3,
-          "source": "2022 Saucy Invitational, Packet 02"
+          "source": "2018 Glasgow Scottie, Packet 07"
+        },
+        {
+          "text": "Name this situation in which a product is entirely produced by one company.",
+          "hardness": -0.265,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2010 BATE, Packet 08"
         }
       ]
     },
     "hard": {
+      "answer": "John Maynard Keynes",
       "answerlines": [
-        "Ruth <b><u>Benedict</u></b>",
-        "Ruth <b><u>Benedict</u></b> [or Ruth Fulton <b><u>Benedict</u></b>]"
+        "John Maynard <b><u>Keynes</u></b> (“canes”)",
+        "John Maynard <b><u>Keynes</u></b>",
+        "John Maynard <b><u>Keynes</u> </b>",
+        "John Maynard <b><u>Keynes</u></b> [“KAYNZ”, but be reasonable]"
       ],
       "clues": [
         {
-          "text": "Along with Gene Weltfish, this anthropologist wrote a pamphlet which refuted biometric head measuring as a means of determining intelligence, insisting that every race had equal potential for intelligence.",
+          "text": "One of this man's books claims that long-run expectations could not be quantified and were driven more by \"animal spirits\" than rational weighing of risks.",
           "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2011 PACE NSC, Packet 21 - TB 5"
+          "source": "2015 PACE NSC, Packet 03"
         },
         {
-          "text": "This thinker briefly gave now-lost lectures near Philadelphia describing a “low synergy” society as one where the interest of an individual and a society are at odds, a concept developed through observation of cultures.",
+          "text": "Some believe this author’s Indian Currency and Finance to be the greatest work written about the gold standard.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2021 Remember the Women, Packet 2"
+          "source": "2020 Glasgow Scottie, Packet 14"
         },
         {
-          "text": "In one introduction, this colleague of Gene Weltfish stated that \"the goal is a world made safe for differences.\"",
-          "hardness": 1.055,
+          "text": "One mathematical model based on this man's most influential book explains shifts in aggregate demand and was developed by Hicks and Hansen.",
+          "hardness": 1.047,
           "inPower": true,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2025 PACE NSC, Packet 02"
+          "source": "2015 PACE NSC, Packet 03"
         },
         {
-          "text": "This thinker contrasted the emphasis on restraint in cultures of the American Southwest with the focus on abandon in the Great Plains.",
-          "hardness": 0.97,
+          "text": "This man argued that the long-term economy was driven by irrational human drives he termed “animal spirits.”",
+          "hardness": 0.998,
           "inPower": true,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2020 CATT, Packet 11"
+          "source": "2020 BHSAT, Packet 09"
         },
         {
-          "text": "She wrote about an “arc of culture,” and compared the Pueblo peoples and Great Plains people’s cultures of restraint and abandon.",
-          "hardness": 0.807,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 4,
-          "source": "2021 Remember the Women, Packet 2"
-        },
-        {
-          "text": "In one of this anthropologist’s best known works, this student of Franz Boas and author of “The Races of Mankind” studied newspaper clippings and classic novels and compared “guilt” and “shame” cultures, writing about rituals like seppuku, while she also wrote a book which defined its title concept as the shared beliefs and experiences of a people.",
-          "hardness": 0.784,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 5,
-          "source": "2011 PACE NSC, Packet 21 - TB 5"
-        },
-        {
-          "text": "During World War II, she worked for the Office of War Information and derived her most famous work from an assignment to do a study on Japanese culture.",
-          "hardness": 0.711,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 5,
-          "source": "2003 PACE NSC, Packet 02"
-        },
-        {
-          "text": "This thinker used newspaper clippings to conduct “anthropology at a distance” and write a book that contrasts the shame and guilt cultures of two different countries.",
-          "hardness": 0.496,
+          "text": "This man criticized some economists’ use of the “long run” by saying “in the long run, we’re all dead,” and he claimed that the terms set forth by the Treaty of Versailles were disastrous in his The Economic Consequences of the Peace.",
+          "hardness": 0.816,
           "inPower": false,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2015 HFT, Packet 13"
+          "source": "2020 Glasgow Scottie, Packet 14"
         },
         {
-          "text": "A later work contrasted guilt and shame cultures and was written despite her lack of firsthand experience with the society in question.",
-          "hardness": 0.438,
+          "text": "His book The Means to Prosperity attacked Say’s law.",
+          "hardness": 0.699,
           "inPower": false,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2010 NAREN, Packet 06"
+          "source": "2014 BHSAT, Packet 08"
         },
         {
-          "text": "—name this anthropologist who wrote The Chrysanthemum and the Sword.",
-          "hardness": -0.089,
+          "text": "This economist names a \"cross\" diagram showing the relationship between aggregate demand and aggregate supply, and this theorist of the \"money multiplier\" attacked the terms of the Treaty of Versailles in The Economic Consequences of the Peace.",
+          "hardness": 0.617,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2014 BHSAT, Packet 08"
+        },
+        {
+          "text": "He is also known for his Tract on Monetary Reform, where he declared “In the long run, we are all dead.”",
+          "hardness": 0.484,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2020 BHSAT, Packet 09"
+        },
+        {
+          "text": "He also argued against high reparation payments for Germany in his The Economic Consequences of the Peace.",
+          "hardness": 0.41,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2012 Prison Bowl, Packet 13"
+        },
+        {
+          "text": "Name this economist who advocated deficit spending to combat recessions in The General Theory of Employment, Interest, and Money.",
+          "hardness": -0.099,
           "inPower": false,
           "giveaway": true,
           "difficulty": 5,
-          "source": "2003 PACE NSC, Packet 02"
+          "source": "2025 PACE NSC, Packet 17"
         }
       ]
     }

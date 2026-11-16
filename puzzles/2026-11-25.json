@@ -1,277 +1,277 @@
 {
   "date": "2026-11-25",
   "category": "Mythology",
-  "answer": "Heracles",
   "tiers": {
     "easy": {
+      "answer": "Isis",
       "answerlines": [
-        "<u>Heracles</u> (or <u>Hercules</u>)",
-        "<b><u>Heracles</u></b> [or <b><u>Hercules</u></b>]",
-        "Heracles (accept Hercules until \"Greek\" is read)",
-        "<b><u>Heracles</u></b> [accept <u>Hercules</u> before “Greek”; accept <u>Alcides</u>]"
+        "<b><u>Isis</u></b> (accept <b><u>Aset</u></b>; accept <b><u>Iset</u></b>; accept <b><u>Ase</u></b>)",
+        "<b><u>Isis</u></b> (accept <b><u>Aset</u></b>, <b><u>Eset</u></b>, or <b><u>Ese</u></b>)",
+        "<b><u>Isis</u></b>",
+        "<b><u>Isis</u></b> (accept <b><u>Ase</u></b>; accept <b><u>Wus</u></b>a)",
+        "<b><u>Isis</u></b> (accept Aset, Eset, or Ese)"
       ],
       "clues": [
         {
-          "text": "This man was born after Zeus disguised himself as Alcmene’s husband, Amphitryon, and he was forced to serve Omphale for three years while dressed in women’s clothing.",
+          "text": "This deity was freed from a spinning-mill, and gave birth while protected by seven scorpions.",
           "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2017 Darien DEFT, Packet 03"
+          "source": "2017 SCOP Novice 8, Packet 01"
         },
         {
-          "text": "This figure killed his music teacher Linus after a bad lesson.",
+          "text": "Like Hathor, this goddess was syncretized with Imentet, the “Woman of the West,” through her marriage to the “Foremost Among the Westerners.”",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2020 SCOP A, Packet 09"
+        },
+        {
+          "text": "This goddess created a serpent out of saliva to trick Ra into telling her his secret name.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 1,
-          "source": "2018 MVS RAMS, Packet 07"
+          "source": "2022 SANDS, Packet 09"
         },
         {
-          "text": "This figure defeated Thanatos in a duel in order to win back Alcestis from the dead.",
-          "hardness": 1.1,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 2,
-          "source": "2012 Fall Kickoff Tournament (FKT), Packet 01"
-        },
-        {
-          "text": "After committing murder, this man was sentenced to serve as a slave to Queen Omphale for one year.",
-          "hardness": 0.995,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 1,
-          "source": "2018 MVS RAMS, Packet 07"
-        },
-        {
-          "text": "The blood of the centaur Nessus was used to poison a shirt that this man’s wife, Deianira, accidentally gave to him, ultimately killing him.",
-          "hardness": 0.931,
+          "text": "This goddess made a snake out of earth to bite Ra, which forced Ra to give up his true name.",
+          "hardness": 1.137,
           "inPower": true,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2017 Darien DEFT, Packet 03"
+          "source": "2014 SCOP Novice 5, Packet 02"
         },
         {
-          "text": "This figure's wife Deianira gave him a poisoned shirt, which led to his death and an eventual marriage to Hebe.",
-          "hardness": 0.74,
+          "text": "This goddess discovered a sealed box by a cedar tree in Byblos and used saliva to make Ra reveal his secret name.",
+          "hardness": 1.023,
           "inPower": true,
           "giveaway": false,
-          "difficulty": 1,
-          "source": "2022 MAKEMAKE, Packet 12"
+          "difficulty": 2,
+          "source": "2017 SCOP Novice 8, Packet 01"
         },
         {
-          "text": "As a child, he strangled two snakes that were sent to kill him.",
-          "hardness": 0.714,
-          "inPower": false,
+          "text": "Nephthys pretended to be this deity to become pregnant with Anubis.",
+          "hardness": 0.912,
+          "inPower": true,
           "giveaway": false,
-          "difficulty": 1,
-          "source": "2011 Collaborative Middle School Tournament #2, Packet 04"
+          "difficulty": 2,
+          "source": "2020 SCOP A, Packet 09"
         },
         {
-          "text": "After killing his wife Megara in a fit of rage induced by Hera, this hero was sent to accomplish many tasks as penance.",
-          "hardness": 0.568,
+          "text": "This goddess searched for a tamarisk tree to find her dead husband after he was tricked by Set; she later reassembled thirteen pieces of that husband to make him the god of the dead.",
+          "hardness": 0.759,
           "inPower": false,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2012 Fall Kickoff Tournament (FKT), Packet 01"
+          "source": "2014 SCOP Novice 5, Packet 02"
         },
         {
-          "text": "Name this Greek hero and son of Zeus, who accomplished the Twelve Labors.",
-          "hardness": -0.123,
+          "text": "This daughter of Geb and Nut discovered the secret name of Ra, and reconstructed her husband’s body after he was dismembered by her brother, Set.",
+          "hardness": 0.6,
           "inPower": false,
-          "giveaway": true,
+          "giveaway": false,
           "difficulty": 2,
-          "source": "2023 MOQBA Novice, Packet 02"
+          "source": "2020 SCOP A, Packet 09"
         },
         {
-          "text": "Name this Greek hero, an enemy of Hera, most noted for his Twelve Labors.",
-          "hardness": -0.199,
+          "text": "After her husband is murdered by Set, this goddess searches across Egypt for the fourteen pieces of his body.",
+          "hardness": 0.596,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2022 SANDS, Packet 09"
+        },
+        {
+          "text": "Name this queen of the Egyptian gods who was married to her brother Osiris.",
+          "hardness": -0.217,
           "inPower": false,
           "giveaway": true,
           "difficulty": 1,
-          "source": "2022 MAKEMAKE, Packet 12"
+          "source": "2022 SCOP MS 11, Packet Round 9"
         }
       ]
     },
     "medium": {
+      "answer": "Dionysus",
       "answerlines": [
-        "<b><u>Heracles</u></b> [accept <b><u>Hercules</u></b> or <b><u>Alcaeus</u></b> or <b><u>Alcides</u></b>]",
-        "<b><u>Heracles</u></b> [accept <b><u>Hercules</u></b>]",
-        "<b><u>Heracles</u></b> [accept <b><u>Hercules</u></b>; accept <b><u>Alcaeus</u></b>; accept <b><u>Alcides</u></b>]",
-        "<b><u>Heracles</u></b> [accept <b><u>Hercules</u></b>] [JoC]",
-        "<b><u>Heracles</u></b> [accept “<b><u>Hercules</u></b>”]"
+        "<b><u>Dionysus</u></b> [or <b><u>Bacchus</u></b>]",
+        "<b><u>Dionysus</u></b> (accept <b><u>Bacchus</u></b> before mentioned)",
+        "<b><u>Dionysus</u></b> [or <b><u>Bacchus</u></b> or <b><u>Liber</u></b>]",
+        "<b><u>Dionysus</u></b> [accept <b><u>Zagreus</u></b>; do not accept “Bacchus”]",
+        "<b><u>Dionysus</u></b> [accept <b><u>Bacchus</u></b> before “Nysa”]"
       ],
       "clues": [
         {
-          "text": "This figure once joined the thiasus of Dionysus after losing a drinking contest to him.",
+          "text": "The interpretatio graeca model views this Greek god as equivalent to the Egyptian Osiris because stories of Osiris’ dismemberment parallel those of this god’s Orphic precursor, Zagreus.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2019 RAFT, Packet RAFT Packet 06"
+          "source": "2021 AQBL February Set, Packet 05"
         },
         {
-          "text": "According to the Bibliotheca (“bib-lee-uh-thee-kuh”) of Pseudo-Apollodorus, this man had to pray to his father in order to defeat the brothers Bergion and Albion, which earned him the nickname of “the Kneeler.”",
+          "text": "In some stories, this deity was raised by rain nymphs at Nysa.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2016 WHAQ, Packet 10"
+          "source": "2023 SITH, Packet 05"
         },
         {
-          "text": "Amused by their jokes, this figure released the monkey-like Cercopes, who had robbed him of his weapons, and his murder of Iphitus resulted in his serving at the court of Omphale.",
+          "text": "Orpheus was killed by devotees of this figure.",
           "hardness": 1,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2014 GSAC, Packet 10"
+          "source": "2013 BISB, Packet 10"
         },
         {
-          "text": "After throwing Iphitus (“if-i-tuhs”) off the walls of Tiryns (“tir-inz”), this man was forced to serve Omphale (“Ohm-fal-i”).",
-          "hardness": 0.837,
+          "text": "Pirates attempting to sell this deity as a slave were turned into dolphins after jumping off the boat.",
+          "hardness": 0.873,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2016 WHAQ, Packet 10"
+          "source": "2024 CARD, Packet 08"
         },
         {
-          "text": "This man killed all the sons of Laomedon except Priam and completed one task with the help of his nephew Iolaus after the murder of his children with Megara.",
-          "hardness": 0.679,
+          "text": "According to Nonnus, Pentheus was killed by omophagia after refusing this god’s rites.",
+          "hardness": 0.727,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2024 SITH, Packet 05"
+        },
+        {
+          "text": "He became the immortal lover of Ariadne.",
+          "hardness": 0.566,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2009 GSAC, Packet Tiebreaker Round"
+          "source": "2013 BISB, Packet 10"
         },
         {
-          "text": "Philoctetes lit this hero’s funeral pyre, after which he was given this hero’s bow and poison-tipped arrows.",
-          "hardness": 0.59,
+          "text": "This god’s crazed followers, the maenads, killed Orpheus.",
+          "hardness": 0.491,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2020 LONE STAR, Packet 03"
+          "source": "2021 MSQB Madness, Packet 5"
         },
         {
-          "text": "This figure was forced to serve his cousin Eurystheus after accidentally killing his children with Megara.",
-          "hardness": 0.523,
+          "text": "This unborn god was stuffed into Zeus’ thigh after his mother died, and on Naxos, he met his future-wife Ariadne.",
+          "hardness": 0.407,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2019 RAFT, Packet RAFT Packet 06"
+          "source": "2024 SITH, Packet 05"
         },
         {
-          "text": "This hero drove out the Stymphalian Birds, obtained the Golden Apples of the Hesperides, and slew the Nemean Lion while serving under Eurystheus.",
-          "hardness": 0.384,
+          "text": "This god was often visually depicted accompanied by revelling satyrs and grapevines.",
+          "hardness": 0.258,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2020 LONE STAR, Packet 03"
+          "source": "2021 AQBL February Set, Packet 05"
         },
         {
-          "text": "He aided the Olympian gods during Gigantomachy and also cleaned the Augean stables.",
-          "hardness": 0.318,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2012 GSAC, Packet 02"
-        },
-        {
-          "text": "Name this Greek hero who completed Twelve Labors, which included killing the Hydra.",
-          "hardness": -0.255,
+          "text": "Name this leader of the satyrs, who presided over ecstasy and wine.",
+          "hardness": -0.275,
           "inPower": false,
           "giveaway": true,
           "difficulty": 3,
-          "source": "2016 WHAQ, Packet 10"
+          "source": "2013 BISB, Packet 10"
         }
       ]
     },
     "hard": {
+      "answer": "Perseus",
       "answerlines": [
-        "<b><u>Heracles</u></b> (or <b><u>Hercules</u></b>, <b><u>Heracle</u></b>, <b><u>Alcides</u></b>, or <b><u>Alcaeus</u></b>)",
-        "<b><u>Heracles</u></b> [accept <b><u>Hercules</u></b>]",
-        "<b><u>Heracles</u></b> [or <b><u>Hercules</u></b>]",
-        "<b><u>Heracles</u></b> [or <b><u>Hercules</u></b>] &lt;SSp&gt;",
-        "<b><u>Heracles</u></b> [accept <b><u>Hercules</u></b>; accept <b><u>Alcides</u></b> or <b><u>Alcaeus</u></b> before mention]"
+        "<b><u>Perseus</u></b>",
+        "<b><u>Perseus</u> </b>"
       ],
       "clues": [
         {
-          "text": "Because this man once slept with the nymph Melite, Zeus forbade her from sexual relations afterwards.",
+          "text": "A creature spawned by this male figure's journeys eventually killed the Argonaut Mopsus.",
           "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2016 PACE NSC, Packet 04"
+          "source": "2013 PACE NSC, Packet 16"
         },
         {
-          "text": "The Egyptian king Busiris was killed after he tried to sacrifice this figure to the gods, and this man wrestled with and broke the horn of the river god Achelous to win the right to marry a Calydonian princess.",
+          "text": "He’s not Odysseus, but this man was plotted against by a non-seer Phineus, a suitor of his wife.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2022 Glasgow Scottie, Packet 03"
+          "source": "2025 VAULT, Packet 10"
         },
         {
-          "text": "This figure punished two hairy weapon thieves, the Cercopes, by hanging them on a shoulder pole.",
-          "hardness": 1,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 4,
-          "source": "2012 BHSAT, Packet 03"
-        },
-        {
-          "text": "This man is cheated out of one-tenth of the cattle promised to him by a king whom he deposes and replaces with Phyleus.",
-          "hardness": 0.923,
+          "text": "His son Electryon was the father of Alcmene and inherited Tiryns.",
+          "hardness": 1.015,
           "inPower": true,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2015 PACE NSC, Packet 08"
+          "source": "2013 PACE NSC, Packet 16"
         },
         {
-          "text": "Galanthis was turned into a weasel for helping in the birth of this figure.",
-          "hardness": 0.676,
+          "text": "As a child, this man was raised on the isle of Seriphos by the fisherman Dictys.",
+          "hardness": 0.928,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2013 PACE NSC, Packet 16"
+        },
+        {
+          "text": "At funeral games held by King Teutamides of Larissa, this man accidentally caused the death of Acrisius when the wind blew his discus astray, fulfilling an earlier prophecy that he would kill his grandfather.",
+          "hardness": 0.774,
           "inPower": false,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2021 LHASA, Packet 09"
+          "source": "2020 BHSAT, Packet 12"
         },
         {
-          "text": "This man married Hebe and gave his arrows to Philoctetes after dying of poison left by the centaur Nessus for Deianeira.",
-          "hardness": 0.615,
+          "text": "He also learned the location of the Hesperides from the Graeae, three perpetually old women who shared an eye and a tooth.",
+          "hardness": 0.608,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2015 Prison Bowl, Packet 06"
+        },
+        {
+          "text": "This grandson of Acrisius was conceived after his mother was locked in a tower, into which Zeus came down in a golden shower.",
+          "hardness": 0.498,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2014 HFT, Packet 09"
+        },
+        {
+          "text": "This interrogator of the Gray Sisters used Hermes' winged sandals to save a woman who was chained in front of a sea monster in Ethiopia.",
+          "hardness": 0.381,
           "inPower": false,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2011 PACE NSC, Packet 20 - TB 4"
+          "source": "2013 PACE NSC, Packet 16"
         },
         {
-          "text": "This hero’s weapons, which were needed by the Greeks to win the Trojan War, were given to Philoctetes.",
-          "hardness": 0.459,
+          "text": "To accomplish his most famous task, he stole the single eye shared by the three Graeae and used a mirror to shield himself.",
+          "hardness": 0.301,
           "inPower": false,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2021 LHASA, Packet 09"
+          "source": "2022 DART, Packet 02"
         },
         {
-          "text": "This husband of Deianira slayed the two-headed dog Orthrus so he could steal the cattle of Geryon, and he enlisted the help of his nephew Iolaus to slay a creature in Lerna.",
-          "hardness": 0.398,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 4,
-          "source": "2022 Glasgow Scottie, Packet 03"
-        },
-        {
-          "text": "He kissed and killed Hippolyta for her girdle, and rerouted a river to clear the Augean stables.",
-          "hardness": 0.304,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 4,
-          "source": "2012 Prison Bowl, Packet 02"
-        },
-        {
-          "text": "Name this Greco-Roman hero who completed 12 labors.",
-          "hardness": -0.319,
+          "text": "Andromeda was the wife of— —what slayer of the Gorgon Medusa?",
+          "hardness": -0.283,
           "inPower": false,
           "giveaway": true,
           "difficulty": 4,
-          "source": "2021 LHASA, Packet 09"
+          "source": "2020 BHSAT, Packet 12"
         }
       ]
     }

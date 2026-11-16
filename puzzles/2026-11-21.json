@@ -1,272 +1,277 @@
 {
   "date": "2026-11-21",
   "category": "Fine Arts",
-  "answer": "Alexander Calder",
   "tiers": {
     "easy": {
+      "answer": "Leonardo da Vinci",
       "answerlines": [
-        "Alexander <b><u>Calder</u></b>",
-        "Alexander <b><u> Calder</u></b>"
+        "<b><u>Leonardo</u></b> da Vinci [or Leonardo <b><u>da Vinci</u></b>]",
+        "<b><u>Leonardo</u></b> <b><u>da Vinci</u></b> [accept either underlined portion]",
+        "<b><u>Leonardo</u> <u>da Vinci</u></b> (accept either underlinedportion)",
+        "<b><u>Leonardo</u></b> <b><u>da Vinci</u></b> (accept either underlined portion)"
       ],
       "clues": [
         {
-          "text": "This artist protested Francisco Franco’s seizure of the Almaden mines by creating a fountain that spews mercury.",
+          "text": "An artwork by this man was made in accordance with the principles laid out in book 3 of De Architectura.",
           "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2016 Pennsylvania Novice, Packet 02"
+          "source": "2020 MOQBA Novice, Packet Packet 10"
         },
         {
-          "text": "A Serbian toy merchant in Paris advised that this man try his hand at making mechanical toys, which sparked his artistic career.",
+          "text": "This artist painted Cecilia Gallerani holding an unusually large, white animal in the oil portrait on wood namedLady with an Ermine.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2025 Rockford Quiz Bowl Novice, Packet 05"
+        },
+        {
+          "text": "In one fresco by this man, St. Thomas raises his index figure in doubt as the central figure stretches his hands over a table.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 1,
-          "source": "2023 Sentinel CYBER 1A, Packet 09"
+          "source": "2020 ERIS, Packet 11"
         },
         {
-          "text": "This sculptor created a massive, bright red steel sculpture in Seattle called Eagle, and a similar one in Chicago’s Federal Plaza called Flamingo.",
-          "hardness": 1.051,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 2,
-          "source": "2016 Pennsylvania Novice, Packet 02"
-        },
-        {
-          "text": "At the 1937 World Exhibition in Paris, this artist’s Mercury Fountain was on display in the Spanish Pavillion.",
-          "hardness": 0.855,
+          "text": "This artist created The Virgin of the Rocks using sfumato, a shading technique that created a mysterious atmosphere, which he also used in a portrait of Francesco del Gioconda’s wife.",
+          "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 1,
-          "source": "2023 Sentinel CYBER 1A, Packet 09"
+          "source": "2022 SCOP MS 11, Packet Round 2"
         },
         {
-          "text": "This artist’s most famous type of work was given its name by Marcel Duchamp.",
-          "hardness": 0.79,
+          "text": "A sketch by this artist features a scraggly-haired man with four arms and four legs inscribed inside of a circle.",
+          "hardness": 1.028,
           "inPower": true,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2016 Pennsylvania Novice, Packet 02"
+          "source": "2020 MOQBA Novice, Packet Packet 10"
         },
         {
-          "text": "As his popularity grew, he started to construct both wire sculpture and kinetic art as seen in Form Against Yellow and Lobster Trap and Fish Tail.",
-          "hardness": 0.636,
+          "text": "A male nude is inscribed within a circle and a square in this artist’s Vitruvian Man.",
+          "hardness": 0.898,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2022 SANDS, Packet 05"
+        },
+        {
+          "text": "This artist painted threespots in a non-reflective crystal ball in the hand of Jesus in one painting, and painted a delicate veil onto Lisa del Giocondo, whose eyebrows have wornaway, in a portrait with an enigmatic smile.",
+          "hardness": 0.802,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2025 Rockford Quiz Bowl Novice, Packet 05"
+        },
+        {
+          "text": "This artist of Madonna of the Rocks created a fresco in which the Twelve Disciples are grouped into threes, and Judas can be seen holding a bag of silver.",
+          "hardness": 0.695,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2012 Fall Kickoff Tournament (FKT), Packet 02"
+        },
+        {
+          "text": "This man depicted the wife of Francesco del Giocondo smiling mysteriously in another painting.",
+          "hardness": 0.445,
           "inPower": false,
           "giveaway": false,
           "difficulty": 1,
-          "source": "2012 Collaborative Middle School Tournament #3, Packet 08"
+          "source": "2020 ERIS, Packet 11"
         },
         {
-          "text": "This artist experimented with self-supporting and static “stabiles” as opposed to his discrete and moveable “mobiles.”",
-          "hardness": 0.452,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 1,
-          "source": "2023 Sentinel CYBER 1A, Packet 09"
-        },
-        {
-          "text": "Name this American sculptor who is best-known for his mobiles.",
-          "hardness": -0.165,
+          "text": "Name this Italian renaissance painter ofSalvatorMundiand the Mona Lisa.",
+          "hardness": -0.105,
           "inPower": false,
           "giveaway": true,
           "difficulty": 2,
-          "source": "2016 Pennsylvania Novice, Packet 02"
-        },
-        {
-          "text": "Name this American sculptor known for inventing the mobile sculpture.",
-          "hardness": -0.169,
-          "inPower": false,
-          "giveaway": true,
-          "difficulty": 1,
-          "source": "2012 Collaborative Middle School Tournament #3, Packet 08"
-        },
-        {
-          "text": "Name this American sculptor of Lobster Trap and Fish Tail.",
-          "hardness": -0.229,
-          "inPower": false,
-          "giveaway": true,
-          "difficulty": 1,
-          "source": "2023 Sentinel CYBER 1A, Packet 09"
+          "source": "2025 Rockford Quiz Bowl Novice, Packet 05"
         }
       ]
     },
     "medium": {
+      "answer": "England",
       "answerlines": [
-        "Alexander <b><u>Calder</u></b>",
-        "Alexander <b><u>Calder</u> </b>"
+        "<b><u>England</u></b> [accept Great <b><u>Britain</u></b> or the <b><u>United Kingdom</u></b> of Great Britain and Northern Island or the <b><u>UK</u></b>]",
+        "<b><u>England</u></b> [accept <b><u>Great Britain</u></b> or <b><u>United Kingdom</u></b>]",
+        "<b><u>England</u></b> [accept <b><u>United Kingdom</u></b> of Great Britain and Northern Island or <b><u>Britain</u> </b>or <b><u>UK</u></b>]",
+        "<b><u>England</u></b> (accept Great <b><u>Britain</u></b> or whatever)",
+        "<b><u>England</u></b> [accept Great <b><u>Britain</u></b> or the <b><u>United Kingdom</u></b>; accept the <b><u>UK</u></b>]"
       ],
       "clues": [
         {
-          "text": "This artist would narrate and move miniatures or wire acrobats in live performances of their namesake Cirque.",
+          "text": "Two composers from this country who published the Cantiones Sacrae shared a 21-year monopoly on polyphonic music.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2023 SWAMP, Packet 09"
+          "source": "2023 SWAMP, Packet 02"
         },
         {
-          "text": "This man contrasted three dimensional shapes with a two dimensional whale and sun in his mural for the Stillman House.",
+          "text": "Swagger portraits in the “grand manner” became popular in this country after an artist published the treatise Discourses on Art.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2017 LIST, Packet 8"
+          "source": "2026 SHOW-ME, Packet 03"
         },
         {
-          "text": "This artist designed a sculpture for the Hart Senate Office Building which was installed after their death, Mountains and Clouds.",
-          "hardness": 1.15,
+          "text": "A composer from this country used the descending motif (read slowly) long A, short G, short F, long E to begin each of a collection of seven pieces based on a pavan (puh-VAAN).",
+          "hardness": 1.101,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2021 RAFT, Packet 10"
+          "source": "2023 Planetfall, Packet 02"
         },
         {
-          "text": "The name of this artist's most famous genre of work was suggested by Duchamp and his wire and metal work.125 was created for the JFK airport.",
-          "hardness": 0.984,
+          "text": "In another painting from this country, Mary comforts a young Christ who has cut his hand in Joseph’s carpentry shop.",
+          "hardness": 0.989,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2011 OLEFIN, Packet 06"
+          "source": "2021 CALISTO 2, Packet 10"
         },
         {
-          "text": "This artist’s sculpture Bent Propeller was destroyed during 9/11.",
-          "hardness": 0.742,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2023 SWAMP, Packet 09"
-        },
-        {
-          "text": "This artist designed a sculpture in Chicago’s Federal Plaza that uses their namesake shade of red.",
-          "hardness": 0.603,
+          "text": "A composer from this country depicted a bulldog falling into a river in the movement “G.R.S.” A composer from this country gently parodied Dora Penny’s stutter in the movement Dorabella.The composer’s friends are “pictured within” a work from this country that includes the movement “Nimrod,” the Enigma Variations.",
+          "hardness": 0.791,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2021 RAFT, Packet 10"
+          "source": "2025 SHOW-ME, Packet 01"
         },
         {
-          "text": "This artist created Flamingo, one of their “stabiles,” which are named for their contrast with their works like Lobster Trap and Fish Tail.",
-          "hardness": 0.426,
+          "text": "In a painting from this country, figures representing Pity and Terror appear behind a model portraying the Tragic Muse, Sarah Siddons.",
+          "hardness": 0.594,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2021 RAFT, Packet 10"
+          "source": "2026 SHOW-ME, Packet 03"
         },
         {
-          "text": "Aluminum sheets and painted wires comprise Lobster Trap and Fish Tail, a kinetic sculpture by this artist that hangs from the ceiling of the MoMA.",
-          "hardness": 0.375,
+          "text": "One artist from this country depicted a dog standing near a river by Willy Lott’s cottage toward which a cart is being pulled.",
+          "hardness": 0.382,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2024 CALISTO, Packet 12"
+          "source": "2019 CAST, Packet 01"
         },
         {
-          "text": "Name this American sculptor known for his “mobiles,” one example of which is his Lobster Trap and Fish Tail.",
-          "hardness": -0.166,
+          "text": "A composer from this country wrote five marches often played at graduation ceremonies.",
+          "hardness": 0.295,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2025 SHOW-ME, Packet 01"
+        },
+        {
+          "text": "Name this home country of the artists of Rain, Steam, and Speed and The Hay Wain, J.M.W Turner and John Constable.",
+          "hardness": -0.208,
           "inPower": false,
           "giveaway": true,
           "difficulty": 3,
-          "source": "2025 SQUIRREL, Packet 07"
+          "source": "2019 CAST, Packet 01"
         },
         {
-          "text": "What American sculptor created Lobster Trap and Fish Tail as well as several other mobiles?",
-          "hardness": -0.24,
+          "text": "Name this home country of Ralph (rayf) Vaughn Williams, who portrayed its capital in A London Symphony.",
+          "hardness": -0.249,
           "inPower": false,
           "giveaway": true,
           "difficulty": 3,
-          "source": "2017 LIST, Packet 8"
+          "source": "2023 Planetfall, Packet 02"
         }
       ]
     },
     "hard": {
+      "answer": "Grant Wood",
       "answerlines": [
-        "Alexander <b><u>Calder</u></b> [or Sandy <b><u>Calder</u></b>]",
-        "Alexander <b><u>Calder</u></b>",
-        "Alexander <b><u>Calder</u></b> (just need <b><u>Calder</u></b>, but do not accept or prompt on “Alexander Milne Calder,” his grandfather, or “Alexander Stirling Calder,” his father)",
-        "Alexander <b><u>Calder</u> </b>",
-        "Alexander <b><u>Calder</u></b> [accept <b><u>Calder</u></b> Gardens]"
+        "Grant <b><u>Wood</u></b>",
+        "Grant <b><u>Wood</u></b> [or Grant DeVolson <b><u>Wood</u></b>]",
+        "Grant <b><u>Wood</u> </b>"
       ],
       "clues": [
         {
-          "text": "A black cone threads through a red figure in this man's work Elephant.",
+          "text": "This artist painted a woman in a blue dress with one unfastened button in the ironically titled The Perfectionist.",
           "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2010 PACE NSC, Packet 11"
+          "source": "2018 IMSAnity, Packet 02"
         },
         {
-          "text": "This artist performed shows using a miniature model of a circus, and his sculpture commissioned by the Spanish Republican government is displayed behind glass for the viewer’s safety.",
+          "text": "This artist depicted a slave that wears a pink dress while storm clouds gather in his portrayal of a young, reluctant George Washington refusing to give an axe to his father.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2015 HFT, Packet 02"
+          "source": "2011 BDAT, Packet Finals 1"
         },
         {
-          "text": "One of this man’s works simultaneously stands on the floor and hangs from the ceiling and is titled Mountains and Clouds.",
-          "hardness": 1.114,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 5,
-          "source": "2018 IMSAnity, Packet 05"
-        },
-        {
-          "text": "The Whitney Museum displays models of lion tamers and sword-eaters that this artist used in mock circus performances.",
-          "hardness": 1.005,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 5,
-          "source": "2026 PACE NSC, Packet 07"
-        },
-        {
-          "text": "The first public project funded by the National Endowment of the Arts was a sculpture by this artist in Grand Rapids, Michigan.",
-          "hardness": 0.925,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 4,
-          "source": "2019 BLAST, Packet Packet 1"
-        },
-        {
-          "text": "The name for his most iconic creations was coined by Marcel Duchamp.",
-          "hardness": 0.649,
+          "text": "He argued for a truly national art in his manifesto Revolt against the City.",
+          "hardness": 1.1,
           "inPower": false,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2012 PACE NSC, Packet 10"
+          "source": "2007 PACE NSC, Packet 02 final"
         },
         {
-          "text": "One of his works is installed in front of the Federal Center Plaza in Chicago and evokes the image of a giant bird.",
+          "text": "This artist depicted the title figure pulling back a red curtain to reveal a man holding a bent cherry tree next to a boy with an axe in Parson Weems’ Fable.",
+          "hardness": 1,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2011 Prison Bowl, Packet 12"
+        },
+        {
+          "text": "An open curtain reveals a historical figure with an ax in a work by this artist.",
+          "hardness": 0.956,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2025 Planetfall, Packet 02"
+        },
+        {
+          "text": "He also depicted a woman in a red and white woolen cap holding a hen in his Appraisal.",
+          "hardness": 0.8,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2015 Prison Bowl, Packet 05"
+        },
+        {
+          "text": "A satirical work by this artist depicts three “Tory Gals” in front of an Emanuel Leutze (“LOYT-zuh”) painting.Ella Watson was photographed in front of an American flag by Gordon Parks to parody a work by this artist, in whichhisdentist, Byron McKeeby, stands in front of the Dibble House holding a pitchfork.",
           "hardness": 0.553,
           "inPower": false,
           "giveaway": false,
-          "difficulty": 5,
-          "source": "2012 PACE NSC, Packet 10"
+          "difficulty": 4,
+          "source": "2025 VAULT, Packet 01"
         },
         {
-          "text": "This artist’s Flamingo is a “stabile,” unlike works by him like one consisting of moving pieces of sheet metal hung from wires attached to the ceiling.",
-          "hardness": 0.45,
+          "text": "This artist of Parson Weems' Fable and Daughters of Revolution also got his sister to pose sternly with his dentist in front of a red barn and a white house.",
+          "hardness": 0.441,
           "inPower": false,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2015 HFT, Packet 02"
+          "source": "2014 BHSAT, Packet 03"
         },
         {
-          "text": "This artist pioneered attaching aluminum sheets to hanging steel wires to create kinetic sculptures.",
-          "hardness": 0.265,
+          "text": "His most iconic work includes a red barn on the right of two grim-looking people in front of it.",
+          "hardness": 0.341,
           "inPower": false,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2019 BLAST, Packet Packet 1"
+          "source": "2011 BDAT, Packet Finals 1"
         },
         {
-          "text": "Name this artist who contrasted his stationary “stabile” sculptures with kinetic “mobiles.”",
-          "hardness": -0.266,
+          "text": "Name this American regionalist artist who portrayed a pitchfork and two elders in American Gothic.",
+          "hardness": -0.216,
           "inPower": false,
           "giveaway": true,
           "difficulty": 4,
-          "source": "2023 SCURVY, Packet 03"
+          "source": "2011 BDAT, Packet Finals 1"
         }
       ]
     }

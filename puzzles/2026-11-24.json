@@ -1,278 +1,279 @@
 {
   "date": "2026-11-24",
   "category": "History",
-  "answer": "Babylon",
   "tiers": {
     "easy": {
+      "answer": "Kingdom of Spain",
       "answerlines": [
-        "<b><u>Babylon</u></b>",
-        "<b><u>Babylon</u></b> [accept <b><u>Babylonia</u></b> or <b><u>Babylonian</u></b><u>s</u>]",
-        "<b><u>Babylon</u></b> [or the Hanging Gardens of <b><u>Babylon</u></b>; or <b><u>Bab-ilu</u></b>; or <b><u>Bab-ilim</u></b>; or <b><u>Bavel</u></b>; or <b><u>Babel</u></b>; or Atlal <b><u>Babil</u></b><u>]",
-        "<b><u>Babylon</u></b> [or <b><u>B</u><u>ā</u><u>bilim</u></b>]",
-        "<b><u>Babylon</u></b> [or <b><u>Bābilim</u></b>]"
+        "Kingdom of <b><u>Spain</u></b> [or Reino de <b><u>Espana</u></b>]",
+        "Kingdom of <b><u>Spain</u></b> [or Reino de <b><u>España</u></b>]",
+        "Kingdom of <b><u>Spain</u></b> [or Republic of <b><u>Spain</u></b> or <b><u>España</u></b>]",
+        "Kingdom of <b><u>Spain</u></b> [accept Reino de <b><u>España</u></b>]",
+        "Kingdom of <b><u>Spain</u></b>"
       ],
       "clues": [
         {
-          "text": "During periods of waning power of empires centered on this city, it was ruled by Kassites.",
+          "text": "In this modern-day country, the 722 Battle of Covadonga sparked a centuries-long war against Islamic forces.",
           "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2020 TAILS, Packet TAILS Packet 11"
+          "source": "2017 SCOP Novice 8, Packet 04"
         },
         {
-          "text": "One king from this city built the gate of Ishtar and ordered the destruction of the temple of Jerusalem.",
-          "hardness": 1.15,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 1,
-          "source": "2017 HIGS, Packet Replacement"
-        },
-        {
-          "text": "According to Herodotus, this city had hundreds of gates, massive walls, and tribes that only consumed fish.",
-          "hardness": 1.15,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 1,
-          "source": "2023 Sentinel CYBER 1A, Packet 12"
-        },
-        {
-          "text": "Sennacherib was murdered by his own sons in 689 BCE because of his destruction of this city.",
-          "hardness": 1.065,
+          "text": "One king of this country imprisoned his mother, Joanna the Mad, and sponsored Magellan’s circumnavigation of the globe.",
+          "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2020 MOQBA Novice, Packet Packet 01"
+          "source": "2020 TAILS, Packet TAILS Replacements and Tiebreakers"
         },
         {
-          "text": "Though it’s not Judea, this state was conquered by the Assyrian Sennacherib.",
-          "hardness": 0.97,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 2,
-          "source": "2009 Fall Novice Tournament, Packet 07"
-        },
-        {
-          "text": "Although archaeologists haven’t found evidence of it, a terraced building in this city was legendarily built on the orders of Nebuchadnezzar II, whose wife was homesick for greenery.",
-          "hardness": 0.839,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 2,
-          "source": "2017 SCOP Novice 8, Packet 07"
-        },
-        {
-          "text": "The only one of the Seven Wonders of the Ancient World which may not have actually existed were this city's Hanging Gardens.",
-          "hardness": 0.689,
+          "text": "The Ebro (AY-bro) Valley is in this nation that owns the Balearic (BAH-lee-AH-rick) Islands and the Canary Islands.",
+          "hardness": 1,
           "inPower": false,
           "giveaway": false,
           "difficulty": 1,
-          "source": "2023 QUAOAR, Packet 12"
+          "source": "2012 Collaborative Middle School Tournament #3, Packet 08"
         },
         {
-          "text": "A law code originating the phrase “an eye for an eye” was inscribed on a stele by this city’s king Hammurabi.",
-          "hardness": 0.493,
-          "inPower": false,
+          "text": "During the reign of Philip II, poor winds foiled this country’s attempted invasion of England using a namesake “Armada” of ships.",
+          "hardness": 0.931,
+          "inPower": true,
           "giveaway": false,
           "difficulty": 1,
-          "source": "2022 SANDS, Packet 10"
+          "source": "2022 SANDS, Packet 02"
         },
         {
-          "text": "Name this Mesopotamian city-state, ruled by kings such as Nebuchadnezzar and Hammurabi, which was known for its hanging gardens.",
-          "hardness": -0.035,
+          "text": "The Alhambra Decree expelled practicing Jews from this country, which was unofficially unified after the marriage of monarchs from Castile and Aragon.",
+          "hardness": 0.854,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2017 SCOP Novice 8, Packet 04"
+        },
+        {
+          "text": "This country was blamed for a shipwreck near Havana Harbor that destroyed the USS Maine.",
+          "hardness": 0.664,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2023 MOQBA Novice, Packet 02"
+        },
+        {
+          "text": "This country was once ruled by dictator Francisco Franco.",
+          "hardness": 0.498,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2023 MOQBA Novice, Packet 02"
+        },
+        {
+          "text": "Because its King Alfonso XIII became ill during it, the 1918 Influenza Pandemic was named after what Iberian nation, ruled from Madrid?",
+          "hardness": -0.027,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 2,
+          "source": "2020 MOQBA Novice, Packet Packet 03"
+        },
+        {
+          "text": "The Iberian Peninsula is shared by Portugal and what nation whose capital is Madrid?",
+          "hardness": -0.177,
           "inPower": false,
           "giveaway": true,
           "difficulty": 1,
-          "source": "2017 HIGS, Packet Replacement"
+          "source": "2012 Collaborative Middle School Tournament #3, Packet 08"
         },
         {
-          "text": "Name this ancient Mesopotamian city in which a set of “hanging gardens” might have been built.",
-          "hardness": -0.138,
+          "text": "Name this Iberian country long led by Francisco Franco.",
+          "hardness": -0.235,
           "inPower": false,
           "giveaway": true,
           "difficulty": 1,
-          "source": "2023 Sentinel CYBER 1A, Packet 12"
+          "source": "2013 Collaborative Middle School Tournament #4, Packet 07"
         }
       ]
     },
     "medium": {
+      "answer": "Martin Luther",
       "answerlines": [
-        "<b><u>Babylon</u></b> [or <b><u>Bab-ilu</u></b>; or <b><u>Bab-ilim</u></b>; or <b><u>Bavel</u></b>; or <b><u>Babel</u></b>; or Atlal <b><u>Babil</u></b>]",
-        "<b><u>Babylon</u></b> (accept <b><u>Babylonian</u></b> Empire)",
-        "<b><u>Babylon</u></b>",
-        "<b><u>Babylon</u></b> [or the Hanging Gardens of <b><u>Babylon</u></b>]",
-        "<b><u>Babylon</u></b> [accept Neo-<b><u>Babylon</u></b>ian Empire or <b><u>Babylon</u></b>ian Captivity]"
+        "Martin <b><u>Luther</u></b>",
+        "Martin <b><u>Luther</u></b> [or Martin <b><u>Luder</u></b>]",
+        "Martin <b><u>Luther</u></b> [DB-N]",
+        "Martin <u>Luther</u>"
       ],
       "clues": [
         {
-          "text": "Artwork from this city includes the ruined Etemenanki (“eht-MEN-en-kee”) Temple.",
+          "text": "This onetime lawyer-in-training claimed that a spontaneous prayer to St. Anne during a storm led him to become a monk.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2016 WHAQ, Packet 05"
+          "source": "2016 BASQT, Packet 03"
         },
         {
-          "text": "This city lost control of the Median Wall after it was defeated at the Battle of Opis.",
+          "text": "This man joined one profession after barely missing a lightning strike and exclaiming to Saint Anne, and this friend of Philipp Melanchthon became enraged by the actions of Johann Tetzel.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2024 SITH, Packet 06"
+          "source": "2010 Ben Cooper, Packet 13 [Finals 2]"
         },
         {
-          "text": "The “Cyrus cylinder” documents Cyrus’ conquest of this city and its last king Nabonidus.",
-          "hardness": 1.055,
+          "text": "This man at times opposed the Cardinal Cajetan, Andreas Karlstadt, and Thomas Muntzer, the last of whom he criticized for leading the excessively violent Peasant's War.",
+          "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2015 LIMIT, Packet 03"
+          "source": "2013 JAMES, Packet 08"
         },
         {
-          "text": "A structure from this city depicting gold mušḫuššu dragons was reconstructed in the Pergamon Museum.",
-          "hardness": 0.965,
+          "text": "This man was called a “wild boar from the forest” in a text that asks one figure to “ judge your own cause.”",
+          "hardness": 1,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2013 BISB, Packet 03"
+        },
+        {
+          "text": "Along with Ulrich Zwingli, this man attended the Marburg Colloquy.",
+          "hardness": 0.894,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2023 SITH, Packet 03"
+          "source": "2013 JAMES, Packet 08"
         },
         {
-          "text": "Rubble from this city was thrown into the Arakhtu Canal after its destruction by Sennacherib.",
-          "hardness": 0.86,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2024 SITH, Packet 06"
-        },
-        {
-          "text": "A basalt stele from this city depicts a ruler receiving divine inspiration from the sun god, Shamash.",
-          "hardness": 0.6,
+          "text": "He urged nobles to “smite, slay, and stab” the title group in his work “Against the Murderous, Thieving Hordes of Peasants.”",
+          "hardness": 0.679,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2016 WHAQ, Packet 05"
+          "source": "2010 Ben Cooper, Packet 13 [Finals 2]"
         },
         {
-          "text": "The Etemenanki Ziggurat was built in this city, whose Ishtar Gate was the entrance to another building in it.",
-          "hardness": 0.536,
+          "text": "Angered by the actions of Johann Tetzel, he was excommunicated by Leo X at the Diet of Worms after writing a document prompted by the sale of “sin-erasing” indulgences.",
+          "hardness": 0.497,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2017 RMBCT, Packet 14"
+          "source": "2013 BISB, Packet 03"
         },
         {
-          "text": "A no-longer-extant ziggurat in this city was dedicated to its patron deity, Marduk.",
-          "hardness": 0.422,
+          "text": "The Edict of Worms excommunicated this man for his failure to recant his writings, which were famously nailed to the doors of the Wittenberg chapel.",
+          "hardness": 0.427,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2024 CALISTO, Packet 01"
+          "source": "2016 BASQT, Packet 03"
         },
         {
-          "text": "Marduk was the patron god of this city, whose king Nebuchadnezzar (“NEH-boo-cud-NEZ-er”) II may have built one of the Seven Wonders of the Ancient World.",
-          "hardness": 0.331,
+          "text": "This man espoused justification by faith alone in a work he nailed to a church door, the 95 Theses.",
+          "hardness": 0.266,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2019 CAST, Packet 04"
+          "source": "2013 JAMES, Packet 08"
         },
         {
-          "text": "Name this city in modern-day Iraq that was once home to the Hanging Gardens.",
-          "hardness": -0.277,
+          "text": "Name this German friar who initiated the Protestant Reformation when he composed his 95 Theses in 1515.",
+          "hardness": -0.211,
           "inPower": false,
           "giveaway": true,
           "difficulty": 3,
-          "source": "2019 CAST, Packet 04"
+          "source": "2016 BASQT, Packet 03"
         }
       ]
     },
     "hard": {
+      "answer": "Cossacks",
       "answerlines": [
-        "<b><u>Babylon</u></b> [do NOT accept “Babylonia”] &lt;MJ&gt;",
-        "<b><u>Babylon</u></b> [or the <b><u>Babylon</u></b>ian Empire or the Neo-<b><u>Babylon</u></b>ian Empire; accept <b><u>Babel</u></b> or <b><u>Babylon</u></b>ia or <b><u>Bābilim</u></b> or Neo-<b><u>Babylon</u></b>; accept the <b><u>Babylon</u></b>ian captivity]",
-        "<b><u>Babylon</u></b>",
-        "<b><u>Babylon</u></b> [or <b><u>Babylonia</u></b>]",
-        "<b><u>Babylon</u></b> [or <b><u>Bab-ilu</u></b>; or <b><u>Bab-ilim</u></b>; or <b><u>Bavel</u></b>]"
+        "<b><u>Cossack</u></b>s",
+        "<b><u>Cossack</u></b>s [prompt on <u>Ukranian</u>s]",
+        "<b><u>Cossack</u></b>s [accept Don <b><u>Cossacks</u></b> or Zaporizhzhian <b><u>Cossack</u></b>s; accept <b><u>Kazak</u></b> even though that’s similar to the unrelated “Kazakh”; prompt on <u>Russian</u>s or <u>Ukranian</u>s or <u>Russian</u> cavalry or <u>Russian</u> soldiers]",
+        "<b><u>Cossacks</u></b> [or <b><u>Kazaki</u></b>]",
+        "<u>Cossack</u>s"
       ],
       "clues": [
         {
-          "text": "This capital’s social system divided status between awilum (“uh-WILL-um”), mushkenum (“mush-KEN-num”) and slave-like war∙dum.",
+          "text": "A disastrous land invasion of British India by these people was averted by the Pahlen Plot.",
           "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2023 PACE NSC, Packet 09"
+          "source": "2023 PACE NSC, Packet 19 TB3"
         },
         {
-          "text": "Robert Koldewey excavated a structure in this city that contained reliefs of lions, aurochs, and dragon-like mušḫuššu.",
+          "text": "Leaders of these people carried the ceremonial bulava mace.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2023 CREEK, Packet 05"
+          "source": "2023 CREEK, Packet 06"
         },
         {
-          "text": "This city’s Etemenanki Temple was destroyed when this city was sacked by Sennacherib.",
-          "hardness": 1.016,
+          "text": "Leaders of these people would have received titles in the Treaty of Hadiach (“HAH-dyach”).",
+          "hardness": 0.998,
           "inPower": true,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2021 NEWT, Packet 12"
+          "source": "2025 Planetfall, Packet 09"
         },
         {
-          "text": "Much of what is known about one king of this city comes from letters the king wrote to Sin-iddinam found in Larsa.",
-          "hardness": 0.967,
+          "text": "Astrakhan was pillaged and then transformed into a republic by a leader of this group, Stenka Razin.",
+          "hardness": 0.945,
           "inPower": true,
           "giveaway": false,
-          "difficulty": 5,
-          "source": "2023 PACE NSC, Packet 09"
+          "difficulty": 4,
+          "source": "2015 Maryland Fall, Packet 06"
         },
         {
-          "text": "Prominent structures in this city included the E∙sag∙il∙a temple.",
-          "hardness": 0.814,
+          "text": "The Khanate of Sibir was overthrown by one of these people, Yermak.",
+          "hardness": 0.789,
           "inPower": true,
           "giveaway": false,
-          "difficulty": 5,
-          "source": "2023 PACE NSC, Packet 09"
-        },
-        {
-          "text": "Necho II began a campaign against this city in the Battle of Carchemis, while this city also saw the reign of the Amorite and Kassite dynasties.",
-          "hardness": 0.693,
-          "inPower": false,
-          "giveaway": false,
           "difficulty": 4,
-          "source": "2011 BDAT, Packet 08"
+          "source": "2023 DMA, Packet 07"
         },
         {
-          "text": "The Louvre Stele from this city records a series of “if/then” statements such as “if a man commits a robbery and is caught, that man will be killed.”",
-          "hardness": 0.576,
+          "text": "Besides Stenka Razin and Mazepa, one of them became convinced that he was Peter the Great and rebelled against Catherine the Great.",
+          "hardness": 0.538,
           "inPower": false,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2023 PACE NSC, Packet 09"
+          "source": "2009 PACE NSC, Packet 06"
         },
         {
-          "text": "A ruler of the “neo” phase of this place destroyed the First Temple, while another formulated an “eye for an eye” based law code.",
-          "hardness": 0.428,
+          "text": "The Zaporozhian hetman of these people, Ivan Mazepa, defected to Sweden during the Great Northern War.",
+          "hardness": 0.431,
           "inPower": false,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2011 BDAT, Packet 08"
+          "source": "2023 DMA, Packet 07"
         },
         {
-          "text": "A “captivity” named for this city began after its forces sacked Judah.",
-          "hardness": 0.257,
+          "text": "Yemelyan Pugachev led these people in an uprising that was put down by Catherine the Great.",
+          "hardness": 0.261,
           "inPower": false,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2025 VAULT, Packet 04"
+          "source": "2023 DART, Packet 11"
         },
         {
-          "text": "Name this city home to Nebuchadnezzar and Hammurabi, as well as some namesake “hanging gardens.”",
-          "hardness": -0.203,
+          "text": "Name these nomadic, militaristic people that largely lived along the Don and Dnieper (“NEE-per”) Rivers in Ukraine and Russia.",
+          "hardness": -0.176,
           "inPower": false,
           "giveaway": true,
           "difficulty": 4,
-          "source": "2011 BDAT, Packet 08"
+          "source": "2023 CREEK, Packet 06"
+        },
+        {
+          "text": "What semi-nomadic horsemen lived on the steppes of the Russian Empire?",
+          "hardness": -0.275,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 4,
+          "source": "2023 DART, Packet 11"
         }
       ]
     }

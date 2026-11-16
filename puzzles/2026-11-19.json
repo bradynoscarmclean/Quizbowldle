@@ -1,278 +1,276 @@
 {
   "date": "2026-11-19",
   "category": "Literature",
-  "answer": "China",
   "tiers": {
     "easy": {
+      "answer": "Henrik Ibsen",
       "answerlines": [
-        "<b><u>China</u></b> [or <b><u>Zhongguo</u></b>]",
-        "<b><u>China</u></b> (accept People's Republic of<b><u>China</u></b>or<b><u>PRC</u></b>; accept<b><u>Zhongguo</u></b>or<b><u>Zhonghua</u></b>RenminGongheguo. The first work mentioned is<i>Nineteen Waysof Looking at Wang Wei</i>)",
-        "<b><u>China</u></b> (accept <b><u>Zhongguo</u></b>; accept People’s Republic of <b><u>China</u></b>; accept <b><u>Zhonggua</u></b> Renmin Gongheguo)",
-        "<b><u>China</u></b> [or People's Republic of <b><u>China</u></b> or <b><u>PRC</u></b> or <b><u>Zhongguo</u></b> or <b><u>Zhonghua Renmin Gongheguo</u></b>; do NOT accept or prompt on \"Republic of China\" or \"ROC\"]",
-        "<b><u>China</u></b>"
+        "Henrik <b><u>Ibsen</u></b>",
+        "Henrik <b><u>Ibsen</u></b> (accept An <b><u>Enemy of the People</u></b> or En <b><u>folkefiende</u></b>before “this man” is read)",
+        "Henrik <b><u>Ibsen</u></b> (accept Henrik Jonah <b><u>Ibsen</u></b>)"
       ],
       "clues": [
         {
-          "text": "A poet from what is now this country is the subject of the Eliot Weinberger workNineteen Ways of Looking athim, which describes the twenty-character-longpoem \"Deer Grove.\"",
+          "text": "A play by this author follow Dr Stockmann’s investigation of tainted water.",
           "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2025 Rockford Quiz Bowl Novice, Packet 02"
+          "source": "2021 SCOP B, Packet 10"
         },
         {
-          "text": "The protagonist of a novel from this country has a vision of the Twelve Beauties, and is born with a precious stone in his mouth.",
+          "text": "One play by this author ends with a character saying “the sun, the sun.\"",
           "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2023 MOQBA Novice, Packet 02"
+          "source": "2022 KICKOFF Novice, Packet 03N"
         },
         {
-          "text": "In a novel from this country, a character decides to urinate on pillars that turn out to be the fingers of a god.",
+          "text": "In one play by this author, the title character is blackmailed by Judge Brack and burns Eilert Lovborg’s manuscript.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 1,
-          "source": "2023 QUAOAR, Packet 03"
+          "source": "2022 SANDS, Packet 12"
         },
         {
-          "text": "In another novel from this country, one character wields an iron rake, while another character was born from a stone egg.",
-          "hardness": 1.036,
-          "inPower": true,
+          "text": "One work by this author describes a doctor's attempts to convince his town that its baths are contaminated and another sees Halvard Solness fall from a tower on the top of his home, An Enemy of the People and The Master Builder.",
+          "hardness": 1.1,
+          "inPower": false,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2020 MOQBA Novice, Packet Packet 08"
+          "source": "2009 Fall Novice Tournament, Packet 01"
         },
         {
-          "text": "In another novel from this country, a character “borrows” 100,000 arrows using straw boats in preparation for the Battle of Red Cliffs.",
-          "hardness": 0.903,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 1,
-          "source": "2023 QUAOAR, Packet 03"
-        },
-        {
-          "text": "A poem from this country describes \"bowing my head\" and \"frost upon the ground\".",
-          "hardness": 0.862,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 1,
-          "source": "2022 MAKEMAKE, Packet 02"
-        },
-        {
-          "text": "\"Drinking Alone by Moonlight\" and \"Quiet Night Thought\" are by a poet from this country.",
-          "hardness": 0.526,
+          "text": "This man’s play Peer Gynt had music written by his fellow Norwegian, Edvard Grieg.",
+          "hardness": 1,
           "inPower": false,
           "giveaway": false,
           "difficulty": 1,
-          "source": "2022 MAKEMAKE, Packet 02"
+          "source": "2016 PLATO, Packet 09"
         },
         {
-          "text": "Romance of the Three Kingdoms and Journey to the West are two of the Four Great Classics written in what country home to the poet Li Bai that was formerly ruled by the Ming Dynasty?",
-          "hardness": 0.13,
+          "text": "An Enemy of the People is by this author, who created a character who goads Eilert Lovborg into suicide to help her husband, George Tesman.",
+          "hardness": 0.934,
           "inPower": false,
-          "giveaway": true,
-          "difficulty": 1,
-          "source": "2020 ERIS, Packet 12"
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2021 SCOP B, Packet 10"
         },
         {
-          "text": "The Monkey King, Sun Wukong (woo-kohng), appears in a novel from what country where Li Bai wrote during the Tang Dynasty?",
-          "hardness": -0.086,
+          "text": "In another play by this figure, Judge Brack discovers that the title character gave a pistol to her former suitor Eilert Lovberg.",
+          "hardness": 0.859,
           "inPower": false,
-          "giveaway": true,
-          "difficulty": 1,
-          "source": "2022 MAKEMAKE, Packet 02"
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2010 Fall Novice Tournament, Packet 11"
         },
         {
-          "text": "The Four Classics are novels from what large Asian country?",
-          "hardness": -0.132,
+          "text": "This playwright of When We Dead Awaken wrote about a character who dances the tarantella to distract her husband in another play.",
+          "hardness": 0.747,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2022 KICKOFF Novice, Packet 03N"
+        },
+        {
+          "text": "In another play by this author, Torvald patronizingly “forgives” his “little skylark,” causing Nora Helmer to slam the door as she walks out on her family.",
+          "hardness": 0.619,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2021 SCOP B, Packet 10"
+        },
+        {
+          "text": "Name this Norwegian playwright who wrote about Jørgen Tesman’s wife and Nora Helmer’s escape from the title dwelling in Hedda Gabler and A Doll’s House.",
+          "hardness": 0.046,
           "inPower": false,
           "giveaway": true,
           "difficulty": 2,
-          "source": "2019 SCOP Novice 10, Packet 02"
+          "source": "2009 Fall Novice Tournament, Packet 01"
         }
       ]
     },
     "medium": {
+      "answer": "Waiting for Godot",
       "answerlines": [
-        "<b><u>China</u></b>",
-        "<b><u>China</u></b> [or People’s Republic of <b><u>China</u></b> or <b><u>PRC</u></b> or <b><u>Zhōngguó</u></b>; accept <b><u>Táng</u></b> dynasty]",
-        "<b><u>China</u></b> [or <b><u>Zhōngguó</u></b> or People’s Republic of <b><u>China</u></b> or <b><u>PRC</u></b> or <b><u>Zhōnghuá</u> <u>Rénmín</u></b> <b><u>Gònghéguó</u></b>; accept Tang <b><u>China</u></b> or <b><u>Tang</u></b> dynasty or <b><u>Tang</u></b> Empire] (The third line clues “Drinking Alone by Moonlight.”)",
-        "<b><u>China</u></b> (accept <b><u>Zhongguo</u></b>)",
-        "<b><u>China</u></b> [or <b><u>Zhongguo</u></b>]"
+        "<b><u>Waiting for Godot</u></b> [or <b><u>En attendant Godot</u></b>]",
+        "<b><u>Waiting for Godot</u></b>",
+        "<i><b><u>Waiting for Godot</u></b></i> (“guh-DOH”) [or <i><b><u>En attendant Godot</u></b></i>]",
+        "<b><u>Waiting for Godot</u></b> [accept “<b><u>En attendant Godot</u></b>”]",
+        "<i></i> <i><b><u>Waiting for Godot</u></b></i>"
       ],
       "clues": [
         {
-          "text": "An author from this country wrote about a childhood in the “Slaughterhouse Village” in his novel Pow!",
+          "text": "In this play, after a man is asked if he remembers the Gospels, he replies instead that he remembers the coloured maps of the Holy Land.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2015 BASK, Packet 03"
+          "source": "2021 AQBL February Set, Packet 13"
         },
         {
-          "text": "A poet from this modern-day country wrote “In a dismal storm an old tree is the best place to be” after his “thatched hut” was blown away by heavy winds.",
+          "text": "One character in this play is assumed to be “all of humanity” after he responds to the names “Abel” and “Cain” with cries for help after falling.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2024 SITH, Packet 10"
+          "source": "2019 Glasgow Scottie, Packet 12"
         },
         {
-          "text": "A novel from this country includes an agreement that ends, “may heaven and the people of the earth both strike us dead.”",
-          "hardness": 0.985,
+          "text": "In this play, one character tries to tell the Biblical story of the two thieves who hung beside Jesus, bewildering another character.",
+          "hardness": 1,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2014 GSAC, Packet 02"
+        },
+        {
+          "text": "This work begins with a character struggling with his boots and eventually forgetting them at the end of Act One.",
+          "hardness": 0.938,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2015 BASK, Packet 03"
+          "source": "2018 MBAT, Packet 08"
         },
         {
-          "text": "In a novel from this country, “I” travels to the country after a false cancer diagnosis and meets “You,” who is looking for the title Soul Mountain.",
-          "hardness": 0.79,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2015 BASK, Packet 03"
-        },
-        {
-          "text": "The Good Earth is set in this country, as is another novel where Sandy and Pigsy accompany a monk on his pilgrimage.",
-          "hardness": 0.574,
+          "text": "The two main characters of this play discuss whether or not they are in the right place based on the appearance of a leafless tree.",
+          "hardness": 0.774,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2022 KICKOFF, Packet 12"
+          "source": "2014 GSAC, Packet 02"
         },
         {
-          "text": "The speaker drinks “A cup of wine, under the flowering trees” and concludes that “the moon, alas, is no drinker of wine” in a poem from this country.",
-          "hardness": 0.55,
+          "text": "A character in this play says “nothing to be done” while trying to remove his boot.",
+          "hardness": 0.647,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2023 SITH, Packet 12"
+          "source": "2024 Satellite, Packet 03"
         },
         {
-          "text": "“Earthly Fiends” are described in a novel from this country about the 108 Heroes.",
-          "hardness": 0.388,
+          "text": "It is unclear at the end of this play whether the central characters will hang themselves from a solitary tree.",
+          "hardness": 0.492,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2023 CARD, Packet 11"
+          "source": "2021 RAFT, Packet 02"
         },
         {
-          "text": "This country’s Four Great Classics include Water Margin and Journey to the West.",
-          "hardness": 0.377,
+          "text": "Pozzo and Lucky, blind and dumb respectively, visit the two main characters twice.",
+          "hardness": 0.405,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2022 KICKOFF, Packet 12"
+          "source": "2014 GSAC, Packet 02"
         },
         {
-          "text": "Name this country, the home of the authors of Journey to the West and Romance of the Three Kingdoms.",
-          "hardness": -0.215,
+          "text": "The two main characters of this play encounter Pozzo and his slave Lucky before considering hanging themselves from a tree.",
+          "hardness": 0.348,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2019 LOGIC, Packet 10"
+        },
+        {
+          "text": "Name this play in which Vladimir reminds Estragon that they must do the title action, written by Samuel Beckett.",
+          "hardness": -0.205,
           "inPower": false,
           "giveaway": true,
           "difficulty": 3,
-          "source": "2015 BASK, Packet 03"
-        },
-        {
-          "text": "“Quiet Night Thoughts” is by a poet from what home country of Dù Fǔ and Lǐ Bái?",
-          "hardness": -0.248,
-          "inPower": false,
-          "giveaway": true,
-          "difficulty": 3,
-          "source": "2024 SITH, Packet 10"
+          "source": "2021 RAFT, Packet 02"
         }
       ]
     },
     "hard": {
+      "answer": "Death of a Salesman",
       "answerlines": [
-        "<b><u>China</u></b> [or <b><u>Zhōngguó</u></b>; accept <b><u>Tang</u></b> dynasty or <b><u>Táng</u></b> cháo] (The first poem is “Jade Flower Palace” and the second is “Song of the Wagons,” both by Du Fu)",
-        "<b><u>China</u></b> [or <b><u>Zhongguo</u></b>; or <b><u>Zhonghua</u></b> Renmin Gongheguo; or the People's Republic of <b><u>China</u></b>]",
-        "<b><u>China</u></b> [or People's Republic of <b><u>China</u></b> or <b><u>PRC</u></b> or <b><u>Zhongguo</u></b>]",
-        "<b><u>China</u></b> [accept <b><u>Zhōngguó</u></b>]",
-        "<b><u>China</u></b>"
+        "<i><b><u>Death of a Salesman</u></b></i>",
+        "<b><u>Death of a Salesman</u></b>",
+        "<i><b><u>Death of A Salesman</u></b></i>"
       ],
       "clues": [
         {
-          "text": "One novel from this modern country centers on a \"ghost caught in Individualism's blind alley\", a peasant nicknamed \"Camel\" who moves to the capital to work.",
+          "text": "One character in this work mentions that he would like to plant a garden in his yard after hearing about the “Florida idea,” after which he is reminded of an appointment at Frank’s Chop House later that evening.",
           "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2012 PACE NSC, Packet 3"
+          "source": "2010 PACE NSC, Packet 2"
         },
         {
-          "text": "This country’s 20th-century history is retold in reverse chronology in a story from the recent collection Broken Stars.",
-          "hardness": 1.25,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 5,
-          "source": "2021 PACE NSC, Packet 06"
-        },
-        {
-          "text": "The speaker of a poem from this country laments “sons… buried amid the grass” in a poem whose title vehicles “rumble and roll.”",
+          "text": "In this play, a rubber hose is placed in front of the protagonist by his son, who informs him that he spent three months in jail for stealing a suit in Kansas City.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2019 HFT, Packet 07"
+          "source": "2021 NEWT, Packet 05"
         },
         {
-          "text": "An author from this country wrote a novella whose title character tries to draw a perfect circle and declares things \"spiritual victories.\"",
-          "hardness": 0.967,
+          "text": "One character in this work has returned from a vacation in Florida, though another character notes that his mind was not rested.",
+          "hardness": 1,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2010 NAREN, Packet 09"
+        },
+        {
+          "text": "Originally titled The Inside of His Head, this play includes a scene where Howard Wagner pays more attention to a wire-recording device than to the protagonist.",
+          "hardness": 0.962,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2008 PACE NSC, Packet 08"
+        },
+        {
+          "text": "A distinction in this play is made between people who are “liked” but not “well-liked.”",
+          "hardness": 0.813,
           "inPower": true,
           "giveaway": false,
-          "difficulty": 5,
-          "source": "2022 PACE NSC, Packet 3"
+          "difficulty": 4,
+          "source": "2015 Maryland Fall, Packet 11"
         },
         {
-          "text": "\"White bones\" lying \"on the shores of the Kokonor\" are described in a poem from this country, also the origin of poem in which a \"westward voyager\" is asked \"when will you come back\" from a voyage whose difficulty is compared to \"climbing the sky.\"",
-          "hardness": 0.813,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 5,
-          "source": "2017 PACE NSC, Packet 04"
-        },
-        {
-          "text": "Found in the collection Call to Arms, the narrator of a story from this country wishes to “save the children” after thinking he’s in a town full of cannibals.",
-          "hardness": 0.545,
+          "text": "In this play, a former boss’s fountain pen is among the items stolen by a once-touted high school football star who didn’t retake a math class in order to spite his father.",
+          "hardness": 0.648,
           "inPower": false,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2025 VAULT, Packet 07"
+          "source": "2023 Scottie, Packet 11"
         },
         {
-          "text": "The author of “A Madman’s Diary” and “The True Story of Ah Q” championed this country's New Culture Movement, while its only Nobel Laureate wrote the play Bus Stop and the novel Soul Mountain.",
-          "hardness": 0.466,
+          "text": "A pen is impulsively stolen in one scene of this play and a flashback reveals that the titular man had an affair with his receptionist Miss Harvey.",
+          "hardness": 0.543,
           "inPower": false,
           "giveaway": false,
-          "difficulty": 5,
-          "source": "2010 PACE NSC, Packet 24 Tie Breaker III"
+          "difficulty": 4,
+          "source": "2018 James Blair Bowl, Packet 07"
         },
         {
-          "text": "In 2015, an author born in this country won the Hugo Award for his novel The Three-Body Problem.",
-          "hardness": 0.337,
+          "text": "A character from this play who burns his “University of Virginia” sneakers after flunking math recalls running down “eleven flights with a pen in hand,” after stealing that pen from Bill Oliver.",
+          "hardness": 0.419,
           "inPower": false,
           "giveaway": false,
-          "difficulty": 5,
-          "source": "2021 PACE NSC, Packet 06"
+          "difficulty": 4,
+          "source": "2019 BLAST, Packet Packet 10"
         },
         {
-          "text": "The True Story of Ah Q was written by Lu Xun (“shoon”), an author from what country?",
-          "hardness": -0.12,
+          "text": "In this play, the title character crashes his car so that his son Biff can use the life insurance money to start his own business.",
+          "hardness": 0.322,
           "inPower": false,
-          "giveaway": true,
-          "difficulty": 5,
-          "source": "2025 HISTONE, Packet 08"
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2015 Maryland Fall, Packet 11"
         },
         {
-          "text": "Name this country where Flowers in the Mirror, Water Margin, and Journey to the West were written.",
-          "hardness": -0.227,
+          "text": "Name this play in which the title character crashes a car to collect insurance money, written by Arthur Miller.",
+          "hardness": -0.238,
           "inPower": false,
           "giveaway": true,
           "difficulty": 4,
-          "source": "2015 Maryland Fall, Packet 04"
+          "source": "2019 BLAST, Packet Packet 10"
         }
       ]
     }

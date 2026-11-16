@@ -1,269 +1,275 @@
 {
   "date": "2026-11-18",
   "category": "Philosophy",
-  "answer": "Michel Foucault",
   "tiers": {
     "easy": {
+      "answer": "justice",
       "answerlines": [
-        "Michel <b><u>Foucault</u></b>"
+        "<b><u>justice</u></b> (accept word forms like <b><u>just</u></b>)",
+        "<b><u>Justice</u></b>",
+        "<b><u>justice</u></b> (accept A <b><u>Theory of Justice</u></b>)",
+        "<b><u>justice</u></b> (accept distributive <b><u>justice</u></b> before “Hume”)",
+        "<b><u>justice</u></b>"
       ],
       "clues": [
         {
-          "text": "This philosopher explored the experimental writing of Raymond Roussel in Death and the Labyrinth.",
+          "text": "In chapter five of Utilitarianism, J.S. Mill examined many definitions of this concept.",
           "hardness": 1.35,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2016 BASQT, Packet 06"
+          "source": "2010 Ben Cooper, Packet 02"
         },
         {
-          "text": "This author of The Archaeology of Knowledge turned to art criticism by describing “Las Meninas” in his The Order of Things and by writing about Magritte in This is not a Pipe.",
+          "text": "Robert Nozick argues that requirements for this concept are not satisfied by end-result and pattern principles in Anarchy, State, and Utopia, while Hume defined it as an artificial virtue.",
           "hardness": 1.35,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2010 Ben Cooper, Packet 04"
+          "source": "2012 LIST, Packet 05"
         },
         {
-          "text": "This philosopher noted that the exclusion of lepers eventually transitioned to other exclusion rituals in an analogy of a ship of fools.",
-          "hardness": 1.35,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2013 LIST, Packet 01"
-        },
-        {
-          "text": "An analysis of Las Meninas opens a work by him that describes the relationship between language and the “return of man”.",
-          "hardness": 1.198,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2016 BASQT, Packet 06"
-        },
-        {
-          "text": "This man used the term “discourse” when describing how social practices contribute to ways of constituting knowledge.",
-          "hardness": 1.117,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2018 Glasgow Scottie, Packet 03"
-        },
-        {
-          "text": "This philosopher also describes how modern doctors dehumanize their patients with the “medical gaze” in his work The Birth of the Clinic. This philosopher’s The Order of Things opens with an analysis of the painting Las Meninas, and he describes an empathetic disconnect because of the decrease of public executions in his work Discipline and Punish.",
-          "hardness": 0.913,
+          "text": "The distinction between Aristotlean and Humean conceptions of this attribute is discussed in a 1988 text asking \"whose\" this thing and \"which rationality\" by Alasdair MacIntyre.",
+          "hardness": 1.2,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2017 RMBCT, Packet 10"
+          "source": "2022 Reinstein, Packet 11"
         },
         {
-          "text": "In another work, Bentham’s panopticon is used to interpret the modern prison system.",
-          "hardness": 0.898,
+          "text": "One theorist used reflective equilibrium to refine the understanding of it, and his work states that a foundation in the “original position” and the difference principle are necessary to this concept.",
+          "hardness": 1.057,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2009 GSAC, Packet 09"
+          "source": "2010 Ben Cooper, Packet 02"
         },
         {
-          "text": "The torture of Robert Francois Damiens and the idea that modern institutions resemble Bentham’s Panopticon were discussed in a work by this man.",
-          "hardness": 0.72,
+          "text": "This attribute is mentioned in the title of an earlier text that advocates a \"greatest equal liberty principle\" and argues for a \"distributive\" version of this attribute by positing an \"original position\" behind a \"veil of ignorance.\"",
+          "hardness": 0.919,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2018 Glasgow Scottie, Packet 03"
+          "source": "2022 Reinstein, Packet 11"
         },
         {
-          "text": "He famously used the image of Jeremy Bentham’s Panopticon to describe society as a prison.",
-          "hardness": 0.509,
+          "text": "The “original position” thought experiment, which places one behind a “veil of ignorance,” is posited in a “Theory” of this concept by John Rawls.",
+          "hardness": 0.784,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2016 BASQT, Packet 06"
+          "source": "2024 SITH, Packet 06"
         },
         {
-          "text": "Name this Frenchman who authored The History of Sexuality and Discipline and Punish.",
-          "hardness": 0.008,
+          "text": "John Rawls equated this concept with fairness in a work titled A Theory of this, and Plato argued against a description of this concept as “the advantage of the stronger” in The Republic.",
+          "hardness": 0.71,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2012 LIST, Packet 05"
+        },
+        {
+          "text": "Hobbes claimed that this concept does not exist in the state of nature.",
+          "hardness": 0.459,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2012 LIST, Packet 05"
+        },
+        {
+          "text": "John Rawls wrote A Theory of what desirable attribute which should be produced by courts in the legal system?",
+          "hardness": -0.003,
           "inPower": false,
           "giveaway": true,
           "difficulty": 3,
-          "source": "2018 Glasgow Scottie, Packet 03"
+          "source": "2022 Reinstein, Packet 11"
+        },
+        {
+          "text": "Name this concept represented by a blindfolded woman holding a set of scales.",
+          "hardness": -0.048,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2024 SITH, Packet 06"
         }
       ]
     },
     "medium": {
+      "answer": "feminism",
       "answerlines": [
-        "Michel <b><u>Foucault</u></b>"
+        "<b><u>feminism</u></b> [accept <b><u>second-wave feminism</u></b> or <b><u>third-wave feminism</u></b> or <b><u>intersectional feminism</u></b> or <b><u>black feminism</u></b> or <b><u>radical feminism</u></b>]",
+        "<b><u>feminism</u></b> [or <b><u>feminist</u></b> movement; or the <b><u>women</u></b>’s movement; or <b><u>first-wave feminism</u></b>; or <b><u>second-wave feminism</u></b>; or <b><u>third-wave feminism</u></b>]",
+        "<b><u>feminism</u></b> [or <b><u>feminist</u></b> movement]"
       ],
       "clues": [
         {
-          "text": "One work by this philosopher uses the example of a group of lepers and the image of the Ship of Fools to contrast the difference between old and new treatments of people with illnesses.",
+          "text": "A book in this movement comparing it to the most important “cultural current” of the century, Freudianism, was written by Shulamith Firestone.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2017 RMBCT, Packet 10"
+          "source": "2020 CALISTO, Packet 08"
         },
         {
-          "text": "At a 1982 lecture, this social theorist outlined four “technologies” that humans use to understand themselves.",
+          "text": "A text from this movement declares that the “problem that has no name” is people thinking, “Is this all?”",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2018 Glasgow Scottie, Packet 03"
+          "source": "2015 BISB, Packet 10"
         },
         {
-          "text": "This philosopher noted that the exclusion of lepers eventually transitioned to other exclusion rituals in an analogy of a ship of fools.",
-          "hardness": 1.15,
+          "text": "A book about this movement's theory \"from margin to center\" was written by bell hooks.",
+          "hardness": 0.963,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2013 LIST, Packet 01"
+          "source": "2015 BISB, Packet 10"
         },
         {
-          "text": "An analysis of Las Meninas opens a work by him that describes the relationship between language and the “return of man”.",
-          "hardness": 0.998,
+          "text": "Within this movement, Kimberlé Crenshaw created a framework in which subordination is heightened from overlapping identities.",
+          "hardness": 0.906,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2016 BASQT, Packet 06"
+          "source": "2020 CALISTO, Packet 08"
         },
         {
-          "text": "This man used the term “discourse” when describing how social practices contribute to ways of constituting knowledge.",
-          "hardness": 0.917,
+          "text": "A book from this movement opens with the section “Facts and Myths.”",
+          "hardness": 0.742,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2018 Glasgow Scottie, Packet 03"
+          "source": "2024 IQBT Regular Season Set #3, Packet 09"
         },
         {
-          "text": "This philosopher also describes how modern doctors dehumanize their patients with the “medical gaze” in his work The Birth of the Clinic. This philosopher’s The Order of Things opens with an analysis of the painting Las Meninas, and he describes an empathetic disconnect because of the decrease of public executions in his work Discipline and Punish.",
-          "hardness": 0.713,
+          "text": "William Godwin wrote the “memoirs” of an early member of this movement who wrote a “vindication” in response to Charles Talleyrand.",
+          "hardness": 0.66,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2017 RMBCT, Packet 10"
+          "source": "2015 BISB, Packet 10"
         },
         {
-          "text": "In another work, Bentham’s panopticon is used to interpret the modern prison system.",
-          "hardness": 0.698,
+          "text": "The section “Lived Experiences” from that book in this movement contains the quote “One is not born, but rather becomes” a certain type of person.",
+          "hardness": 0.469,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2009 GSAC, Packet 09"
+          "source": "2024 IQBT Regular Season Set #3, Packet 09"
         },
         {
-          "text": "The torture of Robert Francois Damiens and the idea that modern institutions resemble Bentham’s Panopticon were discussed in a work by this man.",
-          "hardness": 0.52,
+          "text": "This movement is currently in its “third wave” in the US; its second wave was pioneered by the founder of NOW, Betty Friedan.",
+          "hardness": 0.42,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2018 Glasgow Scottie, Packet 03"
+          "source": "2015 BISB, Packet 10"
         },
         {
-          "text": "He famously used the image of Jeremy Bentham’s Panopticon to describe society as a prison.",
-          "hardness": 0.309,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2016 BASQT, Packet 06"
-        },
-        {
-          "text": "Name this Frenchman who authored The History of Sexuality and Discipline and Punish.",
-          "hardness": -0.192,
+          "text": "Name this movement whose “second wave” included Simone de Beauvoir, who wrote The Second Sex.",
+          "hardness": -0.204,
           "inPower": false,
           "giveaway": true,
           "difficulty": 3,
-          "source": "2018 Glasgow Scottie, Packet 03"
+          "source": "2024 IQBT Regular Season Set #3, Packet 09"
+        },
+        {
+          "text": "Intersectionality is central to what movements its third wave?",
+          "hardness": -0.268,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2020 CALISTO, Packet 08"
         }
       ]
     },
     "hard": {
+      "answer": "Jean-Jacques Rousseau",
       "answerlines": [
-        "Michel <b><u>Foucault</u></b>",
-        "Michel <b><u>Foucault</u></b> [“foo-KOH”]",
-        "Michel <b><u>Foucault</u></b> [or Paul-Michel <b><u>Foucault</u></b>]",
-        "Michel <b><u>Foucault</u></b> (“mee-SHELL foo-KOH”)"
+        "Jean-Jacques <b><u>Rousseau</u></b>",
+        "Jean-Jacques <b><u>Rousseau</u> </b>"
       ],
       "clues": [
         {
-          "text": "One essay by this thinker claims that the title figure exists not as interpretive guide but as structural “function” within a work that indicates status.",
+          "text": "In one work, this man criticized the progress resulting from art and science as empowering governments and undermining friendship in Discourse on the Arts and Sciences.",
           "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2010 PACE NSC, Packet 18"
+          "source": "2011 PACE NSC, Packet 10 - Playoffs 5"
         },
         {
-          "text": "This thinker introduced the principle of “biopower” and “biopolitics” in a trilogy of lecture series that begins with Society Must Be Defended.",
-          "hardness": 1.15,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 4,
-          "source": "2022 DUOS, Packet 2"
-        },
-        {
-          "text": "This man suggested seeing language as a series of distinct “statements” that only have meaning in context in his Archaeology of Knowledge.",
-          "hardness": 1.03,
+          "text": "This man argued that the amour propre has led to a decrease in compassion in civil society in a work originally paired with his essay positing that communication became less emotional and more rational as humans moved to colder climates, Essay on the Origin of Languages.",
+          "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2019 Prison Bowl, Packet 13"
+          "source": "2010 PACE NSC, Packet 2"
         },
         {
-          "text": "One of his works begins with a chapter analyzing Las Meninas, while others posit an “unequal gaze” between guard and prisoner and a “medical gaze” between doctor and patient.",
-          "hardness": 0.979,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 5,
-          "source": "2008 PACE NSC, Packet 03"
-        },
-        {
-          "text": "This philosopher described his method as “archaeological.”",
-          "hardness": 0.851,
+          "text": "A book by this thinker introduced a dilemma in which two agents face a choice between hunting hares alone or stags together.",
+          "hardness": 1.098,
           "inPower": true,
           "giveaway": false,
-          "difficulty": 4,
-          "source": "2015 BHSAT, Packet 12"
+          "difficulty": 5,
+          "source": "2024 Maryland Spring, Packet 11_Finals_1"
         },
         {
-          "text": "He also wrote of the Great Confinement, failed to complete his six-volume History of Sexuality, and posited that the former experience of religious ecstasy is now viewed as insanity in his Madness and Civilization.",
-          "hardness": 0.667,
+          "text": "This thinker’s last work was the autobiographical Reveries of a Solitary Walker, and a previous autobiography chronicled a love affair with Madame de Warens.",
+          "hardness": 1,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2011 BHSAT, Packet 03 REVISED"
+        },
+        {
+          "text": "This man held that amour propre should restrain self-interest.",
+          "hardness": 0.863,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2013 PACE NSC, Packet 10"
+        },
+        {
+          "text": "This author of Discourse on Inequality advises that the abstractions inherent in religious issues should be reserved until late childhood in a work describing the hands-off instruction and maturation of the titular boy.",
+          "hardness": 0.729,
           "inPower": false,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2008 PACE NSC, Packet 03"
+          "source": "2010 PACE NSC, Packet 2"
         },
         {
-          "text": "One of this thinker’s works begins with an examination of relationships between the subjects of Velasquez’s Las Meninas and later discusses how periods of history each existed with corresponding epistemes.",
-          "hardness": 0.563,
+          "text": "This thinker opened one book by declaring, “everything degenerates in the hands of man;” that work contains the controversial “Profession of Faith of the Savoyard Vicar” passage.",
+          "hardness": 0.605,
           "inPower": false,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2022 DUOS, Packet 2"
+          "source": "2018 James Blair Bowl, Packet 02"
         },
         {
-          "text": "He wrote about the \"medical gaze\" in Birth of the Clinic.",
-          "hardness": 0.475,
+          "text": "This author of Essay on the Origin of Languages and Discourse on Inequality wrote a treatise on education called Emile.",
+          "hardness": 0.532,
           "inPower": false,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2010 Prison Bowl, Packet 12"
+          "source": "2011 BDAT, Packet 08"
         },
         {
-          "text": "This author of Madness and Civilization advocated the \"unequal gaze\" afforded by Bentham's Panopticon prison.",
-          "hardness": 0.37,
+          "text": "He was an early supporter of direct democracy, or \"popular sovereignty\".",
+          "hardness": 0.389,
           "inPower": false,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2010 Prison Bowl, Packet 12"
+          "source": "2010 NAREN, Packet 13"
         },
         {
-          "text": "Name this French thinker and sociologist who wrote The Birth of the Clinic and Discipline and Punish.",
-          "hardness": -0.235,
+          "text": "Name this man who discussed education in Emile, the Swiss Enlightenment author of The Social Contract.",
+          "hardness": -0.141,
           "inPower": false,
           "giveaway": true,
-          "difficulty": 4,
-          "source": "2018 James Blair Bowl, Packet 11"
+          "difficulty": 5,
+          "source": "2013 PACE NSC, Packet 10"
         }
       ]
     }

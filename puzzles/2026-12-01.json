@@ -1,278 +1,278 @@
 {
   "date": "2026-12-01",
   "category": "Fine Arts",
-  "answer": "Spain",
   "tiers": {
     "easy": {
+      "answer": "The Nutcracker",
       "answerlines": [
-        "<b><u>Spain</u></b> [Kingdom of <b><u>Spain</u></b>; or Reino de <b><u>España</u></b>]",
-        "<b><u>Spain</u></b>",
-        "<b><u>Spain</u></b> [or <b><u>España</u></b>]",
-        "<b><u>Spain</u></b> [accept <b><u>España</u></b>]",
-        "<b><u>Spain</u></b> [or Kingdom of <b><u>Spain</u></b> or <b><u>España</u></b> or Reino de <b><u>España</u></b>]"
+        "<i>The</i> <i><b><u>Nutcracker</u></b></i>",
+        "The <b><u>Nutcracker</u></b>",
+        "The <b><u>Nutcracker</u></b> [or <b><u>Shchelkunchik</u></b>]"
       ],
       "clues": [
         {
-          "text": "The last track of the album Return to Forever is named for this country and was composed by Chick Corea (kuh-REE-uh).",
-          "hardness": 1.35,
+          "text": "The first production of this was choreographed by Lev Ivanov after Marius Pepita became ill, and for it the composer had a celeste brought in secret from Germany.",
+          "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2022 IQBT Regular Season Set #1, Packet 09"
+          "difficulty": 2,
+          "source": "2010 SCOP Novice, Packet 06"
         },
         {
-          "text": "Martha Graham choreographed a solo dance created in response to a war in this country titled for a style called “deep song.”",
-          "hardness": 1.35,
+          "text": "A trio of exotic dances in this ballet’s second act representing chocolate, tea, and coffee has received scrutiny for its cultural insensitivity.",
+          "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2024 IQBT Regular Season Set #4, Packet 10"
+          "difficulty": 2,
+          "source": "2020 MOQBA Novice, Packet Packet 06"
         },
         {
-          "text": "A song called “Will o' the Wisp” appears on side one of an album named for this country, whose tracks “The Pan Piper” and “Saeta” (sai-AY-tuh) were written by Gil Evans.",
-          "hardness": 1.169,
+          "text": "This work opens with the title item given as a gift by Drosselmeyer; it is later broken by Fritz.",
+          "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2022 IQBT Regular Season Set #1, Packet 09"
+          "difficulty": 1,
+          "source": "2013 Collaborative Middle School Tournament #4, Packet 09"
         },
         {
-          "text": "A former natural history museum in this country holds paintings such as The Garden of Earthly Delights.",
-          "hardness": 1.105,
+          "text": "This ballet’s notable use of the celesta required its composer to smuggle one in from Germany.",
+          "hardness": 1.005,
           "inPower": true,
           "giveaway": false,
-          "difficulty": 3,
-          "source": "2024 IQBT Regular Season Set #3, Packet 10"
+          "difficulty": 2,
+          "source": "2020 MOQBA Novice, Packet Packet 06"
         },
         {
-          "text": "One composer from this country wrote a ballet that contains the Fire Dance and portrays Caramelo (“CAR-uh-MELL-oh”), called Love, The Magician.",
-          "hardness": 0.797,
+          "text": "This work contains a Spanish dance representing chocolate and an Arabian dance representing coffee, and it also contains a “Waltz of the Snowflakes.”",
+          "hardness": 0.98,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2018 MVS RAMS, Packet 02"
+        },
+        {
+          "text": "In this ballet, a little girl is able to use her slipper to ward off the nefarious Mouse King.",
+          "hardness": 0.846,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2020 MOQBA Novice, Packet Packet 06"
+        },
+        {
+          "text": "Based on a story by E.T.A. Hoffman, it sees a girl dream of characters such as Mother Ginger, the Snow Queen, and Arabian Coffee, who are inspired by food items at a party where that girl, Clara, receives the title gift from Count Drosselmeyer.",
+          "hardness": 0.793,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2010 SCOP Novice, Packet 06"
+        },
+        {
+          "text": "In this ballet, a kingdom named The Land of Sweets is ruled by the Sugar Plum Fairy, who is visited by Clara.",
+          "hardness": 0.525,
           "inPower": false,
           "giveaway": false,
           "difficulty": 1,
-          "source": "2010 Collaborative Middle School Tournament, Packet 07"
+          "source": "2021 CERES, Packet 12"
         },
         {
-          "text": "In this country, an eighteen-spired cathedral combining Gothic and Art Nouveau styles has been under construction since 1882, and was designed by Antoni Gaud´ı.",
-          "hardness": 0.749,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 1,
-          "source": "2022 SCOP MS 11, Packet Round 3"
-        },
-        {
-          "text": "An opera based on a legend from this country features the title character being dragged to hell by a statue of the Commendatore.",
-          "hardness": 0.578,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2025 SHOW-ME, Packet 09"
-        },
-        {
-          "text": "Name this country home to Manuel de Falla and Isaac Albeniz, the latter of which composed a work titled “Iberia.”",
-          "hardness": 0.028,
-          "inPower": false,
-          "giveaway": true,
-          "difficulty": 3,
-          "source": "2017 RMBCT, Packet 11"
-        },
-        {
-          "text": "Name this country, where Figaro prepares for his wedding after serving as the title “Barber of Seville.”",
-          "hardness": -0.019,
-          "inPower": false,
-          "giveaway": true,
-          "difficulty": 3,
-          "source": "2025 SHOW-ME, Packet 09"
-        },
-        {
-          "text": "Name this European country that was written about in Albeniz's (“AL-ben-eez’s”) Iberia and whose toreadors are characters in Carmen.",
-          "hardness": -0.079,
+          "text": "The Waltz of the Snowflakes and Dance of the Sugarplum Fairy appear in what Peter Tchaikovsky ballet about Clara's Christmas gift coming to life?",
+          "hardness": 0.019,
           "inPower": false,
           "giveaway": true,
           "difficulty": 1,
-          "source": "2010 Collaborative Middle School Tournament, Packet 07"
+          "source": "2013 Collaborative Middle School Tournament #4, Packet 09"
+        },
+        {
+          "text": "The title toy becomes a prince in what Pyotr Ilyich Tchaikovsky ballet set during Christmas?",
+          "hardness": -0.145,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 1,
+          "source": "2021 CERES, Packet 12"
         }
       ]
     },
     "medium": {
+      "answer": "Louis Armstrong",
       "answerlines": [
-        "<b><u>Spain</u></b> [or the Kingdom of <b><u>Spain</u></b> or <b><u>España</u></b>]",
-        "<b><u>Spain</u></b> [or <b><u>España</u></b>]",
-        "<b><u>Spain</u></b> [or Kingdom of <b><u>Spain</u></b> or Reino de <b><u>España</u></b>]",
-        "<b><u>Spain</u></b> [accept <b><u>España</u></b>]",
-        "<b><u>Spain</u></b> [or Kingdom of <b><u>Spain</u></b> or <b><u>España</u></b> or Reino de <b><u>España</u></b>]"
+        "Louis <b><u>Armstrong</u></b> (prompt on “Satchmo” before mention)",
+        "Louis <b><u>Armstrong</u></b>",
+        "Louis <b><u>Armstrong</u></b> [accept <b><u>Satchmo</u></b> before mentioned; accept <b><u>Pops</u></b>]",
+        "Louis <b><u>Armstrong</u></b> [accept <b><u>Satch</u></b>mo before mention]",
+        "Louis <b><u>Armstrong</u></b> [accept “<b><u>Satchmo</u></b>” until mention]"
       ],
       "clues": [
         {
-          "text": "One opera set in this country depicts three masked guests stopping an assault at a party that is proposed during the aria “Till They Are Tipsy.”",
+          "text": "This musician’s recording of “Heebie Jeebies” supposedly introduced scat singing, though there is evidence of the form predating that recording by fifteen years.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2025 SHOW-ME, Packet 09"
+          "source": "2017 BASQT, Packet 10"
         },
         {
-          "text": "In this country, a roof arched like the back of a dragon and a turret representing St. George’s lance appear on top of the “House of Bones.”",
+          "text": "One blues song by this artist includes a stop-time clarinet solo based on tap-dancing in Chicago’s Sunset Cafe.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2022 SHOW-ME, Packet 07"
+          "source": "2020 AQBL October Set, Packet 12"
         },
         {
-          "text": "This nation is also home to a museum with a giant puppy sculpted by Jeff Koons from flowers and a cathedral with a Passion Facade designed by Josep Maria Subirachs.",
-          "hardness": 1.033,
+          "text": "This musician once added the lyrics \"Oh, memory\" before an instrumental break in a rendition of the Hoagy Carmichael song \"Stardust\".",
+          "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2015 BASK, Packet 03"
+          "source": "2019 RAFT, Packet RAFT Packet 11"
         },
         {
-          "text": "Josep Jujol collaborated with an architect from this country to design a house nicknamed “The Stone Quarry.”",
-          "hardness": 0.935,
+          "text": "This musician was originally a member of the Creole band in Chicago along with his mentor Joe King Oliver.",
+          "hardness": 0.943,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2022 SHOW-ME, Packet 07"
+          "source": "2019 RAFT, Packet RAFT Packet 11"
         },
         {
-          "text": "A colorful salamander is in this country’s Park Güell (“gwail”), which was designed by the same architect who created one building’s Nativity and Passion façades.",
-          "hardness": 0.771,
+          "text": "This man's all-stars included Jack Teagarden and Trummy Young.",
+          "hardness": 0.757,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2023 SWAMP, Packet 06"
+          "source": "2011 OLEFIN, Packet 12"
         },
         {
-          "text": "Teo Macero (TAY-oh mah-SAY-roh) produced a Miles Davis album titled for Sketches of this country, which includes the second movement of native composer Joaquín Rodrigo's (wah-KEEN rah-DREE-gohz)Concierto de Aranjuez(kahns-YAIR-toh day-rahn-WEZ).",
-          "hardness": 0.558,
+          "text": "This musician who repopularized King Oliver’s “West End Blues” sings in another song, “I see trees of green, red roses too” in his trademark gravelly voice.",
+          "hardness": 0.626,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2022 IQBT Regular Season Set #1, Packet 09"
+          "source": "2020 LONE STAR, Packet 09"
         },
         {
-          "text": "An opera based on a legend from this country features the title character being dragged to hell by a statue of the Commendatore.",
-          "hardness": 0.378,
+          "text": "He recorded a 1964 performance of \"Hello Dolly,\" in addition to claiming to hear \"friends shaking hands...saying how do you do.\"",
+          "hardness": 0.506,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2025 SHOW-ME, Packet 09"
+          "source": "2011 OLEFIN, Packet 12"
         },
         {
-          "text": "Dances from this country include the bolero, jota, and seguidilla.",
-          "hardness": 0.308,
+          "text": "On the song “Heebie Jeebies,” this musician first utilized his signature scat singing style, and on a different song, this man describes “trees of green / red roses too.”",
+          "hardness": 0.452,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2024 IQBT Regular Season Set #4, Packet 10"
+          "source": "2020 RAFT, Packet 03"
         },
         {
-          "text": "Name this European country of Manuel de Falla, who wrote the ballet El amor brujo.",
-          "hardness": -0.218,
+          "text": "Satchmo was this man's nickname, and he frequently used wordless syllables called scat singing.",
+          "hardness": 0.305,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 RMBCT, Packet 04"
+        },
+        {
+          "text": "Name this jazz trumpeter from New Orleans.",
+          "hardness": -0.286,
           "inPower": false,
           "giveaway": true,
           "difficulty": 3,
-          "source": "2024 IQBT Regular Season Set #4, Packet 10"
-        },
-        {
-          "text": "Name this home of Santiago Calatrava, Antoni Gaudi, and the Guggenheim Bilbao.",
-          "hardness": -0.254,
-          "inPower": false,
-          "giveaway": true,
-          "difficulty": 3,
-          "source": "2015 BASK, Packet 03"
+          "source": "2017 RMBCT, Packet 04"
         }
       ]
     },
     "hard": {
+      "answer": "Richard Strauss",
       "answerlines": [
-        "<b><u>Spain</u></b> [or <b><u>España</u></b>]",
-        "<b><u>Spain</u></b> [or Kingdom of <b><u>Spain</u></b>; or <b><u>España</u></b>; or Reino de <b><u>España</u></b>]",
-        "<b><u>Spain</u></b> [accept Rapsodie <b><u>espagnole</u></b>; accept Symphonie <b><u>espagnole</u></b>; accept <b><u>España</u></b>]",
-        "<b><u>Spain</u></b> [or <b><u>Espana</u></b>; accept equivalent answers like “the <b><u>Spanish</u></b> Republic,” etc.]",
-        "<b><u>Spain</u></b> [or <b><u>España</u></b>; or Kingdom of <b><u>Spain</u></b>]"
+        "<b><u>R</u></b>ichard <b><u>Strauss</u></b> [prompt on <u>Strauss</u>; do NOT accept or prompt on “Johann Strauss”]",
+        "<b><u>R</u></b>ichard <b><u>Strauss</u></b> [prompt on <u>Strauss</u>]",
+        "<b><u>R</u></b>ichard <b><u>Strauss</u></b> (prompt just “<b><u>Strauss</u></b>”)",
+        "<b><u>R</u></b>ichard <b><u>Strauss</u></b> [prompt on <b><u>Strauss</u></b>]",
+        "Richard <b><u>Strauss</u></b> (ree-kard strowss)"
       ],
       "clues": [
         {
-          "text": "Alexander Gorsky's 1900 revival of a ballet set in this country added a variation in which a fan is repeatedly snapped open and shut by Kitri.",
+          "text": "This composer wanted the Wagnerian soprano Kirsten Flagstad to premiere a set of songs which were collected posthumously by his friend Ernst Roth.",
           "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2025 PACE NSC, Packet 12"
+          "source": "2016 PACE NSC, Packet 03"
         },
         {
-          "text": "Moderator Note: Read lowercase numerals (i.e. i) in the chords as “minor” (i.e. “minor one“) and capital as \"major\" This country names a chord progression whose first half is “i, V, i, VII, III, VII, i, V,” known as its “follies.”",
-          "hardness": 1.25,
+          "text": "This composer set the poems “When Falling Asleep” and “At Sunset” to music in one work.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2015 HERMES, Packet 07"
+        },
+        {
+          "text": "Georg Solti conducted a final act trio from one of this composer’s operas at his funeral; that trio is followed by the love duet “Ist ein Traum.”",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2021 BHSAT, Packet 13"
+        },
+        {
+          "text": "In the second movement of a piece by this composer, tubas play a four-note motif in parallel fifths to represent “adversaries” of the title character.",
+          "hardness": 0.998,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2022 DUOS, Packet 12"
+        },
+        {
+          "text": "This composer wrote an Olympic Hymn for the Berlin Olympics in 1936.",
+          "hardness": 0.901,
           "inPower": true,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2019 Prison Bowl, Packet 06"
+          "source": "2016 PACE NSC, Packet 03"
         },
         {
-          "text": "The gigue (\"zheeg\") was often paired with a triple-meter dance from this country that usually comprised the third movement of four-movement suites.",
-          "hardness": 1.073,
-          "inPower": true,
+          "text": "His own opera Feuersnot was given in 1901, before the premier of a work, regarded as blasphemous, based on a play by Oscar Wilde.",
+          "hardness": 0.748,
+          "inPower": false,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2021 PACE NSC, Packet 22 - Emergency"
+          "source": "2006 PACE NSC, Packet 06"
         },
         {
-          "text": "A style of still-life set in the kitchen called bodegón evolved in this country.",
-          "hardness": 0.971,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 5,
-          "source": "2015 PACE NSC, Packet 02"
-        },
-        {
-          "text": "Themes from this country also inspired that composer for the fourth movement of his piano suite Miroirs. Édouard Lalo composed a five-movement piece for violin and orchestra titled after this country.",
-          "hardness": 0.736,
+          "text": "A “Works of Peace” movement is included in a piece by this composer used to portray a hero’s life, Ein Heldenleben.",
+          "hardness": 0.526,
           "inPower": false,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2019 BLAST, Packet Packet 12"
+          "source": "2022 DUOS, Packet 12"
         },
         {
-          "text": "A large ear grows from a tree in a painting set on a farm in this country titled The Tilled Field.",
-          "hardness": 0.64,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 5,
-          "source": "2025 HISTONE, Packet 01"
-        },
-        {
-          "text": "Home to the composer of the ballet The Three-Cornered Hat and the keyboard sonatas of Antonio Soler, another composer from this country, Isaac Albeniz, wrote a piano suite named Iberia.",
-          "hardness": 0.478,
+          "text": "A 22 movement tone poem by this composer includes a “Peak” motif to portray the title mountain range; that motif was inspired by another piece by this composer which uses the rising notes “C, G, C” to illustrate sunrise.",
+          "hardness": 0.38,
           "inPower": false,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2012 Prison Bowl, Packet 11"
+          "source": "2022 DUOS, Packet 12"
         },
         {
-          "text": "Instruments created in this country include the vihuela and a namesake five-stringed guitar.",
-          "hardness": 0.328,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 5,
-          "source": "2021 PACE NSC, Packet 22 - Emergency"
-        },
-        {
-          "text": "Name this European country with a strong classical guitar tradition.",
-          "hardness": -0.176,
-          "inPower": false,
-          "giveaway": true,
-          "difficulty": 5,
-          "source": "2019 Prison Bowl, Packet 06"
-        },
-        {
-          "text": "Name this country home to the Sagrada Familía and the Guggenheim Bilbao.",
-          "hardness": -0.261,
+          "text": "Sophie falls in love with Octavian, who delivers her a silver rose, in an opera by what German composer of Salome and Der Rosenkavalier?",
+          "hardness": -0.158,
           "inPower": false,
           "giveaway": true,
           "difficulty": 4,
-          "source": "2019 RMBAT, Packet 13"
+          "source": "2023 CREEK, Packet 11"
+        },
+        {
+          "text": "Name this German composer of the opera Salome and an homage to Friedrich Nietzsche, Thus Spake Zarathustra.",
+          "hardness": -0.247,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 4,
+          "source": "2008 Prison Bowl, Packet 01"
         }
       ]
     }

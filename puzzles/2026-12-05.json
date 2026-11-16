@@ -1,278 +1,278 @@
 {
   "date": "2026-12-05",
   "category": "Mythology",
-  "answer": "Ireland",
   "tiers": {
     "easy": {
+      "answer": "King Arthur",
       "answerlines": [
-        "<b><u>Ireland</u></b> [or <b><u>Éire</u></b>ann]",
-        "<b><u>Ireland</u></b> (accept<b><u>Eire</u></b>; accept Republic of<b><u>Ireland</u></b>or Poblacht na h<b><u>Éire</u></b>ann; accept<b><u>Irish</u></b>Free State;do not accept or prompt on \"Northern Ireland\")",
-        "<b><u> Ireland</u></b>",
-        "<b><u>Ireland</u></b>",
-        "<b><u>Ireland</u></b> [or <b><u>Eire</u></b>]"
+        "King <b><u>Arthur</u></b>",
+        "King <b><u>Arthur</u></b> [or <b><u>Arthur</u></b> Pendragon]",
+        "King <b><u>Arthur</u></b> [or <b><u>Arthur</u></b> Pendragon; prompt on <u>Pendragon</u> until it is read]"
       ],
       "clues": [
         {
-          "text": "A hero from the myths of this modern country unknowingly kills his son Connla with his spear, Gae Bolg.",
+          "text": "This man once hunted the semi-divine boar Twrch Trwyth, to help his kinsmen win the hand of Olwen.",
           "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2025 Rockford Quiz Bowl Novice, Packet 04"
+          "source": "2016 Pennsylvania Novice, Packet 05"
         },
         {
-          "text": "A story from this country, the Book of Invasions, details its mythical former residents such as the Fomorians, led by Balor, and the Tuatha Dé (TOO-huh DAY).",
+          "text": "This man's sword had a scabbard which prevented its wearer from bleeding from any wounds.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 1,
-          "source": "2021 CERES, Packet 08"
+          "source": "2020 ERIS, Packet 03"
         },
         {
-          "text": "According to the mythology of this country, the three sisters of the Morrígan shape-shifted into crows to incite fear and panic on the battlefield.",
-          "hardness": 1.15,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 1,
-          "source": "2023 Sentinel CYBER 1A, Packet 11"
-        },
-        {
-          "text": "This country’s Giant’s Causeway was created during a fight between the giant Ben-an-donner and a resident of this country.",
-          "hardness": 0.92,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 1,
-          "source": "2018 MVS RAMS, Packet 10"
-        },
-        {
-          "text": "In another myth from this country, Fionn Mac Cumhail (\"Finn mac Cool\") acquires all the world's knowledge.",
-          "hardness": 0.779,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 1,
-          "source": "2021 CERES, Packet 08"
-        },
-        {
-          "text": "This country's folkloreconcern Cú Chulainn, Fionn macCumhaill, and the Morrigan, a witch who is associatedwith this country's holiday of Samhain.",
-          "hardness": 0.62,
+          "text": "This figure was conceived when his father disguised himself as Gorlois and slept with Gorlois’ wife Igraine.",
+          "hardness": 1.1,
           "inPower": false,
           "giveaway": false,
           "difficulty": 2,
-          "source": "2025 Rockford Quiz Bowl Novice, Packet 04"
+          "source": "2012 Fall Kickoff Tournament (FKT), Packet 09"
         },
         {
-          "text": "This country is home to the Gae Bulg-wielding Cu Chulainn as well as a man who ate the Salmon of Knowledge, Finn MacCool.",
-          "hardness": 0.51,
+          "text": "A popular novel about this figure is T.H. White's The Once and Future King.",
+          "hardness": 1,
           "inPower": false,
           "giveaway": false,
           "difficulty": 1,
-          "source": "2018 MVS RAMS, Packet 10"
+          "source": "2012 Collaborative Middle School Tournament #3, Packet 08"
         },
         {
-          "text": "Pots of gold are hidden by folkloric creatures called leprechauns in what country from which snakes were legendarily expelled by St. Patrick?",
-          "hardness": -0.022,
+          "text": "During his youth, this figure was raised by Ector.",
+          "hardness": 0.904,
           "inPower": false,
-          "giveaway": true,
-          "difficulty": 1,
-          "source": "2021 CERES, Packet 08"
-        },
-        {
-          "text": "Name this Gaelic country in the British Isles led from Dublin.",
-          "hardness": -0.141,
-          "inPower": false,
-          "giveaway": true,
+          "giveaway": false,
           "difficulty": 2,
-          "source": "2025 Rockford Quiz Bowl Novice, Packet 04"
+          "source": "2012 Fall Kickoff Tournament (FKT), Packet 09"
         },
         {
-          "text": "Saint Patrick legendarily drove all the snakes out of this island country.",
-          "hardness": -0.228,
+          "text": "This figure met his demise at the Battle of Camlann after a duel with his illegitimate son Mordred, but is said to be resting at Avalon.",
+          "hardness": 0.812,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2012 Fall Kickoff Tournament (FKT), Packet 09"
+        },
+        {
+          "text": "He was wounded at the battle of Callmann, after which he was taken to the Isle of Avalon.",
+          "hardness": 0.696,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2016 Pennsylvania Novice, Packet 05"
+        },
+        {
+          "text": "This son of Uther Pendragon and husband of Guinevere was advised by the wizard Merlin and became king after pulling the Sword in the Stone.",
+          "hardness": 0.566,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2012 Fall Kickoff Tournament (FKT), Packet 09"
+        },
+        {
+          "text": "This man, who was the son of Uther Pendragon, counted knights suchs as Sir Gawain and Sir Lancelot in his service.",
+          "hardness": 0.506,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2016 Pennsylvania Novice, Packet 05"
+        },
+        {
+          "text": "What legendary English king wielded Excalibur and pulled a sword from a stone?",
+          "hardness": -0.145,
           "inPower": false,
           "giveaway": true,
           "difficulty": 1,
-          "source": "2023 Sentinel CYBER 1A, Packet 11"
+          "source": "2020 ERIS, Packet 03"
         }
       ]
     },
     "medium": {
+      "answer": "Set",
       "answerlines": [
-        "<b><u>Ireland</u></b> [or <b><u>Eire</u></b>]",
-        "<b><u>Ireland</u></b> (or <b><u>Eire</u></b>)",
-        "<b><u>Ireland</u></b> [or Republic of <b><u>Ireland</u></b> or <b><u>Éire</u></b> or <b><u>Airlann</u></b>; accept Northern <b><u>Ireland</u></b>]",
-        "<b><u>Ireland</u></b> [or <b><u>Éire</u></b>; or <b><u>Airlann</u></b>]",
-        "<b><u>Ireland</u></b> [or <b><u>Irish</u></b> myth; prompt on <b><u>Celtic</u></b> myth]"
+        "<b><u>Set</u></b> [accept <b><u>Seth</u></b> or <b><u>Setesh</u></b> or <b><u>Sutekh</u></b> or <b><u>Setekh</u></b> or <b><u>Suty</u></b>]",
+        "<b><u>Set</u></b>",
+        "<b><u>Set</u></b> [or <b><u>Seth</u></b>]",
+        "<b><u>Set</u></b> [accept “<b><u>Seth</u></b>”, “<b><u>Setekh</u></b>”, “<b><u>Sut</u></b>”, “<b><u>Sutekh</u></b>”, or “<b><u>Sety</u></b>”]",
+        "<b><u>Set</u></b> [accept <b><u>Seth</u></b>]"
       ],
       "clues": [
         {
-          "text": "A character from the mythology of this country sometimes experiences a riastrad translated as “warp spasm” or “battle frenzy.”",
+          "text": "He was named Typhon by Plutarch and over time people altered his images into representations of Amon by replacing his ears with horns.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2015 BASK, Packet 10"
+          "source": "2011 DCCAT, Packet 11"
         },
         {
-          "text": "Church bells in this country broke a 900-year curse that turned children into swans.",
+          "text": "This deity is given Anat and Astarte as wives in a compromise brokered by Neith.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2022 SHOW-ME, Packet 06"
+          "source": "2015 BISB, Packet 10"
         },
         {
-          "text": "In one story from the mythology of this country, a man used the skin of a black sheep to heal his comrade’s wounds, after which it grew into his skin.",
-          "hardness": 1.15,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2017 WHAQ, Packet 14"
-        },
-        {
-          "text": "A woman from this country’s mythology scares a giant by having her supposedly infant son consume a griddle cake while she feeds the giant a cake with the griddle iron still inside.",
-          "hardness": 0.946,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2015 BASK, Packet 10"
-        },
-        {
-          "text": "Shapeshifters called púca appear in this country’s myth, as does a triple-death goddess who tricks a hero into eating dog meat.",
-          "hardness": 0.9,
-          "inPower": true,
-          "giveaway": false,
-          "difficulty": 3,
-          "source": "2022 SHOW-ME, Packet 06"
-        },
-        {
-          "text": "The story about Grainne and her lover is narrated by the son of that hero from this country, the bard Oisín (“oh-SHEEN”).",
-          "hardness": 0.654,
+          "text": "Neith’s decision gave this god the foreign goddesses Anat and Astarte as concubines.",
+          "hardness": 1,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2021 CALISTO 2, Packet 06"
+          "source": "2014 GSAC, Packet 04"
         },
         {
-          "text": "The Stone of Destiny in this country sat atop the Hill of Tara.",
-          "hardness": 0.517,
+          "text": "This god was worshipped at Ombos and he has been depicted fighting Apep on Ra’s sun barge.",
+          "hardness": 0.916,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2018 MBAT, Packet 09"
+        },
+        {
+          "text": "He loses a boat race in a boat actually made of stone.",
+          "hardness": 0.783,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2015 BISB, Packet 10"
+        },
+        {
+          "text": "However, this struggle gradually caused this god to be the associated with the serpent and later the epitome of chaos and disruption.",
+          "hardness": 0.598,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2015 BISB, Packet 04"
+          "source": "2011 DCCAT, Packet 11"
         },
         {
-          "text": "A hero from this country sucks his thumb for wisdom after he burns it while cooking the salmon of knowledge.",
-          "hardness": 0.323,
+          "text": "This god helped Ra on his nightly journey by slaying the serpent Apep.",
+          "hardness": 0.481,
           "inPower": false,
           "giveaway": false,
           "difficulty": 3,
-          "source": "2021 AQBL February Set, Packet 04"
+          "source": "2022 KICKOFF, Packet 02"
         },
         {
-          "text": "Name this island home to the stories of Finn MacCool and Cu Chulainn, the latter of whom is found in its Ulster Cycle.",
-          "hardness": -0.186,
+          "text": "Horus defeated this god in a boat race after he cut his brother into 14 pieces and scattered them across the Nile.",
+          "hardness": 0.343,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2022 KICKOFF, Packet 02"
+        },
+        {
+          "text": "He is most notorious for murdering his brother Osiris.",
+          "hardness": 0.256,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2012 GSAC, Packet 03"
+        },
+        {
+          "text": "Identify this Egyptian god who was defeated by his brother, Osiris’ son, Horus.",
+          "hardness": -0.265,
           "inPower": false,
           "giveaway": true,
           "difficulty": 3,
-          "source": "2015 BASK, Packet 10"
-        },
-        {
-          "text": "Name this country, whose mythology includes the hero Finn MacCool.",
-          "hardness": -0.291,
-          "inPower": false,
-          "giveaway": true,
-          "difficulty": 3,
-          "source": "2017 WHAQ, Packet 14"
+          "source": "2011 DCCAT, Packet 11"
         }
       ]
     },
     "hard": {
+      "answer": "Heimdallr",
       "answerlines": [
-        "<b><u>Ireland</u></b> [or <b><u>Eire</u></b>]",
-        "<b><u>Ireland</u></b> [or <b><u>Eire</u></b> or <b><u>Erin</u></b>]",
-        "<b><u>Ireland</u></b> [or <b><u>Éire</u></b>; or <b><u>Airlann</u></b>]",
-        "<b><u>Ireland</u></b> [or <b><u>Éire</u></b>; accept County <b><u>Kerry</u></b>]",
-        "<b><u>Ireland</u></b> [or <b><u>Éire</u></b>; accept <b><u>Tara</u></b>; accept <b><u>Ulster</u></b> after “Gáe Bulg” and before mentioned]"
+        "<b><u>Heimdall</u></b>r [or <b><u>Hallinskidl</u></b>; or <b><u>Vindhler</u></b>; accept <b><u>Rig</u></b> or <b><u>Gullintanni</u></b> before mention]",
+        "<b><u>Heimdall</u></b>r [accept <b><u>Rig</u></b> until mention]",
+        "<b><u>Heimdall</u></b>r [accept <b><u>Rig</u></b>, accept <b><u>Gullintani</u></b> until mention]",
+        "<b><u>Heimdall</u></b>r",
+        "<b><u>Heimdall</u></b>r [prompt “Rig”] &lt;SSp&gt;"
       ],
       "clues": [
         {
-          "text": "One king of this country had his horses’ lips and tails cut out, then withstood an invasion using silent warriors revived from a cauldron.",
+          "text": "One grandson of this deity is Kon the Young.",
           "hardness": 1.25,
           "inPower": true,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2013 PACE NSC, Packet 17"
+          "source": "2011 PACE NSC, Packet 9 - Playoffs 4"
         },
         {
-          "text": "Leaders of this region were crowned on a magical stone that would roar in joy to recognize a true king.",
+          "text": "This god’s three sons became the progenitors of serfs, farmers, and warriors respectively.",
           "hardness": 1.15,
           "inPower": true,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2023 HFT, Packet Finals 2"
+          "source": "2021 DART, Packet 07"
         },
         {
-          "text": "Three brother gods from this country are a goldsmith, carpenter, and blacksmith who work together.",
-          "hardness": 1.066,
+          "text": "This figure visited the islands of Vagasker and Singasteinn to fight another deity in the form of a seal in order to retrieve a necklace.",
+          "hardness": 1.088,
           "inPower": true,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2013 PACE NSC, Packet 17"
+          "source": "2010 PACE NSC, Packet 17"
         },
         {
-          "text": "This country's immram genre of magic island voyages later starred Christian monks.",
-          "hardness": 0.936,
+          "text": "Because the Völuspá addresses mankind as the “children of” this god, this god is identified with Rig, who fathered the classes of human society.",
+          "hardness": 0.993,
           "inPower": true,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2013 PACE NSC, Packet 17"
+          "source": "2026 PACE NSC, Packet 05"
         },
         {
-          "text": "A \"plain of pillars\" in this country was the site of a battle between the descendants of Nemed, led by Sreng, and a group whose king received a replacement silver arm after the battle.",
-          "hardness": 0.781,
+          "text": "In the form of the god Rig, he created the serfs, peasants, and warriors, and after Loki stole the Brisingamen from Freya, he disguised himself as a seal, sat by the thief, then hours later punched him in the face.",
+          "hardness": 0.868,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2008 Prison Bowl, Packet 07"
+        },
+        {
+          "text": "This deity fathers Thrall, Karl, and Jarl (yarl) in a section of the Poetic Edda in which he is identified as Rig.",
+          "hardness": 0.669,
           "inPower": false,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2017 PACE NSC, Packet 06"
+          "source": "2018 PACE NSC, Packet 19 - TB1"
         },
         {
-          "text": "In this region, two hounds refused to kill a deer because they recognized it was their owner’s wife.",
-          "hardness": 0.603,
-          "inPower": false,
-          "giveaway": false,
-          "difficulty": 4,
-          "source": "2025 VAULT, Packet 03"
-        },
-        {
-          "text": "A hero of this country betrayed a friend with a \"love spot\" on his head, met a deer that became his wife, and sired a bard who vanished for 300 years; that father of Ossian sleeps under this land until the hour of need, and burnt his thumb on the Salmon of Knowledge.",
-          "hardness": 0.528,
+          "text": "This god was sometimes called Gullintanni, since he had golden teeth.",
+          "hardness": 0.523,
           "inPower": false,
           "giveaway": false,
           "difficulty": 5,
-          "source": "2013 PACE NSC, Packet 17"
+          "source": "2018 PACE NSC, Packet 19 - TB1"
         },
         {
-          "text": "One hero from this region wielded a spear called the Gáe Bulg (“guy bolg”) and repelled the armies of Queen Medb (“medhv”) using an ability called riastrad during the Cattle Raid of Cooley.",
-          "hardness": 0.385,
+          "text": "Requiring less sleep than a bird, his hearing is keen enough such that he can hear wool grow on a sheep’s back, and at Ragnarok he will kill and be killed by Loki.",
+          "hardness": 0.433,
           "inPower": false,
           "giveaway": false,
           "difficulty": 4,
-          "source": "2023 HFT, Packet Finals 2"
+          "source": "2008 Prison Bowl, Packet 07"
         },
         {
-          "text": "Name this island whose later mythic figures would include Deirdre of the Sorrows and Cu Chulainn.",
-          "hardness": -0.007,
+          "text": "The owner of the Gjallerhorn, he is the guardian of the rainbow bridge Bifrost.",
+          "hardness": 0.21,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2008 Prison Bowl, Packet 07"
+        },
+        {
+          "text": "Identify this Norse god who makes sure no one gets into Asgard.",
+          "hardness": -0.296,
           "inPower": false,
           "giveaway": true,
-          "difficulty": 5,
-          "source": "2005 PACE NSC, Packet 08"
-        },
-        {
-          "text": "The Ulster Cycle contains stories from what home country of Cú Chulainn (“koo KULL-in”)?",
-          "hardness": -0.264,
-          "inPower": false,
-          "giveaway": true,
           "difficulty": 4,
-          "source": "2023 HFT, Packet Finals 2"
+          "source": "2008 Prison Bowl, Packet 07"
         }
       ]
     }
