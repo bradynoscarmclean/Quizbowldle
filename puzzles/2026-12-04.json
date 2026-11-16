@@ -1,0 +1,279 @@
+{
+  "date": "2026-12-04",
+  "category": "History",
+  "answer": "New York City",
+  "tiers": {
+    "easy": {
+      "answerlines": [
+        "<b><u>New York</u></b> City",
+        "<b><u>New York</u></b> City (accept <b><u>NYC</u></b>) SCOP A · Round 7 Page 2 of 4",
+        "<b><u> New York</u></b> City (or <b><u> NYC</u></b> )",
+        "<b><u>New York</u></b> City (or <b><u>NYC</u></b>)",
+        "<b><u>New</u></b> <b><u>York</u></b> City (or <b><u>NYC</u></b>)"
+      ],
+      "clues": [
+        {
+          "text": "The death of two Guyanese immigrants in this city sparked the Crown Heights riots between its black and Jewish populations.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2016 Pennsylvania Novice, Packet 05"
+        },
+        {
+          "text": "In 1984, Bernard Goetz shot four black teenagers on this city's subway, claiming self-defense.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2014 SCOP Novice 5, Packet 06"
+        },
+        {
+          "text": "One landmark within this city was damaged in the Black Tom Explosion.",
+          "hardness": 1.1,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2013 Fall Kickoff Tournament (FKT), Packet 02"
+        },
+        {
+          "text": "In 1911, Isaac Harris and Max Blanck were fined after a fire at the Asch Building killed one hundred forty-six garment workers in this city.",
+          "hardness": 0.965,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2013 Fall Kickoff Tournament (FKT), Packet 02"
+        },
+        {
+          "text": "A photo taken in this city shows Marcy Borders covered in a thick yellow dust after United Flight 175 and American Airlines Flight 11 crashed into this city’s Twin Towers.",
+          "hardness": 0.817,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2020 SCOP A, Packet 07"
+        },
+        {
+          "text": "Boss Tweed once led Tammany Hall from this city, which was home to the largest draft riot during the American Civil War.",
+          "hardness": 0.693,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2013 Fall Kickoff Tournament (FKT), Packet 02"
+        },
+        {
+          "text": "Mayor Fiorello La Guardia took down this city’s Tammany Hall political machine.",
+          "hardness": 0.491,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2016 Pennsylvania Novice, Packet 05"
+        },
+        {
+          "text": "In 2001, the two tallest buildings in this city were destroyed in the 9/11 attacks.",
+          "hardness": 0.364,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2013 Fall Kickoff Tournament (FKT), Packet 02"
+        },
+        {
+          "text": "The World Trade Center was targeted during a a terrorist action in what largest American city, which was attacked on September 11th, 2001?",
+          "hardness": 0.035,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 2,
+          "source": "2020 SCOP A, Packet 07"
+        },
+        {
+          "text": "Name this city whose boroughs include Queens, Staten Island, and Manhattan.",
+          "hardness": -0.189,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 1,
+          "source": "2013 Collaborative Middle School Tournament #4, Packet 06"
+        }
+      ]
+    },
+    "medium": {
+      "answerlines": [
+        "<b><u>New York</u></b> City (prompt on New Amsterdam)",
+        "<b><u>New York</u></b> City [or <b><u>NY</u></b>C]",
+        "<b><u>New York</u></b> City [or <b><u>NYC</u></b>]",
+        "<b><u>New York</u></b> City [or <b><u>NYC</u></b>; anti-prompt [ask for less specific] on <u>Manhattan</u> or <u>Greenwich Village</u> before mentioned]",
+        "<b><u>New York</u></b> City"
+      ],
+      "clues": [
+        {
+          "text": "The Orange Riots took place at this city where one longtime politician died at the Ludlow Street Jail.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2020 HC History, Packet Finals"
+        },
+        {
+          "text": "Prominent political figures in the history of this polity include Charles Murphy and Jimmy Walker, and Robert Moses directed two World’s Fairs and a number of public works projects in it.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2010 Ben Cooper, Packet 09"
+        },
+        {
+          "text": "Four hundred members of the AFL-CIO attacked student protesters in this city during the Hard Hat Riot.",
+          "hardness": 0.995,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2023 IQBT Regular Season Set #2, Packet 03"
+        },
+        {
+          "text": "So-called “zaps” were led in this city against Mayor John Lindsay, who refused to take a stance on LGBTQ issues.",
+          "hardness": 0.882,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2024 IQBT Regular Season Set #4, Packet 04"
+        },
+        {
+          "text": "Folk singer Dave Van Ronk was arrested on assault charges after a raid on a business in this city owned by the Genovese crime family.",
+          "hardness": 0.681,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2020 RAFT, Packet 07"
+        },
+        {
+          "text": "Marsha P. Johnson was present at an event in this city that took place on Christopher Street.",
+          "hardness": 0.519,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2024 IQBT Regular Season Set #4, Packet 04"
+        },
+        {
+          "text": "Lucky Luciano was the first boss of this city’s Genovese crime family, one of Five Families of mobsters here.",
+          "hardness": 0.407,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2024 CALISTO, Packet 10"
+        },
+        {
+          "text": "This city, which contained the Shirtwaist Triangle Accident and it used to be the colony of New Amsterdam.",
+          "hardness": 0.32,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2020 HC History, Packet Finals"
+        },
+        {
+          "text": "Much of what city's LGBTQ+ experience is centered around neighborhoods in Manhattan?",
+          "hardness": -0.238,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2020 RAFT, Packet 07"
+        },
+        {
+          "text": "Name this most populous U.S. city.",
+          "hardness": -0.312,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2023 IQBT Regular Season Set #2, Packet 03"
+        }
+      ]
+    },
+    "hard": {
+      "answerlines": [
+        "<b><u>New York</u></b> City [or <b><u>NYC</u></b>]",
+        "<b><u>New York</u></b> City [accept <b><u>NYC</u></b>; grudgingly prompt on <b><u>New Amsterdam</u></b>]",
+        "<b><u>New York City</u></b> [or <b><u>NYC</u></b>; accept <b><u>New York, New York</u></b>]",
+        "<b><u>New York</u></b> City [or <b><u>NY</u></b>C]"
+      ],
+      "clues": [
+        {
+          "text": "In the leadup to the Civil War, this city's mayor briefly proposed that it secede from the Union as the \"Free City of Tri-Insula.\"",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2016 PACE NSC, Packet 05"
+        },
+        {
+          "text": "The Stamp Act Congress met in this city in 1765, and two decades earlier it had been the site of a panic regarding a plot by slaves and poor whites to burn this city down.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2017 Prison Bowl, Packet 05"
+        },
+        {
+          "text": "Events in this city were criticized by a political cartoon depicting crocodiles dressed as bishops emerging from the \"American River Ganges\".",
+          "hardness": 1.046,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2020 STASH, Packet 15"
+        },
+        {
+          "text": "This city was the site of an offshoot of a 1689 revolt in which Francis Nicholson was overthrown.",
+          "hardness": 0.883,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2017 Prison Bowl, Packet 05"
+        },
+        {
+          "text": "Daisy Khan and her husband, Imam Feisal Abdul Rauf, defended the construction of Park 51 in this city.",
+          "hardness": 0.636,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2012 RAVE, Packet 11"
+        },
+        {
+          "text": "This city's powerful Customs House, which once employed Chester A. Arthur as a port collector, was controlled by the Stalwart Republican leader Roscoe Conkling.",
+          "hardness": 0.581,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2016 PACE NSC, Packet 05"
+        },
+        {
+          "text": "A former councilman for this city was embroiled in a sexting scandal; that man was Anthony Weiner.",
+          "hardness": 0.468,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2012 RAVE, Packet 11"
+        },
+        {
+          "text": "Thomas Nast depicted a political machine in this city as a tiger, and its leader with a bag of money for a head.",
+          "hardness": 0.321,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2020 STASH, Packet 15"
+        },
+        {
+          "text": "Name this city whose government was long controlled by Tammany Hall.",
+          "hardness": -0.192,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 5,
+          "source": "2016 PACE NSC, Packet 05"
+        },
+        {
+          "text": "Name this city where immigrants arrived at Ellis Island.",
+          "hardness": -0.281,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 4,
+          "source": "2023 DART, Packet 05"
+        }
+      ]
+    }
+  }
+}

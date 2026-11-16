@@ -1,0 +1,280 @@
+{
+  "date": "2026-11-15",
+  "category": "Mythology",
+  "answer": "Ganesha",
+  "tiers": {
+    "easy": {
+      "answerlines": [
+        "<b><u>Ganesh</u></b>a (accept <b><u>Ganapati</u></b>; accept <b><u>Vinayak</u></b>a; accept <b><u>Paillai</u></b>yar; NOTE: modakapriya means “lover of sweets”)",
+        "<b><u>Ganesh</u></b>a [accept <b><u>Ganapati</u></b> Bappa or <b><u>Vinayaka</u></b>, or any other equivalent name of Ganesh]",
+        "<b><u>Ganesha</u></b> (accept <b><u>Ganesh</u></b>, <b><u>Ganapati</u></b>, <b><u>Pillaiyar</u></b>, or <b><u>Vinayaka</u></b>)",
+        "<b><u>Ganesh</u></b>a",
+        "<b><u>Ganesh</u></b>a (Accept <b><u>Ganapati</u></b>, <b><u>Vinayaka</u></b>, and <b><u>Pillaiyar</u></b>)"
+      ],
+      "clues": [
+        {
+          "text": "Some consider this god’s consort to be the banana tree Kala Bo.",
+          "hardness": 1.35,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2025 GSAC, Packet 04 _The Beaver Packet_"
+        },
+        {
+          "text": "This deity married Buddhi and Siddhi, the personifications of wisdom and prudence.",
+          "hardness": 1.35,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 RMBCT, Packet 08"
+        },
+        {
+          "text": "This figure wrote the Mahabharata as dictated by Vyasa.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2011 SCOP Novice 2, Packet 02"
+        },
+        {
+          "text": "This god wins a golden mango of knowledge after winning a competition against their brother Karthikeya (kar-ti-KAY-uh) by walking around their parents.",
+          "hardness": 1.148,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2023 Planetfall, Packet 10"
+        },
+        {
+          "text": "This deity almost ate Kubera’s palace until his father gave him a handful of rice, and this deity beats his peacock-riding brother Skanda in a contest to see who could travel around the world the fastest.",
+          "hardness": 1.034,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 RMBCT, Packet 08"
+        },
+        {
+          "text": "Sweets are offered to this god on the Chaturthi (chuh-THUR-thee) festival celebrating their birth.",
+          "hardness": 0.955,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2023 Planetfall, Packet 10"
+        },
+        {
+          "text": "Because he stopped his father from entering a bathing chamber, Shiva decapitated this deity.",
+          "hardness": 0.715,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2024 CARD, Packet 12"
+        },
+        {
+          "text": "This deity was formed when his mother breathed life into a clay figure.",
+          "hardness": 0.616,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 RMBCT, Packet 08"
+        },
+        {
+          "text": "This deity was sculpted out of clay by his mother, Parvati, and later had his head cut off by his father, who replaced it with that of an elephant.",
+          "hardness": 0.539,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2021 RAFT, Packet 08"
+        },
+        {
+          "text": "Known as the “remover of obstacles” by devotees is what elephant-headed god from Hindu mythology?",
+          "hardness": 0.026,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2017 RMBCT, Packet 08"
+        }
+      ]
+    },
+    "medium": {
+      "answerlines": [
+        "<b><u>Ganesha</u></b> [accept <b><u>Ganesh</u></b> or <b><u>Ganapati</u></b>]",
+        "<b><u>Ganesha</u></b> (accept <b><u>Ganesh</u></b>, <b><u>Ganapati</u></b>, <b><u>Pillaiyar</u></b>, or <b><u>Vinayaka</u></b>)",
+        "<b><u>Ganesh</u></b>a (Accept <b><u>Ganapati</u></b>, <b><u>Vinayaka</u></b>, and <b><u>Pillaiyar</u></b>)",
+        "<b><u>Ganesh</u></b>a",
+        "<b><u>Ganesh</u></b>a [accept <b><u>Ganapati</u></b> Bappa or <b><u>Vinayaka</u></b>, or any other equivalent name of Ganesh]"
+      ],
+      "clues": [
+        {
+          "text": "This deity married Buddhi and Siddhi, the personifications of wisdom and prudence.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 RMBCT, Packet 08"
+        },
+        {
+          "text": "Some consider this god’s consort to be the banana tree Kala Bo.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2025 GSAC, Packet 04 _The Beaver Packet_"
+        },
+        {
+          "text": "The moon once laughed at this god for falling and bursting the contents of his belly onto the road.",
+          "hardness": 1.049,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2025 GSAC, Packet 04 _The Beaver Packet_"
+        },
+        {
+          "text": "This god wins a golden mango of knowledge after winning a competition against their brother Karthikeya (kar-ti-KAY-uh) by walking around their parents.",
+          "hardness": 0.948,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2023 Planetfall, Packet 10"
+        },
+        {
+          "text": "This deity almost ate Kubera’s palace until his father gave him a handful of rice, and this deity beats his peacock-riding brother Skanda in a contest to see who could travel around the world the fastest.",
+          "hardness": 0.834,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 RMBCT, Packet 08"
+        },
+        {
+          "text": "During the 10-day festival called Chaturthi honoring this god, people make a sweet dish called modak.",
+          "hardness": 0.616,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2025 GSAC, Packet 04 _The Beaver Packet_"
+        },
+        {
+          "text": "This deity engaged in a race in which he ran around his parents to beat his peacock-riding brother, Kartikeya.",
+          "hardness": 0.502,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2021 RAFT, Packet 08"
+        },
+        {
+          "text": "This deity was formed when his mother breathed life into a clay figure.",
+          "hardness": 0.416,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 RMBCT, Packet 08"
+        },
+        {
+          "text": "In another story, this god was beheaded by Shiva after preventing him from meeting Parvati (PAAR-vuh-ti) while she was bathing, replacing their head with that of an animal.",
+          "hardness": 0.285,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2023 Planetfall, Packet 10"
+        },
+        {
+          "text": "Known as the “remover of obstacles” by devotees is what elephant-headed god from Hindu mythology?",
+          "hardness": -0.174,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2017 RMBCT, Packet 08"
+        }
+      ]
+    },
+    "hard": {
+      "answerlines": [
+        "<b><u>Ganesh</u></b>a [or <b><u>Ganapati</u></b>]",
+        "<b><u>Ganesh</u></b>a (or <b><u>Ganapati</u></b>; accept <b><u>Vinayaka</u></b>; accept <b><u>Binayak</u></b>)",
+        "<b><u>Ganesh</u></b>a",
+        "<b><u>Ganesh</u></b>a [accept <b><u>Ganapati</u></b> before mention, accept <b><u>Vinakaya</u></b> or <b><u>Pillaiyar</u></b>]",
+        "<b><u>Ganesh</u></b>a [accept \"Ganapati\"; accept \"Vinayaka\"]"
+      ],
+      "clues": [
+        {
+          "text": "The Mugdala Purana text reveres eight incarnations of this deity, who is often depicted wearing a snake as a belt after an incident in which this deity’s food-filled stomach split open.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2011 PACE NSC, Packet 10 - Playoffs 5"
+        },
+        {
+          "text": "Since this figure was blocking the path to the Himalayas, he allowed the axe of Parashurama to injure him.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2016 BHSAT, Packet 03"
+        },
+        {
+          "text": "This figure killed the demon Kamlasur while riding a peacock.",
+          "hardness": 0.975,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2016 BHSAT, Packet 03"
+        },
+        {
+          "text": "The Srittavanidhi depicts this god’s thirty-two illustrated descriptions, and he is sometimes called Ekadanta.",
+          "hardness": 0.937,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2012 RAVE, Packet 03"
+        },
+        {
+          "text": "His favorite food, modak, is offered to him during his namesake Chaturthi festival.",
+          "hardness": 0.837,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2010 Prison Bowl, Packet 03"
+        },
+        {
+          "text": "According to one story, he gave a magical mango to his brother Skanda after riding around the world on his mouse.",
+          "hardness": 0.594,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2011 BDAT, Packet 10"
+        },
+        {
+          "text": "Depicted with a noose and a goad, he is often seen riding a mouse.",
+          "hardness": 0.503,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2010 Prison Bowl, Packet 03"
+        },
+        {
+          "text": "Starting off as nothing but turmeric powder, one of his most notable features was added after he was given life by his mother Parvati and decapitated by his father Shiva.",
+          "hardness": 0.411,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2011 BDAT, Packet 10"
+        },
+        {
+          "text": "This god was the scribe during Vyasa's narration of the Mahabharata.",
+          "hardness": 0.342,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2016 BHSAT, Packet 03"
+        },
+        {
+          "text": "Name this “remover of obstacles” in Hinduism, notable for his striking elephant head.",
+          "hardness": -0.236,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 4,
+          "source": "2017 HFT, Packet 06"
+        }
+      ]
+    }
+  }
+}

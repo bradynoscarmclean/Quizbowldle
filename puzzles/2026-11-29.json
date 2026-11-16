@@ -1,0 +1,280 @@
+{
+  "date": "2026-11-29",
+  "category": "Science",
+  "answer": "iron",
+  "tiers": {
+    "easy": {
+      "answerlines": [
+        "<b><u>iron</u></b> [or <b><u>Fe</u></b> until mentioned]",
+        "<b><u>iron</u></b> (accept <b><u>Fe</u></b> until read)",
+        "<b><u>iron</u></b> [accept <b><u>Fe</u></b> before mention]",
+        "<b><u>iron</u></b> (accept<b><u>Fe</u></b>before it is read)",
+        "<b><u>iron</u></b> (or <b><u>Fe</u></b>)"
+      ],
+      "clues": [
+        {
+          "text": "This element forms cubic clusters with sulfur in several important enzymes.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2016 Pennsylvania Novice, Packet 11"
+        },
+        {
+          "text": "This element's isotope 56 has the highest binding energy per nucleon, making it the heaviest stable element that can be formed by stellar fusion.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2023 QUAOAR, Packet 12"
+        },
+        {
+          "text": "Compounds of this transition metal are characteristic of Precambrian banded rock formations.",
+          "hardness": 1.12,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2020 MOQBA Novice, Packet Packet 09"
+        },
+        {
+          "text": "Every radioactive element with a mass above that of this element will eventually decay primarily into it, although it is possible to fuse isotopes of elements heavier than it into metastable nucleides.",
+          "hardness": 0.935,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2010 Fall Kickoff Tournament (FKT), Packet Jarret"
+        },
+        {
+          "text": "Pyrite, or fool’s gold, contains two sulfur atoms and one atom of this element.",
+          "hardness": 0.866,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2016 Pennsylvania Novice, Packet 11"
+        },
+        {
+          "text": "In one oxide of this element, cations of this element have an oxidation number of 8/3; that ore is sometimes called lodestone.",
+          "hardness": 0.631,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2020 MOQBA Novice, Packet Packet 09"
+        },
+        {
+          "text": "This is the most abundant element found in the inner core of Earth, and exposing it to oxygen gas forms rust.",
+          "hardness": 0.511,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2022 MAKEMAKE, Packet 12"
+        },
+        {
+          "text": "It names the strongest type of magnetism, which is ferromagnetism.",
+          "hardness": 0.375,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2016 Pennsylvania Novice, Packet 11"
+        },
+        {
+          "text": "Name this most stable element in the universe, whose ions are often called ferrous or ferric.",
+          "hardness": -0.1,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 2,
+          "source": "2010 Fall Kickoff Tournament (FKT), Packet Jarret"
+        },
+        {
+          "text": "Name this transition metal with symbol Fe, which may form rust when exposed to air.",
+          "hardness": -0.171,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 1,
+          "source": "2023 QUAOAR, Packet 12"
+        }
+      ]
+    },
+    "medium": {
+      "answerlines": [
+        "<b><u>iron</u></b> (accept <b><u>Fe</u></b> before mention)",
+        "<b><u>Iron</u></b>",
+        "<b><u>iron</u></b> (accept <b><u>Fe</u></b> before mention) <GA>",
+        "<b><u>iron</u></b> [accept <b><u>Fe</u></b> until mentioned]",
+        "<b><u>iron</u></b> [or <b><u>Fe</u></b> until it is mentioned]"
+      ],
+      "clues": [
+        {
+          "text": "Catalysts of this element are routinely used in the Fischer-Tropsch process to convert carbon monoxide to hydrocarbons and in the Haber-Bosch process to produce ammonia.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2020 AQBL October Set, Packet 09"
+        },
+        {
+          "text": "The sponge variety of this material is produced from a direct reduction by a reducing gas or elemental carbon and may be produced in a bloomery.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2020 TAPIR, Packet 03"
+        },
+        {
+          "text": "This element sometimes exists in a gamma phase allotrope known as austenite.",
+          "hardness": 1,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2014 BELLOCO, Packet 01"
+        },
+        {
+          "text": "The pigment Prussian blue ideally contains seven ions of this element complexed with eighteen cyanide ions.",
+          "hardness": 0.884,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2014 BELLOCO, Packet 01"
+        },
+        {
+          "text": "The production of hydrogen sulfide by bacteria may have greatly reduced the presence of this element in early oceans.",
+          "hardness": 0.744,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2016 Prison Bowl, Packet 07"
+        },
+        {
+          "text": "In the body, it is found at the center of porphyrin molecules.",
+          "hardness": 0.651,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2010 BATE, Packet 09"
+        },
+        {
+          "text": "This is the heaviest element produced in stellar nucleosynthesis because it has the highest binding energy per nucleon.",
+          "hardness": 0.525,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2014 BISB, Packet 10"
+        },
+        {
+          "text": "The high luster and yellow hue of this element’s sulfide give it its nickname fool’s gold.",
+          "hardness": 0.346,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 Maryland Fall, Packet Tiebreakers"
+        },
+        {
+          "text": "It exists alongside oxygen in such minerals as hematite and magnetite.",
+          "hardness": 0.264,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2016 WHAQ, Packet 02"
+        },
+        {
+          "text": "Name this transition metal whose oxides are typically referred to as rust.",
+          "hardness": -0.261,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2010 BATE, Packet 09"
+        }
+      ]
+    },
+    "hard": {
+      "answerlines": [
+        "<b><u>iron</u></b> (accept <b><u>Fe</u></b>)",
+        "<b><u>iron</u></b> [accept <b><u>Fe</u></b> before mention]",
+        "<b><u>iron</u></b> [or <b><u>Fe</u></b>]",
+        "<b><u>iron</u></b> [or <b><u>Fe</u></b> until read]",
+        "<b><u>Iron</u></b> [accept <b><u>Fe</u></b> early]"
+      ],
+      "clues": [
+        {
+          "text": "In the Goldschmidt classification, species are grouped by whether their preferred host is rock, ores, gas, or this element.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2018 PACE NSC, Packet 01"
+        },
+        {
+          "text": "A cofactor with this element at its center is found in an enzyme that can artificially catalyze alkene cyclopropanation.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2019 HFT, Packet 09"
+        },
+        {
+          "text": "The gamma allotrope of this element is austenite, and it is in both ions forming Prussian Blue.",
+          "hardness": 1.115,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2019 Prison Bowl, Packet 11"
+        },
+        {
+          "text": "A silicate of this element is fayalite, which is an endmember of the olivine group.",
+          "hardness": 0.992,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2015 PACE NSC, Packet 12"
+        },
+        {
+          "text": "An enzyme in the Krebs cycle named aconitase has a catalytic center with atoms of this metal and sulfur arranged in a cube.",
+          "hardness": 0.813,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2016 PACE NSC, Packet 01"
+        },
+        {
+          "text": "This element is in the group with the highest d occupancy to readily form a double bond to oxygen.",
+          "hardness": 0.603,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2010 PACE NSC, Packet 2"
+        },
+        {
+          "text": "Ores of this element include a specimen historically called lodestone and the reddish-brown hematite.",
+          "hardness": 0.473,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2018 PACE NSC, Packet 01"
+        },
+        {
+          "text": "This element, which is transported by transferrin and ferritin, is deficient in the most common type of anemia.",
+          "hardness": 0.351,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2018 PACE NSC, Packet 09"
+        },
+        {
+          "text": "Name this metal which binds oxygen to transport it through the blood, since it's at the center of hemoglobin.",
+          "hardness": -0.127,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 5,
+          "source": "2014 PACE NSC, Packet 02"
+        },
+        {
+          "text": "The primary metal in steel is what element with symbol Fe?",
+          "hardness": -0.296,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 4,
+          "source": "2019 BLAST, Packet Packet 2"
+        }
+      ]
+    }
+  }
+}

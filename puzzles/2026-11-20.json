@@ -1,0 +1,277 @@
+{
+  "date": "2026-11-20",
+  "category": "Social Science",
+  "answer": "Ruth Benedict",
+  "tiers": {
+    "easy": {
+      "answerlines": [
+        "Ruth <b><u>Benedict</u></b> [accept Ruth <b><u>Fulton</u></b>] [JaC]",
+        "Ruth <b><u>Benedict</u></b>",
+        "Ruth <b><u>Benedict</u></b> [or Ruth <b><u>Fulton</u></b>]",
+        "Ruth <b><u>Benedict</u></b> [or Ruth Fulton <b><u>Benedict</u></b>]",
+        "Ruth <u>Benedict</u>"
+      ],
+      "clues": [
+        {
+          "text": "This person’s Ph.D. dissertation, about the importance of individual religious experiences, is called The Concept of the Guardian Spirit in North America.",
+          "hardness": 1.35,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2010 Ben Cooper, Packet 05"
+        },
+        {
+          "text": "This author discussed a quarrel between the Uretsiti and the Naotsiti in the book Tales of the Cochiti Indians.",
+          "hardness": 1.35,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2019 CAST, Packet 03"
+        },
+        {
+          "text": "This anthropologist used the studies by Reo Fortune of the Dobu Tribe, identifying them as \"treacherous\" in a work that also studied the Kwakiutl and Zuni.",
+          "hardness": 1.35,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2013 JAMES, Packet 13"
+        },
+        {
+          "text": "In one pamphlet, this thinker denounced the racism of \"green devils\" using examples from cartoons.",
+          "hardness": 1.22,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2019 RAFT, Packet RAFT Packet 07"
+        },
+        {
+          "text": "The examples of restraint in Pueblo cultures and abandon in the Great Plains in that work,Patterns of Culture, are examples of her definition of culture as \"personality-writ-large.\"",
+          "hardness": 0.952,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2013 JAMES, Packet 13"
+        },
+        {
+          "text": "This thinker spent 11 years studying the myths of the Pueblo for Tales of the Cochiti Indians, and co-authored “The Races of Mankind” with Gene Weltfish.",
+          "hardness": 0.933,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2019 RAFT, Packet RAFT Packet 07"
+        },
+        {
+          "text": "This thinker called cultures “personality writ large” in a work which compared the Dobu, Kwakiutl, and Zuni Cultures.",
+          "hardness": 0.714,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2019 RAFT, Packet RAFT Packet 07"
+        },
+        {
+          "text": "In another work, this woman used “anthropology at a distance” to contrast guilt and shame cultures during World War Two.",
+          "hardness": 0.609,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2018 MBAT, Packet 07"
+        },
+        {
+          "text": "In another work by this author of Patterns of Culture, she analyzes the differences between guilt and shame culture within Japanese society leading to ritual suicide.",
+          "hardness": 0.55,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2019 RAFT, Packet RAFT Packet 07"
+        },
+        {
+          "text": "Give this anthropologist and student of Franz Boas, who wrote Patterns of Culture and The Chrysanthemum and the Sword.",
+          "hardness": 0.071,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2022 Saucy Invitational, Packet 02"
+        }
+      ]
+    },
+    "medium": {
+      "answerlines": [
+        "Ruth <b><u>Benedict</u></b>",
+        "Ruth <b><u>Benedict</u></b> [or Ruth Fulton <b><u>Benedict</u></b>]",
+        "Ruth <b><u>Benedict</u></b> [accept Ruth <b><u>Fulton</u></b>] [JaC]",
+        "Ruth <u>Benedict</u>",
+        "Ruth <b><u>Benedict</u></b> [or Ruth <b><u>Fulton</u></b>]"
+      ],
+      "clues": [
+        {
+          "text": "Published in 1946, one of this anthropologist’s most famous works analyzes the seemingly contradictory aspects of Japanese cultural behaviors and popularized the distinction between guilt cultures and shame cultures.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2011 LIST, Packet 11"
+        },
+        {
+          "text": "This anthropologist used the studies by Reo Fortune of the Dobu Tribe, identifying them as \"treacherous\" in a work that also studied the Kwakiutl and Zuni.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2013 JAMES, Packet 13"
+        },
+        {
+          "text": "Alongside Gene Weltfish, this anthropologist created a pamphlet for the US Army combating Nazi ideologies.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2022 Saucy Invitational, Packet 02"
+        },
+        {
+          "text": "In one pamphlet, this thinker denounced the racism of \"green devils\" using examples from cartoons.",
+          "hardness": 1.02,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2019 RAFT, Packet RAFT Packet 07"
+        },
+        {
+          "text": "The examples of restraint in Pueblo cultures and abandon in the Great Plains in that work,Patterns of Culture, are examples of her definition of culture as \"personality-writ-large.\"",
+          "hardness": 0.752,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2013 JAMES, Packet 13"
+        },
+        {
+          "text": "This thinker spent 11 years studying the myths of the Pueblo for Tales of the Cochiti Indians, and co-authored “The Races of Mankind” with Gene Weltfish.",
+          "hardness": 0.733,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2019 RAFT, Packet RAFT Packet 07"
+        },
+        {
+          "text": "This thinker called cultures “personality writ large” in a work which compared the Dobu, Kwakiutl, and Zuni Cultures.",
+          "hardness": 0.514,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2019 RAFT, Packet RAFT Packet 07"
+        },
+        {
+          "text": "In another work, this woman used “anthropology at a distance” to contrast guilt and shame cultures during World War Two.",
+          "hardness": 0.409,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2018 MBAT, Packet 07"
+        },
+        {
+          "text": "In another work by this author of Patterns of Culture, she analyzes the differences between guilt and shame culture within Japanese society leading to ritual suicide.",
+          "hardness": 0.35,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2019 RAFT, Packet RAFT Packet 07"
+        },
+        {
+          "text": "Give this anthropologist and student of Franz Boas, who wrote Patterns of Culture and The Chrysanthemum and the Sword.",
+          "hardness": -0.129,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2022 Saucy Invitational, Packet 02"
+        }
+      ]
+    },
+    "hard": {
+      "answerlines": [
+        "Ruth <b><u>Benedict</u></b>",
+        "Ruth <b><u>Benedict</u></b> [or Ruth Fulton <b><u>Benedict</u></b>]"
+      ],
+      "clues": [
+        {
+          "text": "Along with Gene Weltfish, this anthropologist wrote a pamphlet which refuted biometric head measuring as a means of determining intelligence, insisting that every race had equal potential for intelligence.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2011 PACE NSC, Packet 21 - TB 5"
+        },
+        {
+          "text": "This thinker briefly gave now-lost lectures near Philadelphia describing a “low synergy” society as one where the interest of an individual and a society are at odds, a concept developed through observation of cultures.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2021 Remember the Women, Packet 2"
+        },
+        {
+          "text": "In one introduction, this colleague of Gene Weltfish stated that \"the goal is a world made safe for differences.\"",
+          "hardness": 1.055,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2025 PACE NSC, Packet 02"
+        },
+        {
+          "text": "This thinker contrasted the emphasis on restraint in cultures of the American Southwest with the focus on abandon in the Great Plains.",
+          "hardness": 0.97,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2020 CATT, Packet 11"
+        },
+        {
+          "text": "She wrote about an “arc of culture,” and compared the Pueblo peoples and Great Plains people’s cultures of restraint and abandon.",
+          "hardness": 0.807,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2021 Remember the Women, Packet 2"
+        },
+        {
+          "text": "In one of this anthropologist’s best known works, this student of Franz Boas and author of “The Races of Mankind” studied newspaper clippings and classic novels and compared “guilt” and “shame” cultures, writing about rituals like seppuku, while she also wrote a book which defined its title concept as the shared beliefs and experiences of a people.",
+          "hardness": 0.784,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2011 PACE NSC, Packet 21 - TB 5"
+        },
+        {
+          "text": "During World War II, she worked for the Office of War Information and derived her most famous work from an assignment to do a study on Japanese culture.",
+          "hardness": 0.711,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2003 PACE NSC, Packet 02"
+        },
+        {
+          "text": "This thinker used newspaper clippings to conduct “anthropology at a distance” and write a book that contrasts the shame and guilt cultures of two different countries.",
+          "hardness": 0.496,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2015 HFT, Packet 13"
+        },
+        {
+          "text": "A later work contrasted guilt and shame cultures and was written despite her lack of firsthand experience with the society in question.",
+          "hardness": 0.438,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2010 NAREN, Packet 06"
+        },
+        {
+          "text": "—name this anthropologist who wrote The Chrysanthemum and the Sword.",
+          "hardness": -0.089,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 5,
+          "source": "2003 PACE NSC, Packet 02"
+        }
+      ]
+    }
+  }
+}

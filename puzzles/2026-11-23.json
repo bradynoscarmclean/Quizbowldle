@@ -1,0 +1,280 @@
+{
+  "date": "2026-11-23",
+  "category": "Literature",
+  "answer": "The Tale of Genji",
+  "tiers": {
+    "easy": {
+      "answerlines": [
+        "The <b><u>Tale of Genji</u></b> (accept <b><u>Genji Monogatari</u></b>)",
+        "<i>The</i> <i><b><u>Tale of Genji</u></b></i> [or <i><b><u>Genji Monogatari</u></b></i>]",
+        "The Tale of <b><u>Genji</u></b> [or <b><u>Genji</u></b> Monogatari]",
+        "The Tale of <b><u>Genji</u></b> (accept <b><u>Genji</u></b> Monogatari [geh-n-jee moh-noh-gah-tah-ree])",
+        "The Tale of Genji (accept Genji Monogatari)"
+      ],
+      "clues": [
+        {
+          "text": "In this novel, the Akashi Lady’s daughter gives birth to Niou, who romantically competes with Kaoru, the legal son of this novel’s title character.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2020 SCOP A, Packet 09"
+        },
+        {
+          "text": "The protagonist ‟s grandson, Niou, and his wife ‟s illegitimate son, Kaoru, pursue three sisters in the last third of this novel, after the title figure ‟s death.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2012 SCOP Novice 3, Packet 02"
+        },
+        {
+          "text": "This work's protagonist falls in love with Yugao, who is killed by the spirit of one of his mistresses.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2017 SCOP MS 7, Packet 2"
+        },
+        {
+          "text": "A chapter between chapters 41 and 42 in this book is missing its contents and suggests the death of the titular character.",
+          "hardness": 1.1,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2009 Fall Kickoff Tournament (FKT), Packet Editor 3"
+        },
+        {
+          "text": "This novel’s protagonist is exiled to Suma after having an affair with his half-brother’s concubine, and “ Into the Clouds” in a blank chapter that signifies his death.",
+          "hardness": 0.903,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2019 SCOP Novice 10, Packet 10"
+        },
+        {
+          "text": "The title character was the second son of an emperor and a low-ranking concubine named Lady Kiritsubo and first marries Princess Aoi and later another girl who shares her name with the author of this work.",
+          "hardness": 0.602,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2009 Fall Kickoff Tournament (FKT), Packet Editor 3"
+        },
+        {
+          "text": "A friend of Tō no Chūjō raises Fujitsubo’s niece to be the perfect wife for the title “shining” Japanese prince in this novel.",
+          "hardness": 0.584,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2012 SCOP Novice 3, Packet 02"
+        },
+        {
+          "text": "The title husband of Lady Aoi seduces his stepmother Lady Fujitsubo in this novel.",
+          "hardness": 0.395,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2022 KICKOFF Novice, Packet 10N"
+        },
+        {
+          "text": "Name this Heian-era novel by Murasaki Shikibu about the title “shining prince,” one of the world’s first novels.",
+          "hardness": -0.006,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 2,
+          "source": "2020 SCOP A, Packet 09"
+        },
+        {
+          "text": "Name this novel by Lady Murasaki Shikibu written during the Heian period in Japan.",
+          "hardness": -0.226,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 1,
+          "source": "2018 MVS RAMS, Packet 08"
+        }
+      ]
+    },
+    "medium": {
+      "answerlines": [
+        "The <b><u>Tale of Genji</u></b> [or <b><u>Genji</u></b> <b><u>Monogatari</u></b>]",
+        "The <b><u>Tale of Genji</u></b>",
+        "<b><u>The Tale of Genji</u></b>",
+        "<i>The</i> <i><b><u>Tale of Genji</u></b></i> (or <i><b><u>Genji Monogatari</u></b></i>)",
+        "<i>The</i> <i><b><u>Tale of Genji</u></b></i> [accept <i><b><u>Genji monogatari</u></b></i>]"
+      ],
+      "clues": [
+        {
+          "text": "One character in this work is exiled to Suma after his secret affair with his brother’s concubine is revealed, and that character’s mother dies when he reaches three years of age.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2014 LIST, Packet 10"
+        },
+        {
+          "text": "The protagonist of this novel compares the robe of one love interest to a cast-off cicada shell.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2022 KICKOFF, Packet 04"
+        },
+        {
+          "text": "A character in this novel is possessed by a rival’s spirit after a conflict depicted in the “Battle of the Carriages.”",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2024 CALISTO, Packet 04"
+        },
+        {
+          "text": "The title character of this novel is exiled to the town of Suma due to an affair with a concubine.",
+          "hardness": 0.989,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2022 KICKOFF, Packet 04"
+        },
+        {
+          "text": "This novel’s Uji chapters, which focus on the rivalry between Kaoru (“COW-roo”) and Niou (“NEE-oo”), follow a blank chapter that is titled “Vanished into the Clouds,” which implies that the title character died.",
+          "hardness": 0.825,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2016 WHAQ, Packet 06"
+        },
+        {
+          "text": "The protagonist of this work has many love affairs, including with his step-mother Fujitsubo, much to the dismay of his wife Lady Aoi.",
+          "hardness": 0.689,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2011 LIST, Packet 04"
+        },
+        {
+          "text": "The main character of this work is presumed to have died in the chapter “Vanished into the Clouds.”",
+          "hardness": 0.523,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2012 BDAT, Packet 07"
+        },
+        {
+          "text": "Both the Emperor Kiritsubo and the title character in this book are attracted to Lady Fujitsubo because of her resemblance to a concubine.",
+          "hardness": 0.381,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2019 Glasgow Scottie, Packet 08"
+        },
+        {
+          "text": "After marrying Lady Aoi, this work’s title “shining prince” has an affair with Lady Fujitsubo.",
+          "hardness": 0.239,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2024 CALISTO, Packet 04"
+        },
+        {
+          "text": "Name this early novel about a Heian noble written by Lady Murasaki.",
+          "hardness": -0.267,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2017 POMMSS, Packet 12"
+        }
+      ]
+    },
+    "hard": {
+      "answerlines": [
+        "The <b><u>Tale of Genji</u></b> [or <b><u>Genji Monogatari</u></b>]",
+        "<i>The </i><i><b><u>Tale of Genji</u></b></i>",
+        "<i>The</i> <i><b><u>Tale of Genji</u></b></i>",
+        "<i>The</i> <b><i><u>Tale of Genji</u></i></b> [or <b><i><u>Genji Monogatari</u></i></b>]",
+        "<i>The</i> <i><b><u>Tale of Genji</u></b></i> [or <i><b><u>Genji monogatari</u></b></i>]"
+      ],
+      "clues": [
+        {
+          "text": "In his study Seeds in the Heart, Donald Keene suggests that a chapter of this work was ordered destroyed since it told its readers to \"flee the world.\"",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2016 PACE NSC, Packet 02"
+        },
+        {
+          "text": "This book’s protagonist builds a mansion with wings for each of the seasons and directions, which house his four most important lovers.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2018 BHSAT, Packet 11"
+        },
+        {
+          "text": "The protagonist of this book insults a female acquaintance by comparing her to a “broom tree” before doing the “Waves of the Blue Sea” dance.",
+          "hardness": 1.1,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2007 PACE NSC, Packet 05 final"
+        },
+        {
+          "text": "This novel’s author appears in it as a preteen who is raped by the title character.",
+          "hardness": 0.952,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2018 BHSAT, Packet 11"
+        },
+        {
+          "text": "The story continues through such sections as “A Wreath of Cloud” and “The Bridge of Dreams” until the protagonist marries a girl he raised who shares her name with the author.",
+          "hardness": 0.827,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2007 PACE NSC, Packet 05 final"
+        },
+        {
+          "text": "The death of one character in this work is signified by the blank chapter “Vanished Into the Clouds”.",
+          "hardness": 0.637,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2012 RAVE, Packet 10"
+        },
+        {
+          "text": "A blank section called “Vanished into the Clouds” implies the death of this novel’s protagonist, a “shining prince” married to Lady Aoi (“ah-oh-ee”).",
+          "hardness": 0.444,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2025 Planetfall, Packet 12"
+        },
+        {
+          "text": "This novel's title character is called \"Shining\" and is unfaithful to his wife Lady Aoi.",
+          "hardness": 0.308,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2016 PACE NSC, Packet 02"
+        },
+        {
+          "text": "The husband of Lady Aoi courts women such as Lady Utsusemi and Lady Fujitsubo in what magnum opus of Murasaki Shikibu?",
+          "hardness": -0.198,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 4,
+          "source": "2019 RMBAT, Packet 05"
+        },
+        {
+          "text": "Name this Japanese work written in the Heian Period, by Lady Murasaki.",
+          "hardness": -0.256,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 4,
+          "source": "2012 RAVE, Packet 10"
+        }
+      ]
+    }
+  }
+}

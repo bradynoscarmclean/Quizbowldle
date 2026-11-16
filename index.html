@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quizbowldle</title>
+  <meta name="description" content="A daily quizbowl guessing game built from QB Reader tossups.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔔</text></svg>">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <button class="icon-btn" id="help-btn" aria-label="How to play">?</button>
+    <h1><a href="./" id="home-link">Quizbowldle</a></h1>
+    <button class="icon-btn" id="stats-btn" aria-label="Statistics">📊</button>
+  </header>
+
+  <main id="app">
+    <section id="home" class="screen">
+      <p class="date" id="today-date"></p>
+      <div class="category-card">
+        <span class="label">Today's category</span>
+        <span class="category" id="category">Loading…</span>
+      </div>
+      <p class="pick">Pick a difficulty</p>
+      <div class="difficulties" id="difficulties">
+        <button class="diff" data-tier="easy">
+          <span class="diff-name">Easy</span>
+          <span class="diff-desc">Middle school &amp; easy high school</span>
+          <span class="diff-status"></span>
+        </button>
+        <button class="diff" data-tier="medium">
+          <span class="diff-name">Medium</span>
+          <span class="diff-desc">Regular high school</span>
+          <span class="diff-status"></span>
+        </button>
+        <button class="diff" data-tier="hard">
+          <span class="diff-name">Hard</span>
+          <span class="diff-desc">Hard high school &amp; HS nationals</span>
+          <span class="diff-status"></span>
+        </button>
+      </div>
+      <p class="error" id="load-error" hidden></p>
+    </section>
+
+    <section id="game" class="screen" hidden>
+      <div class="game-head">
+        <span class="pill" id="game-tier"></span>
+        <span class="clue-count" id="clue-count"></span>
+        <span class="points"><span id="points">1000</span> pts</span>
+      </div>
+      <div class="meter"><div class="meter-fill" id="meter-fill"></div></div>
+      <ol class="clues" id="clues"></ol>
+      <div class="guess-log" id="guess-log"></div>
+      <form class="answer-form" id="answer-form" autocomplete="off">
+        <input id="answer-input" type="text" placeholder="Type your answer…" aria-label="Your answer" spellcheck="false">
+        <div class="actions">
+          <button type="submit" class="btn primary" id="buzz-btn">Buzz</button>
+          <button type="button" class="btn" id="next-btn">Next clue <span class="cost">−100</span></button>
+        </div>
+        <p class="feedback" id="feedback" aria-live="polite"></p>
+      </form>
+    </section>
+
+    <section id="result" class="screen" hidden>
+      <div class="result-card">
+        <p class="result-title" id="result-title"></p>
+        <p class="result-score"><span id="result-score"></span><small> / 1000</small></p>
+        <p class="result-answer">Answer: <span id="result-answer"></span></p>
+        <p class="result-grid" id="result-grid"></p>
+        <div class="actions">
+          <button class="btn primary" id="share-btn">Share</button>
+          <button class="btn" id="back-btn">Other difficulties</button>
+        </div>
+        <p class="feedback" id="share-feedback" aria-live="polite"></p>
+        <p class="countdown">Next puzzle in <span id="countdown"></span></p>
+      </div>
+      <h2 class="all-clues-title">All clues</h2>
+      <ol class="clues full" id="all-clues"></ol>
+    </section>
+  </main>
+
+  <dialog id="help-dialog">
+    <h2>How to play</h2>
+    <ul>
+      <li>Every day there's a new category and an answer pulled from its 50 most-asked tossup answers on <a href="https://www.qbreader.org" target="_blank" rel="noopener">QB Reader</a>.</li>
+      <li>Pick a difficulty. You'll see the hardest clue first; clues get easier as you go.</li>
+      <li>You start with <b>1000</b> points. Each new clue costs <b>100</b>.</li>
+      <li>Buzz whenever you know it. A wrong buzz moves you to the next clue.</li>
+      <li>On the 10th clue you get one final attempt.</li>
+      <li>If you're asked to be more specific (a prompt), you can guess again for free.</li>
+    </ul>
+    <p class="muted">Clues are scored by how early they appear in the original tossup and whether they're before the power mark (*).</p>
+    <button class="btn primary" data-close>Got it</button>
+  </dialog>
+
+  <dialog id="stats-dialog">
+    <h2>Statistics</h2>
+    <div id="stats-body"></div>
+    <button class="btn primary" data-close>Close</button>
+  </dialog>
+
+  <footer>Questions from <a href="https://www.qbreader.org" target="_blank" rel="noopener">QB Reader</a>. Clues belong to their original authors.</footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

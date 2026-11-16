@@ -1,0 +1,279 @@
+{
+  "date": "2026-11-25",
+  "category": "Mythology",
+  "answer": "Heracles",
+  "tiers": {
+    "easy": {
+      "answerlines": [
+        "<u>Heracles</u> (or <u>Hercules</u>)",
+        "<b><u>Heracles</u></b> [or <b><u>Hercules</u></b>]",
+        "Heracles (accept Hercules until \"Greek\" is read)",
+        "<b><u>Heracles</u></b> [accept <u>Hercules</u> before “Greek”; accept <u>Alcides</u>]"
+      ],
+      "clues": [
+        {
+          "text": "This man was born after Zeus disguised himself as Alcmene’s husband, Amphitryon, and he was forced to serve Omphale for three years while dressed in women’s clothing.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2017 Darien DEFT, Packet 03"
+        },
+        {
+          "text": "This figure killed his music teacher Linus after a bad lesson.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2018 MVS RAMS, Packet 07"
+        },
+        {
+          "text": "This figure defeated Thanatos in a duel in order to win back Alcestis from the dead.",
+          "hardness": 1.1,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2012 Fall Kickoff Tournament (FKT), Packet 01"
+        },
+        {
+          "text": "After committing murder, this man was sentenced to serve as a slave to Queen Omphale for one year.",
+          "hardness": 0.995,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2018 MVS RAMS, Packet 07"
+        },
+        {
+          "text": "The blood of the centaur Nessus was used to poison a shirt that this man’s wife, Deianira, accidentally gave to him, ultimately killing him.",
+          "hardness": 0.931,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2017 Darien DEFT, Packet 03"
+        },
+        {
+          "text": "This figure's wife Deianira gave him a poisoned shirt, which led to his death and an eventual marriage to Hebe.",
+          "hardness": 0.74,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2022 MAKEMAKE, Packet 12"
+        },
+        {
+          "text": "As a child, he strangled two snakes that were sent to kill him.",
+          "hardness": 0.714,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2011 Collaborative Middle School Tournament #2, Packet 04"
+        },
+        {
+          "text": "After killing his wife Megara in a fit of rage induced by Hera, this hero was sent to accomplish many tasks as penance.",
+          "hardness": 0.568,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2012 Fall Kickoff Tournament (FKT), Packet 01"
+        },
+        {
+          "text": "Name this Greek hero and son of Zeus, who accomplished the Twelve Labors.",
+          "hardness": -0.123,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 2,
+          "source": "2023 MOQBA Novice, Packet 02"
+        },
+        {
+          "text": "Name this Greek hero, an enemy of Hera, most noted for his Twelve Labors.",
+          "hardness": -0.199,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 1,
+          "source": "2022 MAKEMAKE, Packet 12"
+        }
+      ]
+    },
+    "medium": {
+      "answerlines": [
+        "<b><u>Heracles</u></b> [accept <b><u>Hercules</u></b> or <b><u>Alcaeus</u></b> or <b><u>Alcides</u></b>]",
+        "<b><u>Heracles</u></b> [accept <b><u>Hercules</u></b>]",
+        "<b><u>Heracles</u></b> [accept <b><u>Hercules</u></b>; accept <b><u>Alcaeus</u></b>; accept <b><u>Alcides</u></b>]",
+        "<b><u>Heracles</u></b> [accept <b><u>Hercules</u></b>] [JoC]",
+        "<b><u>Heracles</u></b> [accept “<b><u>Hercules</u></b>”]"
+      ],
+      "clues": [
+        {
+          "text": "This figure once joined the thiasus of Dionysus after losing a drinking contest to him.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2019 RAFT, Packet RAFT Packet 06"
+        },
+        {
+          "text": "According to the Bibliotheca (“bib-lee-uh-thee-kuh”) of Pseudo-Apollodorus, this man had to pray to his father in order to defeat the brothers Bergion and Albion, which earned him the nickname of “the Kneeler.”",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2016 WHAQ, Packet 10"
+        },
+        {
+          "text": "Amused by their jokes, this figure released the monkey-like Cercopes, who had robbed him of his weapons, and his murder of Iphitus resulted in his serving at the court of Omphale.",
+          "hardness": 1,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2014 GSAC, Packet 10"
+        },
+        {
+          "text": "After throwing Iphitus (“if-i-tuhs”) off the walls of Tiryns (“tir-inz”), this man was forced to serve Omphale (“Ohm-fal-i”).",
+          "hardness": 0.837,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2016 WHAQ, Packet 10"
+        },
+        {
+          "text": "This man killed all the sons of Laomedon except Priam and completed one task with the help of his nephew Iolaus after the murder of his children with Megara.",
+          "hardness": 0.679,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2009 GSAC, Packet Tiebreaker Round"
+        },
+        {
+          "text": "Philoctetes lit this hero’s funeral pyre, after which he was given this hero’s bow and poison-tipped arrows.",
+          "hardness": 0.59,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2020 LONE STAR, Packet 03"
+        },
+        {
+          "text": "This figure was forced to serve his cousin Eurystheus after accidentally killing his children with Megara.",
+          "hardness": 0.523,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2019 RAFT, Packet RAFT Packet 06"
+        },
+        {
+          "text": "This hero drove out the Stymphalian Birds, obtained the Golden Apples of the Hesperides, and slew the Nemean Lion while serving under Eurystheus.",
+          "hardness": 0.384,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2020 LONE STAR, Packet 03"
+        },
+        {
+          "text": "He aided the Olympian gods during Gigantomachy and also cleaned the Augean stables.",
+          "hardness": 0.318,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2012 GSAC, Packet 02"
+        },
+        {
+          "text": "Name this Greek hero who completed Twelve Labors, which included killing the Hydra.",
+          "hardness": -0.255,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2016 WHAQ, Packet 10"
+        }
+      ]
+    },
+    "hard": {
+      "answerlines": [
+        "<b><u>Heracles</u></b> (or <b><u>Hercules</u></b>, <b><u>Heracle</u></b>, <b><u>Alcides</u></b>, or <b><u>Alcaeus</u></b>)",
+        "<b><u>Heracles</u></b> [accept <b><u>Hercules</u></b>]",
+        "<b><u>Heracles</u></b> [or <b><u>Hercules</u></b>]",
+        "<b><u>Heracles</u></b> [or <b><u>Hercules</u></b>] &lt;SSp&gt;",
+        "<b><u>Heracles</u></b> [accept <b><u>Hercules</u></b>; accept <b><u>Alcides</u></b> or <b><u>Alcaeus</u></b> before mention]"
+      ],
+      "clues": [
+        {
+          "text": "Because this man once slept with the nymph Melite, Zeus forbade her from sexual relations afterwards.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2016 PACE NSC, Packet 04"
+        },
+        {
+          "text": "The Egyptian king Busiris was killed after he tried to sacrifice this figure to the gods, and this man wrestled with and broke the horn of the river god Achelous to win the right to marry a Calydonian princess.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2022 Glasgow Scottie, Packet 03"
+        },
+        {
+          "text": "This figure punished two hairy weapon thieves, the Cercopes, by hanging them on a shoulder pole.",
+          "hardness": 1,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2012 BHSAT, Packet 03"
+        },
+        {
+          "text": "This man is cheated out of one-tenth of the cattle promised to him by a king whom he deposes and replaces with Phyleus.",
+          "hardness": 0.923,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2015 PACE NSC, Packet 08"
+        },
+        {
+          "text": "Galanthis was turned into a weasel for helping in the birth of this figure.",
+          "hardness": 0.676,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2021 LHASA, Packet 09"
+        },
+        {
+          "text": "This man married Hebe and gave his arrows to Philoctetes after dying of poison left by the centaur Nessus for Deianeira.",
+          "hardness": 0.615,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2011 PACE NSC, Packet 20 - TB 4"
+        },
+        {
+          "text": "This hero’s weapons, which were needed by the Greeks to win the Trojan War, were given to Philoctetes.",
+          "hardness": 0.459,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2021 LHASA, Packet 09"
+        },
+        {
+          "text": "This husband of Deianira slayed the two-headed dog Orthrus so he could steal the cattle of Geryon, and he enlisted the help of his nephew Iolaus to slay a creature in Lerna.",
+          "hardness": 0.398,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2022 Glasgow Scottie, Packet 03"
+        },
+        {
+          "text": "He kissed and killed Hippolyta for her girdle, and rerouted a river to clear the Augean stables.",
+          "hardness": 0.304,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2012 Prison Bowl, Packet 02"
+        },
+        {
+          "text": "Name this Greco-Roman hero who completed 12 labors.",
+          "hardness": -0.319,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 4,
+          "source": "2021 LHASA, Packet 09"
+        }
+      ]
+    }
+  }
+}

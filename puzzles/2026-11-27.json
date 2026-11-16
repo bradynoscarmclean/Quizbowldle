@@ -1,0 +1,280 @@
+{
+  "date": "2026-11-27",
+  "category": "Science",
+  "answer": "enthalpy",
+  "tiers": {
+    "easy": {
+      "answerlines": [
+        "<b><u>enthalpy</u></b> [accept <b><u>H</u></b> before mention; reject “entropy”]",
+        "<b><u>enthalpy</u></b> [prompt on <u>H</u> until it is mentioned]",
+        "<b><u>enthalpy</u></b> (accept <b><u>H</u></b> before mentioned; prompt on “delta H”)",
+        "<b><u>enthalpy</u></b> [or <b><u>H</u></b> until “H” is read; prompt on <u>heat</u> of vaporization until “throttling” is read]",
+        "<b><u>enthalpy</u></b> [prompt on <u>H</u> before mention; accept <b><u>enthalpy</u></b> of vaporization or lattice <b><u>enthalpy</u></b>; prompt on <u>lattice energy</u>; do not accept or prompt on “energy” alone]"
+      ],
+      "clues": [
+        {
+          "text": "The rate at which this quantity changes with temperature equals the constant-pressure heat capacity.",
+          "hardness": 1.35,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2025 SHOW-ME, Packet 05"
+        },
+        {
+          "text": "The slope of a plot with inverse temperature on the x axis, and natural log of pressure on the y axis, yields a form of this quantity divided by the ideal gas constant.",
+          "hardness": 1.35,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2022 IQBT Regular Season Set #1, Packet 02"
+        },
+        {
+          "text": "The van’t Hoff equation relates the equilibrium constant to temperature when this value is given.",
+          "hardness": 1.35,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2021 AQBL February Set, Packet 06"
+        },
+        {
+          "text": "One form of this quantity that describes an ionic solid can be calculated through a process that includes the ionization energy of a metal atom and the dissociation energy and electron affinity for a non-metal.",
+          "hardness": 1.2,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2010 BATE, Packet 10"
+        },
+        {
+          "text": "For an ideal gas, the change in this quantity is equal to the constant-pressure heat capacity times the change in temperature.",
+          "hardness": 1.082,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2021 RAFT, Packet 04"
+        },
+        {
+          "text": "Hess's law states that the change in this quantity is independent of the steps used in a chemical reaction, and Gibbs free energy is equal to this value minus the product of temperature and entropy.",
+          "hardness": 0.812,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2020 ERIS, Packet 06"
+        },
+        {
+          "text": "To find this property for a chemical reaction through summation, Hess’s law takes advantage of the fact that this property is a state function.",
+          "hardness": 0.647,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2021 AQBL February Set, Packet 06"
+        },
+        {
+          "text": "Though not heat, it has a standard ‘change of formation’, and can be given as internal energy plus pressure times volume.",
+          "hardness": 0.524,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2010 Ben Cooper, Packet 08"
+        },
+        {
+          "text": "It increases for endothermic reactions.",
+          "hardness": 0.346,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2014 BISB, Packet 05"
+        },
+        {
+          "text": "Identify this thermodynamic quantity which represents heat transfer and is written H.",
+          "hardness": -0.132,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 1,
+          "source": "2020 ERIS, Packet 06"
+        }
+      ]
+    },
+    "medium": {
+      "answerlines": [
+        "<b><u>enthalpy</u></b> [prompt on <i><u>H</u></i>]",
+        "<b><u>enthalpy</u></b> (prompt on “H” before mentioned, accept <b><u>lattice enthalpy</u></b> or <b><u>lattice</u></b> <b><u>energy</u></b> before “lattice” is mentioned, prompt on delta H, accept <b><u>change in enthalpy</u></b>)",
+        "<b><u>enthalpy</u></b> (accept <b><u>H</u></b> before mentioned; prompt on “delta H”)",
+        "<b><u>enthalpy</u></b> [prompt on <u>H</u> until it is mentioned]",
+        "<b><u>enthalpy</u></b> [or <b><u>H</u></b> before it is read; or more specific enthalpies such as <b><u>enthalpy of reaction</u></b>; don’t accept or prompt on “heat”]"
+      ],
+      "clues": [
+        {
+          "text": "The relationship between air temperature, moisture content, and this quantity in air is represented in a Mollier diagram.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 Maryland Fall, Packet 06"
+        },
+        {
+          "text": "This quantity is on the y-axis of a Mollier diagram.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2014 BISB, Packet 05"
+        },
+        {
+          "text": "This quantity is related to the entropy of vaporization and boiling point by Trouton’s rule, and the Born-Haber cycle can be used to calculate this quantity for the separation of an ionic solid.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2019 RAFT, Packet RAFT Packet 10"
+        },
+        {
+          "text": "The negative of this quantity is divided by temperature-squared in the Gibbs-Helmholtz equation.",
+          "hardness": 1.031,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2021 RAFT, Packet 04"
+        },
+        {
+          "text": "The sign of this quantity determines if an equilibrium constant increases or decreases as temperature changes.",
+          "hardness": 0.922,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2014 BISB, Packet 05"
+        },
+        {
+          "text": "For quasistatic processes at constant pressure, one can use standard state values of this quantity, independent of reaction pathway, to calculate change in this quantity using Hess’s law.",
+          "hardness": 0.766,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2010 Ben Cooper, Packet 08"
+        },
+        {
+          "text": "Positive values of it denote endothermic reactions while negative ones indicate exothermic reactions.",
+          "hardness": 0.477,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2010 Ben Cooper, Packet 08"
+        },
+        {
+          "text": "Reactions are classified as exothermic or endothermic depending on whether this quantity is positive or negative.",
+          "hardness": 0.357,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2019 RAFT, Packet RAFT Packet 10"
+        },
+        {
+          "text": "The change in this quantity determines if a reaction is endothermic or exothermic.",
+          "hardness": 0.238,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2025 SHOW-ME, Packet 05"
+        },
+        {
+          "text": "Name this thermodynamic property used to calculate heat transfer, symbolized H.",
+          "hardness": -0.259,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2010 Ben Cooper, Packet 08"
+        }
+      ]
+    },
+    "hard": {
+      "answerlines": [
+        "<b><u>enthalpy</u></b>",
+        "<b><u>enthalpy</u></b> [accept lattice <b><u>enthalpy</u></b>; prompt on \"lattice energy\"; prompt on \"energy\"; prompt on \"heat\"; prompt on \"H\"]",
+        "<b><u>enthalpy</u></b> [accept lattice <b><u>enthalpy</u></b>; accept <b><u>H</u></b> until mention]",
+        "<b><u>enthalpy</u></b> [or <b><u>H</u></b> until it is read]",
+        "<b><u>enthalpy</u></b> [prompt on \"H"
+      ],
+      "clues": [
+        {
+          "text": "The second derivative of this quantity with respect to its thermal and mechanical natural variables is equal to the pressure derivative of temperature by a Maxwell relation.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2011 PACE NSC, Packet 7 - Playoffs 2"
+        },
+        {
+          "text": "This quantity can be derived by taking a volume-to-pressure Legendre transform of the internal energy.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2016 BHSAT, Packet 04"
+        },
+        {
+          "text": "This quantity’s change for solvation is equal to its change for dissolution plus its lattice type, which quantifies the strength of bonds in ionic compounds.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2023 Scottie, Packet 11"
+        },
+        {
+          "text": "This quantity is usually assumed constant when a gas expands through a valve.",
+          "hardness": 1.006,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2016 PACE NSC, Packet 21 - Tiebreaker III"
+        },
+        {
+          "text": "Throttling processes, by definition, keep this quantity constant.",
+          "hardness": 0.904,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2022 Prison Bowl, Packet 04"
+        },
+        {
+          "text": "Pure elements have a value of zero for this quantity’s standard value “of formation,” which is converted from its value “of combustion” found through bomb calorimetry using Hess’s law.",
+          "hardness": 0.717,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2023 Scottie, Packet 11"
+        },
+        {
+          "text": "The change in this quantity equals the heat transferred in a reaction at constant pressure.",
+          "hardness": 0.614,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2013 PACE NSC, Packet 6"
+        },
+        {
+          "text": "This quantity may be computed as the sum of internal energy with the product of pressure and volume.",
+          "hardness": 0.416,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2011 PACE NSC, Packet 7 - Playoffs 2"
+        },
+        {
+          "text": "Gibbs energy is defined as it minus temperature times entropy.",
+          "hardness": 0.263,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2016 PACE NSC, Packet 21 - Tiebreaker III"
+        },
+        {
+          "text": "Name this quantity typically denoted \"H\" that measures the heat content of a system.",
+          "hardness": -0.241,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 4,
+          "source": "2014 BHSAT, Packet 03"
+        }
+      ]
+    }
+  }
+}

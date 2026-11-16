@@ -1,0 +1,274 @@
+{
+  "date": "2026-11-21",
+  "category": "Fine Arts",
+  "answer": "Alexander Calder",
+  "tiers": {
+    "easy": {
+      "answerlines": [
+        "Alexander <b><u>Calder</u></b>",
+        "Alexander <b><u> Calder</u></b>"
+      ],
+      "clues": [
+        {
+          "text": "This artist protested Francisco Franco’s seizure of the Almaden mines by creating a fountain that spews mercury.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2016 Pennsylvania Novice, Packet 02"
+        },
+        {
+          "text": "A Serbian toy merchant in Paris advised that this man try his hand at making mechanical toys, which sparked his artistic career.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2023 Sentinel CYBER 1A, Packet 09"
+        },
+        {
+          "text": "This sculptor created a massive, bright red steel sculpture in Seattle called Eagle, and a similar one in Chicago’s Federal Plaza called Flamingo.",
+          "hardness": 1.051,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2016 Pennsylvania Novice, Packet 02"
+        },
+        {
+          "text": "At the 1937 World Exhibition in Paris, this artist’s Mercury Fountain was on display in the Spanish Pavillion.",
+          "hardness": 0.855,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2023 Sentinel CYBER 1A, Packet 09"
+        },
+        {
+          "text": "This artist’s most famous type of work was given its name by Marcel Duchamp.",
+          "hardness": 0.79,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2016 Pennsylvania Novice, Packet 02"
+        },
+        {
+          "text": "As his popularity grew, he started to construct both wire sculpture and kinetic art as seen in Form Against Yellow and Lobster Trap and Fish Tail.",
+          "hardness": 0.636,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2012 Collaborative Middle School Tournament #3, Packet 08"
+        },
+        {
+          "text": "This artist experimented with self-supporting and static “stabiles” as opposed to his discrete and moveable “mobiles.”",
+          "hardness": 0.452,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2023 Sentinel CYBER 1A, Packet 09"
+        },
+        {
+          "text": "Name this American sculptor who is best-known for his mobiles.",
+          "hardness": -0.165,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 2,
+          "source": "2016 Pennsylvania Novice, Packet 02"
+        },
+        {
+          "text": "Name this American sculptor known for inventing the mobile sculpture.",
+          "hardness": -0.169,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 1,
+          "source": "2012 Collaborative Middle School Tournament #3, Packet 08"
+        },
+        {
+          "text": "Name this American sculptor of Lobster Trap and Fish Tail.",
+          "hardness": -0.229,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 1,
+          "source": "2023 Sentinel CYBER 1A, Packet 09"
+        }
+      ]
+    },
+    "medium": {
+      "answerlines": [
+        "Alexander <b><u>Calder</u></b>",
+        "Alexander <b><u>Calder</u> </b>"
+      ],
+      "clues": [
+        {
+          "text": "This artist would narrate and move miniatures or wire acrobats in live performances of their namesake Cirque.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2023 SWAMP, Packet 09"
+        },
+        {
+          "text": "This man contrasted three dimensional shapes with a two dimensional whale and sun in his mural for the Stillman House.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 LIST, Packet 8"
+        },
+        {
+          "text": "This artist designed a sculpture for the Hart Senate Office Building which was installed after their death, Mountains and Clouds.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2021 RAFT, Packet 10"
+        },
+        {
+          "text": "The name of this artist's most famous genre of work was suggested by Duchamp and his wire and metal work.125 was created for the JFK airport.",
+          "hardness": 0.984,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2011 OLEFIN, Packet 06"
+        },
+        {
+          "text": "This artist’s sculpture Bent Propeller was destroyed during 9/11.",
+          "hardness": 0.742,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2023 SWAMP, Packet 09"
+        },
+        {
+          "text": "This artist designed a sculpture in Chicago’s Federal Plaza that uses their namesake shade of red.",
+          "hardness": 0.603,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2021 RAFT, Packet 10"
+        },
+        {
+          "text": "This artist created Flamingo, one of their “stabiles,” which are named for their contrast with their works like Lobster Trap and Fish Tail.",
+          "hardness": 0.426,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2021 RAFT, Packet 10"
+        },
+        {
+          "text": "Aluminum sheets and painted wires comprise Lobster Trap and Fish Tail, a kinetic sculpture by this artist that hangs from the ceiling of the MoMA.",
+          "hardness": 0.375,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2024 CALISTO, Packet 12"
+        },
+        {
+          "text": "Name this American sculptor known for his “mobiles,” one example of which is his Lobster Trap and Fish Tail.",
+          "hardness": -0.166,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2025 SQUIRREL, Packet 07"
+        },
+        {
+          "text": "What American sculptor created Lobster Trap and Fish Tail as well as several other mobiles?",
+          "hardness": -0.24,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2017 LIST, Packet 8"
+        }
+      ]
+    },
+    "hard": {
+      "answerlines": [
+        "Alexander <b><u>Calder</u></b> [or Sandy <b><u>Calder</u></b>]",
+        "Alexander <b><u>Calder</u></b>",
+        "Alexander <b><u>Calder</u></b> (just need <b><u>Calder</u></b>, but do not accept or prompt on “Alexander Milne Calder,” his grandfather, or “Alexander Stirling Calder,” his father)",
+        "Alexander <b><u>Calder</u> </b>",
+        "Alexander <b><u>Calder</u></b> [accept <b><u>Calder</u></b> Gardens]"
+      ],
+      "clues": [
+        {
+          "text": "A black cone threads through a red figure in this man's work Elephant.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2010 PACE NSC, Packet 11"
+        },
+        {
+          "text": "This artist performed shows using a miniature model of a circus, and his sculpture commissioned by the Spanish Republican government is displayed behind glass for the viewer’s safety.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2015 HFT, Packet 02"
+        },
+        {
+          "text": "One of this man’s works simultaneously stands on the floor and hangs from the ceiling and is titled Mountains and Clouds.",
+          "hardness": 1.114,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2018 IMSAnity, Packet 05"
+        },
+        {
+          "text": "The Whitney Museum displays models of lion tamers and sword-eaters that this artist used in mock circus performances.",
+          "hardness": 1.005,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2026 PACE NSC, Packet 07"
+        },
+        {
+          "text": "The first public project funded by the National Endowment of the Arts was a sculpture by this artist in Grand Rapids, Michigan.",
+          "hardness": 0.925,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2019 BLAST, Packet Packet 1"
+        },
+        {
+          "text": "The name for his most iconic creations was coined by Marcel Duchamp.",
+          "hardness": 0.649,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2012 PACE NSC, Packet 10"
+        },
+        {
+          "text": "One of his works is installed in front of the Federal Center Plaza in Chicago and evokes the image of a giant bird.",
+          "hardness": 0.553,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2012 PACE NSC, Packet 10"
+        },
+        {
+          "text": "This artist’s Flamingo is a “stabile,” unlike works by him like one consisting of moving pieces of sheet metal hung from wires attached to the ceiling.",
+          "hardness": 0.45,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2015 HFT, Packet 02"
+        },
+        {
+          "text": "This artist pioneered attaching aluminum sheets to hanging steel wires to create kinetic sculptures.",
+          "hardness": 0.265,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2019 BLAST, Packet Packet 1"
+        },
+        {
+          "text": "Name this artist who contrasted his stationary “stabile” sculptures with kinetic “mobiles.”",
+          "hardness": -0.266,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 4,
+          "source": "2023 SCURVY, Packet 03"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "date": "2026-12-05",
+  "category": "Mythology",
+  "answer": "Ireland",
+  "tiers": {
+    "easy": {
+      "answerlines": [
+        "<b><u>Ireland</u></b> [or <b><u>Éire</u></b>ann]",
+        "<b><u>Ireland</u></b> (accept<b><u>Eire</u></b>; accept Republic of<b><u>Ireland</u></b>or Poblacht na h<b><u>Éire</u></b>ann; accept<b><u>Irish</u></b>Free State;do not accept or prompt on \"Northern Ireland\")",
+        "<b><u> Ireland</u></b>",
+        "<b><u>Ireland</u></b>",
+        "<b><u>Ireland</u></b> [or <b><u>Eire</u></b>]"
+      ],
+      "clues": [
+        {
+          "text": "A hero from the myths of this modern country unknowingly kills his son Connla with his spear, Gae Bolg.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2025 Rockford Quiz Bowl Novice, Packet 04"
+        },
+        {
+          "text": "A story from this country, the Book of Invasions, details its mythical former residents such as the Fomorians, led by Balor, and the Tuatha Dé (TOO-huh DAY).",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2021 CERES, Packet 08"
+        },
+        {
+          "text": "According to the mythology of this country, the three sisters of the Morrígan shape-shifted into crows to incite fear and panic on the battlefield.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2023 Sentinel CYBER 1A, Packet 11"
+        },
+        {
+          "text": "This country’s Giant’s Causeway was created during a fight between the giant Ben-an-donner and a resident of this country.",
+          "hardness": 0.92,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2018 MVS RAMS, Packet 10"
+        },
+        {
+          "text": "In another myth from this country, Fionn Mac Cumhail (\"Finn mac Cool\") acquires all the world's knowledge.",
+          "hardness": 0.779,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2021 CERES, Packet 08"
+        },
+        {
+          "text": "This country's folkloreconcern Cú Chulainn, Fionn macCumhaill, and the Morrigan, a witch who is associatedwith this country's holiday of Samhain.",
+          "hardness": 0.62,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2025 Rockford Quiz Bowl Novice, Packet 04"
+        },
+        {
+          "text": "This country is home to the Gae Bulg-wielding Cu Chulainn as well as a man who ate the Salmon of Knowledge, Finn MacCool.",
+          "hardness": 0.51,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2018 MVS RAMS, Packet 10"
+        },
+        {
+          "text": "Pots of gold are hidden by folkloric creatures called leprechauns in what country from which snakes were legendarily expelled by St. Patrick?",
+          "hardness": -0.022,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 1,
+          "source": "2021 CERES, Packet 08"
+        },
+        {
+          "text": "Name this Gaelic country in the British Isles led from Dublin.",
+          "hardness": -0.141,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 2,
+          "source": "2025 Rockford Quiz Bowl Novice, Packet 04"
+        },
+        {
+          "text": "Saint Patrick legendarily drove all the snakes out of this island country.",
+          "hardness": -0.228,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 1,
+          "source": "2023 Sentinel CYBER 1A, Packet 11"
+        }
+      ]
+    },
+    "medium": {
+      "answerlines": [
+        "<b><u>Ireland</u></b> [or <b><u>Eire</u></b>]",
+        "<b><u>Ireland</u></b> (or <b><u>Eire</u></b>)",
+        "<b><u>Ireland</u></b> [or Republic of <b><u>Ireland</u></b> or <b><u>Éire</u></b> or <b><u>Airlann</u></b>; accept Northern <b><u>Ireland</u></b>]",
+        "<b><u>Ireland</u></b> [or <b><u>Éire</u></b>; or <b><u>Airlann</u></b>]",
+        "<b><u>Ireland</u></b> [or <b><u>Irish</u></b> myth; prompt on <b><u>Celtic</u></b> myth]"
+      ],
+      "clues": [
+        {
+          "text": "A character from the mythology of this country sometimes experiences a riastrad translated as “warp spasm” or “battle frenzy.”",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2015 BASK, Packet 10"
+        },
+        {
+          "text": "Church bells in this country broke a 900-year curse that turned children into swans.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2022 SHOW-ME, Packet 06"
+        },
+        {
+          "text": "In one story from the mythology of this country, a man used the skin of a black sheep to heal his comrade’s wounds, after which it grew into his skin.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 WHAQ, Packet 14"
+        },
+        {
+          "text": "A woman from this country’s mythology scares a giant by having her supposedly infant son consume a griddle cake while she feeds the giant a cake with the griddle iron still inside.",
+          "hardness": 0.946,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2015 BASK, Packet 10"
+        },
+        {
+          "text": "Shapeshifters called púca appear in this country’s myth, as does a triple-death goddess who tricks a hero into eating dog meat.",
+          "hardness": 0.9,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2022 SHOW-ME, Packet 06"
+        },
+        {
+          "text": "The story about Grainne and her lover is narrated by the son of that hero from this country, the bard Oisín (“oh-SHEEN”).",
+          "hardness": 0.654,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2021 CALISTO 2, Packet 06"
+        },
+        {
+          "text": "The Stone of Destiny in this country sat atop the Hill of Tara.",
+          "hardness": 0.517,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2015 BISB, Packet 04"
+        },
+        {
+          "text": "A hero from this country sucks his thumb for wisdom after he burns it while cooking the salmon of knowledge.",
+          "hardness": 0.323,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2021 AQBL February Set, Packet 04"
+        },
+        {
+          "text": "Name this island home to the stories of Finn MacCool and Cu Chulainn, the latter of whom is found in its Ulster Cycle.",
+          "hardness": -0.186,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2015 BASK, Packet 10"
+        },
+        {
+          "text": "Name this country, whose mythology includes the hero Finn MacCool.",
+          "hardness": -0.291,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2017 WHAQ, Packet 14"
+        }
+      ]
+    },
+    "hard": {
+      "answerlines": [
+        "<b><u>Ireland</u></b> [or <b><u>Eire</u></b>]",
+        "<b><u>Ireland</u></b> [or <b><u>Eire</u></b> or <b><u>Erin</u></b>]",
+        "<b><u>Ireland</u></b> [or <b><u>Éire</u></b>; or <b><u>Airlann</u></b>]",
+        "<b><u>Ireland</u></b> [or <b><u>Éire</u></b>; accept County <b><u>Kerry</u></b>]",
+        "<b><u>Ireland</u></b> [or <b><u>Éire</u></b>; accept <b><u>Tara</u></b>; accept <b><u>Ulster</u></b> after “Gáe Bulg” and before mentioned]"
+      ],
+      "clues": [
+        {
+          "text": "One king of this country had his horses’ lips and tails cut out, then withstood an invasion using silent warriors revived from a cauldron.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2013 PACE NSC, Packet 17"
+        },
+        {
+          "text": "Leaders of this region were crowned on a magical stone that would roar in joy to recognize a true king.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2023 HFT, Packet Finals 2"
+        },
+        {
+          "text": "Three brother gods from this country are a goldsmith, carpenter, and blacksmith who work together.",
+          "hardness": 1.066,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2013 PACE NSC, Packet 17"
+        },
+        {
+          "text": "This country's immram genre of magic island voyages later starred Christian monks.",
+          "hardness": 0.936,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2013 PACE NSC, Packet 17"
+        },
+        {
+          "text": "A \"plain of pillars\" in this country was the site of a battle between the descendants of Nemed, led by Sreng, and a group whose king received a replacement silver arm after the battle.",
+          "hardness": 0.781,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2017 PACE NSC, Packet 06"
+        },
+        {
+          "text": "In this region, two hounds refused to kill a deer because they recognized it was their owner’s wife.",
+          "hardness": 0.603,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2025 VAULT, Packet 03"
+        },
+        {
+          "text": "A hero of this country betrayed a friend with a \"love spot\" on his head, met a deer that became his wife, and sired a bard who vanished for 300 years; that father of Ossian sleeps under this land until the hour of need, and burnt his thumb on the Salmon of Knowledge.",
+          "hardness": 0.528,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2013 PACE NSC, Packet 17"
+        },
+        {
+          "text": "One hero from this region wielded a spear called the Gáe Bulg (“guy bolg”) and repelled the armies of Queen Medb (“medhv”) using an ability called riastrad during the Cattle Raid of Cooley.",
+          "hardness": 0.385,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2023 HFT, Packet Finals 2"
+        },
+        {
+          "text": "Name this island whose later mythic figures would include Deirdre of the Sorrows and Cu Chulainn.",
+          "hardness": -0.007,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 5,
+          "source": "2005 PACE NSC, Packet 08"
+        },
+        {
+          "text": "The Ulster Cycle contains stories from what home country of Cú Chulainn (“koo KULL-in”)?",
+          "hardness": -0.264,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 4,
+          "source": "2023 HFT, Packet Finals 2"
+        }
+      ]
+    }
+  }
+}

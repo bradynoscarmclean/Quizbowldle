@@ -1,0 +1,271 @@
+{
+  "date": "2026-11-30",
+  "category": "Social Science",
+  "answer": "Abraham Maslow",
+  "tiers": {
+    "easy": {
+      "answerlines": [
+        "Abraham <b><u>Maslow</u></b>",
+        "Abraham <b><u>Maslow</u></b> [or Abraham Harold <b><u>Maslow</u></b>]"
+      ],
+      "clues": [
+        {
+          "text": "Research by Basset-Jones and Lloyd says this thinker’s most famous idea is not applicable to the workplace.",
+          "hardness": 1.35,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 POMMSS, Packet 04"
+        },
+        {
+          "text": "This psychologist examined the relationship between mechanistic science and human behavior in his work The Psychology of Science: A Reconnaissance.",
+          "hardness": 1.2,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2013 GSAC, Packet 08"
+        },
+        {
+          "text": "Heavily influenced in his theories by the book The Organism, this psychologist who described one aspect of his theory as “instinctoid” characterized his work as the “third force” in psychology.",
+          "hardness": 1.2,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2009 GSAC, Packet 09"
+        },
+        {
+          "text": "This thinker identified B-cognition, a type of thinking that connects the individual to what they are perceiving.",
+          "hardness": 1.159,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2025 GSAC, Packet 07 _Oliver Rotchwell_"
+        },
+        {
+          "text": "This thinker contrasted D-cognition with B-cognition that allows one to understand contradictory impressions, which occurs during peak experiences.",
+          "hardness": 1.005,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2023 Planetfall, Packet 11"
+        },
+        {
+          "text": "This author of A Theory of Human Motivation claimed that people have “peak experiences” as a period of interconnectedness and joy, and this man studied “exemplary people” such as Albert Einstein and Frederick Douglass.",
+          "hardness": 0.916,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2011 Fall Kickoff Tournament (FKT), Packet Jasper Lee Packet"
+        },
+        {
+          "text": "This psychologist described “peak experiences” and stated that humans needed to fulfill physiological needs before reaching self-actualization.",
+          "hardness": 0.708,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2023 CARD, Packet 11"
+        },
+        {
+          "text": "This thinker studied the healthiest 1% of college students, Spinoza, and Einstein to develop a theory of motivation, which puts safety and physiology near the bottom.",
+          "hardness": 0.641,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2023 Planetfall, Packet 11"
+        },
+        {
+          "text": "In this man’s most famous idea, security of body, resources and health describe the safety stage.",
+          "hardness": 0.459,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 POMMSS, Packet 04"
+        },
+        {
+          "text": "Name this American psychologist who developed a namesake hierarchy of needs.",
+          "hardness": -0.056,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2013 GSAC, Packet 08"
+        }
+      ]
+    },
+    "medium": {
+      "answerlines": [
+        "Abraham <b><u>Maslow</u></b>",
+        "Abraham <b><u>Maslow</u></b> [or Abraham Harold <b><u>Maslow</u></b>]"
+      ],
+      "clues": [
+        {
+          "text": "Research by Basset-Jones and Lloyd says this thinker’s most famous idea is not applicable to the workplace.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 POMMSS, Packet 04"
+        },
+        {
+          "text": "This psychologist examined the relationship between mechanistic science and human behavior in his work The Psychology of Science: A Reconnaissance.",
+          "hardness": 1,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2013 GSAC, Packet 08"
+        },
+        {
+          "text": "Heavily influenced in his theories by the book The Organism, this psychologist who described one aspect of his theory as “instinctoid” characterized his work as the “third force” in psychology.",
+          "hardness": 1,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2009 GSAC, Packet 09"
+        },
+        {
+          "text": "This thinker’s ideas were used by Douglas McGregor to contrast authoritarian Theory X and relaxed Theory Y management.",
+          "hardness": 0.978,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2023 Planetfall, Packet 11"
+        },
+        {
+          "text": "This psychologist argued in favor of emphasizing positive qualities in a patient instead of treating them like “a bag of symptoms.”",
+          "hardness": 0.813,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2023 CARD, Packet 11"
+        },
+        {
+          "text": "This man described his psychological theory as the “third force” in the field to contrast it with behaviorism and psychoanalysis.",
+          "hardness": 0.632,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2025 GSAC, Packet 07 _Oliver Rotchwell_"
+        },
+        {
+          "text": "This psychologist described “peak experiences” and stated that humans needed to fulfill physiological needs before reaching self-actualization.",
+          "hardness": 0.508,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2023 CARD, Packet 11"
+        },
+        {
+          "text": "This thinker studied the healthiest 1% of college students, Spinoza, and Einstein to develop a theory of motivation, which puts safety and physiology near the bottom.",
+          "hardness": 0.441,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2023 Planetfall, Packet 11"
+        },
+        {
+          "text": "In this man’s most famous idea, security of body, resources and health describe the safety stage.",
+          "hardness": 0.259,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 POMMSS, Packet 04"
+        },
+        {
+          "text": "Name this American psychologist who developed a namesake hierarchy of needs.",
+          "hardness": -0.256,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2013 GSAC, Packet 08"
+        }
+      ]
+    },
+    "hard": {
+      "answerlines": [
+        "Abraham <b><u>Maslow</u></b>",
+        "Abraham <b><u>Maslow</u></b> [accept <b><u>Maslow</u></b>’s hierarchy of needs or <b><u>Maslow</u></b>’s Hammer]"
+      ],
+      "clues": [
+        {
+          "text": "Richard Katz believed that this psychologist failed to cite time studying the Giving Ceremony of the Blackfoot.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2024 PACE NSC, Packet 01"
+        },
+        {
+          "text": "This man's ideas influenced George Leonard's Human Potential Movement.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2013 PACE NSC, Packet 12"
+        },
+        {
+          "text": "Douglas McGregor expanded on the ideas in this man’s Eupsychian(\"yoo-SIKE-ee-un\") Management to create the Theory X and Theory Y management styles.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2024 VAULT, Packet 08"
+        },
+        {
+          "text": "This psychologist imagined a culturally healthy utopia called Eupsychia (“yew-sike-ee-uh”) in a “Theory Z” outlining the ideal organization of companies.",
+          "hardness": 1.099,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2024 PACE NSC, Packet 01"
+        },
+        {
+          "text": "This man’s most famous concept was adapted by Clayton Alderfer’s ERG theory.",
+          "hardness": 0.906,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2024 VAULT, Packet 08"
+        },
+        {
+          "text": "A cognitive bias of repeatedly using the same tool for different problems is called this psychologist’s “Hammer.”",
+          "hardness": 0.892,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2024 PACE NSC, Packet 01"
+        },
+        {
+          "text": "This man contrasted the difference between D and B-values, stating that the latter drives metamotivation in people.",
+          "hardness": 0.629,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2024 VAULT, Packet 08"
+        },
+        {
+          "text": "A group of people studied by this psychologist have Being-values that define their metamotivations and may have “peak experiences.”",
+          "hardness": 0.588,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2024 PACE NSC, Packet 01"
+        },
+        {
+          "text": "In his work “A Theory of Human Motivation,” this man created a model that can be visualized as a pyramid with self-actualization at the top and physiological needs at the bottom.",
+          "hardness": 0.431,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2024 VAULT, Packet 08"
+        },
+        {
+          "text": "Name this psychologist who ranked human desires into a \"hierarchy of needs.\"",
+          "hardness": -0.18,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 5,
+          "source": "2013 PACE NSC, Packet 12"
+        }
+      ]
+    }
+  }
+}

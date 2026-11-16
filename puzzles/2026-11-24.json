@@ -1,0 +1,280 @@
+{
+  "date": "2026-11-24",
+  "category": "History",
+  "answer": "Babylon",
+  "tiers": {
+    "easy": {
+      "answerlines": [
+        "<b><u>Babylon</u></b>",
+        "<b><u>Babylon</u></b> [accept <b><u>Babylonia</u></b> or <b><u>Babylonian</u></b><u>s</u>]",
+        "<b><u>Babylon</u></b> [or the Hanging Gardens of <b><u>Babylon</u></b>; or <b><u>Bab-ilu</u></b>; or <b><u>Bab-ilim</u></b>; or <b><u>Bavel</u></b>; or <b><u>Babel</u></b>; or Atlal <b><u>Babil</u></b><u>]",
+        "<b><u>Babylon</u></b> [or <b><u>B</u><u>ā</u><u>bilim</u></b>]",
+        "<b><u>Babylon</u></b> [or <b><u>Bābilim</u></b>]"
+      ],
+      "clues": [
+        {
+          "text": "During periods of waning power of empires centered on this city, it was ruled by Kassites.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2020 TAILS, Packet TAILS Packet 11"
+        },
+        {
+          "text": "One king from this city built the gate of Ishtar and ordered the destruction of the temple of Jerusalem.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2017 HIGS, Packet Replacement"
+        },
+        {
+          "text": "According to Herodotus, this city had hundreds of gates, massive walls, and tribes that only consumed fish.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2023 Sentinel CYBER 1A, Packet 12"
+        },
+        {
+          "text": "Sennacherib was murdered by his own sons in 689 BCE because of his destruction of this city.",
+          "hardness": 1.065,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2020 MOQBA Novice, Packet Packet 01"
+        },
+        {
+          "text": "Though it’s not Judea, this state was conquered by the Assyrian Sennacherib.",
+          "hardness": 0.97,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2009 Fall Novice Tournament, Packet 07"
+        },
+        {
+          "text": "Although archaeologists haven’t found evidence of it, a terraced building in this city was legendarily built on the orders of Nebuchadnezzar II, whose wife was homesick for greenery.",
+          "hardness": 0.839,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2017 SCOP Novice 8, Packet 07"
+        },
+        {
+          "text": "The only one of the Seven Wonders of the Ancient World which may not have actually existed were this city's Hanging Gardens.",
+          "hardness": 0.689,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2023 QUAOAR, Packet 12"
+        },
+        {
+          "text": "A law code originating the phrase “an eye for an eye” was inscribed on a stele by this city’s king Hammurabi.",
+          "hardness": 0.493,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2022 SANDS, Packet 10"
+        },
+        {
+          "text": "Name this Mesopotamian city-state, ruled by kings such as Nebuchadnezzar and Hammurabi, which was known for its hanging gardens.",
+          "hardness": -0.035,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 1,
+          "source": "2017 HIGS, Packet Replacement"
+        },
+        {
+          "text": "Name this ancient Mesopotamian city in which a set of “hanging gardens” might have been built.",
+          "hardness": -0.138,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 1,
+          "source": "2023 Sentinel CYBER 1A, Packet 12"
+        }
+      ]
+    },
+    "medium": {
+      "answerlines": [
+        "<b><u>Babylon</u></b> [or <b><u>Bab-ilu</u></b>; or <b><u>Bab-ilim</u></b>; or <b><u>Bavel</u></b>; or <b><u>Babel</u></b>; or Atlal <b><u>Babil</u></b>]",
+        "<b><u>Babylon</u></b> (accept <b><u>Babylonian</u></b> Empire)",
+        "<b><u>Babylon</u></b>",
+        "<b><u>Babylon</u></b> [or the Hanging Gardens of <b><u>Babylon</u></b>]",
+        "<b><u>Babylon</u></b> [accept Neo-<b><u>Babylon</u></b>ian Empire or <b><u>Babylon</u></b>ian Captivity]"
+      ],
+      "clues": [
+        {
+          "text": "Artwork from this city includes the ruined Etemenanki (“eht-MEN-en-kee”) Temple.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2016 WHAQ, Packet 05"
+        },
+        {
+          "text": "This city lost control of the Median Wall after it was defeated at the Battle of Opis.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2024 SITH, Packet 06"
+        },
+        {
+          "text": "The “Cyrus cylinder” documents Cyrus’ conquest of this city and its last king Nabonidus.",
+          "hardness": 1.055,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2015 LIMIT, Packet 03"
+        },
+        {
+          "text": "A structure from this city depicting gold mušḫuššu dragons was reconstructed in the Pergamon Museum.",
+          "hardness": 0.965,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2023 SITH, Packet 03"
+        },
+        {
+          "text": "Rubble from this city was thrown into the Arakhtu Canal after its destruction by Sennacherib.",
+          "hardness": 0.86,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2024 SITH, Packet 06"
+        },
+        {
+          "text": "A basalt stele from this city depicts a ruler receiving divine inspiration from the sun god, Shamash.",
+          "hardness": 0.6,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2016 WHAQ, Packet 05"
+        },
+        {
+          "text": "The Etemenanki Ziggurat was built in this city, whose Ishtar Gate was the entrance to another building in it.",
+          "hardness": 0.536,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 RMBCT, Packet 14"
+        },
+        {
+          "text": "A no-longer-extant ziggurat in this city was dedicated to its patron deity, Marduk.",
+          "hardness": 0.422,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2024 CALISTO, Packet 01"
+        },
+        {
+          "text": "Marduk was the patron god of this city, whose king Nebuchadnezzar (“NEH-boo-cud-NEZ-er”) II may have built one of the Seven Wonders of the Ancient World.",
+          "hardness": 0.331,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2019 CAST, Packet 04"
+        },
+        {
+          "text": "Name this city in modern-day Iraq that was once home to the Hanging Gardens.",
+          "hardness": -0.277,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2019 CAST, Packet 04"
+        }
+      ]
+    },
+    "hard": {
+      "answerlines": [
+        "<b><u>Babylon</u></b> [do NOT accept “Babylonia”] &lt;MJ&gt;",
+        "<b><u>Babylon</u></b> [or the <b><u>Babylon</u></b>ian Empire or the Neo-<b><u>Babylon</u></b>ian Empire; accept <b><u>Babel</u></b> or <b><u>Babylon</u></b>ia or <b><u>Bābilim</u></b> or Neo-<b><u>Babylon</u></b>; accept the <b><u>Babylon</u></b>ian captivity]",
+        "<b><u>Babylon</u></b>",
+        "<b><u>Babylon</u></b> [or <b><u>Babylonia</u></b>]",
+        "<b><u>Babylon</u></b> [or <b><u>Bab-ilu</u></b>; or <b><u>Bab-ilim</u></b>; or <b><u>Bavel</u></b>]"
+      ],
+      "clues": [
+        {
+          "text": "This capital’s social system divided status between awilum (“uh-WILL-um”), mushkenum (“mush-KEN-num”) and slave-like war∙dum.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2023 PACE NSC, Packet 09"
+        },
+        {
+          "text": "Robert Koldewey excavated a structure in this city that contained reliefs of lions, aurochs, and dragon-like mušḫuššu.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2023 CREEK, Packet 05"
+        },
+        {
+          "text": "This city’s Etemenanki Temple was destroyed when this city was sacked by Sennacherib.",
+          "hardness": 1.016,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2021 NEWT, Packet 12"
+        },
+        {
+          "text": "Much of what is known about one king of this city comes from letters the king wrote to Sin-iddinam found in Larsa.",
+          "hardness": 0.967,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2023 PACE NSC, Packet 09"
+        },
+        {
+          "text": "Prominent structures in this city included the E∙sag∙il∙a temple.",
+          "hardness": 0.814,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2023 PACE NSC, Packet 09"
+        },
+        {
+          "text": "Necho II began a campaign against this city in the Battle of Carchemis, while this city also saw the reign of the Amorite and Kassite dynasties.",
+          "hardness": 0.693,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2011 BDAT, Packet 08"
+        },
+        {
+          "text": "The Louvre Stele from this city records a series of “if/then” statements such as “if a man commits a robbery and is caught, that man will be killed.”",
+          "hardness": 0.576,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2023 PACE NSC, Packet 09"
+        },
+        {
+          "text": "A ruler of the “neo” phase of this place destroyed the First Temple, while another formulated an “eye for an eye” based law code.",
+          "hardness": 0.428,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2011 BDAT, Packet 08"
+        },
+        {
+          "text": "A “captivity” named for this city began after its forces sacked Judah.",
+          "hardness": 0.257,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2025 VAULT, Packet 04"
+        },
+        {
+          "text": "Name this city home to Nebuchadnezzar and Hammurabi, as well as some namesake “hanging gardens.”",
+          "hardness": -0.203,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 4,
+          "source": "2011 BDAT, Packet 08"
+        }
+      ]
+    }
+  }
+}

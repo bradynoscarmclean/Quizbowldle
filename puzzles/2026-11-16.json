@@ -1,0 +1,272 @@
+{
+  "date": "2026-11-16",
+  "category": "Geography",
+  "answer": "New Zealand",
+  "tiers": {
+    "easy": {
+      "answerlines": [
+        "<b><u>New Zealand</u></b>",
+        "<b><u> New Zealand</u></b> (accept <b><u> Aotearoa</u></b> )",
+        "<b><u>New Zealand</u></b> (or <b><u>Aotearoa</u></b>)"
+      ],
+      "clues": [
+        {
+          "text": "This country’s Milford Sound in Fiordland National Park is one of the wettest inhabited places in the world.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2023 Sentinel CYBER 1A, Packet 05"
+        },
+        {
+          "text": "This country is home to the only living sphenodon, and this country’s highest point, Aoraki, is located in its Southern Alps.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2017 HIGS, Packet 11"
+        },
+        {
+          "text": "Smaller islands that are part of this nation include the Chatham Islands and Stewart Islands.",
+          "hardness": 1,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2011 Collaborative Middle School Tournament #2, Packet 02"
+        },
+        {
+          "text": "Visitors to this country can take a 630 foot “SkyJump” from the Sky Tower in this country’s most populous city, Auckland.",
+          "hardness": 0.94,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2023 Sentinel CYBER 1A, Packet 05"
+        },
+        {
+          "text": "The Cook Strait separates the two main islands of this country, whose smaller main island contains the old capital of Auckland.",
+          "hardness": 0.758,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2011 Collaborative Middle School Tournament #2, Packet 02"
+        },
+        {
+          "text": "A phenomenon known as Tolkien tourism is credited with increasing tourism in this country, where the Lord of the Rings trilogy was filmed.",
+          "hardness": 0.409,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2023 Sentinel CYBER 1A, Packet 05"
+        },
+        {
+          "text": "Cook Strait separates this country’s North and South islands.",
+          "hardness": 0.388,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2017 HIGS, Packet 11"
+        },
+        {
+          "text": "The Maori people live on the North and South Islands in what nation with a capital at Wellington that sits over 1,000 miles off the coast of Australia?",
+          "hardness": 0.029,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 1,
+          "source": "2011 Collaborative Middle School Tournament #2, Packet 02"
+        },
+        {
+          "text": "Identify this country at the southwestern tip of Polynesia with capital at Wellington.",
+          "hardness": -0.16,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 1,
+          "source": "2017 HIGS, Packet 11"
+        },
+        {
+          "text": "Name this island country east of Australia.",
+          "hardness": -0.286,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 1,
+          "source": "2023 Sentinel CYBER 1A, Packet 05"
+        }
+      ]
+    },
+    "medium": {
+      "answerlines": [
+        "<b><u>New Zealand</u></b>",
+        "<b><u>New Zealand</u></b> [or <b><u>Aotearoa</u></b>]"
+      ],
+      "clues": [
+        {
+          "text": "This country’s Mount Rapehu serves as the source of the Waikato River, which drains into Lake Taupo.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2012 LIST, Packet 16"
+        },
+        {
+          "text": "This nation’s largest lake is in the caldera of Mount Tauhara and is part of a Volcanic Zone that extends to the Bay of Plenty.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2018 WHAQ, Packet 05"
+        },
+        {
+          "text": "This country’s Antarctic claim is known as the Ross Dependency, which was the home of the World Park Base.",
+          "hardness": 1,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2012 GSAC, Packet 01"
+        },
+        {
+          "text": "The Fox and Franz Joseph glaciers lie along this country’s Southern Alps.",
+          "hardness": 0.981,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2023 SITH, Packet 09"
+        },
+        {
+          "text": "Lake Taupo was formed as a caldera following a supervolcanic eruption in this country, and its city of Christchurch was rocked by multiple earthquakes in 2010.",
+          "hardness": 0.789,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2012 GSAC, Packet 01"
+        },
+        {
+          "text": "This country’s Antipodes Islands are notable for lying near the opposite side of the earth from London, and its Canterbury Plains are located south of Christchurch.",
+          "hardness": 0.679,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2012 LIST, Packet 16"
+        },
+        {
+          "text": "Proposed designs for a replacement for this country’s flag feature a red Southern Cross next to a silver fern.",
+          "hardness": 0.483,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2023 SITH, Packet 09"
+        },
+        {
+          "text": "The highest point in this country, Aoraki, lies in its Southern Alps, and it is divided into two parts by the Cook Strait.",
+          "hardness": 0.472,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2012 GSAC, Packet 01"
+        },
+        {
+          "text": "Its two parts are separated by the Cook Strait and are known as North and South Island.",
+          "hardness": 0.277,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2012 LIST, Packet 16"
+        },
+        {
+          "text": "Name this island nation, with a capital at Wellington and whose largest city is Auckland.",
+          "hardness": -0.215,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2018 WHAQ, Packet 05"
+        }
+      ]
+    },
+    "hard": {
+      "answerlines": [
+        "<b><u>New Zealand</u></b>",
+        "<b><u>New Zealand</u></b> [accept <b><u>Aotearoa</u></b> until read]"
+      ],
+      "clues": [
+        {
+          "text": "To the north of this nation’s Cape Regina lie the Three Kings Islands.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2011 BDAT, Packet 05"
+        },
+        {
+          "text": "In this country, the Seddon Park stadium in Hamilton is the home ground of the Northern Districts domestic cricket team.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2015 Maryland Fall, Packet 13"
+        },
+        {
+          "text": "The “never shake a baby” campaign in this country started after the death of the Kahui twins, and a Guardian article referred to the “normalization” of child poverty this country’s “most shameful secret.”",
+          "hardness": 1,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2018 James Blair Bowl, Packet 02"
+        },
+        {
+          "text": "The steepest street in the world, Baldwin Street, is located in this country’s city of Dunedin, which is the largest city in the Otago region.",
+          "hardness": 0.777,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2015 Maryland Fall, Packet 13"
+        },
+        {
+          "text": "This nation’s Canterbury Plains run parallel to where the Pacific Plate and the Indo-Australian Plate collide to form its longest mountain range, the Southern Alps.",
+          "hardness": 0.661,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2011 BDAT, Packet 05"
+        },
+        {
+          "text": "This country claims Ross Dependency in Antarctica, and a major tourist destination in this country is Milford Sound.",
+          "hardness": 0.551,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2018 James Blair Bowl, Packet 02"
+        },
+        {
+          "text": "It’s not in Europe, but this country is home to the Southern Alps.",
+          "hardness": 0.372,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2018 James Blair Bowl, Packet 02"
+        },
+        {
+          "text": "This nation is also known as Aotearoa, its Māori name.",
+          "hardness": 0.297,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2015 Maryland Fall, Packet 13"
+        },
+        {
+          "text": "Name this Pacific dual-island country off the Australian coast whose capital is Wellington.",
+          "hardness": -0.204,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 4,
+          "source": "2015 Maryland Fall, Packet 13"
+        },
+        {
+          "text": "Name this island nation home to the cities of Christchurch, Auckland and Wellington.",
+          "hardness": -0.217,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 4,
+          "source": "2011 BDAT, Packet 05"
+        }
+      ]
+    }
+  }
+}

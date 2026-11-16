@@ -1,0 +1,276 @@
+{
+  "date": "2026-11-22",
+  "category": "Religion",
+  "answer": "Holi",
+  "tiers": {
+    "easy": {
+      "answerlines": [
+        "<b><u>Holi</u></b> (accept <b><u>Hola</u></b> Mohalla)",
+        "<b><u>Holi</u></b> [prompt on <b><u>Basanta Utsav</u></b>]",
+        "<b><u>Holi</u></b>"
+      ],
+      "clues": [
+        {
+          "text": "Ranga Panchami takes place five days after this holiday, which is known as Phagwa in Central America.",
+          "hardness": 1.35,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2024 CARD, Packet 06"
+        },
+        {
+          "text": "This holiday is similar to one practiced in more rural religions, called Rangapanchami.",
+          "hardness": 1.21,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2020 RAFT, Packet 14"
+        },
+        {
+          "text": "Due to euphoric effects, the cannabis product bhang is taken during this holiday.",
+          "hardness": 1.133,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2024 CARD, Packet 06"
+        },
+        {
+          "text": "On the eve of this holiday, bonfires are lit to celebrate the survival of Prahlada, who was tricked into sitting on a funeral pyre by the sister of King Hiranyakashipu.",
+          "hardness": 1.062,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2020 RAFT, Packet 14"
+        },
+        {
+          "text": "To celebrate this holiday, women use lathis to chase men out of Barsana.",
+          "hardness": 0.959,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2024 CARD, Packet 06"
+        },
+        {
+          "text": "One ritual performed during this day involves women drinking thangai or bhang and then hitting shielded men with lathis.",
+          "hardness": 0.807,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2014 Prison Bowl, Packet 10"
+        },
+        {
+          "text": "Many events such as “color runs” have been accused of appropriating aspects of this holiday.",
+          "hardness": 0.63,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2020 RAFT, Packet 14"
+        },
+        {
+          "text": "People pelt others with powders called gulal to celebrate this holiday.",
+          "hardness": 0.528,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2024 CARD, Packet 06"
+        },
+        {
+          "text": "This event takes place on Phalguna Purnima, the vernal equinox.",
+          "hardness": 0.456,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2014 Prison Bowl, Packet 10"
+        },
+        {
+          "text": "The end of winter is celebrated on what Hindu Festival of Colors?",
+          "hardness": -0.026,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2024 CARD, Packet 06"
+        }
+      ]
+    },
+    "medium": {
+      "answerlines": [
+        "<b><u>Holi</u></b> [prompt on <b><u>Basanta Utsav</u></b>]",
+        "<b><u>Holi</u></b> (accept <b><u>Hola</u></b> Mohalla)",
+        "<b><u>Holi</u></b>"
+      ],
+      "clues": [
+        {
+          "text": "Ranga Panchami takes place five days after this holiday, which is known as Phagwa in Central America.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2024 CARD, Packet 06"
+        },
+        {
+          "text": "This holiday is similar to one practiced in more rural religions, called Rangapanchami.",
+          "hardness": 1.01,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2020 RAFT, Packet 14"
+        },
+        {
+          "text": "Due to euphoric effects, the cannabis product bhang is taken during this holiday.",
+          "hardness": 0.933,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2024 CARD, Packet 06"
+        },
+        {
+          "text": "On the eve of this holiday, bonfires are lit to celebrate the survival of Prahlada, who was tricked into sitting on a funeral pyre by the sister of King Hiranyakashipu.",
+          "hardness": 0.862,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2020 RAFT, Packet 14"
+        },
+        {
+          "text": "To celebrate this holiday, women use lathis to chase men out of Barsana.",
+          "hardness": 0.759,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2024 CARD, Packet 06"
+        },
+        {
+          "text": "One ritual performed during this day involves women drinking thangai or bhang and then hitting shielded men with lathis.",
+          "hardness": 0.607,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2014 Prison Bowl, Packet 10"
+        },
+        {
+          "text": "Many events such as “color runs” have been accused of appropriating aspects of this holiday.",
+          "hardness": 0.43,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2020 RAFT, Packet 14"
+        },
+        {
+          "text": "People pelt others with powders called gulal to celebrate this holiday.",
+          "hardness": 0.328,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2024 CARD, Packet 06"
+        },
+        {
+          "text": "This event takes place on Phalguna Purnima, the vernal equinox.",
+          "hardness": 0.256,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2014 Prison Bowl, Packet 10"
+        },
+        {
+          "text": "The end of winter is celebrated on what Hindu Festival of Colors?",
+          "hardness": -0.226,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2024 CARD, Packet 06"
+        }
+      ]
+    },
+    "hard": {
+      "answerlines": [
+        "<b><u>Holi</u></b>",
+        "<b><u>Holi</u></b> [accept <b><u>Festival of Color</u></b>s before “color”]",
+        "<b><u>Holi</u></b> [accept <b><u>Holika Dahan</u></b>; prompt on <u>Festival of Love</u> or <u>Festival of Spring</u> or <u>Festival of Colors</u> or <u>Festival of Equality</u>; reject \"Holika\" alone]",
+        "<b><u>Holi</u></b> [or <b><u>Dolyatra</u></b>; or <b><u>Basanta Utsav</u></b>; or <b><u>Dhuli Vandana</u></b>; or <b><u>Dhulhendi</u></b>]",
+        "<b><u>Holi</u></b> [accept <b><u>Phagwah</u></b>, <b><u>Dol Jatra</u></b>, <b><u>Basanta Utsav</u></b>, or <b><u>Dhuli</u><u>Vandan</u></b>a]"
+      ],
+      "clues": [
+        {
+          "text": "Note to moderator: read the answerline carefully.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2025 PACE NSC, Packet 11"
+        },
+        {
+          "text": "Celebrations of this holiday in the city of Sirsi feature a man dressed as a sword-wielding monster clad in peacock feathers, who dances to the rhythms of the tamte drum.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2024 VAULT, Packet 10"
+        },
+        {
+          "text": "In some places, men celebrate this holiday by making human pyramids in an attempt to reach a pot of butter.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2020 BHSAT, Packet 04"
+        },
+        {
+          "text": "Among the legends associated with this holiday are the murder of a she-demon with poisonous breast milk and the love between Rati and Kama.",
+          "hardness": 0.939,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2020 Prison Bowl, Packet 06"
+        },
+        {
+          "text": "The main event of this holiday occurs on a full moon during the month of Phalguna.",
+          "hardness": 0.7,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2021 DUOS, Packet Packet 6"
+        },
+        {
+          "text": "This holiday recalls how a demon king, immune to both astra and shastra, was killed by the claws of the half-lion Narasimha. Bonfires set on the eve of this holiday commemorate the saving of the demon king’s son, Prahlad.",
+          "hardness": 0.621,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2020 BHSAT, Packet 04"
+        },
+        {
+          "text": "Prahlada survived on a pyre while this holiday’s namesake demoness burned to death due to her devotion to Vishnu.",
+          "hardness": 0.529,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2010 PACE NSC, Packet 12"
+        },
+        {
+          "text": "Vishnu's avatar Krishna plays pranks on the gopis, who react by throwing abir, this holiday’s famed colored powder.",
+          "hardness": 0.353,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2010 PACE NSC, Packet 12"
+        },
+        {
+          "text": "During this holiday, one might find people filling water balloons and water guns with pigments and attempting to spray each other.",
+          "hardness": 0.291,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2021 DUOS, Packet Packet 6"
+        },
+        {
+          "text": "Name this spring festival of Hinduism.",
+          "hardness": -0.221,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 5,
+          "source": "2010 PACE NSC, Packet 12"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "date": "2026-11-18",
+  "category": "Philosophy",
+  "answer": "Michel Foucault",
+  "tiers": {
+    "easy": {
+      "answerlines": [
+        "Michel <b><u>Foucault</u></b>"
+      ],
+      "clues": [
+        {
+          "text": "This philosopher explored the experimental writing of Raymond Roussel in Death and the Labyrinth.",
+          "hardness": 1.35,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2016 BASQT, Packet 06"
+        },
+        {
+          "text": "This author of The Archaeology of Knowledge turned to art criticism by describing “Las Meninas” in his The Order of Things and by writing about Magritte in This is not a Pipe.",
+          "hardness": 1.35,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2010 Ben Cooper, Packet 04"
+        },
+        {
+          "text": "This philosopher noted that the exclusion of lepers eventually transitioned to other exclusion rituals in an analogy of a ship of fools.",
+          "hardness": 1.35,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2013 LIST, Packet 01"
+        },
+        {
+          "text": "An analysis of Las Meninas opens a work by him that describes the relationship between language and the “return of man”.",
+          "hardness": 1.198,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2016 BASQT, Packet 06"
+        },
+        {
+          "text": "This man used the term “discourse” when describing how social practices contribute to ways of constituting knowledge.",
+          "hardness": 1.117,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2018 Glasgow Scottie, Packet 03"
+        },
+        {
+          "text": "This philosopher also describes how modern doctors dehumanize their patients with the “medical gaze” in his work The Birth of the Clinic. This philosopher’s The Order of Things opens with an analysis of the painting Las Meninas, and he describes an empathetic disconnect because of the decrease of public executions in his work Discipline and Punish.",
+          "hardness": 0.913,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 RMBCT, Packet 10"
+        },
+        {
+          "text": "In another work, Bentham’s panopticon is used to interpret the modern prison system.",
+          "hardness": 0.898,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2009 GSAC, Packet 09"
+        },
+        {
+          "text": "The torture of Robert Francois Damiens and the idea that modern institutions resemble Bentham’s Panopticon were discussed in a work by this man.",
+          "hardness": 0.72,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2018 Glasgow Scottie, Packet 03"
+        },
+        {
+          "text": "He famously used the image of Jeremy Bentham’s Panopticon to describe society as a prison.",
+          "hardness": 0.509,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2016 BASQT, Packet 06"
+        },
+        {
+          "text": "Name this Frenchman who authored The History of Sexuality and Discipline and Punish.",
+          "hardness": 0.008,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2018 Glasgow Scottie, Packet 03"
+        }
+      ]
+    },
+    "medium": {
+      "answerlines": [
+        "Michel <b><u>Foucault</u></b>"
+      ],
+      "clues": [
+        {
+          "text": "One work by this philosopher uses the example of a group of lepers and the image of the Ship of Fools to contrast the difference between old and new treatments of people with illnesses.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 RMBCT, Packet 10"
+        },
+        {
+          "text": "At a 1982 lecture, this social theorist outlined four “technologies” that humans use to understand themselves.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2018 Glasgow Scottie, Packet 03"
+        },
+        {
+          "text": "This philosopher noted that the exclusion of lepers eventually transitioned to other exclusion rituals in an analogy of a ship of fools.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2013 LIST, Packet 01"
+        },
+        {
+          "text": "An analysis of Las Meninas opens a work by him that describes the relationship between language and the “return of man”.",
+          "hardness": 0.998,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2016 BASQT, Packet 06"
+        },
+        {
+          "text": "This man used the term “discourse” when describing how social practices contribute to ways of constituting knowledge.",
+          "hardness": 0.917,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2018 Glasgow Scottie, Packet 03"
+        },
+        {
+          "text": "This philosopher also describes how modern doctors dehumanize their patients with the “medical gaze” in his work The Birth of the Clinic. This philosopher’s The Order of Things opens with an analysis of the painting Las Meninas, and he describes an empathetic disconnect because of the decrease of public executions in his work Discipline and Punish.",
+          "hardness": 0.713,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 RMBCT, Packet 10"
+        },
+        {
+          "text": "In another work, Bentham’s panopticon is used to interpret the modern prison system.",
+          "hardness": 0.698,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2009 GSAC, Packet 09"
+        },
+        {
+          "text": "The torture of Robert Francois Damiens and the idea that modern institutions resemble Bentham’s Panopticon were discussed in a work by this man.",
+          "hardness": 0.52,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2018 Glasgow Scottie, Packet 03"
+        },
+        {
+          "text": "He famously used the image of Jeremy Bentham’s Panopticon to describe society as a prison.",
+          "hardness": 0.309,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2016 BASQT, Packet 06"
+        },
+        {
+          "text": "Name this Frenchman who authored The History of Sexuality and Discipline and Punish.",
+          "hardness": -0.192,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2018 Glasgow Scottie, Packet 03"
+        }
+      ]
+    },
+    "hard": {
+      "answerlines": [
+        "Michel <b><u>Foucault</u></b>",
+        "Michel <b><u>Foucault</u></b> [“foo-KOH”]",
+        "Michel <b><u>Foucault</u></b> [or Paul-Michel <b><u>Foucault</u></b>]",
+        "Michel <b><u>Foucault</u></b> (“mee-SHELL foo-KOH”)"
+      ],
+      "clues": [
+        {
+          "text": "One essay by this thinker claims that the title figure exists not as interpretive guide but as structural “function” within a work that indicates status.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2010 PACE NSC, Packet 18"
+        },
+        {
+          "text": "This thinker introduced the principle of “biopower” and “biopolitics” in a trilogy of lecture series that begins with Society Must Be Defended.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2022 DUOS, Packet 2"
+        },
+        {
+          "text": "This man suggested seeing language as a series of distinct “statements” that only have meaning in context in his Archaeology of Knowledge.",
+          "hardness": 1.03,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2019 Prison Bowl, Packet 13"
+        },
+        {
+          "text": "One of his works begins with a chapter analyzing Las Meninas, while others posit an “unequal gaze” between guard and prisoner and a “medical gaze” between doctor and patient.",
+          "hardness": 0.979,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2008 PACE NSC, Packet 03"
+        },
+        {
+          "text": "This philosopher described his method as “archaeological.”",
+          "hardness": 0.851,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2015 BHSAT, Packet 12"
+        },
+        {
+          "text": "He also wrote of the Great Confinement, failed to complete his six-volume History of Sexuality, and posited that the former experience of religious ecstasy is now viewed as insanity in his Madness and Civilization.",
+          "hardness": 0.667,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2008 PACE NSC, Packet 03"
+        },
+        {
+          "text": "One of this thinker’s works begins with an examination of relationships between the subjects of Velasquez’s Las Meninas and later discusses how periods of history each existed with corresponding epistemes.",
+          "hardness": 0.563,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2022 DUOS, Packet 2"
+        },
+        {
+          "text": "He wrote about the \"medical gaze\" in Birth of the Clinic.",
+          "hardness": 0.475,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2010 Prison Bowl, Packet 12"
+        },
+        {
+          "text": "This author of Madness and Civilization advocated the \"unequal gaze\" afforded by Bentham's Panopticon prison.",
+          "hardness": 0.37,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2010 Prison Bowl, Packet 12"
+        },
+        {
+          "text": "Name this French thinker and sociologist who wrote The Birth of the Clinic and Discipline and Punish.",
+          "hardness": -0.235,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 4,
+          "source": "2018 James Blair Bowl, Packet 11"
+        }
+      ]
+    }
+  }
+}

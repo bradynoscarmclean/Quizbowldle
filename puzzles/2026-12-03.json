@@ -1,0 +1,278 @@
+{
+  "date": "2026-12-03",
+  "category": "Literature",
+  "answer": "Leo Tolstoy",
+  "tiers": {
+    "easy": {
+      "answerlines": [
+        "Leo <b><u>Tolstoy</u></b>",
+        "Leo <b><u>Tolstoy</u></b> [or Lev (Nikolayvich) <b><u>Tolstoy</u></b>]",
+        "Leo <b><u>Tolstoy</u></b> (accept Lev Nikoleyevich <b><u>Tolstoi</u></b>)",
+        "Leo <b><u> Tolstoy</u></b> (or Lev Nikolayevich <b><u> Tolstoy</u></b> )",
+        "Leo <b><u>Tolstoy</u></b> [accept Lev Nikolayevich <b><u>Tolstoy</u></b>]"
+      ],
+      "clues": [
+        {
+          "text": "This author promotes non-violence while citing the commandment \"Thou shalt not murder\" in \"The Kingdom of God is Within You.\"",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2010 SCOP Novice, Packet 03"
+        },
+        {
+          "text": "In a novel by this author, two lovers first meet as a railway worker is killed by a train, and one of them commits suicide when she suspects the other, Count Vronsky (VRON-skee), of having an affair.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2020 TAILS, Packet TAILS Packet 9"
+        },
+        {
+          "text": "In a short story by this author, an accident while climbing a step-ladder leads to “The Death of Ivan Ilych”.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2017 HIGS, Packet 05"
+        },
+        {
+          "text": "This author wrote a novel in which Stiva witnesses the death of a railway worker and Kitty becomes ill after the protagonist begins an affair.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2020 SCOP MS 10, Packet 04"
+        },
+        {
+          "text": "In a novel by this man, Andrei Bolkonsky is killed at the Battle of Borodino in 1812.",
+          "hardness": 0.952,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2020 SCOP A, Packet 06"
+        },
+        {
+          "text": "This author of The Death of Ivan Ilyich wrote about a woman who witnesses an “evil omen” of a man falling in front of a train.",
+          "hardness": 0.792,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2023 Sentinel CYBER 1A, Packet 04"
+        },
+        {
+          "text": "A novel by this man follows Stiva, Dolly, and a woman who has an affair with Count Vronsky.",
+          "hardness": 0.683,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2022 SCOP MS 11, Packet Round 5"
+        },
+        {
+          "text": "A more famous novel by this author of The Death of Ivan Ilych ends with the marriage between Natasha Rostov and Pierre Bezuhkov after Napoleon’s failed invasion of Russia.",
+          "hardness": 0.584,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2010 Fall Kickoff Tournament (FKT), Packet Steven"
+        },
+        {
+          "text": "In this man’s most famous novel, which takes place during Napoleon’s invasion of Russia, Natasha Rostova marries Pierre Bezukhov.",
+          "hardness": 0.435,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2023 Sentinel CYBER 1A, Packet 04"
+        },
+        {
+          "text": "Identify this author who wrote the lengthy but brilliant novel War and Peace.",
+          "hardness": -0.131,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 2,
+          "source": "2010 Fall Kickoff Tournament (FKT), Packet Steven"
+        }
+      ]
+    },
+    "medium": {
+      "answerlines": [
+        "Leo <b><u>Tolstoy</u></b> [or Lev Nikolayevich <b><u>Tolstoy</u></b>]",
+        "Leo <b><u>Tolstoy</u></b> [or Count Lev Nikolayevich <b><u>Tolstoy</u></b>]",
+        "Leo <b><u>Tolstoy</u> </b>",
+        "Leo <b><u>Tolstoy</u></b>",
+        "Leo <b><u>Tolstoy</u></b> [accept Lev Nikolayevich <b><u>Tolstoy</u></b>]"
+      ],
+      "clues": [
+        {
+          "text": "A work by this author concludes “the hero of my tale is the truth.”",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2023 SWAMP, Packet 10"
+        },
+        {
+          "text": "In one novel by this author, the protagonist listens to a story about a man wrongly accused of murder from a prison-mate named Platon.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2012 BDAT, Packet 11"
+        },
+        {
+          "text": "In a story by this author, a man tries to enclose a vast amount of land by dragging a shovel in the dirt, but collapses dead and is given a grave instead.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2026 SHOW-ME, Packet 03"
+        },
+        {
+          "text": "The protagonist of another of his stories drops dead after running all day to claim land from the Bashkir tribe.",
+          "hardness": 0.981,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2014 Maryland Spring, Packet 10"
+        },
+        {
+          "text": "The book The Kingdom of God is Within You illustrates this author’s belief in Christian anarchism.",
+          "hardness": 0.92,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2026 SHOW-ME, Packet 03"
+        },
+        {
+          "text": "A French clairvoyant advises a character created by this author of the Sevastopol Sketches not to divorce.",
+          "hardness": 0.843,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2023 SWAMP, Packet 10"
+        },
+        {
+          "text": "This author of The Kreutzer Sonata wrote a novella about a magistrate who falls while hanging curtains.",
+          "hardness": 0.594,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2015 GSAC, Packet 03"
+        },
+        {
+          "text": "More famous characters created by this author include Anatole Kuragin, Pierre Bezukhov, and a lover of Count Vronsky who commits suicide by throwing herself on train tracks.",
+          "hardness": 0.424,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2010 BATE, Packet 02"
+        },
+        {
+          "text": "He also wrote a novel that features Pierre Bezukhov, set during the Napoleonic invasion of Russia.",
+          "hardness": 0.25,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2020 RAFT, Packet 14"
+        },
+        {
+          "text": "The novella The Kreutzer Sonata is by what Russian author of Anna Karenina?",
+          "hardness": -0.267,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2026 SHOW-ME, Packet 03"
+        }
+      ]
+    },
+    "hard": {
+      "answerlines": [
+        "Leo <b><u>Tolstoy</u></b> [or Lev Nikolayevich <b><u>Tolstoy</u></b>]",
+        "Leo <b><u>Tolstoy</u></b>",
+        "Leo <b><u>Tolstoy</u></b> [accept Lev Nikolayevich <b><u>Tolstoy</u></b>] (The first story is “Alyosha the Pot”; the second line refers to his <i>Sevastopol Sketches</i>.)"
+      ],
+      "clues": [
+        {
+          "text": "A story by this author which is interpreted in George Saunders’s essay “The Wisdom of Omission” ends with the title character dying after clearing snow from a roof.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2026 PACE NSC, Packet 07"
+        },
+        {
+          "text": "One of this author’s main characters confesses to murder after a conversation in a train car turns to love.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2017 BHSAT, Packet 06"
+        },
+        {
+          "text": "Michael learns the answers to three questions and returns to angelhood after working as Simon's apprentice in this author's story \"What Men Live By.\"",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2019 BLAST, Packet Packet 9"
+        },
+        {
+          "text": "The siege of a city inspired three stories by this author set in December, May and August.",
+          "hardness": 1.017,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2026 PACE NSC, Packet 07"
+        },
+        {
+          "text": "One of this author's characters adopts an uncertain half-bow half-crossing himself gesture out of respect for a dead man, before arranging a game of bridge with Schwartz.",
+          "hardness": 0.96,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2019 BLAST, Packet Packet 9"
+        },
+        {
+          "text": "In a story by this author, a character dreams of the fox fur-wearing Chief becoming the devil after making a deal with the Bashkirs.",
+          "hardness": 0.888,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2026 PACE NSC, Packet 07"
+        },
+        {
+          "text": "This author of \"Father Sergius\" and the Sevastopol Sketches wrote a novella whose protagonist wonders \"What if my whole life has been wrong?\" while observing his servant Gerasim, after which he spends three days screaming before \"some force\" strikes him and he succumbs to his injuries from a curtain-hanging mishap.",
+          "hardness": 0.667,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2014 PACE NSC, Packet 13"
+        },
+        {
+          "text": "In another work, this author of The Death of Ivan Ilyich wrote about Kitty’s marriage to Konstantin Levin and the title character’s relationship with Vronsky, ending in her suicide by throwing herself in front of a train.",
+          "hardness": 0.508,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2011 Prison Bowl, Packet 09"
+        },
+        {
+          "text": "This author created a character who is cared for by his servant Gerasim after injuring himself while hanging curtains.",
+          "hardness": 0.406,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2026 PACE NSC, Packet 07"
+        },
+        {
+          "text": "Name this Russian novelist, the author of Anna Karenina and War and Peace.",
+          "hardness": -0.258,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 4,
+          "source": "2017 HFT, Packet 11"
+        }
+      ]
+    }
+  }
+}

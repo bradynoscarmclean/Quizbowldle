@@ -1,0 +1,280 @@
+{
+  "date": "2026-12-01",
+  "category": "Fine Arts",
+  "answer": "Spain",
+  "tiers": {
+    "easy": {
+      "answerlines": [
+        "<b><u>Spain</u></b> [Kingdom of <b><u>Spain</u></b>; or Reino de <b><u>España</u></b>]",
+        "<b><u>Spain</u></b>",
+        "<b><u>Spain</u></b> [or <b><u>España</u></b>]",
+        "<b><u>Spain</u></b> [accept <b><u>España</u></b>]",
+        "<b><u>Spain</u></b> [or Kingdom of <b><u>Spain</u></b> or <b><u>España</u></b> or Reino de <b><u>España</u></b>]"
+      ],
+      "clues": [
+        {
+          "text": "The last track of the album Return to Forever is named for this country and was composed by Chick Corea (kuh-REE-uh).",
+          "hardness": 1.35,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2022 IQBT Regular Season Set #1, Packet 09"
+        },
+        {
+          "text": "Martha Graham choreographed a solo dance created in response to a war in this country titled for a style called “deep song.”",
+          "hardness": 1.35,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2024 IQBT Regular Season Set #4, Packet 10"
+        },
+        {
+          "text": "A song called “Will o' the Wisp” appears on side one of an album named for this country, whose tracks “The Pan Piper” and “Saeta” (sai-AY-tuh) were written by Gil Evans.",
+          "hardness": 1.169,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2022 IQBT Regular Season Set #1, Packet 09"
+        },
+        {
+          "text": "A former natural history museum in this country holds paintings such as The Garden of Earthly Delights.",
+          "hardness": 1.105,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2024 IQBT Regular Season Set #3, Packet 10"
+        },
+        {
+          "text": "One composer from this country wrote a ballet that contains the Fire Dance and portrays Caramelo (“CAR-uh-MELL-oh”), called Love, The Magician.",
+          "hardness": 0.797,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2010 Collaborative Middle School Tournament, Packet 07"
+        },
+        {
+          "text": "In this country, an eighteen-spired cathedral combining Gothic and Art Nouveau styles has been under construction since 1882, and was designed by Antoni Gaud´ı.",
+          "hardness": 0.749,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2022 SCOP MS 11, Packet Round 3"
+        },
+        {
+          "text": "An opera based on a legend from this country features the title character being dragged to hell by a statue of the Commendatore.",
+          "hardness": 0.578,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2025 SHOW-ME, Packet 09"
+        },
+        {
+          "text": "Name this country home to Manuel de Falla and Isaac Albeniz, the latter of which composed a work titled “Iberia.”",
+          "hardness": 0.028,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2017 RMBCT, Packet 11"
+        },
+        {
+          "text": "Name this country, where Figaro prepares for his wedding after serving as the title “Barber of Seville.”",
+          "hardness": -0.019,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2025 SHOW-ME, Packet 09"
+        },
+        {
+          "text": "Name this European country that was written about in Albeniz's (“AL-ben-eez’s”) Iberia and whose toreadors are characters in Carmen.",
+          "hardness": -0.079,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 1,
+          "source": "2010 Collaborative Middle School Tournament, Packet 07"
+        }
+      ]
+    },
+    "medium": {
+      "answerlines": [
+        "<b><u>Spain</u></b> [or the Kingdom of <b><u>Spain</u></b> or <b><u>España</u></b>]",
+        "<b><u>Spain</u></b> [or <b><u>España</u></b>]",
+        "<b><u>Spain</u></b> [or Kingdom of <b><u>Spain</u></b> or Reino de <b><u>España</u></b>]",
+        "<b><u>Spain</u></b> [accept <b><u>España</u></b>]",
+        "<b><u>Spain</u></b> [or Kingdom of <b><u>Spain</u></b> or <b><u>España</u></b> or Reino de <b><u>España</u></b>]"
+      ],
+      "clues": [
+        {
+          "text": "One opera set in this country depicts three masked guests stopping an assault at a party that is proposed during the aria “Till They Are Tipsy.”",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2025 SHOW-ME, Packet 09"
+        },
+        {
+          "text": "In this country, a roof arched like the back of a dragon and a turret representing St. George’s lance appear on top of the “House of Bones.”",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2022 SHOW-ME, Packet 07"
+        },
+        {
+          "text": "This nation is also home to a museum with a giant puppy sculpted by Jeff Koons from flowers and a cathedral with a Passion Facade designed by Josep Maria Subirachs.",
+          "hardness": 1.033,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2015 BASK, Packet 03"
+        },
+        {
+          "text": "Josep Jujol collaborated with an architect from this country to design a house nicknamed “The Stone Quarry.”",
+          "hardness": 0.935,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2022 SHOW-ME, Packet 07"
+        },
+        {
+          "text": "A colorful salamander is in this country’s Park Güell (“gwail”), which was designed by the same architect who created one building’s Nativity and Passion façades.",
+          "hardness": 0.771,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2023 SWAMP, Packet 06"
+        },
+        {
+          "text": "Teo Macero (TAY-oh mah-SAY-roh) produced a Miles Davis album titled for Sketches of this country, which includes the second movement of native composer Joaquín Rodrigo's (wah-KEEN rah-DREE-gohz)Concierto de Aranjuez(kahns-YAIR-toh day-rahn-WEZ).",
+          "hardness": 0.558,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2022 IQBT Regular Season Set #1, Packet 09"
+        },
+        {
+          "text": "An opera based on a legend from this country features the title character being dragged to hell by a statue of the Commendatore.",
+          "hardness": 0.378,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2025 SHOW-ME, Packet 09"
+        },
+        {
+          "text": "Dances from this country include the bolero, jota, and seguidilla.",
+          "hardness": 0.308,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2024 IQBT Regular Season Set #4, Packet 10"
+        },
+        {
+          "text": "Name this European country of Manuel de Falla, who wrote the ballet El amor brujo.",
+          "hardness": -0.218,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2024 IQBT Regular Season Set #4, Packet 10"
+        },
+        {
+          "text": "Name this home of Santiago Calatrava, Antoni Gaudi, and the Guggenheim Bilbao.",
+          "hardness": -0.254,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2015 BASK, Packet 03"
+        }
+      ]
+    },
+    "hard": {
+      "answerlines": [
+        "<b><u>Spain</u></b> [or <b><u>España</u></b>]",
+        "<b><u>Spain</u></b> [or Kingdom of <b><u>Spain</u></b>; or <b><u>España</u></b>; or Reino de <b><u>España</u></b>]",
+        "<b><u>Spain</u></b> [accept Rapsodie <b><u>espagnole</u></b>; accept Symphonie <b><u>espagnole</u></b>; accept <b><u>España</u></b>]",
+        "<b><u>Spain</u></b> [or <b><u>Espana</u></b>; accept equivalent answers like “the <b><u>Spanish</u></b> Republic,” etc.]",
+        "<b><u>Spain</u></b> [or <b><u>España</u></b>; or Kingdom of <b><u>Spain</u></b>]"
+      ],
+      "clues": [
+        {
+          "text": "Alexander Gorsky's 1900 revival of a ballet set in this country added a variation in which a fan is repeatedly snapped open and shut by Kitri.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2025 PACE NSC, Packet 12"
+        },
+        {
+          "text": "Moderator Note: Read lowercase numerals (i.e. i) in the chords as “minor” (i.e. “minor one“) and capital as \"major\" This country names a chord progression whose first half is “i, V, i, VII, III, VII, i, V,” known as its “follies.”",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2019 Prison Bowl, Packet 06"
+        },
+        {
+          "text": "The gigue (\"zheeg\") was often paired with a triple-meter dance from this country that usually comprised the third movement of four-movement suites.",
+          "hardness": 1.073,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2021 PACE NSC, Packet 22 - Emergency"
+        },
+        {
+          "text": "A style of still-life set in the kitchen called bodegón evolved in this country.",
+          "hardness": 0.971,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2015 PACE NSC, Packet 02"
+        },
+        {
+          "text": "Themes from this country also inspired that composer for the fourth movement of his piano suite Miroirs. Édouard Lalo composed a five-movement piece for violin and orchestra titled after this country.",
+          "hardness": 0.736,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2019 BLAST, Packet Packet 12"
+        },
+        {
+          "text": "A large ear grows from a tree in a painting set on a farm in this country titled The Tilled Field.",
+          "hardness": 0.64,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2025 HISTONE, Packet 01"
+        },
+        {
+          "text": "Home to the composer of the ballet The Three-Cornered Hat and the keyboard sonatas of Antonio Soler, another composer from this country, Isaac Albeniz, wrote a piano suite named Iberia.",
+          "hardness": 0.478,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2012 Prison Bowl, Packet 11"
+        },
+        {
+          "text": "Instruments created in this country include the vihuela and a namesake five-stringed guitar.",
+          "hardness": 0.328,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2021 PACE NSC, Packet 22 - Emergency"
+        },
+        {
+          "text": "Name this European country with a strong classical guitar tradition.",
+          "hardness": -0.176,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 5,
+          "source": "2019 Prison Bowl, Packet 06"
+        },
+        {
+          "text": "Name this country home to the Sagrada Familía and the Guggenheim Bilbao.",
+          "hardness": -0.261,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 4,
+          "source": "2019 RMBAT, Packet 13"
+        }
+      ]
+    }
+  }
+}

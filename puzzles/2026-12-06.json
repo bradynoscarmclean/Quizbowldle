@@ -1,0 +1,274 @@
+{
+  "date": "2026-12-06",
+  "category": "Geography",
+  "answer": "Colorado River",
+  "tiers": {
+    "easy": {
+      "answerlines": [
+        "<b><u>Colorado</u></b> River",
+        "<b><u>Colorado</u></b> River (accept <b><u>Green</u></b> River before it is read)",
+        "<b><u> Colorado</u></b> River"
+      ],
+      "clues": [
+        {
+          "text": "John Wesley Powell explored this river’s rapids on an 1869 expedition that began on the Green River.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2017 SCOP Novice 8, Packet 02"
+        },
+        {
+          "text": "In 1934, the controversial construction of the Parker Dam on this river required the National Guard to muster the Arizona Navy.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2019 SCOP Novice 10, Packet 01"
+        },
+        {
+          "text": "This river receives the Green River in Canyonlands National Park before flowing downstream into Lake Powell.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2022 MAKEMAKE, Packet 01"
+        },
+        {
+          "text": "The Gila River flows into this river near Yuma, shortly before this river flows into the Gulf of California.",
+          "hardness": 1.018,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2017 SCOP Novice 8, Packet 02"
+        },
+        {
+          "text": "The Glen Canyon Dam on this river forms Lake Powell, the second largest man-made reservoir in the US; the largest reservoir, Lake Mead, is also on this river, behind the Hoover Dam.",
+          "hardness": 0.821,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2019 SCOP Novice 10, Packet 01"
+        },
+        {
+          "text": "Low water levels in Lake Mead, which this river flows through, have raised concern of a \"dead pool\" when this river will not be able to flow through Hoover Dam.",
+          "hardness": 0.744,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2022 MAKEMAKE, Packet 01"
+        },
+        {
+          "text": "This river’s water forms Lake Mead behind the Hoover Dam, which powers much of Arizona.",
+          "hardness": 0.597,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2017 SCOP Novice 8, Packet 02"
+        },
+        {
+          "text": "Name this river of the American West that flows through the Grand Canyon and starts in the Rocky Mountains of its namesake state.",
+          "hardness": 0.014,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 2,
+          "source": "2019 SCOP Novice 10, Packet 01"
+        },
+        {
+          "text": "The Grand Canyon was carved by what river named for a Rocky Mountain state?",
+          "hardness": -0.186,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 1,
+          "source": "2022 MAKEMAKE, Packet 01"
+        },
+        {
+          "text": "Name this river regulated by the Hoover Dam that carves out the Grand Canyon.",
+          "hardness": -0.197,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 1,
+          "source": "2023 Sentinel CYBER 1A, Packet 01"
+        }
+      ]
+    },
+    "medium": {
+      "answerlines": [
+        "<b><u>Colorado</u></b> River",
+        "<u>Colorado</u> River"
+      ],
+      "clues": [
+        {
+          "text": "The Grand Ditch diverts water from the headwaters of this river in the Never Summer Mountains to the Front Range Urban Corridor.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2014 LIST, Packet 11"
+        },
+        {
+          "text": "A desalination plant on the southern end of this body of water opened 14 years late and at five times the planned cost in 1992.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 WHAQ, Packet 01"
+        },
+        {
+          "text": "At Glenwood Canyon, the Hanging Lake flows into this river, and the canal joining this river and Lake Havasu is spanned by the 1831 London Bridge.",
+          "hardness": 1.061,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2013 JAMES, Packet 12"
+        },
+        {
+          "text": "The All-American Canal, which replaced the original Alamo Canal, provides irrigated water from this river to the Imperial Valley.",
+          "hardness": 0.941,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2014 LIST, Packet 11"
+        },
+        {
+          "text": "Cities along this river include Moab and Yuma, where the Gila River flows into this river.",
+          "hardness": 0.826,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2013 JAMES, Packet 12"
+        },
+        {
+          "text": "An irrigation canal connected to this body of water overflowed for two years into a brackish sinkhole and created a now-abandoned tourist trap called the Salton Sea.",
+          "hardness": 0.788,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 WHAQ, Packet 01"
+        },
+        {
+          "text": "The Gila River is a major tributary of this river, which is also joined by the Green River.",
+          "hardness": 0.608,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2012 GSAC, Packet 03"
+        },
+        {
+          "text": "This river, which serves as the source of water for irrigation of the Imperial Valley, contains the Hoover Dam, which creates Lake Mead.",
+          "hardness": 0.442,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2012 GSAC, Packet 03"
+        },
+        {
+          "text": "This river’s Lake Mead was formed by the Glen Canyon Dam and its Lake Powell formed by the Hoover Dam.",
+          "hardness": 0.349,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2021 CALISTO 2, Packet 09"
+        },
+        {
+          "text": "Name this river which empties into the Gulf of California and flows through the Grand Canyon.",
+          "hardness": -0.205,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2012 GSAC, Packet 03"
+        }
+      ]
+    },
+    "hard": {
+      "answerlines": [
+        "<u>Colorado</u> River",
+        "<b><u>Colorado</u></b> River [or Río <b><u>Colorado</u></b>]",
+        "<b><u>Colorado</u></b> River",
+        "<b><u>Colorado</u></b> River (the unnamed tributary is the Gunnison River)"
+      ],
+      "clues": [
+        {
+          "text": "A project that moves water from this river to the Front Range Urban Corridor is known as the Grand Ditch.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2022 COAST, Packet 1"
+        },
+        {
+          "text": "A desalination plant on the southern end of this body of water opened 14 years late and at five times the planned cost in 1992.",
+          "hardness": 1.05,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 WHAQ, Packet 01"
+        },
+        {
+          "text": "At Glenwood Canyon, the Hanging Lake flows into this river, and the canal joining this river and Lake Havasu is spanned by the 1831 London Bridge.",
+          "hardness": 0.961,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2013 JAMES, Packet 12"
+        },
+        {
+          "text": "The All-American Canal, which replaced the original Alamo Canal, provides irrigated water from this river to the Imperial Valley.",
+          "hardness": 0.841,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2014 LIST, Packet 11"
+        },
+        {
+          "text": "Cities along this river include Moab and Yuma, where the Gila River flows into this river.",
+          "hardness": 0.726,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2013 JAMES, Packet 12"
+        },
+        {
+          "text": "This river flows through Yuma, where it makes its only international border crossing.",
+          "hardness": 0.534,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2022 COAST, Packet 1"
+        },
+        {
+          "text": "The Salton Sea was originally created by floodwaters from this river. John Wesley Powell explored this river’s most visited feature.",
+          "hardness": 0.481,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2014 LIST, Packet 11"
+        },
+        {
+          "text": "In 1905, overflows from this river formed the now heavily-polluted Salton Sea.",
+          "hardness": 0.373,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2021 CALISTO 2, Packet 09"
+        },
+        {
+          "text": "This river’s Lake Mead was formed by the Glen Canyon Dam and its Lake Powell formed by the Hoover Dam.",
+          "hardness": 0.249,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2021 CALISTO 2, Packet 09"
+        },
+        {
+          "text": "Name this river of the Southwest which empties into the Gulf of California and traverses the Grand Canyon.",
+          "hardness": -0.311,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2021 CALISTO 2, Packet 09"
+        }
+      ]
+    }
+  }
+}

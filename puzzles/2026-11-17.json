@@ -1,0 +1,280 @@
+{
+  "date": "2026-11-17",
+  "category": "Science",
+  "answer": "gravity",
+  "tiers": {
+    "easy": {
+      "answerlines": [
+        "<b><u>gravity</u></b> (accept <b><u>gravitation</u></b>al waves)",
+        "<b><u>gravity</u></b>",
+        "<b><u>gravity</u></b> [or <b><u>gravitation</u></b>al force]",
+        "gravity (accept gravitational force)",
+        "<u>gravity</u> (accept loop quantum <u>gravity</u>)"
+      ],
+      "clues": [
+        {
+          "text": "A theoretical particle representing this force would be a boson with a spin of two.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2021 SCOP B, Packet 1"
+        },
+        {
+          "text": "The currently unsolved hierarchy problem describes the discrepancies in aspects of this force and the weak force.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2022 SANDS, Packet 02"
+        },
+        {
+          "text": "When air resistance exactly counteracts this force, an object has reached terminal velocity.",
+          "hardness": 1,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2010 Collaborative Middle School Tournament, Packet 03"
+        },
+        {
+          "text": "Spacecraft can speed up by using this force as a \"slingshot.\"",
+          "hardness": 0.9,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2017 SCOP MS 7, Packet 1"
+        },
+        {
+          "text": "This force's magnitude is inversely proportional to the square of the distance between two objects.",
+          "hardness": 0.749,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2012 Collaborative Middle School Tournament #3, Packet 08"
+        },
+        {
+          "text": "The theory of General Relativity states that this force, the source of the three-body problem, is caused by the curvature of space-time.",
+          "hardness": 0.727,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2017 Darien DEFT, Packet 04"
+        },
+        {
+          "text": "All objects that have mass exert this force on each other.",
+          "hardness": 0.464,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2015 SAGES, Packet 08"
+        },
+        {
+          "text": "Big G times the product of the masses divided by the square of the distance is the strength of what weakest fundamental force, which causes an acceleration of 9.8 meters per second on Earth?",
+          "hardness": 0.073,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 2,
+          "source": "2017 Darien DEFT, Packet 04"
+        },
+        {
+          "text": "Name this weakest of the four fundamental forces which attracts objects to each other.",
+          "hardness": -0.161,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 1,
+          "source": "2018 MVS RAMS, Packet 06"
+        },
+        {
+          "text": "Name this attractive force discovered by Isaac Newton.",
+          "hardness": -0.245,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 1,
+          "source": "2023 Sentinel CYBER 1A, Packet 01"
+        }
+      ]
+    },
+    "medium": {
+      "answerlines": [
+        "<b><u>gravity</u></b> [or <b><u>gravitation</u></b>al force; accept <b><u>gravitation</u></b>al waves or <b><u>gravitation</u></b>al wave background; accept <b><u>gravitation</u></b>al time dilation; accept <b><u>gravitation</u></b>al lensing]",
+        "<b><u>gravity</u></b> [Metzger invented a gravity gradiometer]",
+        "<b><u>gravity</u></b> [accept <b><u>gravitational</u></b> waves or <b><u>gravitational</u></b> force or <b><u>gravitational</u></b> lensing; prompt on <u>general relativity</u> before “pair” with “what phenomenon does that describe?”]",
+        "<b><u>gravity</u></b>",
+        "<b><u>Gravity</u></b> (accept equivalents)"
+      ],
+      "clues": [
+        {
+          "text": "In 2023, a background rate of radiation of this phenomenon in the universe was discovered with data from pulsar timing arrays collected over 15 years.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2024 CALISTO, Packet 08"
+        },
+        {
+          "text": "Kaluza–Klein theory creates a fifth dimension to unify this force with electromagnetism.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2024 CARD, Packet 09"
+        },
+        {
+          "text": "Unlike MOND, some modern theories claim that it is carried by a massless, spin 2 particle.",
+          "hardness": 1.02,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2011 OLEFIN, Packet 11"
+        },
+        {
+          "text": "Benard cells form because this force dominates at lower temperatures in natural convection.",
+          "hardness": 0.89,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2014 BISB, Packet 14--Finals"
+        },
+        {
+          "text": "Einstein visualized this force by imagining curved space-time, and the universal law of this force states that F equals G M1 M2 divided by r squared.",
+          "hardness": 0.761,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2011 LIST, Packet 04"
+        },
+        {
+          "text": "A research team in China controversially discovered that the speed of this force exceeds the speed of light.",
+          "hardness": 0.628,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2014 Prison Bowl, Packet 02"
+        },
+        {
+          "text": "This interaction first appeared during the Planck epoch, and this force is the weakest of the four fundamental forces.",
+          "hardness": 0.479,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2018 Glasgow Scottie, Packet 12"
+        },
+        {
+          "text": "It is the only net force that acts on an Atwood machine.",
+          "hardness": 0.357,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2014 BISB, Packet 14--Finals"
+        },
+        {
+          "text": "Drag balances it at terminal velocity.",
+          "hardness": 0.148,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2014 BISB, Packet 14--Finals"
+        },
+        {
+          "text": "Name this force that attracts masses to each other.",
+          "hardness": -0.286,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2020 LONE STAR, Packet 02"
+        }
+      ]
+    },
+    "hard": {
+      "answerlines": [
+        "<b><u>gravity</u></b> [or <b><u>gravitation</u></b>; or <b><u>gravitational force</u></b>; or <b><u>gravitational</u></b> radiation; or <b><u>gravity</u></b> waves; or <b><u>gravitational wave</u></b>s]",
+        "<b><u>gravity</u></b> [accept <b><u>gravitational wave</u></b>s or <b><u>gravity wave</u></b>s; accept <b><u>quantum gravity</u></b> until “outward radiation”]",
+        "<b><u>gravity</u></b> [accept word forms like <b><u>gravitation</u></b>; accept loop quantum <b><u>gravity</u></b> prompt on <u>spacetime</u> or <u>curvature</u>]",
+        "<b><u>gravity</u></b> [accept word forms such as <b><u>gravitational</u></b> force]",
+        "<b><u>gravity</u></b>"
+      ],
+      "clues": [
+        {
+          "text": "A classic textbook titled for this phenomenon is abbreviated MTW for its three authors.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2017 PACE NSC, Packet 17"
+        },
+        {
+          "text": "This phenomenon is quantized by spin networks in its namesake loop theory.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2019 BLAST, Packet Packet 4"
+        },
+        {
+          "text": "This phenomenon can be modeled as propagating over a spin network or \"spin foam,\" which is made up of finite loops.",
+          "hardness": 1.065,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2019 PACE NSC, Packet 17"
+        },
+        {
+          "text": "The law of the prolonged sine measures the strength of response to this phenomenon.",
+          "hardness": 0.986,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2021 SKUFFED, Packet 5"
+        },
+        {
+          "text": "This interaction is thought to be mediated by a spin-2 massless boson, and experiments such as LISA intend to search for waves produced by this interaction, which deflects light in a process known as its namesake lensing effect.",
+          "hardness": 0.805,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2010 PACE NSC, Packet 1"
+        },
+        {
+          "text": "A theoretical particle that mediates this force would have plus 2 spin.",
+          "hardness": 0.652,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2011 BDAT, Packet 09"
+        },
+        {
+          "text": "This phenomenon, which is not described by GUTs, is treated as a consequence of the curvature of spacetime in general relativity.",
+          "hardness": 0.504,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2014 BHSAT, Packet 03"
+        },
+        {
+          "text": "Statoliths detect this phenomenon in plants by releasing growth factors when tilted.",
+          "hardness": 0.417,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2021 SKUFFED, Packet 5"
+        },
+        {
+          "text": "Name this phenomenon that causes plants and animals to fall down to the earth.",
+          "hardness": -0.134,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 5,
+          "source": "2021 SKUFFED, Packet 5"
+        },
+        {
+          "text": "Name this fundamental force that is described classically by an inverse square law.",
+          "hardness": -0.246,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 4,
+          "source": "2017 Prison Bowl, Packet 01"
+        }
+      ]
+    }
+  }
+}

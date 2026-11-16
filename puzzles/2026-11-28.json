@@ -1,0 +1,273 @@
+{
+  "date": "2026-11-28",
+  "category": "Philosophy",
+  "answer": "Jean-Paul Sartre",
+  "tiers": {
+    "easy": {
+      "answerlines": [
+        "Jean-Paul <b><u>Sartre</u></b>",
+        "Jean-Paul <b><u>Sartre</u></b> [or Jean-Paul Charles Aymard <b><u>Sartre</u></b>]",
+        "Jean-Paul<b><u> Sartre</u></b>"
+      ],
+      "clues": [
+        {
+          "text": "This thinker wrote “in fashioning myself, I fashion man” to illustrate man’s impact on humanity as a whole in an essay based on a lecture given at the Club Maintenant (“MAN-tuh-NUH”).",
+          "hardness": 1.35,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2022 KICKOFF, Packet 04"
+        },
+        {
+          "text": "In one work, this man divided inanimate objects like rocks and living, feeling things like humans in terms of en-soi and pour-soi, being in itself and being for itself.",
+          "hardness": 1.35,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2011 DCCAT, Packet 10"
+        },
+        {
+          "text": "This man argued that \"existence precedes essence\" in a work that argued that his philosophy \"is a Humanism.\"",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2013 SCOP Novice 4, Packet 11"
+        },
+        {
+          "text": "This author of the Critique of Dialectical (dai-uh-LEK-tik-ul) Reason used a mannequin to explain “the look,” which they apply to sexual desire.",
+          "hardness": 1.168,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2023 Planetfall, Packet 07"
+        },
+        {
+          "text": "This thinker imagines their friend never showing up to a café in another work to illustrate “nothingness” as a negative judgment.",
+          "hardness": 0.97,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2023 Planetfall, Packet 07"
+        },
+        {
+          "text": "He also stated that “man first of all exists… and defines himself afterwards.”",
+          "hardness": 0.783,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 RMBCT, Packet 03"
+        },
+        {
+          "text": "Strangely enough, he defended orthodox Marxism despite his extreme individualism and in doing so, lost the goodwill of Albert Camus.",
+          "hardness": 0.638,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 RMBCT, Packet 03"
+        },
+        {
+          "text": "This lover of Simone de Beauvoir contrasted “being-in-itself” and “being-for-itself” in his most famous philosophical work.",
+          "hardness": 0.594,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2022 KICKOFF, Packet 04"
+        },
+        {
+          "text": "They used a too-stiff, inhuman-appearing waiter to demonstrate “bad faith” in another work.",
+          "hardness": 0.434,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2023 Planetfall, Packet 07"
+        },
+        {
+          "text": "Name this existentialist philosopher who wrote Existentialism is a Humanism and Being and Nothingness.",
+          "hardness": -0.009,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2022 KICKOFF, Packet 04"
+        }
+      ]
+    },
+    "medium": {
+      "answerlines": [
+        "Jean-Paul <b><u>Sartre</u></b>",
+        "Jean-Paul <b><u>Sartre</u></b> [or Jean-Paul Charles Aymard <b><u>Sartre</u></b>]",
+        "Jean-Paul<b><u> Sartre</u></b>"
+      ],
+      "clues": [
+        {
+          "text": "In one work, this man divided inanimate objects like rocks and living, feeling things like humans in terms of en-soi and pour-soi, being in itself and being for itself.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2011 DCCAT, Packet 10"
+        },
+        {
+          "text": "This thinker used the example of deforestation in China to describe the “practico-inert”, in which praxis (PRAK-suhs) has sunk cost.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2023 Planetfall, Packet 07"
+        },
+        {
+          "text": "This thinker wrote “in fashioning myself, I fashion man” to illustrate man’s impact on humanity as a whole in an essay based on a lecture given at the Club Maintenant (“MAN-tuh-NUH”).",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2022 KICKOFF, Packet 04"
+        },
+        {
+          "text": "This author of the Critique of Dialectical (dai-uh-LEK-tik-ul) Reason used a mannequin to explain “the look,” which they apply to sexual desire.",
+          "hardness": 0.968,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2023 Planetfall, Packet 07"
+        },
+        {
+          "text": "This author used the examples of a woman choosing to ignore the implications of her date’s compliments and a waiter whose movements are too “waiter-esque” to illustrate “bad faith.”",
+          "hardness": 0.699,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2022 KICKOFF, Packet 04"
+        },
+        {
+          "text": "One of his works is the source of his quote, “Hell is other people.”",
+          "hardness": 0.516,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2011 DCCAT, Packet 10"
+        },
+        {
+          "text": "This lover of Simone de Beauvoir contrasted “being-in-itself” and “being-for-itself” in his most famous philosophical work.",
+          "hardness": 0.394,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2022 KICKOFF, Packet 04"
+        },
+        {
+          "text": "This man wrote a play in which a character claims, “Hell is other people.”",
+          "hardness": 0.309,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2019 WAIT, Packet 02"
+        },
+        {
+          "text": "They used a too-stiff, inhuman-appearing waiter to demonstrate “bad faith” in another work.",
+          "hardness": 0.234,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2023 Planetfall, Packet 07"
+        },
+        {
+          "text": "Name this existentialist philosopher who wrote Existentialism is a Humanism and Being and Nothingness.",
+          "hardness": -0.209,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2022 KICKOFF, Packet 04"
+        }
+      ]
+    },
+    "hard": {
+      "answerlines": [
+        "Jean-Paul <b><u>Sartre</u></b>",
+        "Jean-Paul <b><u>Sartre</u></b> (SAR-truh) [or Jean-Paul Charles Aymard <b><u>Sartre</u></b>]"
+      ],
+      "clues": [
+        {
+          "text": "Stoic philosophy influenced this thinker's claim that freedom is our unlimited ability to respond to the external world in Sketch for a Theory of the Emotions.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2025 PACE NSC, Packet 08"
+        },
+        {
+          "text": "This thinker characterized one group as “play with discourse” while their opponents use language responsibly.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2023 DART, Packet 06"
+        },
+        {
+          "text": "This philosopher offered an intersubjective definition of being Jewish in Anti-Semite and Jew.",
+          "hardness": 1,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2012 Prison Bowl, Packet 08"
+        },
+        {
+          "text": "A march of 5,000 military veterans chanted a demand to “Shoot!”",
+          "hardness": 1,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2015 Prison Bowl, Packet 05"
+        },
+        {
+          "text": "He refuted Gyorgy Lukacs’s philosophy in Search for a Method, before describing the “practico-inert” and “praxis” in his Marxist theory of class in its unfinished sequel, Critique of Dialectical Reason.",
+          "hardness": 0.848,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2012 Prison Bowl, Packet 08"
+        },
+        {
+          "text": "This author wrote the preface to The Wretched of the Earth by Frantz Fanon.",
+          "hardness": 0.787,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2019 BLAST, Packet Packet 12"
+        },
+        {
+          "text": "This philosopher wrote that \"man is condemned to be free\" in a lecture that describes a concept that \"precedes essence\" and calls the title movement \"a humanism.\"",
+          "hardness": 0.615,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2025 PACE NSC, Packet 08"
+        },
+        {
+          "text": "This thinker contrasted “being-for-itself” and “being-in-itself” and used a mechanical and too-stiff waiter to illustrate bad faith.",
+          "hardness": 0.499,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2023 DART, Packet 06"
+        },
+        {
+          "text": "This author of Anti-Semite and Jew stated in Existentialism is a Humanism that existence precedes essence.",
+          "hardness": 0.277,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2023 DART, Packet 06"
+        },
+        {
+          "text": "Name this author of Being and Nothingness, a lover of Simone de Beauvoir and French existentialist.",
+          "hardness": -0.233,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 4,
+          "source": "2014 BHSAT, Packet 03"
+        }
+      ]
+    }
+  }
+}

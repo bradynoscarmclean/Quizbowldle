@@ -1,0 +1,280 @@
+{
+  "date": "2026-11-26",
+  "category": "Geography",
+  "answer": "Yangtze River",
+  "tiers": {
+    "easy": {
+      "answerlines": [
+        "<b><u>Yangtze</u></b> River [accept <b><u>Chang Jiang</u></b> before mention or <b><u>Da Jiang</u></b>]",
+        "<b><u>Yangtze</u></b> River (accept <b><u>Da Jiang</u></b> or <b><u>Chang Jiang</u></b> until mentioned; prompt on “Long River”)",
+        "<b><u>Yangtze</u></b> River [or <b><u>Chang Jiang</u></b>]",
+        "<b><u>Yangtze</u></b> River (also accept <b><u>Chang Jiang</u></b>)",
+        "<b><u>Yangtze</u></b> River [accept <b><u>Cháng Jiāng</u></b>]"
+      ],
+      "clues": [
+        {
+          "text": "Hanging coffins lie on a cliff adjacent to the Shennon stream, which meets this river at the city of Badong.",
+          "hardness": 1.35,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 LIST, Packet 6"
+        },
+        {
+          "text": "The official source of this river is a glacier on Geladandong Mountain in the Dangla Mountain Range.",
+          "hardness": 1.35,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2011 LIST, Packet 03"
+        },
+        {
+          "text": "This river’s native baiji was the first species of dolphin to have a human-caused extinction.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2022 KICKOFF Novice, Packet 01N"
+        },
+        {
+          "text": "Yichang City’s Gezhouba Dam lies on this river in Hubei Province, while this river’s third dam, the Xiluodu Dam, is under construction.",
+          "hardness": 1.172,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2011 LIST, Packet 03"
+        },
+        {
+          "text": "Declared functionally extinct in 2006, the baiji species of freshwater dolphin was found only in this river.",
+          "hardness": 1.1,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2012 Fall Kickoff Tournament (FKT), Packet 04"
+        },
+        {
+          "text": "One tributary of this river is named for the large number of gold prospectors it attracts, and it is still currently home to the largest hydroelectric power station in the world, the Three Gorges dam.",
+          "hardness": 0.914,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 LIST, Packet 6"
+        },
+        {
+          "text": "Over 1 million people were displaced by the construction of the Three Gorges Dam on this river, which is connected to another river to its north by the Grand Canal.",
+          "hardness": 0.86,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2022 KICKOFF Novice, Packet 01N"
+        },
+        {
+          "text": "This river, more commonly known as the Chang Jiang in the country through which it flows, runs through provinces like Sichuan, Hubei, and Jiangsu before emptying into the Pacific at Shanghai.",
+          "hardness": 0.609,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 LIST, Packet 6"
+        },
+        {
+          "text": "The Three Gorges Dam generates electricity from this river, which flows south of the Yellow River and reaches the Pacific Ocean near Shanghai.",
+          "hardness": 0.537,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2018 MBAT, Packet 12"
+        },
+        {
+          "text": "This Chinese river, the longest in Asia.",
+          "hardness": -0.106,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2018 MBAT, Packet 12"
+        }
+      ]
+    },
+    "medium": {
+      "answerlines": [
+        "<b><u>Yangtze</u></b> River (accept <b><u>Da Jiang</u></b> or <b><u>Chang Jiang</u></b> until mentioned; prompt on “Long River”)",
+        "<b><u>Yangtze</u></b> River [accept <b><u>Chang Jiang</u></b> before mention or <b><u>Da Jiang</u></b>]",
+        "<b><u>Yangtze</u></b> River [accept <b><u>Cháng Jiāng</u></b>]",
+        "<b><u>Yangtze</u></b> River [or <b><u>Chang Jiang</u></b>]",
+        "<b><u>Yangtze</u></b> River (also accept <b><u>Chang Jiang</u></b>)"
+      ],
+      "clues": [
+        {
+          "text": "The Amethyst Incident led one British warship to be trapped in this body of water for three months.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2018 MBAT, Packet 12"
+        },
+        {
+          "text": "A species of fish native to this river’s basin known as Dabry’s sturgeon was recently declared extinct in the wild.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2022 KICKOFF, Packet 01"
+        },
+        {
+          "text": "The official source of this river is a glacier on Geladandong Mountain in the Dangla Mountain Range.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2011 LIST, Packet 03"
+        },
+        {
+          "text": "A tributary of this river flows through the Tiger Leaping Gorge, and it is the easternmost of the Three Parallel Rivers in Yunnan.",
+          "hardness": 0.972,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2022 KICKOFF, Packet 01"
+        },
+        {
+          "text": "A channel serves as an outflow from Lake Poyang to this river, which meets its largest tributary at Wuhan.",
+          "hardness": 0.759,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2019 LOGIC, Packet 03"
+        },
+        {
+          "text": "One tributary of this river is named for the large number of gold prospectors it attracts, and it is still currently home to the largest hydroelectric power station in the world, the Three Gorges dam.",
+          "hardness": 0.714,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 LIST, Packet 6"
+        },
+        {
+          "text": "This river is inhabited by a namesake species of crocodiles, while a type of dolphin named for this river is functionally extinct.",
+          "hardness": 0.566,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2018 MBAT, Packet 12"
+        },
+        {
+          "text": "This very polluted river flooded several times in the early 20th century, each resulting in over 100,000 deaths.",
+          "hardness": 0.406,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2011 LIST, Packet 03"
+        },
+        {
+          "text": "The Three Gorges Dam generates electricity from this river, which flows south of the Yellow River and reaches the Pacific Ocean near Shanghai.",
+          "hardness": 0.337,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2018 MBAT, Packet 12"
+        },
+        {
+          "text": "This Chinese river, the longest in Asia.",
+          "hardness": -0.306,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2018 MBAT, Packet 12"
+        }
+      ]
+    },
+    "hard": {
+      "answerlines": [
+        "<b><u>Yangtze</u></b> River [or <b><u>Chang Jiang</u></b>]",
+        "<b><u>Yangtze</u></b> River [accept <b><u>Chang Jiang</u></b> before mention or <b><u>Da Jiang</u></b>]",
+        "<b><u>Yangtze</u></b> River (accept <b><u>Da Jiang</u></b> or <b><u>Chang Jiang</u></b> until mentioned; prompt on “Long River”)",
+        "<b><u>Yangtze</u></b> River [or <b><u>Cháng Jiāng</u></b>]",
+        "<b><u>Yangtze</u></b> River"
+      ],
+      "clues": [
+        {
+          "text": "In 2019, Ash Dykes became the first person to walk the full length of this river.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2021 Glasgow Scottie, Packet 05"
+        },
+        {
+          "text": "Hanging coffins lie on a cliff adjacent to the Shennon stream, which meets this river at the city of Badong.",
+          "hardness": 1.05,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 LIST, Packet 6"
+        },
+        {
+          "text": "A species of fish native to this river’s basin known as Dabry’s sturgeon was recently declared extinct in the wild.",
+          "hardness": 1.05,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2022 KICKOFF, Packet 01"
+        },
+        {
+          "text": "Dongting Lake supplies water to this river, which originates at Geladaindong Peak.",
+          "hardness": 0.888,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2017 LIST, Packet 6"
+        },
+        {
+          "text": "A tributary of this river flows through the Tiger Leaping Gorge, and it is the easternmost of the Three Parallel Rivers in Yunnan.",
+          "hardness": 0.872,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2022 KICKOFF, Packet 01"
+        },
+        {
+          "text": "This river turns 180 degrees at Shigu in Yunnan Province, and joins with the Jialing and Han Rivers.",
+          "hardness": 0.633,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2011 LIST, Packet 03"
+        },
+        {
+          "text": "This river was home to a now-extinct species of dolphins known as the Baiji, and the largest dam in the world, the Three Gorges Dam, is found on it.",
+          "hardness": 0.568,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2021 Glasgow Scottie, Packet 05"
+        },
+        {
+          "text": "A now-extinct dolphin species called the baiji was once native to this river, whose lower reaches are also home to the only populations of the Chinese Alligator.",
+          "hardness": 0.363,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2019 LOGIC, Packet 03"
+        },
+        {
+          "text": "Over 1 million people were displaced by the construction of the Three Gorges Dam on this river, which is connected to another river to its north by the Grand Canal.",
+          "hardness": 0.294,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2022 KICKOFF, Packet 01"
+        },
+        {
+          "text": "Shanghai lies on what longest river in China?",
+          "hardness": -0.289,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 4,
+          "source": "2025 Planetfall, Packet 02"
+        }
+      ]
+    }
+  }
+}

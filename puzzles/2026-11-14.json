@@ -1,0 +1,278 @@
+{
+  "date": "2026-11-14",
+  "category": "History",
+  "answer": "Federative Republic of Brazil",
+  "tiers": {
+    "easy": {
+      "answerlines": [
+        "Federative Republic of <b><u>Brazil</u></b>",
+        "Federative Republic of <b><u>Brazil</u></b> [accept Republica Federativa do <b><u>Brasil</u></b>]",
+        "Federative Republic of <b><u>Brazil</u></b> [or Republica Federativa da <b><u>Brasil</u></b>; or <b><u>Vera Cruz</u></b>; or the Empire of <b><u>Brazil</u></b>]",
+        "Federative Republic of <u>Brazil</u>"
+      ],
+      "clues": [
+        {
+          "text": "In this country, a period of political dominance by coffee planters and cattle ranchers in the early 20th century was known as its “cafe com leche” era.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2020 MOQBA Novice, Packet Packet 03"
+        },
+        {
+          "text": "A leader of this country employed the Duke of Caxias to help win the War of the Triple Alliance against its neighbor.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2019 SCOP Novice 10, Packet 05"
+        },
+        {
+          "text": "The Cry of Ipiranga declared this country’s independence, and its Golden Law freed slaves under Dom Pedro II.",
+          "hardness": 1.1,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2010 Fall Novice Tournament, Packet 07"
+        },
+        {
+          "text": "This country allied with Uruguay and Argentina to defeat Paraguayan dictator Frasncisco Solano Lopez in the War of the Triple Alliance.",
+          "hardness": 0.971,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2020 MOQBA Novice, Packet Packet 03"
+        },
+        {
+          "text": "This country was led by two emperors named Pedro, the second of whom abolished slavery with the Golden Law.",
+          "hardness": 0.819,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2019 SCOP Novice 10, Packet 05"
+        },
+        {
+          "text": "It joined with Argentina and Uruguay in the War of the Triple Alliance, and explorer Pedro Cabral sighted this country where Getulio Vargas later ran the Estado Novo.",
+          "hardness": 0.67,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2010 Fall Novice Tournament, Packet 07"
+        },
+        {
+          "text": "This country’s 1888 Golden Law made it the last nation in the Americas to abolish slavery.",
+          "hardness": 0.574,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2020 MOQBA Novice, Packet Packet 03"
+        },
+        {
+          "text": "Pedro II served as the last emperor of this country, which gained independence from Portugal in 1824.",
+          "hardness": 0.401,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2020 MOQBA Novice, Packet Packet 03"
+        },
+        {
+          "text": "Sao Paulo, Rio de Janeiro, and the Amazon rainforest are located in what largest country in South America?",
+          "hardness": -0.1,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 1,
+          "source": "2012 Collaborative Middle School Tournament #3, Packet 04"
+        },
+        {
+          "text": "Name this country once led by Pedro II from Rio de Janeiro.",
+          "hardness": -0.172,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 2,
+          "source": "2017 Darien DEFT, Packet 02"
+        }
+      ]
+    },
+    "medium": {
+      "answerlines": [
+        "Federative Republic of <b><u>Brazil</u></b> [accept “República Federativa do <b><u>Brasil</u></b>”]",
+        "Federative Republic of <b><u>Brazil</u></b>",
+        "Federative Republic of <b><u>Brazil</u></b> [accept <i>República Federativa do</i> <i><b><u>Brasil</u></b></i>]",
+        "Federative Republic of <b><u>Brazil</u></b> [or República Federativa do <b><u>Brasil</u></b>]"
+      ],
+      "clues": [
+        {
+          "text": "Estácio de Sá expelled Huguenots from the outpost called “France Antarctique” to found this modern-day country’s largest city.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2015 GSAC, Packet 13Finals1"
+        },
+        {
+          "text": "One leader of this country denounced the Cohen Plan, a purported communist coup attempt, before seizing dictatorial powers.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2019 RAFT, Packet RAFT Packet 06"
+        },
+        {
+          "text": "The Xingu river in this country is home to the large Belo Monte Dam.",
+          "hardness": 0.989,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2020 LONE STAR, Packet 01"
+        },
+        {
+          "text": "This country’s Pantanal wetlands are in its state of Mato Grosso.",
+          "hardness": 0.86,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2020 LONE STAR, Packet 01"
+        },
+        {
+          "text": "This country’s leader Juscelino Kubitschek employed Oscar Niemeyer to design a centralized capital city for this country.",
+          "hardness": 0.636,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2019 RAFT, Packet RAFT Packet 06"
+        },
+        {
+          "text": "The first ruler of this country fought the Confederation of the Equator and supposedly declared its independence with the Cry of Ipiranga.",
+          "hardness": 0.564,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2020 AQBL October Set, Packet 06"
+        },
+        {
+          "text": "Slavery was outlawed by the Golden Law in this nation that was first called Terra de Santa Cruz by Pedro Cabral.",
+          "hardness": 0.364,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2014 BELLOCO, Packet 10"
+        },
+        {
+          "text": "Pedro Cabral discovered this country after being blown off course.",
+          "hardness": 0.278,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2015 GSAC, Packet 13Finals1"
+        },
+        {
+          "text": "The Christ the Redeemer Statue is in what country home to the city of Rio de Janeiro and the Amazon rainforest?",
+          "hardness": -0.163,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2020 LONE STAR, Packet 01"
+        },
+        {
+          "text": "Name this largest Portuguese-speaking country in the world, located in South America.",
+          "hardness": -0.234,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2015 GSAC, Packet 13Finals1"
+        }
+      ]
+    },
+    "hard": {
+      "answerlines": [
+        "Federative Republic of <b><u>Brazil</u></b> [accept República Federativa do <b><u>Brasil</u></b>]",
+        "Federative Republic of <b><u>Brazil</u></b> [or Republica Federativa do <b><u>Brasil</u></b>]",
+        "Federative Republic of <b><u>Brazil</u></b> [or <i>República Federativa do</i> <i><b><u>Brasil</u></b></i>]",
+        "Federative Republic of <b><u>Brazil</u> </b>",
+        "Federative Republic of <b><u>Brazil</u></b> [or República Federativa do <b><u>Brasil</u></b>; or Empire of <b><u>Brazil</u></b>; or Imperío do <b><u>Brasil</u></b>]"
+      ],
+      "clues": [
+        {
+          "text": "The Dutch established New Holland in this country around Maruitsstad.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2019 Prison Bowl, Packet 05"
+        },
+        {
+          "text": "In 1903, this country traded a railway for the region of Acre.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2018 BHSAT, Packet 02"
+        },
+        {
+          "text": "This nation fought against the Thirty-Three Orientals in the Battle of Sarandí, part of the Cisplatine War.",
+          "hardness": 1,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2014 BHSAT, Packet 09"
+        },
+        {
+          "text": "After a leader of this country shot himself at the Catete Palace, Plínio Salgado returned from exile to reform its Integralist Party.",
+          "hardness": 0.882,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2021 LHASA, Packet 01"
+        },
+        {
+          "text": "Slaves in this country created the religion Candomblé.",
+          "hardness": 0.78,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2018 BHSAT, Packet 02"
+        },
+        {
+          "text": "Swidden agriculture was introduced to this country’s Yanomami tribe as a result of European contact, which began with Pedro Cabral.",
+          "hardness": 0.618,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2018 Prison Bowl, Packet 04"
+        },
+        {
+          "text": "This country’s cities of Belém and Manaus profited from a rubber boom that dispossessed land held by several forest-dwelling tribes.",
+          "hardness": 0.404,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2018 Prison Bowl, Packet 04"
+        },
+        {
+          "text": "Sergio Moro led this country’s Operation Car Wash, which led to the impeachment of its first female president.",
+          "hardness": 0.321,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2021 LHASA, Packet 01"
+        },
+        {
+          "text": "—name this former Portuguese colony.",
+          "hardness": -0.192,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 5,
+          "source": "2003 PACE NSC, Packet 09"
+        },
+        {
+          "text": "Jair Bolsonaro leads what Portuguese-speaking South American country?",
+          "hardness": -0.294,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 4,
+          "source": "2021 LHASA, Packet 01"
+        }
+      ]
+    }
+  }
+}

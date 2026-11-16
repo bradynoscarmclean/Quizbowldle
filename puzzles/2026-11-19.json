@@ -1,0 +1,280 @@
+{
+  "date": "2026-11-19",
+  "category": "Literature",
+  "answer": "China",
+  "tiers": {
+    "easy": {
+      "answerlines": [
+        "<b><u>China</u></b> [or <b><u>Zhongguo</u></b>]",
+        "<b><u>China</u></b> (accept People's Republic of<b><u>China</u></b>or<b><u>PRC</u></b>; accept<b><u>Zhongguo</u></b>or<b><u>Zhonghua</u></b>RenminGongheguo. The first work mentioned is<i>Nineteen Waysof Looking at Wang Wei</i>)",
+        "<b><u>China</u></b> (accept <b><u>Zhongguo</u></b>; accept People’s Republic of <b><u>China</u></b>; accept <b><u>Zhonggua</u></b> Renmin Gongheguo)",
+        "<b><u>China</u></b> [or People's Republic of <b><u>China</u></b> or <b><u>PRC</u></b> or <b><u>Zhongguo</u></b> or <b><u>Zhonghua Renmin Gongheguo</u></b>; do NOT accept or prompt on \"Republic of China\" or \"ROC\"]",
+        "<b><u>China</u></b>"
+      ],
+      "clues": [
+        {
+          "text": "A poet from what is now this country is the subject of the Eliot Weinberger workNineteen Ways of Looking athim, which describes the twenty-character-longpoem \"Deer Grove.\"",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2025 Rockford Quiz Bowl Novice, Packet 02"
+        },
+        {
+          "text": "The protagonist of a novel from this country has a vision of the Twelve Beauties, and is born with a precious stone in his mouth.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2023 MOQBA Novice, Packet 02"
+        },
+        {
+          "text": "In a novel from this country, a character decides to urinate on pillars that turn out to be the fingers of a god.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2023 QUAOAR, Packet 03"
+        },
+        {
+          "text": "In another novel from this country, one character wields an iron rake, while another character was born from a stone egg.",
+          "hardness": 1.036,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 2,
+          "source": "2020 MOQBA Novice, Packet Packet 08"
+        },
+        {
+          "text": "In another novel from this country, a character “borrows” 100,000 arrows using straw boats in preparation for the Battle of Red Cliffs.",
+          "hardness": 0.903,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2023 QUAOAR, Packet 03"
+        },
+        {
+          "text": "A poem from this country describes \"bowing my head\" and \"frost upon the ground\".",
+          "hardness": 0.862,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2022 MAKEMAKE, Packet 02"
+        },
+        {
+          "text": "\"Drinking Alone by Moonlight\" and \"Quiet Night Thought\" are by a poet from this country.",
+          "hardness": 0.526,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 1,
+          "source": "2022 MAKEMAKE, Packet 02"
+        },
+        {
+          "text": "Romance of the Three Kingdoms and Journey to the West are two of the Four Great Classics written in what country home to the poet Li Bai that was formerly ruled by the Ming Dynasty?",
+          "hardness": 0.13,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 1,
+          "source": "2020 ERIS, Packet 12"
+        },
+        {
+          "text": "The Monkey King, Sun Wukong (woo-kohng), appears in a novel from what country where Li Bai wrote during the Tang Dynasty?",
+          "hardness": -0.086,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 1,
+          "source": "2022 MAKEMAKE, Packet 02"
+        },
+        {
+          "text": "The Four Classics are novels from what large Asian country?",
+          "hardness": -0.132,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 2,
+          "source": "2019 SCOP Novice 10, Packet 02"
+        }
+      ]
+    },
+    "medium": {
+      "answerlines": [
+        "<b><u>China</u></b>",
+        "<b><u>China</u></b> [or People’s Republic of <b><u>China</u></b> or <b><u>PRC</u></b> or <b><u>Zhōngguó</u></b>; accept <b><u>Táng</u></b> dynasty]",
+        "<b><u>China</u></b> [or <b><u>Zhōngguó</u></b> or People’s Republic of <b><u>China</u></b> or <b><u>PRC</u></b> or <b><u>Zhōnghuá</u> <u>Rénmín</u></b> <b><u>Gònghéguó</u></b>; accept Tang <b><u>China</u></b> or <b><u>Tang</u></b> dynasty or <b><u>Tang</u></b> Empire] (The third line clues “Drinking Alone by Moonlight.”)",
+        "<b><u>China</u></b> (accept <b><u>Zhongguo</u></b>)",
+        "<b><u>China</u></b> [or <b><u>Zhongguo</u></b>]"
+      ],
+      "clues": [
+        {
+          "text": "An author from this country wrote about a childhood in the “Slaughterhouse Village” in his novel Pow!",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2015 BASK, Packet 03"
+        },
+        {
+          "text": "A poet from this modern-day country wrote “In a dismal storm an old tree is the best place to be” after his “thatched hut” was blown away by heavy winds.",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2024 SITH, Packet 10"
+        },
+        {
+          "text": "A novel from this country includes an agreement that ends, “may heaven and the people of the earth both strike us dead.”",
+          "hardness": 0.985,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2015 BASK, Packet 03"
+        },
+        {
+          "text": "In a novel from this country, “I” travels to the country after a false cancer diagnosis and meets “You,” who is looking for the title Soul Mountain.",
+          "hardness": 0.79,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2015 BASK, Packet 03"
+        },
+        {
+          "text": "The Good Earth is set in this country, as is another novel where Sandy and Pigsy accompany a monk on his pilgrimage.",
+          "hardness": 0.574,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2022 KICKOFF, Packet 12"
+        },
+        {
+          "text": "The speaker drinks “A cup of wine, under the flowering trees” and concludes that “the moon, alas, is no drinker of wine” in a poem from this country.",
+          "hardness": 0.55,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2023 SITH, Packet 12"
+        },
+        {
+          "text": "“Earthly Fiends” are described in a novel from this country about the 108 Heroes.",
+          "hardness": 0.388,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2023 CARD, Packet 11"
+        },
+        {
+          "text": "This country’s Four Great Classics include Water Margin and Journey to the West.",
+          "hardness": 0.377,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 3,
+          "source": "2022 KICKOFF, Packet 12"
+        },
+        {
+          "text": "Name this country, the home of the authors of Journey to the West and Romance of the Three Kingdoms.",
+          "hardness": -0.215,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2015 BASK, Packet 03"
+        },
+        {
+          "text": "“Quiet Night Thoughts” is by a poet from what home country of Dù Fǔ and Lǐ Bái?",
+          "hardness": -0.248,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 3,
+          "source": "2024 SITH, Packet 10"
+        }
+      ]
+    },
+    "hard": {
+      "answerlines": [
+        "<b><u>China</u></b> [or <b><u>Zhōngguó</u></b>; accept <b><u>Tang</u></b> dynasty or <b><u>Táng</u></b> cháo] (The first poem is “Jade Flower Palace” and the second is “Song of the Wagons,” both by Du Fu)",
+        "<b><u>China</u></b> [or <b><u>Zhongguo</u></b>; or <b><u>Zhonghua</u></b> Renmin Gongheguo; or the People's Republic of <b><u>China</u></b>]",
+        "<b><u>China</u></b> [or People's Republic of <b><u>China</u></b> or <b><u>PRC</u></b> or <b><u>Zhongguo</u></b>]",
+        "<b><u>China</u></b> [accept <b><u>Zhōngguó</u></b>]",
+        "<b><u>China</u></b>"
+      ],
+      "clues": [
+        {
+          "text": "One novel from this modern country centers on a \"ghost caught in Individualism's blind alley\", a peasant nicknamed \"Camel\" who moves to the capital to work.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2012 PACE NSC, Packet 3"
+        },
+        {
+          "text": "This country’s 20th-century history is retold in reverse chronology in a story from the recent collection Broken Stars.",
+          "hardness": 1.25,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2021 PACE NSC, Packet 06"
+        },
+        {
+          "text": "The speaker of a poem from this country laments “sons… buried amid the grass” in a poem whose title vehicles “rumble and roll.”",
+          "hardness": 1.15,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2019 HFT, Packet 07"
+        },
+        {
+          "text": "An author from this country wrote a novella whose title character tries to draw a perfect circle and declares things \"spiritual victories.\"",
+          "hardness": 0.967,
+          "inPower": true,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2022 PACE NSC, Packet 3"
+        },
+        {
+          "text": "\"White bones\" lying \"on the shores of the Kokonor\" are described in a poem from this country, also the origin of poem in which a \"westward voyager\" is asked \"when will you come back\" from a voyage whose difficulty is compared to \"climbing the sky.\"",
+          "hardness": 0.813,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2017 PACE NSC, Packet 04"
+        },
+        {
+          "text": "Found in the collection Call to Arms, the narrator of a story from this country wishes to “save the children” after thinking he’s in a town full of cannibals.",
+          "hardness": 0.545,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 4,
+          "source": "2025 VAULT, Packet 07"
+        },
+        {
+          "text": "The author of “A Madman’s Diary” and “The True Story of Ah Q” championed this country's New Culture Movement, while its only Nobel Laureate wrote the play Bus Stop and the novel Soul Mountain.",
+          "hardness": 0.466,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2010 PACE NSC, Packet 24 Tie Breaker III"
+        },
+        {
+          "text": "In 2015, an author born in this country won the Hugo Award for his novel The Three-Body Problem.",
+          "hardness": 0.337,
+          "inPower": false,
+          "giveaway": false,
+          "difficulty": 5,
+          "source": "2021 PACE NSC, Packet 06"
+        },
+        {
+          "text": "The True Story of Ah Q was written by Lu Xun (“shoon”), an author from what country?",
+          "hardness": -0.12,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 5,
+          "source": "2025 HISTONE, Packet 08"
+        },
+        {
+          "text": "Name this country where Flowers in the Mirror, Water Margin, and Journey to the West were written.",
+          "hardness": -0.227,
+          "inPower": false,
+          "giveaway": true,
+          "difficulty": 4,
+          "source": "2015 Maryland Fall, Packet 04"
+        }
+      ]
+    }
+  }
+}
